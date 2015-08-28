@@ -1,0 +1,18 @@
+---
+author: jonathan
+comments: true
+date: 2011-08-29 10:49:33+00:00
+layout: post
+slug: '405'
+title: status
+wordpress_id: 405
+categories:
+- news
+post_format:
+- Status
+---
+
+Host transfer is complete, and email is back up and running. The web-pages for [Art-125:Topics in Contemporary Art](/students/art125) are back on-line.
+
+
+

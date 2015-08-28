@@ -1,0 +1,21 @@
+---
+author: jonathan
+comments: true
+date: 2011-12-08 11:30:22+00:00
+layout: post
+slug: '388'
+title: status
+wordpress_id: 388
+categories:
+- news
+post_format:
+- Status
+tags:
+- drawing
+- t47
+---
+
+Per request, I have added the drawing instructions back to t47 sitelen sitelen. You can see them [here](jonathangabel.com/projects).
+
+
+

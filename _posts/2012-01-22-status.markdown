@@ -1,0 +1,18 @@
+---
+author: jonathan
+comments: true
+date: 2012-01-22 12:30:02+00:00
+layout: post
+slug: status
+title: status
+wordpress_id: 416
+categories:
+- news
+post_format:
+- Status
+---
+
+this site is now running under WordPress!
+
+
+

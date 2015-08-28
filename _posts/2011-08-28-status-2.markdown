@@ -1,0 +1,18 @@
+---
+author: jonathan
+comments: true
+date: 2011-08-28 18:43:16+00:00
+layout: post
+slug: status-2
+title: status
+wordpress_id: 408
+categories:
+- news
+post_format:
+- Status
+---
+
+Last academic year this site went off-line several times due to exceeded traffic. Before this happens again, I have transferred hosts, in order to increase the traffic available for this site. I am taking this time to update the website, and move to a more fluid design.
+
+
+

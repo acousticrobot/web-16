@@ -1,0 +1,20 @@
+---
+author: jonathan
+comments: true
+date: 2011-10-14 10:40:00+00:00
+layout: post
+slug: '394'
+title: status
+wordpress_id: 394
+categories:
+- news
+tags:
+- t47
+post_format:
+- Status
+---
+
+[T47 is back on line!](/projects/t47) It took more time than I hoped, but all the old content has been revamped, and a new gallery has been added. New lessons and more galleries coming next.
+
+
+

@@ -8,6 +8,7 @@ title: No Content Found
 wordpress_id: 950
 post_format:
 - Status
+permalink: date
 ---
 
 Just finished a big overhaul of the top pages of this site.  Expect new artworks posts under the new artworks (white circle) tab.

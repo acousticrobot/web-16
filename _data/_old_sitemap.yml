@@ -1,0 +1,692 @@
+- page: jonathangabel.com
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/archive
+  action: ignore
+  status: removed
+
+- page: jonathangabel.com/art125/abstract-expressionism
+  action: archive
+  status: archived
+
+- page: jonathangabel.com/art125/art125-status-midterm
+  action: archive
+  status: archived
+
+- page: jonathangabel.com/art125/earthworks
+  action: archive
+  status: archived
+
+- page: jonathangabel.com/art125/feminism
+  action: archive
+  status: archived
+
+- page: jonathangabel.com/art125/globalism-1-europe
+  action: archive
+  status: archived
+
+- page: jonathangabel.com/art125/globalism-2-contemporary-world-art
+  action: archive
+  status: archived
+
+- page: jonathangabel.com/art125/introduction
+  action: archive
+  status: archived
+
+- page: jonathangabel.com/art125/introduction-to-postmodernism
+  action: archive
+  status: archived
+
+- page: jonathangabel.com/art125/minimalism
+  action: archive
+  status: archived
+
+- page: jonathangabel.com/art125/photography
+  action: archive
+  status: archived
+
+- page: jonathangabel.com/art125/pop
+  action: archive
+  status: archived
+
+- page: jonathangabel.com/art125/race-and-identity
+  action: archive
+  status: archived
+
+- page: jonathangabel.com/art125/status-art-125-homework
+  action: archive
+  status: archived
+
+- page: jonathangabel.com/art125/welcome
+  action: archive
+  status: archived
+
+- page: jonathangabel.com/arts/link-status-cowbells
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/arts/status-japanese-fart-scroll
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/artworks
+  action: index
+  status: pending
+
+- page: jonathangabel.com/artworks/balloon-boy-interview
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/artworks/jan-ante-intenasijonale
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/artworks/jan-telepi-jan-jaki
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/artworks/laughton-mccry-gilgamesh-page-one
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/artworks/lipu-lawa-pi-esun-kama
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/artworks/rectifier
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/category/art125
+  action: archive
+  status: archived
+
+- page: jonathangabel.com/category/arts
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/category/main-site-news
+  action: ignore
+  status: removed
+
+- page: jonathangabel.com/category/t29-2
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/category/t47
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/contact
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/design
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/design/92nd-street-y-summer-camps
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/design/independent-doctors-of-new-york
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/design/intercon-production
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/design/lawton-mull
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/design/proposition-homepage-animation
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/design/psychiatry-neurology
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/design/the-proposition-artists-pages
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/design/yunkaigo
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/dimensions/11-x-14
+  action: automate
+  status: pending
+
+- page: jonathangabel.com/dimensions/60-x-144-x-72
+  action: automate
+  status: pending
+
+- page: jonathangabel.com/dimensions/8-5-x-11
+  action: automate
+  status: pending
+
+- page: jonathangabel.com/images/t47/t47.100101_l.jpg
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/learn
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/learn/art125
+  action: archive
+  status: archived
+
+- page: jonathangabel.com/learn/art125/syllabus
+  action: archive
+  status: archived
+
+- page: jonathangabel.com/learn/art125/unit-1
+  action: archive
+  status: archived
+
+- page: jonathangabel.com/learn/art125/unit-10
+  action: archive
+  status: archived
+
+- page: jonathangabel.com/learn/art125/unit-11
+  action: archive
+  status: archived
+
+- page: jonathangabel.com/learn/art125/unit-2
+  action: archive
+  status: archived
+
+- page: jonathangabel.com/learn/art125/unit-3
+  action: archive
+  status: archived
+
+- page: jonathangabel.com/learn/art125/unit-4
+  action: archive
+  status: archived
+
+- page: jonathangabel.com/learn/art125/unit-5
+  action: archive
+  status: archived
+
+- page: jonathangabel.com/learn/art125/unit-6
+  action: archive
+  status: archived
+
+- page: jonathangabel.com/learn/art125/unit-7
+  action: archive
+  status: archived
+
+- page: jonathangabel.com/learn/art125/unit-8
+  action: archive
+  status: archived
+
+- page: jonathangabel.com/learn/art125/unit-9
+  action: archive
+  status: archived
+
+- page: jonathangabel.com/learn/art125/welcome
+  action: archive
+  status: archived
+
+- page: jonathangabel.com/learn/t47
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/learn/t47/dictionaries
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/learn/t47/dictionaries/drawing_steps
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/learn/t47/dictionaries/glyphs
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/learn/t47/dictionaries/syllabary
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/learn/t47/gallery
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/learn/t47/lesson-1
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/learn/t47/lesson-2
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/learn/t47/lesson-3
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/learn/t47/lesson-4
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/learn/t47/lesson-4b
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/learn/t47/lesson-5
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/learn/t47/lesson-6
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/learn/t47/lesson-7
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/learn/t47/lesson-8
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/learn/t47/lesson-9
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/learn/t47/links
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/links
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/main-site-news/1189
+  action: ignore
+  status: removed
+
+- page: jonathangabel.com/main-site-news/388
+  action: ignore
+  status: removed
+
+- page: jonathangabel.com/main-site-news/391
+  action: ignore
+  status: removed
+
+- page: jonathangabel.com/main-site-news/394
+  action: ignore
+  status: removed
+
+- page: jonathangabel.com/main-site-news/399
+  action: ignore
+  status: removed
+
+- page: jonathangabel.com/main-site-news/401
+  action: ignore
+  status: removed
+
+- page: jonathangabel.com/main-site-news/403
+  action: ignore
+  status: removed
+
+- page: jonathangabel.com/main-site-news/405
+  action: ignore
+  status: removed
+
+- page: jonathangabel.com/main-site-news/new-site-launching
+  action: ignore
+  status: removed
+
+- page: jonathangabel.com/main-site-news/status
+  action: ignore
+  status: removed
+
+- page: jonathangabel.com/main-site-news/status-2
+  action: ignore
+  status: removed
+
+- page: jonathangabel.com/media/digital
+  action: automate
+  status: pending
+
+- page: jonathangabel.com/media/electronic-equipment
+  action: automate
+  status: pending
+
+- page: jonathangabel.com/media/ink-on-paper
+  action: automate
+  status: pending
+
+- page: jonathangabel.com/media/organic-plants
+  action: automate
+  status: pending
+
+- page: jonathangabel.com/media/paper-pulp
+  action: automate
+  status: pending
+
+- page: jonathangabel.com/media/pencil-on-paper
+  action: automate
+  status: pending
+
+- page: jonathangabel.com/media/plastic-bins
+  action: automate
+  status: pending
+
+- page: jonathangabel.com/media/pumps
+  action: automate
+  status: pending
+
+- page: jonathangabel.com/media/synthetic-plants
+  action: automate
+  status: pending
+
+- page: jonathangabel.com/media/video
+  action: automate
+  status: pending
+
+- page: jonathangabel.com/media/water
+  action: automate
+  status: pending
+
+- page: jonathangabel.com/projects
+  action: index
+  status: pending
+
+- page: jonathangabel.com/projects/t29
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/projects/t47
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/projects/t47/dictionaries
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/projects/t47/dictionaries/glyphs
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/projects/t47/lesson-9
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/projects/t47/lessons/lesson-8
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/projects/t47/t47_kalama_lili_ali.html
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/recent
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/students/art125
+  action: archive
+  status: archived
+
+- page: jonathangabel.com/students/art125/homework
+  action: archive
+  status: archived
+
+- page: jonathangabel.com/t47/human-sequel
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/t47/t47-status
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/tag/abstract-expressionism
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/tag/abstraction
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/tag/anarchist
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/tag/black-mountain
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/tag/clement-greenberg
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/tag/color-field
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/tag/communist
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/tag/contemporary-art
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/tag/drawing
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/tag/dynamic
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/tag/earth-art
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/tag/environment
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/tag/expressionism
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/tag/fan-art
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/tag/feminism
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/tag/formalism
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/tag/galleries
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/tag/gilgamesh
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/tag/human
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/tag/japanese
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/tag/jazz
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/tag/language
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/tag/mayan
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/tag/metaphysical
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/tag/minimalism
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/tag/monumental
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/tag/news
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/tag/organic
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/tag/ouroboros
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/tag/painting
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/tag/photography
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/tag/pop
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/tag/process
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/tag/prosper
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/tag/push-pull
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/tag/sartre
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/tag/scrolls
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/tag/sculpture
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/tag/sequel
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/tag/sitelen
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/tag/soak-and-stain
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/tag/socialist
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/tag/sublime
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/tag/tanscendental
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/tag/toki-pona
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/tag/topics
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/tag/update
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/tag/venus-of-hohle-fels
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/tag/wordpress
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/tag/zero-point
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/tag/zip
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/uncategorized/resources-for-term-paper
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/using-html-in-comments
+  action: transfer
+  status: pending
+
+- page: jonathangabel.com/year_made/2005
+  action: automate
+  status: pending
+
+- page: jonathangabel.com/year_made/2009
+  action: automate
+  status: pending
+
+- page: jonathangabel.com/year_made/2011
+  action: automate
+  status: pending
+
+- page: jonathangabel.com/year_made/2012
+  action: automate
+  status: pending
+
+- page: jonathangabel.comarchive
+  action: ignore
+  status: removed
+
+- page: jonathangabel.comhttps://github.com/josankapo/flypaper
+  action: transfer
+  status: pending
+
+- page: jonathangabel.comt47_lesson_02.html
+  action: transfer
+  status: pending
+
+- page: mailto:writeme@jonathangabel.com
+  action: transfer
+  status: pending
+

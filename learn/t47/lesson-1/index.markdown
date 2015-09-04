@@ -6,6 +6,10 @@ layout: page
 slug: lesson-1
 title: 'Lesson 1: Welcome'
 wordpress_id: 104
+tags: 
+- t47
+categories:
+- t47
 ---
 
 ### toki pona

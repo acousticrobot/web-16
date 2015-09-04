@@ -1,10 +1,18 @@
 ---
+title: README
 ---
-# Jekyll notes
+## Roadmap
 
-## Liquid
+  * create a sitemap from the old site, and list status of each page in the transfer process
+  * build the site css
 
-### Creating classes
+## Jekyll notes
+
+Notes for building the site
+
+### Liquid
+
+#### Creating classes
 
     {: .special}
     ![a](/images/t47_tokipona/t47_nimi/t47_nimi_a.jpg)

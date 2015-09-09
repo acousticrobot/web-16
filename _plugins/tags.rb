@@ -21,6 +21,8 @@ module Jekyll
       # Already given by Jekyll: the list of posts for each tag
       all_tags = site.post_attr_hash('tags')
 
+      #require 'pry'; binding.pry
+
       # Trick: loop over the pages in reverse order because they are prepend to the hash
       # => end up with the original order
       site.pages.reverse.each do |page|

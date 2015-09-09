@@ -4,7 +4,7 @@ module Jekyll
   class AboutGenerator < Generator
 
     def generate(site)
-      about_page = site.pages.detect { |page| page.name == 'about.md' }
+      about_page = site.pages.detect { |page| page.name == 'about.html' }
       about_page.data.merge! generate_stats(site)
     end
 

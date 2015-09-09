@@ -1,0 +1,29 @@
+---
+layout: default
+title: About
+permalink: /about/
+---
+
+<header>
+  <h1 class="post-title">{{ page.title }}</h1>
+</header>
+
+<article>
+<p>This is the website of Jonathan Gabel.</p>
+<p>This version was initialized on August 25, 2015, and replaces a WordPress site that ran from Jun 11, 2012 until ________.</p>
+<p>The current site is built using [Jekyll](http://jekyllrb.com/) and it committed on [Github](https://github.com/josankapo)</p>
+<p>You can contact me directly at: hello [at] jonathangabel [dot] com</p>
+</article>
+
+<pre><code>
+{% highlight ruby %}
+  posts: {{ page.posts_count }}
+  pages: {{ page.pages_count }}
+  from site data:
+  {% for d in site.data %}
+  datum:  {{d}}
+  {% endfor %}
+{% endhighlight %}
+</code></pre>
+
+

@@ -11,10 +11,7 @@ categories:
 media:
 - digital
 tags:
-- anarchist
-- communist
-- sitelen
-- socialist
+- politics
 - toki pona
 year_made:
 - '2011'

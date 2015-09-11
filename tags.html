@@ -1,13 +1,15 @@
 ---
 layout: default
+permalink: /tags/
+title: tags
 ---
 
 
-<div class="page-heading">Tags</div>
+<div class="content--title">Tags</div>
 
   {% for tag in site.data.all_tags %}
 
-    <h2>{{ tag[0] }}</h2>
+    <h2 id="tag-{{tag[0]}}">{{ tag[0] }}</h2>
 
     <ul>
       {% for page in tag[1] %}

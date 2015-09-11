@@ -1,0 +1,105 @@
+/**
+ * Code formatting
+ */
+
+pre {
+    font-size: $small-font-size;
+    background-color: $color-grey-1;
+}
+
+code {
+    padding: 1px 5px;
+}
+
+pre {
+    padding: 8px 12px;
+    overflow-x: scroll;
+
+    > code {
+        border: 0;
+        padding-right: 0;
+        padding-left: 0;
+    }
+}
+
+/**
+ * Syntax highlighting styles
+ */
+
+.highlight {
+    color: $color-brown-D;
+    @extend %vertical-rhythm;
+
+    .bp { color: $color-green-A; } // Name.Builtin.Pseudo
+
+    .c  { color: $color-gris-9; font-style: italic; } // Comment
+    .c1 { color: $color-gris-9; font-style: italic; } // Comment.Single
+    .cm { color: $color-gris-9; font-style: italic; } // Comment.Multiline
+    .cp { color: $color-gris-9; font-style: italic; } // Comment.Preproc
+    .cs { color: $color-gris-9; font-style: italic; } // Comment.Special
+
+    .err   { color: $color-red-3; background-color: $color-red-E3 }  /// Error
+    .gd    { color: $color-white-D; background-color: #fdd }  /// Generic.Deleted
+    .gd .x { color: $color-white-D; background-color: #faa }  /// Generic.Deleted.Specific
+    .ge { font-style: italic; } // Generic.Emph
+    .gh    { color: $color-grey-9 }  /// Generic.Heading
+    .gi    { color: $color-white-D; background-color: #dfd }  /// Generic.Inserted
+    .gi .x { color: $color-white-D; background-color: #afa }  /// Generic.Inserted.Specific
+    .go    { color: $color-grey-8 }  /// Generic.Output
+    .gp    { color: $color-grey-5 }  /// Generic.Prompt
+    .gr    { color: $color-red-AA }  /// Generic.Error
+    .gs    { font-weight: bold }  // Generic.Strong
+    .gt    { color: $color-red-AA }  /// Generic.Traceback
+    .gu    { color: $color-grey-A }  /// Generic.Subheading
+    .il    { color: $color-blue-7 }  /// Literal.Number.Integer.Long
+
+    .k  { color: $color-blue-B; } // Keyword
+    .kc { color: $color-brown-9; } // Keyword.Constant
+    .kd { color: $color-brown-F; } // Keyword.Declaration
+    .kn { color: $color-blue-B; }
+    .kp { color: $color-brown-9; font-weight: bold }  // Keyword.Pseudo
+    .kr { color: $color-brown-9; font-weight: bold }  // Keyword.Reserved
+    .kt { color: $color-red-F } // Keyword.Type
+
+    .m  { color: $color-blue-7 } // Literal.Number
+    .mf { color: $color-blue-7 } // Literal.Number.Float
+    .mh { color: $color-blue-7 }  // Literal.Number.Hex
+    .mi { color: $color-blue-7 } // Literal.Number.Integer
+    .mo { color: $color-blue-7 }  // Literal.Number.Oct
+
+    .n  { color: $color-grey-9; }
+    .na { color: $color-green-9; } // Name.Attribute
+    .nb { color: $color-grey-8 }  // Name.Builtin
+
+    .nc { color: $color-blue-D; } // Name.Class
+    .ne    { color: $color-red-1; font-weight: bold }  /// Name.Exception
+    .nf { color: $color-brown-C }/// Name.Function
+    .nl { color: $color-red-F; } // Name.Entity
+    .nn { color: $color-red-9; } // Name.Namespace
+    .no { color: $color-blue-7; } // Name.Constant
+    .nt { color: $color-blue-B; } // Name.Tag
+    .nv { color: $color-red-8; } // Name.Variable
+    .nx { color: $color-red-F; }
+    .o  { color: $color-blue-B; } // Operator
+    .ow { color: $color-blue-B; } // Operator.Word
+    .p { color: $color-red-F; }
+    .s { color: $color-green-9; } // Literal.String
+    .s1 { color: $color-green-9; } // Literal.String.Single
+    .s2 { color: $color-green-9; } // Literal.String.Double
+    .sb { color: $color-green-9; } // Literal.String.Backtick
+    .sc { color: $color-green-9; } // Literal.String.Char
+    .sd { color: $color-green-9; } // Literal.String.Doc
+    .se { color: $color-brown-9; } // Literal.String.Escape
+    .sh    { color: $color-red-DD }  /// Literal.String.Heredoc
+    .si    { color: $color-red-DD }  /// Literal.String.Interpol
+    .sr { color: $color-green-E; } // Literal.String.Regex
+    .ss    { color: $color-brown-A }  /// Literal.String.Symbol
+    .sx    { color: $color-red-DD }  /// Literal.String.Other
+    .vc    { color: $color-blue-6 }  /// Name.Variable.Class
+    .vc { color: $color-green-A; }
+    .vg    { color: $color-blue-6 }  /// Name.Variable.Global
+    .vg { color: $color-green-A; }
+    .vi    { color: $color-blue-6 }  /// Name.Variable.Instance
+    .vi { color: $color-green-A; }
+    .w     { color: $color-grey-B }  /// Text.Whitespace
+}

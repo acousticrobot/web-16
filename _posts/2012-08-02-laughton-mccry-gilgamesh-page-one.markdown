@@ -11,12 +11,9 @@ categories:
 media:
 - ink on paper
 tags:
-- fan art
-- Gilgamesh
-- human
 - mayan
+- human
 - sequel
-- sitelen
 - toki pona
 year_made:
 - '2012'
@@ -46,13 +43,10 @@ I can't say how excited I was when I got a link to this image in an email. Not o
 
 
 
-<blockquote>
+
   
-> 
 > ma tomo Uluku li lon. sinpin pi ma tomo Uluku li sewi li suli. sinpin ni li kiwen. tomo Enana li tomo pi jan sewi meli Inana. sinpin pi tomo Enana li kiwen. sinpin ni li walo sama suno. o tawa tomo pi jan sewi Inana! o lukin! jan ante li pali ala e tomo sama. jan lawa ante li pali ala e tomo sama. jan seme li kama pali e ijo ali ni? jan Kikamesi li jan lawa pi ma tomo Uluku.
-> 
-> 
-</blockquote>
+
 
 
 

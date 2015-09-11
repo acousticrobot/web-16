@@ -8,8 +8,6 @@ dl, dd, ol, ul, figure {
     padding: 0;
 }
 
-
-
 /**
  * Basic styling
  */
@@ -18,12 +16,10 @@ body {
     font-size: $base-font-size;
     line-height: $base-line-height;
     font-weight: 300;
-    color: $text-color;
-    background-color: $background-color;
+    color: $color-text;
+    background-color: $color-background-gutter;
     -webkit-text-size-adjust: 100%;
 }
-
-
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm
@@ -32,10 +28,8 @@ h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
-    margin-bottom: $spacing-unit / 2;
+    margin-bottom: $spacing-unit-bottom;
 }
-
-
 
 /**
  * Images
@@ -44,8 +38,6 @@ img {
     max-width: 100%;
     vertical-align: middle;
 }
-
-
 
 /**
  * Figures
@@ -57,8 +49,6 @@ figure > img {
 figcaption {
     font-size: $small-font-size;
 }
-
-
 
 /**
  * Lists
@@ -74,8 +64,6 @@ li {
     }
 }
 
-
-
 /**
  * Headings
  */
@@ -83,21 +71,52 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 300;
 }
 
+h1 {
+    font-size: 2rem;
 
+    @include media-query($on-laptop) {
+        font-size: 1.75rem;
+    }
+}
+
+
+h2 {
+    font-size: 2rem;
+
+    @include media-query($on-laptop) {
+        font-size: 1.75rem;
+    }
+}
+
+h3 {
+    font-size: 1.75rem;
+
+    @include media-query($on-laptop) {
+        font-size: 1.25rem;
+    }
+}
+
+h4 {
+    font-size: 1.25rem;
+
+    @include media-query($on-laptop) {
+        font-size: 1.125rem;
+    }
+}
 
 /**
  * Links
  */
 a {
-    color: $color-accent;
+    color: $color-action;
     text-decoration: none;
 
     &:visited {
-        color: darken($color-accent, 15%);
+        color: $color-action-complete;
     }
 
     &:hover {
-        color: $text-color;
+        color: darken($color-action, 15%);
         text-decoration: underline;
     }
 }
@@ -108,8 +127,8 @@ a {
  * Blockquotes
  */
 blockquote {
-    color: $color-grey-3;
-    border-left: 4px solid $color-grey-2;
+    color: $color-grey-8;
+    border-left: 4px solid $color-grey-E;
     padding-left: $spacing-unit / 2;
     font-size: 18px;
     letter-spacing: -1px;
@@ -119,57 +138,6 @@ blockquote {
         margin-bottom: 0;
     }
 }
-
-
-
-/**
- * Code formatting
- */
-pre,
-code {
-    font-size: $small-font-size;
-    border: 1px solid $color-grey-2;
-    border-radius: 3px;
-    background-color: #eef;
-}
-
-code {
-    padding: 1px 5px;
-}
-
-pre {
-    padding: 8px 12px;
-    overflow-x: scroll;
-
-    > code {
-        border: 0;
-        padding-right: 0;
-        padding-left: 0;
-    }
-}
-
-
-
-/**
- * Wrapper
- */
-.wrapper {
-    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
-    max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
-    margin-right: auto;
-    margin-left: auto;
-    padding-right: $spacing-unit;
-    padding-left: $spacing-unit;
-    @extend %clearfix;
-
-    @include media-query($on-laptop) {
-        max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
-        max-width:         calc(#{$content-width} - (#{$spacing-unit}));
-        padding-right: $spacing-unit / 2;
-        padding-left: $spacing-unit / 2;
-    }
-}
-
 
 
 /**
@@ -198,7 +166,7 @@ pre {
         vertical-align: middle;
 
         path {
-            fill: $color-grey-3;
+            fill: $color-grey-8;
         }
     }
 }

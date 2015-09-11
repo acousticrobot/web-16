@@ -1,6 +1,7 @@
 # Site settings
 title: Jonathan Gabel
-email: "hello[@]jonathangabel.com"
+email: "hello-@-jonathangabel.com"
+safe-email: "hello @ jonathangabel.com"
 description: > # this means to ignore newlines until "baseurl:"
   The website of Jonathan Gabel. Lists of projects, musings,
   and catalogues of arcane thoughts.
@@ -11,7 +12,15 @@ github_username:  josankapo
 
 # Build settings
 markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
 # available on local network
 host: 0.0.0.0
 
-permalink: /blog/:year/:title/
+permalink: /:year/:title/
+
+sass:
+  sass_dir: css

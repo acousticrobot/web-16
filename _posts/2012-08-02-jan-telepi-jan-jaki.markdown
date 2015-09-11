@@ -11,11 +11,6 @@ categories:
 media:
 - pencil on paper
 tags:
-- fan art
-- human
-- ouroboros
-- sequel
-- sitelen
 - toki pona
 year_made:
 - '2012'

@@ -1,14 +1,14 @@
 <footer class="site-footer">
 
-  <div class="wrapper">
+  <div class="wrapper--footer">
 
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
     <div class="footer-col-wrapper">
       <div class="footer-col  footer-col-1">
         <ul class="contact-list">
           <li>{{ site.title }}</li>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          <li class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></li>
+          <li><a href="mailto:{{ site.email }}?subject=change the email address to hello@jo...!">{{ site.safe-email }}</a></li>
         </ul>
       </div>
 
@@ -46,7 +46,7 @@
       </div>
 
       <div class="footer-col  footer-col-3">
-        <p class="text">{{ site.description }}</p>
+        <p class="text">{{ site.description }} &copy; {{2015}}</p>
       </div>
     </div>
 

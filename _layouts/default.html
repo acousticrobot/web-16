@@ -3,13 +3,32 @@
 
   {% include head.html %}
 
-  <body>
-    <div class="wrapper">
+  <body {% if page.style != nil %}class="theme-{{page.style}}"{% endif %}>
+    <section class="wrapper--page {{page.style}}">
+
       {% include header.html %}
 
+      <div class="wrapper--content {{page.style}}">
       {{ content }}
+      </div>
+
+      {% if page.tags %}
+      <footer class="footer--tag-list">
+          <span>See more on:</span>
+
+          <ul>
+            {% for tag in page.tags %}
+            {% capture tag_url %}/tags/#tag-{{tag}}{% endcapture %}
+            <li>
+              <a href="{{ tag_url | prepend: site.baseurl}}">{{tag}}</a>
+            </li>
+            {% endfor %}
+          </ul>
+      </footer>
+      {% endif %}
 
       {% include footer.html %}
-    </div>
+
+    </section>
   </body>
 </html>

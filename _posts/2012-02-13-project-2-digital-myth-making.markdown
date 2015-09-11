@@ -82,6 +82,5 @@ French intellectual Roland Barthes wrote a book called _Mythologies_, where he d
 In _The Jet Man_ he describes the Myth of the Astronaut and how this goes beyond the Myth of the fighter-pilot:
 
 > The pilot-hero was made unique by a whole mythology of speed as an experience, of space devoured, of intoxicating motion; the _jet-man_, on the other hand, is defined by a coenaesthesis [sensation as a whole] of motionlessness (_'at 2,000 km per hour, in level flight, no impression of speed at all'_), as if the extravagance of his vocation precisely consisted in _overtaking_ motion, in going faster than speed.  Mythology abandons here a whole imagery of exterior friction and enters pure coenaesthesis: motion is no longer the optical perception of points and surfaces; it has become a kind of vertical disorder, made of contractions, black-outs, terrors and faints; it is no longer a gliding but an inner devastation, and unnatural perturbation, a motionless crisis of bodily consciousness...[The jet-man] no longer seems to know adventure or destiny, but only a condition.
-> 
 
 If this seems a little hard to grasp, or if you'd like to see just how abstractly this myth can be depicted, take another look at the _Star Gate_ sequence of [2001: A Space Odyssey](http://www.youtube.com/results?search_query=space+odyessey+stargate)

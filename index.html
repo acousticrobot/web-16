@@ -1,0 +1,33 @@
+---
+layout: default
+title: index
+---
+
+<div class="home">
+  <div class="content--title">Posts</div>
+
+  <ul>
+    {% for post in site.posts %}
+      <li>
+        <span>{{ post.date | date : "%b %-d, %Y" }}</span>
+        <span><a href="{{ post.url | prepend : side.baseurl }}">{{ post.title }}</a></span>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <ul>
+    {% for page in site.pages %}
+      <li>
+        <span>
+          <a href="{{ page.url | prepend : site.baseurl }}">
+            {% if page.title == nil %}
+                {{ page.url }}
+              {% else %}
+                {{ page.title }}
+            {% endif %}
+          </a>
+        </span>
+      </li>
+    {% endfor %}
+  </ul>
+</div>

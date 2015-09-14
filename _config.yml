@@ -20,7 +20,7 @@ kramdown:
 # available on local network
 host: 0.0.0.0
 
-permalink: /:year/:title/
+permalink: /:title/
 
 sass:
   sass_dir: css

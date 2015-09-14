@@ -1,11 +1,8 @@
 ---
-author: jonathan
-comments: true
 date: 2012-07-24 14:32:30+00:00
-layout: page
-slug: proposition-homepage-animation
 title: Proposition, Homepage Animation
-wordpress_id: 1008
+site_url: http://www.theproposition.com/
+thumb: prop_thumb.gif
 ---
 
 #### Javascript slideshow animation - "peal reveal"

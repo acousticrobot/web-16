@@ -1,0 +1,18 @@
+---
+layout: default
+title: cv
+permalink: /cv/
+---
+
+{% for cv in site.cv %}
+  <article class="cv-article">
+    <a href="{{ cv.site_url }}" class="cv-title">
+      <img src="/images/cv/{{ cv.thumb}}" alt="site thumnail">
+    </a>
+
+    <h2><a href="{{ cv.site_url }}" class="cv-title"> {{cv.title}} </a></h2>
+
+    {{cv.content}}
+
+  </article>
+{% endfor %}

@@ -24,3 +24,9 @@ permalink: /:year/:title/
 
 sass:
   sass_dir: css
+
+collections:
+  cv:
+    output: false
+  links:
+    output: false

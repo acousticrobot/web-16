@@ -1,9 +1,10 @@
 ---
 layout: default
-title: index
+title: homepage
 ---
 
 <div class="home">
+  <div>note: update pages on sitemap, turn this into a real homepage</div>
   <div class="content--title">Posts</div>
 
   <ul>
@@ -17,6 +18,7 @@ title: index
 
   <ul>
     {% for page in site.pages %}
+    {% if page.index != false %}
       <li>
         <span>
           <a href="{{ page.url | prepend : site.baseurl }}">
@@ -28,6 +30,7 @@ title: index
           </a>
         </span>
       </li>
+    {% endif %}
     {% endfor %}
   </ul>
 </div>

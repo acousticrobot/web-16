@@ -1,0 +1,259 @@
+/*
+Theme Name: Web12/home
+Theme URI: http://jonathangabel.com
+Description: 2012 theme for jonathangabel.com
+Author: Jonathan Gabel
+Author URI: http://jonathangabel.com
+Version: v1.1
+Tags: jonathan gabel, home, slides
+notes: home-page only elements. Home page also loads mainset.css
+*/
+nav#mainSideNav ul {
+  margin: 0; }
+nav#mainSideNav ul li a {
+  width: 79px; }
+nav#mainSideNav nav#mainSideNav {
+  margin-left: 0; }
+
+/*
+ * CSS Styles that are needed by jScrollPane for it to operate correctly.
+ *
+ * Include this stylesheet in your site or copy and paste the styles below into your stylesheet - jScrollPane
+ * may not operate correctly without them.
+ */
+.jspContainer {
+  overflow: hidden;
+  position: relative; }
+
+.jspPane {
+  position: absolute; }
+
+.jspVerticalBar {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 10px;
+  height: 100%;
+  background: red; }
+
+.jspHorizontalBar {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 16px;
+  background: red; }
+
+.jspVerticalBar *,
+.jspHorizontalBar * {
+  margin: 0;
+  padding: 0; }
+
+.jspCap {
+  display: none; }
+
+.jspHorizontalBar .jspCap {
+  float: left; }
+
+.jspTrack {
+  background: #0d1927;
+  position: relative; }
+
+.jspDrag {
+  background: #4383bf;
+  position: relative;
+  top: 0;
+  left: 0;
+  cursor: pointer;
+  border-radius: 10px; }
+
+.jspHorizontalBar .jspTrack,
+.jspHorizontalBar .jspDrag {
+  float: left;
+  height: 100%; }
+
+.jspArrow {
+  background: #50506d;
+  text-indent: -20000px;
+  display: block;
+  cursor: pointer; }
+
+.jspArrow.jspDisabled {
+  cursor: default;
+  background: #80808d; }
+
+.jspVerticalBar .jspArrow {
+  height: 16px; }
+
+.jspHorizontalBar .jspArrow {
+  width: 16px;
+  float: left;
+  height: 100%; }
+
+.jspVerticalBar .jspArrow:focus {
+  outline: none; }
+
+.jspCorner {
+  background: #eeeef4;
+  float: left;
+  height: 100%; }
+
+/* Yuk! CSS Hack for IE6 3 pixel bug :( */
+* html .jspCorner {
+  margin: 0 -3px 0 0; }
+
+/* -------------------------	BODY & MAIN STYLES		------------------------- */
+#contentWrap h2 {
+  padding-top: 0;
+  padding-left: 0; }
+#contentWrap h2.home-invisible-title {
+  color: #162a3f; }
+#contentWrap h3 {
+  font-size: 1.125em;
+  text-transform: capitalize; }
+#contentWrap h4, #contentWrap h5 {
+  font-size: 1em;
+  padding: 0; }
+#contentWrap p {
+  color: #847f77;
+  font-size: .875em;
+  /* 14px */
+  line-height: 1em;
+  padding: 0; }
+#contentWrap ul, #contentWrap ol, #contentWrap li {
+  padding: 0; }
+
+/* -------------------------		CAROUSEL			------------------------- */
+#leftArrow {
+  background-image: url(../images/nav/carousel/homeNav.png);
+  background-position: -201px 0;
+  width: 18px;
+  height: 144px;
+  float: left;
+  margin-left: -6px; }
+  #leftArrow:hover {
+    background-position: -301px 0; }
+
+#rightArrow {
+  background-image: url(../images/nav/carousel/homeNav.png);
+  background-position: -201px -200px;
+  width: 18px;
+  height: 144px;
+  float: left; }
+  #rightArrow:hover {
+    background-position: -301px -200px; }
+
+#cabinet {
+  width: 715px;
+  /* total from: (3*233px + 2*8px) */
+  height: 144px;
+  overflow: hidden;
+  float: left;
+  position: relative; }
+  #cabinet article {
+    position: relative; }
+  #cabinet .rip {
+    position: absolute;
+    background-image: url(../images/nav/rip-carousel.png);
+    background-repeat: repeat-x;
+    background-position: bottom left;
+    width: 800px;
+    height: 16px;
+    bottom: 0px;
+    left: 2px;
+    z-index: 10; }
+
+#carousel {
+  width: 1200px;
+  margin-left: -241px; }
+  #carousel .slide {
+    float: left;
+    width: 241px;
+    /* 233px + 8px right margin */
+    height: 144px; }
+    #carousel .slide article {
+      background-image: url(../images/nav/slide-main.png);
+      width: 238;
+      height: 144px; }
+      #carousel .slide article h2 {
+        padding: 10px 8px 6px 8px;
+        color: #0d1927; }
+      #carousel .slide article h3 {
+        font-family: 'CicleGordita';
+        padding: 0px 8px 2px 8px; }
+      #carousel .slide article h4 {
+        color: #0d1927;
+        padding-left: 8px; }
+      #carousel .slide article p {
+        padding: 0 13px 0 8px;
+        line-height: 15px;
+        color: #162a3f; }
+    #carousel .slide article.artworks {
+      background-image: url(../images/nav/slide-artworks.png); }
+    #carousel .slide article.art125 {
+      background-image: url(../images/nav/slide-art125.png); }
+    #carousel .slide article.dma {
+      background-image: url(../images/nav/slide-dma.png); }
+    #carousel .slide article.fly, #carousel .slide article.flypaper {
+      background-image: url(../images/nav/slide-fly.png); }
+    #carousel .slide article.t47 {
+      background-image: url(../images/nav/slide-t47.png); }
+  #carousel .slideHover article {
+    background-position: 0 -200px; }
+    #carousel .slideHover article a {
+      color: #ffb444; }
+
+/* -------------------------		BELOW CAROUSEL			------------------------- */
+section {
+  clear: both;
+  padding: 21px; }
+
+#pictureblock {
+  width: 610px;
+  height: 377px;
+  background-color: #0d1927; }
+
+/* -------------------------		SCROLL PANE			------------------------- */
+aside {
+  float: right;
+  width: 168px; }
+
+aside h2 {
+  text-align: center;
+  padding-left: 0; }
+
+#news {
+  background-image: url(../images/nav/carousel/homeNav.png);
+  background-position: 0 -198px;
+  background-repeat: no-repeat;
+  display: block;
+  color: #4383bf;
+  background-color: #2a5176; }
+
+#news:hover {
+  background-position: 0 -298px;
+  background-color: #59aeff;
+  color: #0d1927; }
+
+.scroll-pane {
+  height: 350px;
+  overflow: scroll; }
+
+aside article {
+  background-color: #fffff0;
+  padding: 5px 8px 8px 13px;
+  border-bottom: 1px solid #999; }
+
+article.status {
+  background-color: #fffff0;
+  width: auto;
+  height: auto;
+  margin: 0;
+  padding: 5px;
+  border-radius: 0; }
+
+.status-date, .status-category {
+  padding: 0 0 0 5px; }
+
+.status .status-content p {
+  clear: both; }

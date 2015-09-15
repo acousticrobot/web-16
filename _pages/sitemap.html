@@ -22,7 +22,7 @@ title: site map
   <header>Pages:</header>
 
   <ul>
-    {% for page in site.pages %}
+    {% for page in site.pages %}{% if page.index != false %}
     <li>
       <span><a href="{{ page.url | prepend: site.baseurl}}">
         {% if page.title == nil %}
@@ -32,7 +32,7 @@ title: site map
         {% endif %}
       </a></span>
     </li>
-    {% endfor %}
+    {% endif %}{% endfor %}
   </ul>
 
 </section>

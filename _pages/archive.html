@@ -1,0 +1,34 @@
+---
+title: Web 12 Archive
+permalink: /web-12-archive/
+layout: default
+---
+
+<section>
+  <header>Old Site Pages:</header>
+
+  <table>
+    <tr>
+      <th>page</th>
+      <th>action</th>
+      <th>status</th>
+      <th>archived</th>
+    </tr>
+
+    {% for page in site.data.old_sitemap %}
+    {% if page.action != "ignore" %}
+    <tr class={{ page.status }}>
+      {% if page.archived != "ignore" %}
+        <td><a href="{{ page.redirect }}">{{ page.page }}</a></td>
+      {% else %}
+        <td>{{ page.page }}</td>
+      {% endif %}
+      <td>{{ page.action }}</td>
+      <td>{{ page.status }}</td>
+      <td>{{ page.archived }}</td>
+    </tr>
+    {% endif %}
+    {% endfor %}
+
+  </table>
+</section>

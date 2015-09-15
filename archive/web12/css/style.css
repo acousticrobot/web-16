@@ -1,0 +1,19 @@
+/*
+Theme Name: Web12
+Theme URI: hhttp://jonathangabel.com
+Description: 2012 theme for jonathangabel.com
+Author: Jonathan Gabel
+Author URI: http://jonathangabel.com
+Version: v2.0
+*/
+
+
+@import url('screen.css');
+@import url('print.css');
+@import url('ie.css');
+
+
+#contentWrap #respond {
+    opacity: 0.25;
+    pointer-events: none;
+}

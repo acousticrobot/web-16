@@ -1,0 +1,209 @@
+/*
+Theme Name: Web12
+Theme URI: http://jonathangabel.com
+Description: 2012 theme for jonathangabel.com
+Author: Jonathan Gabel
+Author URI: http://jonathangabel.com
+Version: v1.1
+Tags: jonathan gabel, mainset
+notes: home-page and main-set pages style sheet
+*/
+/*
+*	Description: mainset navigation styles
+*
+* 	CALLED BY: template-mainset --> mainset.css/scss
+*  	v 2.0
+*/
+header #site-head a {
+  color: #4383bf; }
+  header #site-head a:hover {
+    color: #59aeff; }
+
+nav ul li a {
+  background-color: #1d3852;
+  color: #4383bf; }
+  nav ul li a:hover {
+    background-color: #335c8f;
+    color: #59aeff; }
+
+#mainSideNav {
+  background-color: #162a3f;
+  margin: 0 -1px 0 10px; }
+
+#search #field {
+  background-image: url(../images/nav/search-mainset.png); }
+  #search #field:hover {
+    background-image: url(../images/nav/search-hover-mainset.png); }
+  #search #field:focus {
+    background-image: url(../images/nav/search-hover-mainset.png); }
+
+#sidebar-left .feature {
+  background-image: url(../images/nav/rip-blue7.png); }
+
+#badge {
+  background-image: url(../images/nav/badge-mainset.png); }
+
+.prev-next-nav {
+  background-color: #2a5176; }
+  .prev-next-nav a {
+    color: #59aeff; }
+    .prev-next-nav a:hover {
+      color: #f0f8ff; }
+
+.meta {
+  font-size: 1.125em;
+  margin: -25px 20px 5px 0; }
+
+.status {
+  background-color: #2a5176;
+  color: #FFFFCB; }
+
+#contentWrap article.archive {
+  border-top: 3px solid #2a5176;
+  margin: 3px;
+  min-height: 55px; }
+  #contentWrap article.archive .seal {
+    width: 55px;
+    height: 55px;
+    padding: 0 5px; }
+  #contentWrap article.archive .meta-title {
+    font-family: 'CicleFinaItalic';
+    text-transform: lowercase;
+    color: #1d3852;
+    font-size: 0.813em; }
+  #contentWrap article.archive:hover .meta-title {
+    color: #4383bf; }
+  #contentWrap article.archive .bullet-archive-text {
+    margin-left: 65px; }
+    #contentWrap article.archive .bullet-archive-text h4, #contentWrap article.archive .bullet-archive-text h5 {
+      padding: 0; }
+  #contentWrap article.archive .archive-date {
+    font-size: 0.75em; }
+  #contentWrap article.archive .tags {
+    font-size: 1em; }
+
+article.archive.artworks:hover {
+  background-color: #f0f8ff;
+  color: #a7a097; }
+
+article.archive.post:hover {
+  background-color: #2a5176;
+  color: #a7a097; }
+
+article.archive.page:hover {
+  background-color: #0d1927;
+  color: #a7a097; }
+
+.seal {
+  background-image: url("/images/nav/seal-default.png"); }
+  .seal.artworks {
+    background-image: url("/images/nav/seal-artworks.png"); }
+  .seal.dma {
+    background-image: url("/images/nav/seal-dma.png"); }
+  .seal.art125 {
+    background-image: url("/images/nav/seal-art125.png"); }
+  .seal.t47 {
+    background-image: url("/images/nav/seal-t47.png"); }
+
+.search-terms {
+  color: #bfee88; }
+
+/* ------------		generated lists of pages & links	----------------- */
+link-list ul.children a {
+  color: #59aeff; }
+
+ul.children ul.children a {
+  color: #4383bf; }
+
+link-list ul.index a:hover, ul.children ul.children a:hover {
+  color: #ffb444; }
+
+/* ----- student/course listings ------ */
+/* ----- archive page ------ */
+#innerWrapper ul.courses {
+  margin: 0;
+  padding: 0; }
+
+.course-link {
+  margin: 0 0 13px 0;
+  background-color: #162a3f;
+  overflow: hidden; }
+
+#innerWrapper .course h2 {
+  padding: 13px 0 13px 13px;
+  margin: 0 0 0 55px;
+  border: none; }
+
+.course-pages {
+  clear: both; }
+
+/*.archive-date {
+    font-family: consolas, monospace;
+    letter-spacing:normal;
+    float: right;
+    text-align: right;
+    color: #C8C2B6;
+    font-size: .65em;
+}
+*/
+.listDate {
+  font-family: consolas, monospace;
+  letter-spacing: normal;
+  float: right;
+  text-align: right;
+  color: #C8C2B6;
+  font-size: .75em;
+  padding-right: 20px; }
+
+/* ----- END student/course listings ------ */
+body {
+  color: #ece4d8;
+  background: #0d1927; }
+
+#contentWrap {
+  background-color: #162a3f;
+  border-color: transparent; }
+
+#innerWrapper {
+  background-color: #1d3852; }
+
+#pageWrap h2, h3 {
+  color: #f2ffbb;
+  background-color: transparent; }
+
+section#mainset-content {
+  background-color: #2a5176;
+  width: 729px; }
+
+p, li {
+  color: #f4ede1;
+  font-family: 'CicleGordita'; }
+  p em, li em {
+    font-family: 'CicleFinaItalic'; }
+
+a {
+  color: #59aeff; }
+
+.page-subtitle {
+  font-family: 'CicleFina';
+  letter-spacing: .075em;
+  padding: 5px 0 5px 13px;
+  color: #a7a097; }
+
+.design-image {
+  float: left;
+  margin: 15px 30px 10px 12px;
+  width: 150px;
+  height: 150px; }
+
+/* --------------	FOOTER BREADCRUMBS AND (C)	------------------------- */
+footer p#breadcrumbs {
+  border-bottom: 1px solid #1d3852; }
+
+footer p {
+  color: #2a5176; }
+
+footer a {
+  color: #59aeff; }
+  footer a:hover {
+    color: #b0e5ff; }

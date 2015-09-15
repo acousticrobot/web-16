@@ -1,0 +1,99 @@
+/*  
+Theme Name: Web12/FlyPaper color theme, 2012
+Theme URI: http://jonathangabel.com/projects/flypaper
+Description: 2012 theme for jonathangabel.com/students/art125
+Author: Jonathan Gabel
+Author URI: http://jonathangabel.com
+Version: v2.0
+Tags: jonathan gabel, mainset
+notes: style sheet for ART 125 Topics in Contemporary Art
+*/
+/*
+*	Description: ART125 navigation styles
+*
+* 	CALLED BY: template-course --> art125.css/scss   
+*  	v 2.0	 
+*/
+header #site-head a {
+  color: #2a5176; }
+  header #site-head a:hover {
+    color: #ff9216; }
+
+nav ul li a {
+  background-color: #799979;
+  color: #312e2e; }
+  nav ul li a:hover {
+    background-color: #d7e2b0;
+    color: #ff9216; }
+
+#search #field {
+  background-image: url(/images/nav/search-fly.png); }
+  #search #field:hover {
+    background-image: url(/images/nav/search-hover-fly.png); }
+  #search #field:focus {
+    background-image: url(/images/nav/search-hover-fly.png); }
+
+#badge {
+  background-image: url(/images/nav/badge-fly.png); }
+
+#sidebar-left .feature {
+  background-image: url(/images/nav/rip-flygreen.png); }
+
+#menu-custom-field-side-navigation {
+  padding: 0; }
+  #menu-custom-field-side-navigation li, #menu-custom-field-side-navigation .menu-item {
+    padding: 0; }
+
+#mainSideNav {
+  background-color: #5e755e;
+  margin: 0 -1px 0 10px; }
+
+/* -------------------------	BODY & MAIN STYLES		------------------------- */
+body {
+  color: #312e2e;
+  background: #312e2e; }
+
+h2 {
+  background-color: transparent;
+  color: #799979; }
+
+h3, h4 {
+  background-color: transparent;
+  color: #847f77;
+  border: none; }
+
+a {
+  color: #799979; }
+
+a:hover {
+  color: #ff9216; }
+
+p em, em {
+  color: #56534e; }
+
+/* -------------------------	CONTENT WRAP 	------------------------- */
+#contentWrap {
+  background-color: #5e755e;
+  border: none; }
+
+/* -------------------------	INNER WRAPPER	------------------------- */
+#innerWrapper {
+  background-color: #fffff0; }
+  #innerWrapper h3 {
+    border-top: 1px solid #5e755e; }
+
+li.class-listing {
+  border: 2px solid white;
+  margin: 5px 0;
+  padding-top: 20px; }
+
+/* --------------------		meta and tag info		--------------------- */
+/* --------------	FOOTER BREADCRUMBS AND (C)	------------------------- */
+footer p#breadcrumbs {
+  border-bottom: 1px solid #bc4500; }
+
+footer p {
+  color: #bc4500; }
+
+footer a:hover {
+  color: #f0f8ff; }

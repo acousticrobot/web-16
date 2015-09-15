@@ -1,0 +1,128 @@
+/*  
+Theme Name: Web12/ART125 color theme, Spring 2012
+Theme URI: http://jonathangabel.com
+Description: 2012 theme for jonathangabel.com/students/art125
+Author: Jonathan Gabel
+Author URI: http://jonathangabel.com
+Version: v1.1
+Tags: jonathan gabel, mainset
+notes: From stylesheet for DMA 105 Intro to Digital Media Arts
+*/
+/*  
+dma color theme, Spring 2012
+
+Student chosen colors:
+66ff99
+1d1f6
+780404
+19060c /black
+5b0d1a
+160e59
+00a9eb
+ed1c24
+72a74e
+7c6562
+bc5908
+349947
+91ce74
+691BE2
+*/
+/*
+*	Description: ART125 navigation styles
+*
+* 	CALLED BY: template-course --> art125.css/scss   
+*  	v 2.0	 
+*/
+header #site-head a {
+  color: #93221a; }
+  header #site-head a:hover {
+    color: #c8c2b6; }
+
+nav ul li a {
+  background-color: #bc4500;
+  color: #93221a; }
+  nav ul li a:hover {
+    background-color: #f55a00;
+    color: #c8c2b6; }
+
+#search #field {
+  background-image: url(/images/nav/search-dma.png); }
+  #search #field:hover {
+    background-image: url(/images/nav/search-hover-dma.png); }
+  #search #field:focus {
+    background-image: url(/images/nav/search-hover-dma.png); }
+
+#badge {
+  background-image: url(/images/nav/badge-dma.png); }
+
+#sidebar-left .feature {
+  background-image: url(/images/nav/rip-brownge6.png); }
+
+#menu-custom-field-side-navigation {
+  padding: 0; }
+  #menu-custom-field-side-navigation li, #menu-custom-field-side-navigation .menu-item {
+    padding: 0; }
+
+#mainSideNav {
+  background-color: #a03b00;
+  margin: 0 -1px 0 10px; }
+
+/* -------------------------	BODY & MAIN STYLES		------------------------- */
+body {
+  background: #5b0d1a; }
+
+h2, h3, h4 {
+  background-color: transparent;
+  border: none; }
+
+/* -------------------------	CONTENT WRAP 	------------------------- */
+#contentWrap {
+  background-color: #a03b00;
+  border-color: #bc4500; }
+  #contentWrap h2 {
+    color: #5B0D1A; }
+
+/* -------------------------	INNER WRAPPER	------------------------- */
+.due-date {
+  margin: 10px; }
+
+/* -------------------------	GALLERY IMAGES	------------------------- */
+.gallery-links {
+  float: left;
+  padding: 3px; }
+
+a.linkbutton {
+  display: block;
+  width: 150px;
+  height: 150px;
+  background-repeat: no-repeat; }
+
+a.linkbutton:hover {
+  background-position: 0 -200px; }
+
+#photo {
+  width: 512px;
+  height: 512px;
+  clear: both;
+  position: relative;
+  margin: auto; }
+
+#photo img {
+  position: absolute; }
+
+#gallery {
+  clear: both;
+  width: 788px;
+  margin: auto; }
+
+/* -------------------------	FOOTER BREADCRUMBS AND (C)	------------------------- */
+footer p {
+  color: #bc4500; }
+
+footer p#breadcrumbs {
+  border-bottom: 1px solid #bc4500; }
+
+footer a {
+  color: #ff9216; }
+  footer a:hover {
+    color: #59aeff; }

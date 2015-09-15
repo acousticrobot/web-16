@@ -1,6 +1,7 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
+index: false
 ---
+
 @charset "utf-8";
 
 @import "color";
@@ -60,3 +61,19 @@ $on-laptop:        800px;
         "syntax-highlighting",
         "cv"
 ;
+
+// for old site table:
+
+table {
+  font-size: $small-font-size;
+  tr.done {
+    color: $color-grey-E;
+    &:hover {
+      color: $color-grey-A;
+    }
+    a {
+      color: $color-grey-E;
+      &:hover { color: $color-grey-A}
+    }
+  }
+}

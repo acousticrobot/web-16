@@ -12,20 +12,23 @@ layout: default
       <th>page</th>
       <th>action</th>
       <th>status</th>
-      <th>archived</th>
+      <th>archive status</th>
     </tr>
 
     {% for page in site.data.old_sitemap %}
     {% if page.action != "ignore" %}
-    <tr class={{ page.status }}>
-      {% if page.archived != "ignore" %}
-        <td><a href="{{ page.redirect }}">{{ page.page }}</a></td>
-      {% else %}
-        <td>{{ page.page }}</td>
+
+    {% if page["rewrite_rule"] %}
+      {% if page["action"] == "archive" %}{% assign redirect = page["archive_url"] %}
+      {% else %}{% assign redirect = page["redirect_url"] %}
       {% endif %}
+    {% endif %}
+
+    <tr class={{ page.status }}>
+      <td><a href="{{ redirect }}">{{ page.page }}</a></td>
       <td>{{ page.action }}</td>
       <td>{{ page.status }}</td>
-      <td>{{ page.archived }}</td>
+      <td>{{ page.archive_status }}</td>
     </tr>
     {% endif %}
     {% endfor %}

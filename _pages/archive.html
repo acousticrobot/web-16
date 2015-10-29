@@ -19,7 +19,7 @@ layout: default
     {% if page.action != "ignore" %}
 
     {% if page["rewrite_rule"] %}
-      {% if page["action"] == "archive" %}{% assign redirect = page["archive_url"] %}
+      {% if page.archive_status != "done" %}{% assign redirect = page["archive_url"] %}
       {% else %}{% assign redirect = page["redirect_url"] %}
       {% endif %}
     {% endif %}

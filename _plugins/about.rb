@@ -2,13 +2,15 @@ module Jekyll
 
   # Add Site metadata to the about page
   class AboutGenerator < Generator
+    priority :low
 
     def generate(site)
+      puts "plugin: generating metadata for about page"
       about_page = site.pages.detect { |page| page.name == 'about.md' }
       if about_page
         about_page.data.merge! generate_stats(site)
       else
-        puts "pages have not loaded, unable to find about.md"
+        puts "pages in _pages directory not loaded, unable to find about.md"
       end
     end
 

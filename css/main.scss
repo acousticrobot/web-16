@@ -76,4 +76,14 @@ table {
       &:hover { color: $color-grey-A}
     }
   }
+  tr.pending {
+    color: $color-grey-B;
+    &:hover {
+      color: $color-grey-A;
+    }
+    a {
+      color: $color-grey-B;
+      &:hover { color: $color-grey-A}
+    }
+  }
 }

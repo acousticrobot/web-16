@@ -1,9 +1,12 @@
+# adds pages from a _pages directory
+# https://github.com/bbakersmith/jekyll-pages-directory
+
 module Jekyll
-
-
   class PagesDirGenerator < Generator
+    priority :highest
 
     def generate(site)
+      puts "plugin: generating pages from _pages directory"
       pages_dir = site.config['pages'] || './_pages'
       all_raw_paths = Dir["#{pages_dir}/**/*"]
       all_raw_paths.each do |f|

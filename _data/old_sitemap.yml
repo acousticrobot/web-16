@@ -150,8 +150,8 @@
 
   rewrite_rule: true
   action: collection
-  status: check_archive
-  archive_status: check
+  status: pending
+  archive_status: done
   archive_url: /archive/2012/artworks_index.html
   redirect_url: /archive/2012/artworks_index.html
 
@@ -159,8 +159,8 @@
 
   rewrite_rule: true
   action: redesign
-  status: check_archive
-  archive_status: check
+  status: pending
+  archive_status: done
   archive_url: /archive/2012/artworks_balloon-boy-interview.html
   redirect_url: /2012/balloon-boy-interview
 
@@ -169,8 +169,8 @@
 
   rewrite_rule: true
   action: redesign
-  status: check_archive
-  archive_status: check
+  status: pending
+  archive_status: done
   archive_url: /archive/2012/artworks_jan-ante-intenasijonale.html
   redirect_url: /2012/jan-ante-intenasijonale
 
@@ -179,8 +179,8 @@
 
   rewrite_rule: true
   action: redesign
-  status: check_archive
-  archive_status: check
+  status: pending
+  archive_status: done
   archive_url: /archive/2012/artworks_jan-telepi-jan-jaki.html
   redirect_url: /2012/jan-telepi-jan-jaki
 
@@ -189,8 +189,8 @@
 
   rewrite_rule: true
   action: redesign
-  status: check_archive
-  archive_status: check
+  status: pending
+  archive_status: done
   archive_url: /archive/2012/artworks_laughton-mccry-gilgamesh-page-one.html
   redirect_url: /2012/laughton-mccry-gilgamesh-page-one
 
@@ -199,8 +199,8 @@
 
   rewrite_rule: true
   action: redesign
-  status: check_archive
-  archive_status: check
+  status: pending
+  archive_status: done
   archive_url: /archive/2012/artworks_lipu-lawa-pi-esun-kama.html
   redirect_url: /2012/lipu-lawa-pi-esun-kama
 
@@ -209,8 +209,8 @@
 
   rewrite_rule: true
   action: redesign
-  status: check_archive
-  archive_status: check
+  status: pending
+  archive_status: done
   archive_url: /archive/2012/artworks_rectifier.html
   redirect_url: /2012/rectifier
 
@@ -219,8 +219,8 @@
 
   rewrite_rule: true
   action: archive
-  status: check
-  archive_status:  fix links
+  status: pending
+  archive_status:  done
   archive_url: /archive/2012/category_art125.html
 
 
@@ -354,127 +354,124 @@
 - page: learn/art125
 
   rewrite_rule: true
-  action: redirect alt archive page
+  action: archive
   status: fix links and reassign
   archive_status:  pending
-  archive_url: /archive/2012/learn_art125.html
+  archive_url: /archive/2012/art125.html
 
 
 - page: learn/art125/syllabus
 
-  rewrite_rule: true
-  action: redirect alt archive page
-  status: check_archive and reassign
-  archive_status: check
-  archive_url: /archive/2012/learn_art125_syllabus.html
+  action: ignore
+  status: removed
 
 
 - page: learn/art125/unit-1
 
   rewrite_rule: true
-  action: redirect alt archive page
-  status: check_archive and reassign
-  archive_status: check
+  action: archive
+  status: done
+  archive_status: done
   archive_url: /archive/2012/learn_art125_unit-1.html
 
 
 - page: learn/art125/unit-10
 
   rewrite_rule: true
-  action: redirect alt archive page
-  status: check_archive and reassign
-  archive_status: check
+  action: archive
+  status: done
+  archive_status: done
   archive_url: /archive/2012/learn_art125_unit-10.html
 
 
 - page: learn/art125/unit-11
 
   rewrite_rule: true
-  action: redirect alt archive page
-  status: check_archive and reassign
-  archive_status: check
+  action: archive
+  status: done
+  archive_status: done
   archive_url: /archive/2012/learn_art125_unit-11.html
 
 
 - page: learn/art125/unit-2
 
   rewrite_rule: true
-  action: redirect alt archive page
-  status: pending and reassign
-  archive_status:  fix images
+  action: archive
+  status: fix archive images
+  archive_status:  fix images - Grosz.hero and Benton.YearOfPeril
   archive_url: /archive/2012/learn_art125_unit-2.html
 
 
 - page: learn/art125/unit-3
 
   rewrite_rule: true
-  action: redirect alt archive page
-  status: pending and reassign
-  archive_status:  fix images
+  action: archive
+  status: fix archive images
+  archive_status:  fix images - Hamilton.appealing
   archive_url: /archive/2012/learn_art125_unit-3.html
 
 
 - page: learn/art125/unit-4
 
   rewrite_rule: true
-  action: redirect alt archive page
-  status: check_archive and reassign
-  archive_status: check
+  action: archive
+  status: done
+  archive_status: done
   archive_url: /archive/2012/learn_art125_unit-4.html
 
 
 - page: learn/art125/unit-5
 
   rewrite_rule: true
-  action: redirect alt archive page
-  status: check_archive and reassign
-  archive_status: check
+  action: archive
+  status: done
+  archive_status: done
   archive_url: /archive/2012/learn_art125_unit-5.html
 
 
 - page: learn/art125/unit-6
 
   rewrite_rule: true
-  action: redirect alt archive page
-  status: check_archive and reassign
-  archive_status: check
+  action: archive
+  status: done
+  archive_status: done
   archive_url: /archive/2012/learn_art125_unit-6.html
 
 
 - page: learn/art125/unit-7
 
   rewrite_rule: true
-  action: redirect alt archive page
-  status: check_archive and reassign
-  archive_status: check
+  action: archive
+  status: done
+  archive_status: done
   archive_url: /archive/2012/learn_art125_unit-7.html
 
 
 - page: learn/art125/unit-8
 
   rewrite_rule: true
-  action: redirect alt archive page
-  status: check_archive and reassign
-  archive_status: check
+  action: archive
+  status: done
+  archive_status: done
   archive_url: /archive/2012/learn_art125_unit-8.html
 
 
 - page: learn/art125/unit-9
 
   rewrite_rule: true
-  action: redirect alt archive page
-  status: check_archive and reassign
-  archive_status: check
+  action: archive
+  status: done
+  archive_status: done
   archive_url: /archive/2012/learn_art125_unit-9.html
 
 
 - page: learn/art125/welcome
 
   rewrite_rule: true
-  action: redirect alt archive page
-  status: check_archive and reassign
-  archive_status: check
-  archive_url: /archive/2012/learn_art125_welcome.html
+  action: redirect
+  status: done
+  archive_status: done
+  archive_url: /archive/2012/art125_welcome.html
 
 
 - page: learn/t47
@@ -647,7 +644,7 @@
 - page: links
 
   rewrite_rule: true
-  action: automate
+  action: collection
   status: pending
 
 

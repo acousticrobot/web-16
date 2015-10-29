@@ -3,6 +3,7 @@ module Jekyll
   # The list of pages and posts for each tag
   # modified from: https://github.com/jekyll/jekyll-help/issues/279
   class TagsGenerator < Generator
+    priority :high
 
     def generate(site)
       site.data['all_tags'] = prepend_page_tags_to_post_tags(site)
@@ -21,8 +22,7 @@ module Jekyll
       # Already given by Jekyll: the list of posts for each tag
       all_tags = site.post_attr_hash('tags')
 
-      #require 'pry'; binding.pry
-
+      puts "plugin: generating tags from pages, adding to post tags"
       # Trick: loop over the pages in reverse order because they are prepend to the hash
       # => end up with the original order
       site.pages.reverse.each do |page|

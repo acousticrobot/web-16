@@ -3,7 +3,7 @@
   rewrite_rule: false
   action: redesign
   status: pending
-  archive_status:  duplicate as index
+  archive_status:  done
   archive_url: /archive/2012/index.html
   redirect_url: /index.html
 
@@ -239,9 +239,9 @@
 - page: category/t29-2
 
   rewrite_rule: true
-  action: redesign
-  status: check_archive
-  archive_status: check
+  action: automate
+  status: pending
+  archive_status: done
   archive_url: /archive/2012/category_t29-2.html
   redirect_url: /archive/2012/category_t29-2.html
 
@@ -249,9 +249,9 @@
 - page: category/t47
 
   rewrite_rule: true
-  action: redesign
-  status: check_archive
-  archive_status: check
+  action: automate
+  status: pending
+  archive_status: done
   archive_url: /archive/2012/category_t47.html
   redirect_url: /archive/2012/category_t47.html
 
@@ -266,8 +266,8 @@
 
   rewrite_rule: true
   action: redesign
-  status: check_archive
-  archive_status: check
+  status: pending
+  archive_status: done
   archive_url: /archive/2012/design.html
   redirect_url: /archive/2012/design.html
 
@@ -322,31 +322,28 @@
 
 - page: dimensions/11-x-14
 
-  rewrite_rule: true
-  action: automate
-  status: pending
+  action: ignore
+  status: removed
 
 
 - page: dimensions/60-x-144-x-72
 
-  rewrite_rule: true
-  action: automate
-  status: pending
+  action: ignore
+  status: removed
 
 
 - page: dimensions/8-5-x-11
 
-  rewrite_rule: true
-  action: automate
-  status: pending
+  action: ignore
+  status: removed
 
 
 - page: learn/
 
   rewrite_rule: true
-  action: redesign
-  status: pending
-  archive_status:  fix links
+  action: archive
+  status: done
+  archive_status: done
   archive_url: /archive/2012/learn_index.html
   redirect_url: /archive/2012/learn_index.html
 
@@ -355,8 +352,8 @@
 
   rewrite_rule: true
   action: archive
-  status: fix links and reassign
-  archive_status:  pending
+  status: done
+  archive_status:  done
   archive_url: /archive/2012/art125.html
 
 
@@ -397,8 +394,8 @@
 
   rewrite_rule: true
   action: archive
-  status: fix archive images
-  archive_status:  fix images - Grosz.hero and Benton.YearOfPeril
+  status: done
+  archive_status:  done
   archive_url: /archive/2012/learn_art125_unit-2.html
 
 
@@ -406,8 +403,8 @@
 
   rewrite_rule: true
   action: archive
-  status: fix archive images
-  archive_status:  fix images - Hamilton.appealing
+  status: done
+  archive_status:  done
   archive_url: /archive/2012/learn_art125_unit-3.html
 
 
@@ -478,8 +475,8 @@
 
   rewrite_rule: true
   action: redesign
-  status: check_archive
-  archive_status: check
+  status: pending
+  archive_status: done
   archive_url: /archive/2012/learn_t47.html
   redirect_url: /archive/2012/learn_t47.html
 
@@ -488,8 +485,8 @@
 
   rewrite_rule: true
   action: redesign
-  status: check_archive
-  archive_status: check
+  status: pending
+  archive_status: done
   archive_url: /archive/2012/learn_t47_dictionaries.html
   redirect_url: /archive/2012/learn_t47_dictionaries.html
 
@@ -498,8 +495,8 @@
 
   rewrite_rule: true
   action: redesign
-  status: check_archive
-  archive_status: check
+  status: pending
+  archive_status: done
   archive_url: /archive/2012/learn_t47_dictionaries_drawing_steps.html
   redirect_url: /archive/2012/learn_t47_dictionaries_drawing_steps.html
 
@@ -508,8 +505,8 @@
 
   rewrite_rule: true
   action: redesign
-  status: check_archive
-  archive_status: check
+  status: pending
+  archive_status: done
   archive_url: /archive/2012/learn_t47_dictionaries_glyphs.html
   redirect_url: /archive/2012/learn_t47_dictionaries_glyphs.html
 
@@ -518,8 +515,8 @@
 
   rewrite_rule: true
   action: redesign
-  status: check_archive
-  archive_status: check
+  status: pending
+  archive_status: done
   archive_url: /archive/2012/learn_t47_dictionaries_syllabary.html
   redirect_url: /archive/2012/learn_t47_dictionaries_syllabary.html
 
@@ -528,8 +525,8 @@
 
   rewrite_rule: true
   action: redesign
-  status: check_archive
-  archive_status: check
+  status: pending
+  archive_status: done
   archive_url: /archive/2012/learn_t47_gallery.html
   redirect_url: /archive/2012/learn_t47_gallery.html
 
@@ -538,8 +535,8 @@
 
   rewrite_rule: true
   action: redesign
-  status: check_archive
-  archive_status: check
+  status: pending
+  archive_status: done
   archive_url: /archive/2012/learn_t47_lesson-1.html
   redirect_url: /archive/2012/learn_t47_lesson-1.html
 
@@ -548,8 +545,8 @@
 
   rewrite_rule: true
   action: redesign
-  status: check_archive
-  archive_status: check
+  status: pending
+  archive_status: done
   archive_url: /archive/2012/learn_t47_lesson-2.html
   redirect_url: /archive/2012/learn_t47_lesson-2.html
 
@@ -558,8 +555,8 @@
 
   rewrite_rule: true
   action: redesign
-  status: check_archive
-  archive_status: check
+  status: pending
+  archive_status: done
   archive_url: /archive/2012/learn_t47_lesson-3.html
   redirect_url: /archive/2012/learn_t47_lesson-3.html
 
@@ -568,8 +565,8 @@
 
   rewrite_rule: true
   action: redesign
-  status: check_archive
-  archive_status: check
+  status: pending
+  archive_status: done
   archive_url: /archive/2012/learn_t47_lesson-4.html
   redirect_url: /archive/2012/learn_t47_lesson-4.html
 
@@ -578,8 +575,8 @@
 
   rewrite_rule: true
   action: redesign
-  status: check_archive
-  archive_status: check
+  status: pending
+  archive_status: done
   archive_url: /archive/2012/learn_t47_lesson-4b.html
   redirect_url: /archive/2012/learn_t47_lesson-4b.html
 
@@ -588,8 +585,8 @@
 
   rewrite_rule: true
   action: redesign
-  status: check_archive
-  archive_status: check
+  status: pending
+  archive_status: done
   archive_url: /archive/2012/learn_t47_lesson-5.html
   redirect_url: /archive/2012/learn_t47_lesson-5.html
 
@@ -598,8 +595,8 @@
 
   rewrite_rule: true
   action: redesign
-  status: check_archive
-  archive_status: check
+  status: pending
+  archive_status: done
   archive_url: /archive/2012/learn_t47_lesson-6.html
   redirect_url: /archive/2012/learn_t47_lesson-6.html
 
@@ -608,8 +605,8 @@
 
   rewrite_rule: true
   action: redesign
-  status: check_archive
-  archive_status: check
+  status: pending
+  archive_status: done
   archive_url: /archive/2012/learn_t47_lesson-7.html
   redirect_url: /archive/2012/learn_t47_lesson-7.html
 
@@ -618,8 +615,8 @@
 
   rewrite_rule: true
   action: redesign
-  status: check_archive
-  archive_status: check
+  status: pending
+  archive_status: done
   archive_url: /archive/2012/learn_t47_lesson-8.html
   redirect_url: /archive/2012/learn_t47_lesson-8.html
 
@@ -628,8 +625,8 @@
 
   rewrite_rule: true
   action: redesign
-  status: check_archive
-  archive_status: check
+  status: pending
+  archive_status: done
   archive_url: /archive/2012/learn_t47_lesson-9.html
   redirect_url: /archive/2012/learn_t47_lesson-9.html
 
@@ -795,8 +792,8 @@
 
   rewrite_rule: true
   action: index
-  status: check_archive
-  archive_status: check
+  status: pending
+  archive_status: done
   archive_url: /archive/2012/projects.html
   redirect_url: /archive/2012/projects.html
 
@@ -805,8 +802,8 @@
 
   rewrite_rule: true
   action: redesign
-  status: check_archive
-  archive_status: check
+  status: pending
+  archive_status: done
   archive_url: /archive/2012/projects_t29.html
   redirect_url: /archive/2012/projects_t29.html
 
@@ -815,8 +812,8 @@
 
   rewrite_rule: true
   action: redesign
-  status: check_archive
-  archive_status: check
+  status: pending
+  archive_status: done
   archive_url: /archive/2012/projects_t47.html
   redirect_url: /archive/2012/projects_t47.html
 
@@ -824,41 +821,33 @@
 - page: projects/t47/dictionaries
 
   rewrite_rule: true
-  action: redesign
-  status: check_archive
-  archive_status: check
-  archive_url: /archive/2012/projects_t47_dictionaries.html
-  redirect_url: /archive/2012/projects_t47_dictionaries.html
+  action: redirect
+  status: done
+  redirect_url: /archive/2012/learn_t47_dictionaries.html
 
 
 - page: projects/t47/dictionaries/glyphs
 
   rewrite_rule: true
-  action: redesign
-  status: check_archive
-  archive_status: check
-  archive_url: /archive/2012/projects_t47_dictionaries_glyphs.html
-  redirect_url: /archive/2012/projects_t47_dictionaries_glyphs.html
+  action: redirect
+  status: done
+  redirect_url: /archive/2012/learn_t47_dictionaries_glyphs.html
 
 
 - page: projects/t47/lesson-9
 
   rewrite_rule: true
-  action: redesign
-  status: check_archive
-  archive_status: check
-  archive_url: /archive/2012/projects_t47_lesson-9.html
-  redirect_url: /archive/2012/projects_t47_lesson-9.html
+  action: redirect
+  status: done
+  redirect_url: /archive/2012/learn_t47_lesson-9.html
 
 
 - page: projects/t47/lessons/lesson-8
 
   rewrite_rule: true
-  action: redesign
-  status: check_archive
-  archive_status: check
-  archive_url: /archive/2012/projects_t47_lessons_lesson-8.html
-  redirect_url: /archive/2012/projects_t47_lessons_lesson-8.html
+  action: redirect
+  status: done
+  redirect_url: /archive/2012/learn_t47_lessons_lesson-8.html
 
 - page: recent
 
@@ -871,8 +860,8 @@
 
   rewrite_rule: true
   action: redesign
-  status: check_archive
-  archive_status: check
+  status: pending
+  archive_status: done
   archive_url: /archive/2012/t47_human-sequel.html
   redirect_url: /archive/2012/t47_human-sequel.html
 

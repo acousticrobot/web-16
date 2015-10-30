@@ -1,7 +1,7 @@
 ## Roadmap
 
-  * create a sitemap from the old site, and list status of each page in the transfer process
-  * build the site css
+ * ~~Store old archive~~ @done
+ * Define index pages and build link lists
 
 ## Legacy
 
@@ -13,9 +13,15 @@ I used to handle creating a slide show with multiple images this way (example fr
 
 ## Jekyll notes
 
-Notes for building the site
+Site building notes
+
+### Plugins
+
+Located in `_plugins`. Order is important -- use flags.
 
 ### Liquid
+
+Quick liquid reference:
 
 #### Creating classes
 
@@ -28,3 +34,14 @@ will generate:
 
     <p class="special"><img src="/images/t47_tokipona/t47_nimi/t47_nimi_a.jpg" alt="a"></p>
     <p>a</p>
+
+### Upload strategy
+
+Strategy in the works...
+From git commit
+
+  * Images - not in source control sync changes files:
+    * /images
+    * /archive/2012/images
+    * /archive/2007/images  
+  * Changed pages with each git commit

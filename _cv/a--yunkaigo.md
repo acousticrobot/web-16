@@ -1,6 +1,5 @@
 ---
 date: 2012-07-24
-layout: page
 title: yunkaigo
 site-url: http://yunkaigo.com/
 thumb: ykg_thumb.gif

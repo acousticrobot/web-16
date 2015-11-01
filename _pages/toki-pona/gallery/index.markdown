@@ -1,11 +1,7 @@
 ---
-author: jonathan
-comments: true
 date: 2012-01-13 16:47:02+00:00
-layout: page
 slug: gallery
 title: Image Galleries
-wordpress_id: 88
 ---
 
 

@@ -1,8 +1,5 @@
 ---
-author: jonathan
-comments: true
 date: 2012-07-23 18:34:06+00:00
-layout: post
 slug: rectifier
 title: Rectifier
 categories:

@@ -1,11 +1,7 @@
 ---
-author: jonathan
-comments: true
 date: 2012-01-13 16:47:57+00:00
-layout: page
 slug: t47
 title: sitelen sitelen
-wordpress_id: 90
 ---
 
 O kama pona! sina ken kama sona e sitelen sitelen lon lipu ni.

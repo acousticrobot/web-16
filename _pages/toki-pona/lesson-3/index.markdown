@@ -1,11 +1,7 @@
 ---
-author: jonathan
-comments: true
 date: 2012-01-14 00:13:59+00:00
-layout: page
 slug: lesson-3
 title: 'Lesson 3: Basic Sentences'
-wordpress_id: 153
 ---
 
 

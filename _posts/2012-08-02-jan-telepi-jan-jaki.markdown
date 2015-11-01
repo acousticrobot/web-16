@@ -1,11 +1,7 @@
 ---
-author: jonathan
-comments: true
 date: 2012-08-02 18:59:39+00:00
-layout: post
 slug: jan-telepi-jan-jaki
 title: 'jan Talepi: jan jaki li pakala ike'
-wordpress_id: 1064
 categories:
 - t47
 media:

@@ -1,11 +1,7 @@
 ---
-author: jonathan
-comments: true
 date: 2012-08-02 22:02:53+00:00
-layout: post
 slug: lipu-lawa-pi-esun-kama
 title: lipu lawa pi esun kama
-wordpress_id: 1066
 categories:
 - t47
 dimensions:

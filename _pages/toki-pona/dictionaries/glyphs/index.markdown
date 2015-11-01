@@ -1,11 +1,7 @@
 ---
-author: jonathan
-comments: true
 date: 2012-01-14 00:47:54+00:00
-layout: page
 slug: glyphs
 title: the pictographic word dictionary
-wordpress_id: 175
 ---
 
 

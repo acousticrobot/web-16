@@ -1,11 +1,7 @@
 ---
-author: jonathan
-comments: true
 date: 2012-08-01 18:27:07+00:00
-layout: post
 slug: human-sequel
 title: Human Sequel
-wordpress_id: 1038
 categories:
 - t47
 tags:

@@ -1,11 +1,7 @@
 ---
-author: jonathan
-comments: true
 date: 2012-01-14 00:25:41+00:00
-layout: page
 slug: lesson-8
 title: 'Lesson 8: Negation and Yes/No Questions.'
-wordpress_id: 166
 ---
 
 

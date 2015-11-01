@@ -1,11 +1,7 @@
 ---
-author: jonathan
-comments: true
 date: 2012-01-14 00:19:50+00:00
-layout: page
 slug: lesson-4b
 title: 'Lesson 4b: Hieroglyphic Block Order'
-wordpress_id: 158
 ---
 
 ### Block arrangements

@@ -1,6 +1,5 @@
 ---
 date: 2012-07-24
-layout: page
 title: The Proposition, Artists Pages
 site_url: http://www.theproposition.com/artist-profiles/ben-bunch/
 thumb: prop_thumb.gif

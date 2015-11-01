@@ -1,11 +1,7 @@
 ---
-author: jonathan
-comments: true
 date: 2012-01-13 17:20:11+00:00
-layout: page
 slug: lesson-2
 title: 'Lesson 2: Writing Syllables'
-wordpress_id: 120
 ---
 
 ### Glyphs can represent whole words, or individual syllables

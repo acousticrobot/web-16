@@ -1,11 +1,7 @@
 ---
-author: jonathan
-comments: true
 date: 2012-08-02 15:41:01+00:00
-layout: post
 slug: jan-ante-intenasijonale
 title: 'jan Ante: intenasijonale'
-wordpress_id: 1049
 categories:
 - t47
 media:

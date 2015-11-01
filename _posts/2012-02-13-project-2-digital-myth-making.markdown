@@ -1,8 +1,5 @@
 ---
-author: jonathan
-comments: true
 date: 2012-02-13 15:00:16+00:00
-layout: post
 slug: digital-myth-making
 title: 'Digital Myth Making'
 ---

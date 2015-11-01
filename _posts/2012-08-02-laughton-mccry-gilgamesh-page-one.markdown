@@ -1,11 +1,7 @@
 ---
-author: jonathan
-comments: true
 date: 2012-08-02 16:31:09+00:00
-layout: post
 slug: laughton-mccry-gilgamesh-page-one
 title: 'Laughton McCry:  Gilgamesh Page One'
-wordpress_id: 1054
 categories:
 - t47
 media:

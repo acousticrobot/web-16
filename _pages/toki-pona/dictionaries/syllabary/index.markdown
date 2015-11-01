@@ -1,11 +1,7 @@
 ---
-author: jonathan
-comments: true
 date: 2012-01-14 00:49:30+00:00
-layout: page
 slug: syllabary
 title: the syllabary
-wordpress_id: 177
 ---
 
 

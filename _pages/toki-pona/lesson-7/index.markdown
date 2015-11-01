@@ -1,11 +1,7 @@
 ---
-author: jonathan
-comments: true
 date: 2012-01-14 00:24:19+00:00
-layout: page
 slug: lesson-7
 title: 'Lesson 7: Prepositions Part 2'
-wordpress_id: 165
 ---
 
 

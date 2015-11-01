@@ -1,11 +1,7 @@
 ---
-author: jonathan
-comments: true
 date: 2012-08-01 18:37:41+00:00
-layout: post
 slug: balloon-boy-interview
 title: Balloon Boy Interview
-wordpress_id: 1041
 categories:
 - t47
 dimensions:

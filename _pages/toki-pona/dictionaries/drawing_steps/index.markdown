@@ -1,11 +1,7 @@
 ---
-author: jonathan
-comments: true
 date: 2012-01-14 00:52:54+00:00
-layout: page
 slug: drawing_steps
 title: 'drawing dictionary: step by step'
-wordpress_id: 180
 ---
 
 

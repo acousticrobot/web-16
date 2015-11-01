@@ -1,11 +1,7 @@
 ---
-author: jonathan
-comments: true
 date: 2012-01-14 00:18:18+00:00
-layout: page
 slug: lesson-4
 title: 'Lesson 4: Direct Objects, Compound Sentences'
-wordpress_id: 156
 ---
 
 

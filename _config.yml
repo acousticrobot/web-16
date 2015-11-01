@@ -30,3 +30,21 @@ collections:
     output: false
   links:
     output: false
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: jonathan
+      comments: true
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+      author: jonathan
+      comments: false

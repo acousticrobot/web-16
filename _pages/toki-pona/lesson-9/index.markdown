@@ -1,11 +1,7 @@
 ---
-author: jonathan
-comments: true
 date: 2012-01-14 00:34:30+00:00
-layout: page
 slug: lesson-9
 title: 'Lesson 9: Unofficial Words, Interjections, Commands'
-wordpress_id: 169
 ---
     
 

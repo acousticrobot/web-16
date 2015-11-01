@@ -1,11 +1,7 @@
 ---
-author: jonathan
-comments: true
 date: 2012-01-13 17:05:15+00:00
-layout: page
 slug: lesson-1
 title: 'Lesson 1: Welcome'
-wordpress_id: 104
 tags: 
 - t47
 categories:

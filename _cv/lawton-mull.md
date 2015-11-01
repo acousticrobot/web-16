@@ -1,6 +1,5 @@
 ---
 date: 2012-07-24
-layout: page
 title: Lawton Mull
 site_url: http://www.lawtonmull.com/category/inspiration/
 thumb: lm_thumb.jpg

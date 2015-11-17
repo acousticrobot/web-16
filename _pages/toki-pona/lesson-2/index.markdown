@@ -1,4 +1,5 @@
 ---
+layout: page
 date: 2012-01-13 17:20:11+00:00
 slug: lesson-2
 title: 'Lesson 2: Writing Syllables'

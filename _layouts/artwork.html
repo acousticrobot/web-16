@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+<header>
+  <h1 class="content--title">{{ page.title }}</h1>
+</header>
+
+  <a href="{{ page.url_previous }}"><-- previous</a>
+  <a href="{{ page.url_next }}">next --></a>
+
+
+<article>
+  {% if page.artist != 'self' %}
+   <p>artist: {{ page.artist }}</p>
+  {% endif %}
+
+  <p>year: {{ page.year_made }}</p>
+  <p>dimensions: {{ page.dimensions }}</p>
+  <p>media: {{ page.media }}</p>
+
+  {% for image in page.images %}
+    <div class="wrapper--center-image">
+      <img src="{{ image }}" alt="{{ page.title }}">
+    </div>
+  {% endfor %}
+
+  <p>
+    {{ content }}
+  </p>
+</article>

@@ -4,22 +4,10 @@ slug: balloon-boy-interview
 title: Balloon Boy Interview
 categories:
 - t47
-dimensions:
-- 8.5" x 11"
-media:
-- ink on paper
 tags:
-- human
-- sequel
 - toki pona
-year_made:
-- '2009'
-style: toki-pona
+css_theme: toki-pona
 ---
-
-
-  [galleria dir="/images/t47/" prefix="t47."]09001**8[/galleria]
-
 
 The nine pages that make up this piece are a translation of the interview by Wolf Blitzer of the "Balloon Boy" family.  I was interested in seeing how loose "TV speak" would translate into a toki pona, and then further into sitelen blocks.
 

@@ -4,21 +4,10 @@ title: homepage
 ---
 
 <div class="home">
-  <div>note: update pages on sitemap, turn this into a real homepage</div>
-  <div class="content--title">Posts</div>
-
-  <ul>
-    {% for post in site.posts %}
-      <li>
-        <span>{{ post.date | date : "%b %-d, %Y" }}</span>
-        <span><a href="{{ post.url | prepend : side.baseurl }}">{{ post.title }}</a></span>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <ul>
+  <div>
+    <p>Hey! We're starting to get somewhere. Here are the pages related to getting this site up and running:</p>
     {% for page in site.pages %}
-    {% if page.index != false %}
+    {% if page.metapage == true %}
       <li>
         <span>
           <a href="{{ page.url | prepend : site.baseurl }}">
@@ -32,5 +21,5 @@ title: homepage
       </li>
     {% endif %}
     {% endfor %}
-  </ul>
+  </div>
 </div>

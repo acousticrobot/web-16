@@ -3,7 +3,7 @@ module Jekyll
   # The list of pages and posts for each tag
   # modified from: https://github.com/jekyll/jekyll-help/issues/279
   class TagsGenerator < Generator
-    priority :high
+    priority :low
 
     def generate(site)
       site.data['all_tags'] = prepend_page_tags_to_post_tags(site)

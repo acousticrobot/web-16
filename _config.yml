@@ -30,6 +30,9 @@ collections:
     output: false
   links:
     output: false
+  artworks:
+    output: true
+
 
 defaults:
   -
@@ -37,7 +40,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      layout: "post"
+      layout: post
       author: jonathan
       comments: true
   -
@@ -45,6 +48,11 @@ defaults:
       path: ""
       type: "pages"
     values:
-      layout: "page"
-      author: jonathan
       comments: false
+  -
+    scope:
+      path: ""
+      type: "artworks"
+    values:
+      layout: artwork
+      artist: self

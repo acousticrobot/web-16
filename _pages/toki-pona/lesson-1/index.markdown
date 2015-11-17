@@ -2,6 +2,7 @@
 date: 2012-01-13 17:05:15+00:00
 slug: lesson-1
 title: 'Lesson 1: Welcome'
+layout: page
 tags: 
 - t47
 categories:

@@ -3,7 +3,7 @@
 
 module Jekyll
   class PagesDirGenerator < Generator
-    priority :highest
+    priority :high
 
     def generate(site)
       puts "plugin: generating pages from _pages directory"
@@ -34,7 +34,6 @@ module Jekyll
         return ''
       end
     end
-
   end
 
 
@@ -50,8 +49,5 @@ module Jekyll
 
       read_yaml(File.join(base, pagesdir, dir), name)
     end
-
   end
-
-
 end

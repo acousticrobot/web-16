@@ -2,7 +2,7 @@ module Jekyll
 
   # Add Site metadata to the about page
   class AboutGenerator < Generator
-    priority :low
+    priority :lowest
 
     def generate(site)
       puts "plugin: generating metadata for about page"
@@ -15,9 +15,11 @@ module Jekyll
     end
 
     def generate_stats(site)
+      archive_actions = site.data["old_sitemap"].reject {|k,v| k["status"] == "done" }
       {
         'pages_count' => site.pages.count,
-        'posts_count' => site.posts.count
+        'posts_count' => site.posts.count,
+        'archive_actions' => archive_actions
       }
     end
 

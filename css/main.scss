@@ -18,19 +18,26 @@ $content-width:    800px;
 $spacing-unit:     2rem;
 $spacing-unit-bottom: $spacing-unit / 2;
 
+// Design mobile first, override with breakpoints:
+$handheld-breakpoint:          600px;
+$tablet-breakpoint:        800px;
 
-$on-palm:          600px;
-$on-laptop:        800px;
 
 
 // Use media queries like this:
-// @include media-query($on-palm) {
+// @include media-query($handheld-breakpoint) {
 //     .wrapper {
 //         padding-right: $spacing-unit / 2;
 //         padding-left: $spacing-unit / 2;
 //     }
 // }
 @mixin media-query($device) {
+    @media screen and (min-width: $device) {
+        @content;
+    }
+}
+
+@mixin media-query-smaller-than($device) {
     @media screen and (max-width: $device) {
         @content;
     }
@@ -62,7 +69,7 @@ $on-laptop:        800px;
         "cv"
 ;
 
-// for old site table:
+// for roadmap table:
 
 table {
   font-size: $small-font-size;

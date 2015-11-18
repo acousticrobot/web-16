@@ -1,3 +1,10 @@
-<header class="site-header">
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+<header id="site-header">
+    <h1 class="site-header--title"><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
+    <nav id="site-header--nav">
+      <ul>
+        {% for page in site.data["nav_pages"] %}
+        <li><a href="{{ page.url | prepend : site.baseurl }}">{{ page.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </nav>
 </header>

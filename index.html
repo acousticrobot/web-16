@@ -3,23 +3,38 @@ layout: default
 title: homepage
 ---
 
-<div class="home">
-  <div>
-    <p>Hey! We're starting to get somewhere. Here are the pages related to getting this site up and running:</p>
-    {% for page in site.pages %}
-    {% if page.metapage == true %}
-      <li>
-        <span>
-          <a href="{{ page.url | prepend : site.baseurl }}">
-            {% if page.title == nil %}
-                {{ page.url }}
-              {% else %}
-                {{ page.title }}
-            {% endif %}
-          </a>
-        </span>
-      </li>
-    {% endif %}
-    {% endfor %}
-  </div>
-</div>
+<header>
+<h1 class="content-title">homepage</h1>
+</header>
+
+<section id="metapages">
+  <h2>MetaPages:</h2>
+  <p>We're starting to get somewhere. Here are the pages related to getting this site up and running:</p>
+  {% for page in site.pages %}
+  {% if page.metapage == true %}
+    <li>
+      <span>
+        <a href="{{ page.url | prepend : site.baseurl }}">
+          {% if page.title == nil %}
+              {{ page.url }}
+            {% else %}
+              {{ page.title }}
+          {% endif %}
+        </a>
+      </span>
+    </li>
+  {% endif %}
+  {% endfor %}
+</section>
+
+<section id="new">
+  <h2>New On the Site:</h2>
+
+  {% for page in site.data.all_tags['new'] %}
+  <a href="{{ page.url | prepend: site.baseurl}}">{{ page.title }}</a>
+  {{ page.excerpt }}
+  {% endfor %}
+</section>
+
+
+

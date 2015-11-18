@@ -7,7 +7,14 @@
 ## Architecture
 
   * posts are grouped by year (to keep root level cleaner for uploading)
-  * pages have their own 
+  * pages have their own folder _pages, which depends on the pages plugin
+
+### Homepage
+
+  * currently has a metapage section for development, this could change into nav links
+  * lists all pages tagged as 'new'
+
+### Page Structure?
 
 both archived sites had structure: projects/t47 etc.
 

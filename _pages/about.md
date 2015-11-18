@@ -2,6 +2,7 @@
 title: About
 permalink: /about/
 metapage: true
+nav_page: true
 layout: page
 ---
 

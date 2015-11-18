@@ -4,21 +4,21 @@
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
 }
 
 /**
  * Basic styling
  */
 body {
-    font-family: $base-font-family;
-    font-size: $base-font-size;
-    line-height: $base-line-height;
-    font-weight: 300;
-    color: $color-text;
-    background-color: $color-background-gutter;
-    -webkit-text-size-adjust: 100%;
+  font-family: $base-font-family;
+  font-size: $base-font-size;
+  line-height: $base-line-height;
+  font-weight: 300;
+  color: $color-text;
+  background-color: $color-background-gutter;
+  -webkit-text-size-adjust: 100%;
 }
 
 /**
@@ -28,97 +28,95 @@ h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
-    margin-bottom: $spacing-unit-bottom;
+  margin-bottom: $spacing-unit-bottom;
 }
 
 /**
  * Images
  */
 img {
-    max-width: 100%;
-    vertical-align: middle;
+  max-width: 100%;
+  vertical-align: middle;
 }
 
 /**
  * Figures
  */
 figure > img {
-    display: block;
+  display: block;
 }
 
 figcaption {
-    font-size: $small-font-size;
+  font-size: $small-font-size;
 }
 
 /**
  * Lists
  */
 ul, ol {
-    margin-left: $spacing-unit;
+  margin-left: $spacing-unit;
 }
 
 li {
-    > ul,
-    > ol {
-         margin-bottom: 0;
-    }
+  > ul,
+  > ol {
+     margin-bottom: 0;
+  }
 }
 
 /**
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-    font-weight: 300;
+  font-weight: 300;
 }
 
 h1 {
+  font-size: 1.75rem;
+  @include media-query($tablet-breakpoint) {
     font-size: 2rem;
-
-    @include media-query($on-laptop) {
-        font-size: 1.75rem;
-    }
+  }
 }
 
 
 h2 {
-    font-size: 2rem;
-
-    @include media-query($on-laptop) {
-        font-size: 1.75rem;
-    }
+  font-size: 1.65rem;
+  @include media-query($tablet-breakpoint) {
+    font-size: 1.75rem;
+  }
 }
 
 h3 {
-    font-size: 1.75rem;
+  font-size: 1.25rem;
 
-    @include media-query($on-laptop) {
-        font-size: 1.25rem;
-    }
+  @include media-query($tablet-breakpoint) {
+    font-size: 1.5rem;
+  }
 }
 
 h4 {
-    font-size: 1.25rem;
+  font-size: 1.125rem;
 
-    @include media-query($on-laptop) {
-        font-size: 1.125rem;
-    }
+  @include media-query($tablet-breakpoint) {
+    font-size: 1.25rem;
+  }
 }
 
 /**
  * Links
  */
 a {
-    color: $color-action;
-    text-decoration: none;
+  color: $color-action;
+  text-decoration: none;
 
-    &:visited {
-        color: $color-action-complete;
-    }
+  &:visited {
+    color: $color-action-complete;
+  }
 
-    &:hover {
-        color: darken($color-action, 15%);
-        text-decoration: underline;
-    }
+  &:hover {
+    color: darken($color-action, 15%);
+    text-decoration: underline;
+  }
 }
 
 
@@ -127,16 +125,16 @@ a {
  * Blockquotes
  */
 blockquote {
-    color: $color-grey-8;
-    border-left: 4px solid $color-grey-E;
-    padding-left: $spacing-unit / 2;
-    font-size: 18px;
-    letter-spacing: -1px;
-    font-style: italic;
+  color: $color-grey-8;
+  border-left: 4px solid $color-grey-E;
+  padding-left: $spacing-unit / 2;
+  font-size: 18px;
+  letter-spacing: -1px;
+  font-style: italic;
 
-    > :last-child {
-        margin-bottom: 0;
-    }
+  > :last-child {
+    margin-bottom: 0;
+  }
 }
 
 
@@ -145,11 +143,11 @@ blockquote {
  */
 %clearfix {
 
-    &:after {
-        content: "";
-        display: table;
-        clear: both;
-    }
+  &:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
 }
 
 
@@ -159,14 +157,14 @@ blockquote {
  */
 .icon {
 
-    > svg {
-        display: inline-block;
-        width: 16px;
-        height: 16px;
-        vertical-align: middle;
+  > svg {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    vertical-align: middle;
 
-        path {
-            fill: $color-grey-8;
-        }
+    path {
+      fill: $color-grey-8;
     }
+  }
 }

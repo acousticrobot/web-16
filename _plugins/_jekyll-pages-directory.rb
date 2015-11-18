@@ -24,6 +24,8 @@ module Jekyll
 
         end
       end
+      site.data['nav_pages'] = []
+      collect_nav_pages(site)
     end
 
     def extract_directory(filepath)
@@ -34,8 +36,15 @@ module Jekyll
         return ''
       end
     end
-  end
 
+    def collect_nav_pages(site)
+      site.pages.each do |page|
+        if page.data['nav_page']
+          site.data['nav_pages'] << page
+        end
+      end
+    end
+  end
 
   class PagesDirPage < Page
 

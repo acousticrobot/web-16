@@ -3,16 +3,31 @@ layout: default
 title: cv
 permalink: /cv/
 ---
+<section class="image-index">
 
-{% for cv in site.cv %}
-  <article class="cv-article">
-    <a href="{{ cv.site_url }}" class="cv-title">
-      <img src="/images/cv/{{ cv.thumb}}" alt="site thumnail">
-    </a>
+  {% for cv in site.cv %}
 
-    <h2><a href="{{ cv.site_url }}" class="cv-title"> {{cv.title}} </a></h2>
+  <article class="image-index__article">
 
-    {{cv.content}}
+    <div class="image-index__image">
+     <a href="{{ cv.site_url }}">
+       <img src="/images/cv/{{ cv.thumb}}" alt="site thumnail">
+     </a>
+    </div>
+
+    <div class="image-index__description">
+      <h2 class="image-index__description-title">
+       <a href="{{ cv.site_url }}">{{cv.title}}</a>
+      </h2>
+
+      <div class="image-index__description-text">
+        {{cv.content}}
+      </div>
+    </div>
 
   </article>
-{% endfor %}
+
+  {% endfor %}
+
+</section>
+

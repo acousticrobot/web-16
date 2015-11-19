@@ -1,0 +1,28 @@
+
+.image-index__article {
+  margin-bottom: $spacing-unit;
+  border-bottom: 1px solid $color-grey-8;
+  img {
+    float: left;
+    margin: 16px 15px 10px 0;
+  }
+}
+
+.image-index__image {}
+
+
+.image-index__description {}
+
+.image-index__description-title {
+  padding-top: 5px;
+}
+
+.image-index__description-text {
+
+}
+
+.image-index__description-item {
+  color: $color-gris-A;
+  margin-left: 5 * $spacing-unit;
+}
+

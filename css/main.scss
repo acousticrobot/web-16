@@ -45,7 +45,7 @@ $tablet-breakpoint:        800px;
 
 @mixin inverse {
   color: $color-gris-A;
-  background-color: $color-grey-8;
+  background-color: $color-grey-4;
   a {
     color: $color-action-inverse;
     &:hover {
@@ -65,8 +65,8 @@ $tablet-breakpoint:        800px;
 @import
         "base",
         "layout",
-        "syntax-highlighting",
-        "cv"
+        "syntax_highlighting",
+        "image_index"
 ;
 
 // for roadmap table:
@@ -94,3 +94,16 @@ table {
     }
   }
 }
+
+.clear {
+  clear: both;
+}
+
+.clear-left {
+  clear: left;
+}
+
+.clear-right {
+  clear: right;
+}
+

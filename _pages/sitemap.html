@@ -7,7 +7,9 @@ nav_page: true
 ---
 
 <section>
-  <header>Posts:</header>
+  <header>
+    <h2>Posts:</h2>
+  </header>
 
   <ul>
     {% for post in site.posts %}
@@ -21,20 +23,24 @@ nav_page: true
 </section>
 
 <section>
-  <header>Pages:</header>
+  <header>
+    <h2>Pages:</h2>
+  </header>
 
-  <ul>
-    {% for page in site.pages %}{% if page.index != false %}
-    <li>
-      <span><a href="{{ page.url | prepend: site.baseurl}}">
-        {% if page.title == nil %}
-        {{ page.url }}
-        {% else %}
-        {{ page.title }}
-        {% endif %}
-      </a></span>
-    </li>
-    {% endif %}{% endfor %}
-  </ul>
+  {% include page_list.html %}
+
+</section>
+
+<section>
+  <header>
+    <h2>Artworks:</h2>
+    <ul>
+    {% for artwork in site.artworks %}
+      <li>
+        <a href="{{ artwork.url }}">{{ artwork.id }} - <i>{{ artwork.title }}</i></a>
+      </li>
+    {% endfor %}
+    </ul>
+  </header>
 
 </section>

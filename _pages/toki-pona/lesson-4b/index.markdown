@@ -1,6 +1,6 @@
 ---
-date: 2012-01-14 00:19:50+00:00
-slug: lesson-4b
+date: 2012-01-14
+sitelen_lessons_index: 4
 title: 'Lesson 4b: Hieroglyphic Block Order'
 ---
 

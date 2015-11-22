@@ -1,6 +1,6 @@
 ---
-date: 2012-01-14 00:25:41+00:00
-slug: lesson-8
+date: 2012-01-14
+sitelen_lessons_index: 8
 title: 'Lesson 8: Negation and Yes/No Questions.'
 ---
 

@@ -1,6 +1,6 @@
 ---
-date: 2012-01-14 00:18:18+00:00
-slug: lesson-4
+date: 2012-01-14
+sitelen_lessons_index: 3
 title: 'Lesson 4: Direct Objects, Compound Sentences'
 ---
 

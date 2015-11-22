@@ -1,0 +1,18 @@
+{% assign page = include.page %}
+
+<article class="image-index__article">
+  <div class="image-index__image">
+    <a href="{{ page.url }}">
+     <img src="{{ page.thumb }}" alt="{{ page.title }}">
+    </a>
+  </div>
+  <div class="image-index__description">
+    <h2 class="image-index__description-title">
+      <a href="{{ page.url }}">{{page.title}}</a>
+    </h2>
+    <div class="image-index__description-text small-text">
+      {{ page.content | strip_html | truncate: 240, '...' }}
+    </div>
+  </div>
+  <div class="clear"></div>
+</article>

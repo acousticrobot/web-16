@@ -5,7 +5,7 @@
   status: pending
   archive_status:  done
   archive_url: /archive/2012/index.html
-  redirect_url: /index.html
+  redirect_url: /
 
 
 - page: archive
@@ -148,18 +148,17 @@
 
 - page: artworks/
 
-  rewrite_rule: true
+  rewrite_rule: false
   action: collection
-  status: pending
+  status: done
   archive_status: done
   archive_url: /archive/2012/artworks_index.html
-  redirect_url: /archive/2012/artworks_index.html
 
-- page: balloon-boy-interview/
+- page: artworks/balloon-boy-interview/
 
   rewrite_rule: true
   action: redesign
-  status: pending
+  status: done
   archive_status: done
   archive_url: /archive/2012/artworks_balloon-boy-interview.html
   redirect_url: /2012/balloon-boy-interview
@@ -169,7 +168,7 @@
 
   rewrite_rule: true
   action: redesign
-  status: pending
+  status: done
   archive_status: done
   archive_url: /archive/2012/artworks_jan-ante-intenasijonale.html
   redirect_url: /2012/jan-ante-intenasijonale
@@ -179,7 +178,7 @@
 
   rewrite_rule: true
   action: redesign
-  status: pending
+  status: done
   archive_status: done
   archive_url: /archive/2012/artworks_jan-telepi-jan-jaki.html
   redirect_url: /2012/jan-telepi-jan-jaki
@@ -188,8 +187,8 @@
 - page: artworks/laughton-mccry-gilgamesh-page-one
 
   rewrite_rule: true
-  action: redesign
-  status: pending
+  action: done
+  status: done
   archive_status: done
   archive_url: /archive/2012/artworks_laughton-mccry-gilgamesh-page-one.html
   redirect_url: /2012/laughton-mccry-gilgamesh-page-one
@@ -199,7 +198,7 @@
 
   rewrite_rule: true
   action: redesign
-  status: pending
+  status: done
   archive_status: done
   archive_url: /archive/2012/artworks_lipu-lawa-pi-esun-kama.html
   redirect_url: /2012/lipu-lawa-pi-esun-kama
@@ -208,18 +207,18 @@
 - page: artworks/rectifier
 
   rewrite_rule: true
-  action: redesign
-  status: pending
+  action: artwork only
+  status: done
   archive_status: done
   archive_url: /archive/2012/artworks_rectifier.html
-  redirect_url: /2012/rectifier
+  redirect_url: /artworks/t29_01.html
 
 
 - page: category/art125
 
   rewrite_rule: true
   action: archive
-  status: pending
+  status: done
   archive_status:  done
   archive_url: /archive/2012/category_art125.html
 
@@ -239,8 +238,8 @@
 - page: category/t29-2
 
   rewrite_rule: true
-  action: automate
-  status: pending
+  action: archive
+  status: done
   archive_status: done
   archive_url: /archive/2012/category_t29-2.html
   redirect_url: /archive/2012/category_t29-2.html
@@ -249,8 +248,8 @@
 - page: category/t47
 
   rewrite_rule: true
-  action: automate
-  status: pending
+  action: archive
+  status: done
   archive_status: done
   archive_url: /archive/2012/category_t47.html
   redirect_url: /archive/2012/category_t47.html
@@ -266,10 +265,10 @@
 
   rewrite_rule: true
   action: redesign
-  status: pending
+  status: done
   archive_status: done
   archive_url: /archive/2012/design.html
-  redirect_url: /archive/2012/design.html
+  redirect_url: /cv
 
 
 - page: design/92nd-street-y-summer-camps
@@ -478,17 +477,17 @@
   status: pending
   archive_status: done
   archive_url: /archive/2012/learn_t47.html
-  redirect_url: /archive/2012/learn_t47.html
+  redirect_url: /toki-pona/
 
 
 - page: learn/t47/dictionaries
 
   rewrite_rule: true
   action: redesign
-  status: pending
+  status: done
   archive_status: done
   archive_url: /archive/2012/learn_t47_dictionaries.html
-  redirect_url: /archive/2012/learn_t47_dictionaries.html
+  redirect_url: /toki-pona/dictionaries/
 
 
 - page: learn/t47/dictionaries/drawing_steps
@@ -498,27 +497,27 @@
   status: pending
   archive_status: done
   archive_url: /archive/2012/learn_t47_dictionaries_drawing_steps.html
-  redirect_url: /archive/2012/learn_t47_dictionaries_drawing_steps.html
+  redirect_url: /toki-pona/dictionaries/drawing-steps/
 
 
 - page: learn/t47/dictionaries/glyphs
 
   rewrite_rule: true
   action: redesign
-  status: pending
+  status: done
   archive_status: done
   archive_url: /archive/2012/learn_t47_dictionaries_glyphs.html
-  redirect_url: /archive/2012/learn_t47_dictionaries_glyphs.html
+  redirect_url: /toki-pona/dictionaries/glyphs/
 
 
 - page: learn/t47/dictionaries/syllabary
 
   rewrite_rule: true
   action: redesign
-  status: pending
+  status: done
   archive_status: done
   archive_url: /archive/2012/learn_t47_dictionaries_syllabary.html
-  redirect_url: /archive/2012/learn_t47_dictionaries_syllabary.html
+  redirect_url: /toki-pona/dictionaries/syllabary/
 
 
 - page: learn/t47/gallery
@@ -635,14 +634,14 @@
 
   rewrite_rule: true
   action: automate
-  status: pending
-
+  status: done
+  redirect_url: /links
 
 - page: links
 
-  rewrite_rule: true
+  rewrite_rule: false
   action: collection
-  status: pending
+  status: done
 
 
 - page: main-site-news/1189
@@ -713,86 +712,86 @@
 
 - page: media/digital
 
-  rewrite_rule: true
-  action: automate
-  status: pending
+  rewrite_rule: false
+  action: skip
+  status: done
 
 
 - page: media/electronic-equipment
 
-  rewrite_rule: true
-  action: automate
-  status: pending
+  rewrite_rule: false
+  action: skip
+  status: done
 
 
 - page: media/ink-on-paper
 
-  rewrite_rule: true
-  action: automate
-  status: pending
+  rewrite_rule: false
+  action: skip
+  status: done
 
 
 - page: media/organic-plants
 
-  rewrite_rule: true
-  action: automate
-  status: pending
+  rewrite_rule: false
+  action: skip
+  status: done
 
 
 - page: media/paper-pulp
 
-  rewrite_rule: true
-  action: automate
-  status: pending
+  rewrite_rule: false
+  action: skip
+  status: done
 
 
 - page: media/pencil-on-paper
 
-  rewrite_rule: true
-  action: automate
-  status: pending
+  rewrite_rule: false
+  action: skip
+  status: done
 
 
 - page: media/plastic-bins
 
-  rewrite_rule: true
-  action: automate
-  status: pending
+  rewrite_rule: false
+  action: skip
+  status: done
 
 
 - page: media/pumps
 
-  rewrite_rule: true
-  action: automate
-  status: pending
+  rewrite_rule: false
+  action: skip
+  status: done
 
 
 - page: media/synthetic-plants
 
-  rewrite_rule: true
-  action: automate
-  status: pending
+  rewrite_rule: false
+  action: skip
+  status: done
 
 
 - page: media/video
 
-  rewrite_rule: true
-  action: automate
-  status: pending
+  rewrite_rule: false
+  action: skip
+  status: done
 
 
 - page: media/water
 
-  rewrite_rule: true
-  action: automate
-  status: pending
+  rewrite_rule: false
+  action: skip
+  status: done
 
 
 - page: projects
 
   rewrite_rule: true
-  action: index
-  status: pending
+  action: archive
+  status: done
   archive_status: done
   archive_url: /archive/2012/projects.html
   redirect_url: /archive/2012/projects.html
@@ -801,8 +800,8 @@
 - page: projects/t29
 
   rewrite_rule: true
-  action: redesign
-  status: pending
+  action: archive
+  status: done
   archive_status: done
   archive_url: /archive/2012/projects_t29.html
   redirect_url: /archive/2012/projects_t29.html
@@ -811,8 +810,8 @@
 - page: projects/t47
 
   rewrite_rule: true
-  action: redesign
-  status: pending
+  action: archive
+  status: done
   archive_status: done
   archive_url: /archive/2012/projects_t47.html
   redirect_url: /archive/2012/projects_t47.html
@@ -851,20 +850,19 @@
 
 - page: recent
 
-  rewrite_rule: true
-  action: automate
-  status: pending
+  rewrite_rule: false
+  action: ignore
+  status: done
 
 
 - page: t47/human-sequel
 
   rewrite_rule: true
   action: redesign
-  status: pending
+  status: done
   archive_status: done
   archive_url: /archive/2012/t47_human-sequel.html
-  redirect_url: /archive/2012/t47_human-sequel.html
-
+  redirect_url: /2012/human-sequel/
 
 - page: tag/abstract-expressionism
 
@@ -1225,29 +1223,29 @@
 
 - page: year_made/2005
 
-  rewrite_rule: true
-  action: automate
-  status: pending
+  rewrite_rule: false
+  action: ignore
+  status: done
 
 
 - page: year_made/2009
 
-  rewrite_rule: true
-  action: automate
-  status: pending
+  rewrite_rule: false
+  action: ignore
+  status: done
 
 
 - page: year_made/2011
 
-  rewrite_rule: true
-  action: automate
-  status: pending
+  rewrite_rule: false
+  action: ignore
+  status: done
 
 
 - page: year_made/2012
 
-  rewrite_rule: true
-  action: automate
-  status: pending
+  rewrite_rule: false
+  action: ignore
+  status: done
 
 

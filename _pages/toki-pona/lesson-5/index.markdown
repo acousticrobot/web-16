@@ -1,6 +1,6 @@
 ---
-date: 2012-01-14 00:21:09+00:00
-slug: lesson-5
+date: 2012-01-14
+sitelen_lessons_index: 5
 title: 'Lesson 5: Modifiers'
 ---
 

@@ -29,8 +29,8 @@ nav_page: true
             <div class="image-index__description-item">
               {{ artwork.year_made }}
             </div>
-            <div class="image-index__description-text">
-              {{ artwork.content | strip_html | truncate: 140, '...' }}
+            <div class="image-index__description-text small-text">
+              {{ artwork.content | strip_html | truncate: 240, '...' }}
             </div>
           </div>
           <div class="clear"></div>

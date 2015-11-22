@@ -2,13 +2,11 @@
 date: 2012-08-01 18:27:07+00:00
 slug: human-sequel
 title: Human Sequel
-categories:
-- t47
 tags:
-- human
-- language
-- sequel
 - toki pona
+t_tags:
+- human
+- sequel
 ---
 
 ### Language is the Legacy of Humanity
@@ -42,7 +40,7 @@ so with a week or two of practice, anyone with the interest can also learn to wr
 
 In designing a visual writing system, it was important that the structure that held the individual glyphs together was not simply a linear string of drawings. For instance, while the individual glyphs in Egyptian hieroglyphics are interesting, the over-all composition is very similar to our modern linear alphabetic systems. One exception is the cartouche, where a royal name was encapsulated inside of a glyph.
 
-sitelen sitelen, which ambiguously translates as “drawn writing” or “written drawing” incorporates the cartouche, as well as many other non-linear principals from real-world logographic systems, such as Mayan, Chinese, and Micmac. It then pushes these principals further, until each sentence or paragraph can stand on its own as a discreet composed drawing. Want to see just how this works? Take a look at the [lessons](t47_lesson_01.html)!
+sitelen sitelen, which ambiguously translates as “drawn writing” or “written drawing” incorporates the cartouche, as well as many other non-linear principals from real-world logographic systems, such as Mayan, Chinese, and Micmac. It then pushes these principals further, until each sentence or paragraph can stand on its own as a discreet composed drawing. Want to see just how this works? Take a look at the [lessons](/toki-pona/)!
 
 
 

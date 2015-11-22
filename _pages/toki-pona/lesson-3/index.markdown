@@ -1,6 +1,6 @@
 ---
-date: 2012-01-14 00:13:59+00:00
-slug: lesson-3
+date: 2012-01-14
+sitelen_lessons_index: 2
 title: 'Lesson 3: Basic Sentences'
 ---
 

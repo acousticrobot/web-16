@@ -24,4 +24,8 @@ I realize that for the amount that I use my site, having it dependent on a datab
   * Artworks
   * Tags and categories
 
+## Features coming:
+
+ * comments
+
   

@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<header>
+  <h1 class="content__title">{{ page.title }}</h1>
+</header>
+
+{{ content }}
+
+<section class="image-dictionary{% if page.grouping != nil %} group-by-{{ page.grouping }}{% endif %}">
+  <div class="image-dictionary__centering-wrapper">
+
+    {% for def in page.definitions %}
+    <div class="image-dictionary__definition-block">
+      <div class="image-dictionary__image">
+        <img src="{{ def.image }}" alt="{{ def.text }}">
+      </div>
+      {% if def.hover_image != nil %}
+      <div class="image-dictionary__hover-image">
+        <img src="{{ def.hover_image }}" alt="{{ def.text }}">
+      </div>
+      {% endif %}
+      <div class="image-dictionary__text">
+        {{ def.text }}
+      </div>
+    </div>
+    {% endfor %}
+
+  <div class="clear"></div>
+  </div>
+
+</section>
+
+

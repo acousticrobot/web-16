@@ -10,7 +10,7 @@ nav_page: true
 
   {% for tag in site.data.all_tags %}
 
-    <h2 id="tag-{{tag[0]}}">{{ tag[0] }}</h2>
+    <h2 id="tag-{{tag[0]}}">{{ tag | first }}</h2>
 
     <ul>
       {% for page in tag[1] %}

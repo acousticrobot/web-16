@@ -2,14 +2,17 @@
 date: 2012-08-02 22:02:53+00:00
 slug: lipu-lawa-pi-esun-kama
 title: lipu lawa pi esun kama
-categories:
-- t47
 dimensions:
 - 11" x 14"
 media:
 - ink on paper
 tags:
 - toki pona
+- sitelen sitelen
+thumb: /images/t47/t47.100101_s.jpg
+t_tags:
+- human
+- sequel
 year_made:
 - '2009'
 ---
@@ -17,10 +20,11 @@ year_made:
 {: .wrapper--center-image}
 ![lipu lawa pi esun kama](/images/t47/t47.100101_m.jpg)
 
+[see it larger](/images/t47/t47.100101_l.jpg)
 
 ### lipu lawa pi esun kama: a contract for future sales
 
-[see it larger](/images/t47/t47.100101_l.jpg)
+_(See this original post in the archives [here](/archive/2012/artworks_lipu-lawa-pi-esun-kama.html). This includes a very thorough translation into English by Seth Schoen.)_
 
 This conceptual piece was born in the toki pona discussion forums where Matthew Martin (jan Mato) proposed writing up a sales contract in toki pona.  He reasoned that if contracts in foreign languages could be held valid, than one in an artificial language should be valid as well.  As a challenge, he asked if anyone wanted to sell him something using a toki pona contract.
 
@@ -77,7 +81,4 @@ I was going to translate word for word the contract here, but now I realize it's
 > jan pali: __________________  
 
   jan Josan
-
-
-
 

@@ -8,6 +8,7 @@
 
   * posts are grouped by year (to keep root level cleaner for uploading)
   * pages have their own folder _pages, which depends on the pages plugin
+  * removed categories, also projects
 
 ### Homepage
 
@@ -33,7 +34,7 @@ Default settings for posts, pages, and collections. **Note** There is a conflict
 
 ### Categories
 
-Categories in Jekyll are used bu default to configure the directory path for posts and pages. Need to override the default path in order to use them.
+Categories in Jekyll are used by default to configure the directory path for posts and pages. So far I haven't found a need to use them in addition to tags, so they were removed when found in the transfer files.
 
 ### Collections
 

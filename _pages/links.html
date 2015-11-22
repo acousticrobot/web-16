@@ -1,0 +1,27 @@
+---
+layout: default
+permalink: /links/
+title: external links
+nav_page: false
+---
+
+  <header>
+    <h2>external links</h2>
+  </header>
+
+  <section>
+  {% for linkset in site.links %}
+    <article>
+      <h3>{{ linkset.grouping }}</h3>
+      <p>{{ linkset.description }}</p>
+      <ul>
+        {% for link in linkset.links %}
+          <li><a href="{{ link.url }}">{{ link.title }}</a> {{ link.description }}</li>
+        {% endfor %}
+      </ul>
+    </article>
+  {% endfor %}
+  </section>
+
+
+

@@ -1,7 +1,9 @@
 ---
-date: 2012-01-14 00:34:30+00:00
-slug: lesson-9
+date: 2012-01-14
+sitelen_lessons_index: 9
 title: 'Lesson 9: Unofficial Words, Interjections, Commands'
+tags:
+- toki pona
 ---
     
 

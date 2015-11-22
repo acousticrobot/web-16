@@ -1,0 +1,54 @@
+---
+grouping: toki pona
+description: "links related to and language, toki pona, and hieroglyphics"
+
+links:
+  - title: jan Kipo's dictionary​
+    description: "a blogspot with a very detailed toki pona dictionary"
+    url: "http://tpnimi.blogspot.com/"
+
+  - title: jan Mato's toki pona resources​
+    description: "Many tools for analyzing and searching toki pona on the web"
+    url: "http://tokipona.net/tp/default.aspx"
+
+  - title: jan Pije's lessons
+    description: "Full lesson plan for learning the toki pona language"
+    url: "http://tokipona.net/tp/janpije/okamasona.php"
+
+  - title: official toki pona website​
+    description: "Sonja Elen Kisa’s wiki based toki pona website"
+    url: "http://en.tokipona.org/"
+
+  - title: toki pona forum​
+    description: "toki pona discussion board"
+    url: "http://forums.tokipona.org/"
+
+  - title: Baidu Dongba Albums​
+    description: "a gallery of Dongba (东巴）pictograms with English and Chinese translations (slow to load)​"
+    url: "http://baike.baidu.com/view/67586.htm"
+
+  - title: FAMSI​
+    description: "By far the best site on Maya hieroglyphic writing"
+    url: "http://www.famsi.org/mayawriting/index.html"
+
+  - title: First Nation Help​
+    description: "an example of Mi’kmak writing with sound files attached"
+    url: "http://firstnationhelp.com/ali/lordsprayer/"
+
+  - title: Mi'kmaq Spirit​
+    description: "An explanation of Mi’kmak writing, with examples"
+    url: "http://www.muiniskw.org/pgCulture4a.htm"
+
+  - title: omniglot​
+    description: "A good resource for writing systems in general"
+    url: "http://www.omniglot.com/writing/definition.htm"
+
+  - title: sitelen sitelen writer​
+    description: "You can type toki pona in here and get linear sitelen sitelen back out"
+    url: "http://tokipona.net/tp/SitelenSuwi.aspx"
+
+  - title: sitelen toki​
+    description: "An explanation of sitelen sitelen and other writing systems (in Polish)​"
+    url: "http://tokipl.wikidot.com/art-pisma"
+
+---

@@ -1,6 +1,6 @@
 ---
-date: 2012-01-14 00:24:19+00:00
-slug: lesson-7
+date: 2012-01-14
+sitelen_lessons_index: 7
 title: 'Lesson 7: Prepositions Part 2'
 ---
 

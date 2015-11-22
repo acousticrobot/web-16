@@ -1,6 +1,6 @@
 ---
-date: 2012-01-14 00:22:47+00:00
-slug: lesson-6
+date: 2012-01-14
+sitelen_lessons_index: 6
 title: 'Lesson 6: Prepositions Part 1'
 ---
 

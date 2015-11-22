@@ -1,5 +1,5 @@
 ---
-title: About
+title: about
 permalink: /about/
 metapage: true
 nav_page: true
@@ -21,8 +21,9 @@ You can contact me directly at: hello [at] jonathangabel [dot] com
   * {{ page.posts_count }} posts
   * {{ page.pages_count }} pages
   * {{ site.data.all_tags | size }} tags
-  * {{ site.data.old_sitemap | size }} old site pages
+  * {{ site.data.old_sitemap | size }} old site pages being redesigned
   * pages left requiring redesign: {{ page.archive_actions | size }}
+  * {{ page.artworks_count }} artwork pages
 
 ---
 
@@ -44,15 +45,12 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi recusandae moles
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa nobis laudantium reprehenderit dicta assumenda, id impedit minima beatae laborum commodi quisquam illum iste. Repellendus cum, consequuntur iste saepe quia excepturi.
 
+##### h5 - content subheader
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa nobis laudantium reprehenderit dicta assumenda, id impedit minima beatae laborum commodi quisquam illum iste. Repellendus cum, consequuntur iste saepe quia excepturi.
+
+
 #### code highlighting
-
-{% highlight ruby %}
-  page data: {{ this.data }}
-
-  {% for d in site.data %}
-  datum:  {{d}}
-  {% endfor %}
-{% endhighlight %}
 
 {% highlight ruby %}
 

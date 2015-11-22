@@ -102,6 +102,15 @@ h4 {
   }
 }
 
+h5 {
+  font-size: 1rem;
+  font-weight: 400;
+
+  @include media-query($tablet-breakpoint) {
+    font-size: 1.125rem;
+  }
+}
+
 /**
  * Links
  */

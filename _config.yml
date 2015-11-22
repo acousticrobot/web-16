@@ -29,6 +29,8 @@ collections:
     output: false
   links:
     output: false
+  projects:
+    output: false
   artworks:
     output: true
 

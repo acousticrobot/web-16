@@ -1,0 +1,59 @@
+.image-dictionary {
+  background-color: $color-white-D;
+}
+
+.image-dictionary__definition-block {
+  float: left;
+  margin: 4px;
+  position: relative;
+}
+
+.image-dictionary__image {
+}
+
+.image-dictionary__hover-image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 100;
+  visibility: hidden;
+}
+
+.image-dictionary__definition-block:hover {
+  .image-dictionary__hover-image {
+    visibility: visible;
+  }
+}
+
+.image-dictionary__text {
+  background-color: $color-white-C;
+  @extend .image-caption;
+}
+
+// for syllabary (5 across)
+.image-dictionary.group-by-5 {
+  .image-dictionary__centering-wrapper {
+    max-width: 460px;
+    margin: auto;
+  }
+  :nth-child(5n+6) {
+    @include media-query($tablet-breakpoint) {
+      clear: both;
+    }
+  }
+  .image-dictionary__text {
+    display: block;
+    height: 18px;
+    background-color: $color-clear;
+  }
+}
+
+
+// for step-by-step drawings (uneven sized images)
+.image-dictionary.group-by-3 {
+  .image-dictionary__image {
+    img {
+      height: 150px;
+    }
+  }
+}

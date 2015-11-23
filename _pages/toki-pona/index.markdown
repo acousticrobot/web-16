@@ -1,8 +1,9 @@
 ---
 layout: page
-date: 2012-01-13 16:47:57+00:00
+nav_page: true
 slug: t47_lessons_index
-title: sitelen sitelen pi toki pona
+title: sitelen sitelen
+permalink: /toki-pona/
 tags:
 - toki pona
 ---

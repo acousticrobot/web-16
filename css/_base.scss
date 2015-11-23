@@ -96,6 +96,7 @@ h3 {
 
 h4 {
   font-size: 1.125rem;
+  color: $color-brown-7;
 
   @include media-query($tablet-breakpoint) {
     font-size: 1.25rem;
@@ -103,11 +104,11 @@ h4 {
 }
 
 h5 {
-  font-size: 1rem;
+  font-size: .9rem;
   font-weight: 400;
 
   @include media-query($tablet-breakpoint) {
-    font-size: 1.125rem;
+    font-size: .95rem;
   }
 }
 

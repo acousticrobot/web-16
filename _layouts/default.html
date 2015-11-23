@@ -4,16 +4,16 @@
   {% include head.html %}
 
   <body {% if page.css_theme != nil %}class="theme-{{page.css_theme}}"{% endif %}>
-    <section class="wrapper--page {{page.style}}">
+    <section class="wrapper__page {{page.style}}">
 
       {% include header.html %}
 
-      <div class="wrapper--content {{page.style}}">
+      <div class="wrapper__content {{page.style}}">
       {{ content }}
       </div>
 
       {% if page.tags %}
-      <footer class="footer--tag-list">
+      <footer class="footer__tag-list">
           <span>See more on:</span>
 
           <ul>

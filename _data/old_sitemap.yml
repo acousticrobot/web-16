@@ -494,7 +494,7 @@
 
   rewrite_rule: true
   action: redesign
-  status: pending
+  status: done
   archive_status: done
   archive_url: /archive/2012/learn_t47_dictionaries_drawing_steps.html
   redirect_url: /toki-pona/dictionaries/drawing-steps/
@@ -524,10 +524,10 @@
 
   rewrite_rule: true
   action: redesign
-  status: pending
+  status: done
   archive_status: done
   archive_url: /archive/2012/learn_t47_gallery.html
-  redirect_url: /archive/2012/learn_t47_gallery.html
+  redirect_url: /toki-pona/dictionaries/gallery/
 
 
 - page: learn/t47/lesson-1

@@ -28,7 +28,10 @@
 .image-dictionary__text {
   background-color: $color-white-C;
   @extend .image-caption;
+  text-align: center;
 }
+
+// Grouping Modifiers:
 
 // for syllabary (5 across)
 .image-dictionary.group-by-5 {
@@ -49,11 +52,29 @@
 }
 
 
-// for step-by-step drawings (uneven sized images)
-.image-dictionary.group-by-3 {
+// for step-by-step drawings (uneven sized images) - fixed height for float
+
+.image-dictionary.group-by-height {
   .image-dictionary__image {
     img {
       height: 150px;
+      display: block;
+      margin: auto;
     }
+  }
+}
+
+// for glyph examples - restrain text under image.
+.image-dictionary.group-by-height-and-width {
+  @extend .image-dictionary.group-by-height;
+  .image-dictionary__centering-wrapper {
+    max-width: 625px;
+    margin: auto;
+  }
+  .image-dictionary__definition-block {
+    height: 220px;
+  }
+  .image-dictionary__text {
+    max-width: 120px;
   }
 }

@@ -17,7 +17,7 @@ year_made:
 - '2009'
 ---
 
-{: .wrapper--center-image}
+{: .wrapper__center-image}
 ![lipu lawa pi esun kama](/images/t47/t47.100101_m.jpg)
 
 [see it larger](/images/t47/t47.100101_l.jpg)

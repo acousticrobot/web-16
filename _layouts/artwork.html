@@ -3,7 +3,7 @@ layout: default
 ---
 
 <header>
-  <h1 class="content--title">{{ page.title }}</h1>
+  <h1 class="content__title">{{ page.title }}</h1>
 </header>
 
   <a href="{{ page.url_previous }}"><-- previous</a>
@@ -20,7 +20,7 @@ layout: default
   <p>media: {{ page.media }}</p>
 
   {% for image in page.images %}
-    <div class="wrapper--center-image">
+    <div class="wrapper__center-image">
       <img src="{{ image }}" alt="{{ page.title }}">
     </div>
   {% endfor %}

@@ -1,5 +1,5 @@
 ---
-title: about
+title: About This Site
 permalink: /about/
 metapage: true
 nav_page: true

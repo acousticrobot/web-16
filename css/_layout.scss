@@ -1,7 +1,7 @@
 /**
  * Wrappers
  */
-.wrapper--page, .wrapper--content, .wrapper--footer {
+.wrapper__page, .wrapper__content, .wrapper__footer {
 	margin-right: auto;
 	margin-left: auto;
 	padding-right: $spacing-unit / 4;
@@ -16,13 +16,13 @@
 	}
 }
 
-.wrapper--content {
+.wrapper__content {
 	background-color: $color-background-content;
 	padding-top: $spacing-unit;
 	padding-bottom: $spacing-unit * 2;
 }
 
-.wrapper--center-image {
+.wrapper__center-image {
 	width: 100%;
 	background-color: $color-white-D;
 	img {
@@ -32,7 +32,7 @@
 	}
 }
 
-.wrapper--footer-col {
+.wrapper__footer-col {
 	font-size: 15px;
 	color: $color-grey-8;
 	margin-left: -$spacing-unit / 2;
@@ -55,7 +55,7 @@
 	}
 }
 
-#site-header--nav {
+#site-header__nav {
 	ul {
 		margin: 0;
 		@include media-query($tablet-breakpoint) {
@@ -77,7 +77,7 @@
 	}
 }
 
-h1.site-header--title {
+h1.site-header__title {
 	font-size: 1.25rem;
 	line-height: 56px;
 	letter-spacing: -1px;
@@ -100,13 +100,13 @@ h1.site-header--title {
  * Main content (posts and pages)
  */
 
-.content--title {
+.content__title {
 	letter-spacing: -1px;
 	line-height: 1;
 	color: $color-accent;
 }
 
-.content--sub-title {
+.content__sub-title {
 	font-size: $small-font-size;
 	color: $color-grey-8;
 }
@@ -115,7 +115,7 @@ h1.site-header--title {
  * Site footers
  */
 
-.footer--tag-list {
+.footer__tag-list {
 	@include inverse;
 	overflow: hidden;
 	width: 100%;

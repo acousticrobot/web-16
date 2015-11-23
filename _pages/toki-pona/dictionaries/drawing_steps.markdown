@@ -1,6 +1,6 @@
 ---
 layout: image_dictionary
-grouping: 3
+grouping: height
 title: 'drawing dictionary: step by step'
 sitelen_dict_index: 3
 permalink: /toki-pona/dictionaries/drawing-steps/

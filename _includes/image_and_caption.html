@@ -1,0 +1,25 @@
+{% comment %}
+Output: image(s) with caption underneath
+Parameters:
+- image: url
+- caption: string for caption underneith
+
+* image can also be an array of images *
+{% endcomment %}
+
+
+{% assign images = include.image %}
+
+{% assign caption = include.caption %}
+
+<div class="image-with-caption__centering-wrapper">
+  <div class="image-with-caption">
+    <div class="image-with-caption__image-block">
+      {% for image in images %}
+      <img src="{{ image }}" alt="{{ caption }}">
+      {% endfor %}
+    </div>
+    <div class="image-with-caption__caption-block">{{ caption }}</div>
+  </div>
+</div>
+

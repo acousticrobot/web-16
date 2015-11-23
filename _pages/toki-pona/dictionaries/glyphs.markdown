@@ -1,5 +1,5 @@
 ---
-layout: image_dictionary
+layout: dictionary
 title: the pictographic word dictionary
 sitelen_dict_index: 0
 permalink: /toki-pona/dictionaries/glyphs/

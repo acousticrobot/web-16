@@ -193,7 +193,7 @@ h1.site-header__title {
 	}
 }
 
-@include media-query-smaller-than($handheld-breakpoint) {
+@include media-query-smaller-than($mobile-breakpoint) {
 	.footer-col {
 		float: none;
 		width: -webkit-calc(100% - (#{$spacing-unit} / 2));

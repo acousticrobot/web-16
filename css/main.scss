@@ -21,13 +21,13 @@ $spacing-unit:     2rem;
 $spacing-unit-bottom: $spacing-unit / 2;
 
 // Design mobile first, override with breakpoints:
-$handheld-breakpoint:          600px;
+$mobile-breakpoint:          600px;
 $tablet-breakpoint:        800px;
 
 
 
 // Use media queries like this:
-// @include media-query($handheld-breakpoint) {
+// @include media-query($mobile-breakpoint) {
 //     .wrapper {
 //         padding-right: $spacing-unit / 2;
 //         padding-left: $spacing-unit / 2;
@@ -62,22 +62,13 @@ $tablet-breakpoint:        800px;
   }
 }
 
-
-// Import partials from `sass_dir` (defaults to `_sass`)
-@import
-        "base",
-        "layout",
-        "syntax_highlighting",
-        "image_index",
-        "image_dictionary"
-;
-
 .small-text {
   font-size: $small-font-size;
 }
 
-.image-caption {
+.caption {
   font-size: .75rem;
+  margin: 0 auto 1rem auto;
   font-family: $monospace-font-family;
   color: $color-gris-9;
 }
@@ -94,8 +85,19 @@ $tablet-breakpoint:        800px;
   clear: right;
 }
 
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+        "base",
+        "layout",
+        "syntax_highlighting",
+        "image_index",
+        "image_dictionary",
+        "image_with_caption"
 
-// for roadmap table:
+;
+
+
+// for roadmap table (temporary):
 
 table {
   font-size: $small-font-size;

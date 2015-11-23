@@ -1,5 +1,4 @@
 ---
-date: 2012-01-13
 title: 'Lesson 1: Welcome'
 layout: page
 sitelen_lessons_index: 0

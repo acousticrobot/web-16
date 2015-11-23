@@ -1,5 +1,5 @@
 ---
-layout: image_dictionary
+layout: dictionary
 grouping: 5
 title: the syllabary
 sitelen_dict_index: 1

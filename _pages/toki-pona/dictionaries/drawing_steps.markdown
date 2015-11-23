@@ -1,5 +1,5 @@
 ---
-layout: image_dictionary
+layout: dictionary
 grouping: height
 title: 'drawing dictionary: step by step'
 sitelen_dict_index: 3

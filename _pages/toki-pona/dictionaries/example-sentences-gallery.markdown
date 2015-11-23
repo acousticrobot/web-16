@@ -1,5 +1,5 @@
 ---
-layout: image_dictionary
+layout: dictionary
 grouping: height-and-width
 title: Example Sentences Gallery
 sitelen_dict_index: 4

@@ -1,17 +1,20 @@
----
-layout: default
----
+{% comment %}
+Output: image/definition style gallery
+Parameters:
+- definitions (array):
+    - image: image url
+    - hover-image: (optional) on-hover image replacement
+    - text: definintion text
+- grouping: (optional) string for modifying css grouping with .group-by-{{grouping}}
+{% endcomment %}
 
-<header>
-  <h1 class="content__title">{{ page.title }}</h1>
-</header>
+{% assign definitions = include.definitions %}
+{% assign grouping = include.grouping %}
 
-{{ content }}
-
-<section class="image-dictionary{% if page.grouping != nil %} group-by-{{ page.grouping }}{% endif %}">
+<section class="image-dictionary{% if grouping != nil %} group-by-{{ grouping }}{% endif %}">
   <div class="image-dictionary__centering-wrapper">
 
-    {% for def in page.definitions %}
+    {% for def in definitions %}
     <div class="image-dictionary__definition-block">
       <div class="image-dictionary__image">
         <img src="{{ def.image }}" alt="{{ def.text }}">
@@ -31,5 +34,3 @@ layout: default
   </div>
 
 </section>
-
-

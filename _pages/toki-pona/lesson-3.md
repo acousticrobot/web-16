@@ -1,9 +1,9 @@
 ---
 title: 'Lesson 3: Basic Sentences'
-layout: page
+layout: page_toki
 sitelen_lessons_index: 2
-tags: 
-- t47
+permalink: /toki-pona/lesson-3/
+
 new_vocab_definitions:
 - image: "/images/t47_tokipona/t47_nimi/t47_nimi_jan.jpg"
   text: jan   

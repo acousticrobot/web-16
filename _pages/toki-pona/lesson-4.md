@@ -1,30 +1,14 @@
 ---
-date: 2012-01-14
-sitelen_lessons_index: 3
 title: 'Lesson 4: Direct Objects, Compound Sentences'
+layout: page_toki
+sitelen_lessons_index: 3
+permalink: /toki-pona/lesson-4/ 
 ---
-
-
-
 
 ## Lesson 4: Direct Objects, Compound Sentences
 
+In this lesson, we add direct objects to our sentences, and learn to work with compound verbs. 
 
-
-
-In this lesson, we add direct objects to our sentences, and learn to work with compound verbs. We will use the same vocabulary that you'll find jan Pije’s[ lesson 4](http://bknight0.myweb.uga.edu/toki/lesson/lesson4.html).
-
-
-
-
-
-
-
-
-
-
-
-    
 
 ![ilo](/images/t47_tokipona/t47_nimi/t47_nimi_ilo.jpg)
 

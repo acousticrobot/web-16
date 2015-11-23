@@ -1,17 +1,13 @@
 ---
 title: 'Lesson 1: Welcome'
-layout: page
+layout: page_toki
 sitelen_lessons_index: 0
-tags: 
-- t47
+permalink: /toki-pona/lesson-1/
 ---
 
+{% include image_and_caption.html image="/images/t47_tokipona/tokisona/tokisona21.jpg" caption="wile sona li mute e sona." %}
+
 ### toki pona
-
-![Introduction](/images/t47_tokipona/tokisona/tokisona21.jpg)
-
-{: .image-caption}
-wile sona li mute e sona.
 
 toki pona lends itself quite well to a hieroglyphic script because of its minimal vocabulary and its emphasis on simplicity. The language itself is in a state of flux, as Sonja began in 2009 to update the [official toki pona website](http://tokipona.org/), and has not yet finished. There is also a [toki pona forum](http://forums.tokipona.org/), where people who speak toki pona or are learning go to discuss the language.
 
@@ -21,12 +17,9 @@ If you are new to toki pona, you should follow these lessons along with the on-l
 
 In toki pona, _sitelen_ can mean both drawing and writing.  John Clifford proposed _sitelen sitelen_ as a good way to say _hieroglyphic_ using toki pona.  I have also referred to this drawing process as _sitelen suwi_, or sweet drawing, because of its emphasis on appealing curves and shapes.
 
+{% include image_and_caption.html image="/images/t47_tokipona/tokisona/tokisona03.jpg" caption="mi pona e ale mi la mi pona e mi." %}
+
 #### personal style
-
-![Introduction](/images/t47_tokipona/tokisona/tokisona03.jpg)
-
-{: .image-caption}
-mi pona e ale mi la mi pona e mi.
 
 If you think that you can't draw well enough to do this, don't worry. Just draw the image to your own ability and with your own style. It is not important that it looks like my drawing, just that it doesn't look like any of the other glyphs. As you learn them, you will see they can change quite a bit and still remain distinct from one another. It is also permissible to use a simplified version of the glyph that is still easily readable. It can be used when writing in small or tight spaces, or if you just want to make your drawn sentences pona mute. 
 

@@ -1,8 +1,8 @@
----
-layout: page
-date: 2012-01-13
-sitelen_lessons_index: 1
 title: 'Lesson 2: Writing Syllables'
+layout: page_toki
+sitelen_lessons_index: 1 
+permalink: /toki-pona/lesson-2/
+
 consonant_definitions:
 - image: "/images/t47_tokipona/t47_kalalili/t47_kalalili_xx.jpg"
   text: "()"
@@ -319,19 +319,15 @@ As you look though the syllabary, you will see several syllables that are toki p
 
 Other multi-syllable words can be created simply by adding syllables together:
 
-![glyph](/images/t47_tokipona/t47_kamasona/t47_kaso_02_01.jpg)
-toki
+{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso_02_01.jpg" caption="toki" %}
 
-
-![glyph](/images/t47_tokipona/t47_kamasona/t47_kaso_02_02.jpg)
-pona
-
+{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso_02_02.jpg" caption="pona" %}
 
 #### changing size
 
 As we progress through the following chapters, you will notice that some glyphs can change in order to fill in spaces of differing size. This is true for the syllable glyphs as well:
 
-![glyph](/images/t47_tokipona/t47_kamasona/t47_kaso_02_03.jpg)
+{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso_02_03.jpg" caption="o ante e kulupu lili" %}
 
 ### Time to play around
 

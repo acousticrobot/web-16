@@ -534,30 +534,30 @@
 
   rewrite_rule: true
   action: redesign
-  status: pending
+  status: done
   archive_status: done
   archive_url: /archive/2012/learn_t47_lesson-1.html
-  redirect_url: /archive/2012/learn_t47_lesson-1.html
+  redirect_url: /toki-pona/lesson-1/
 
 
 - page: learn/t47/lesson-2
 
   rewrite_rule: true
   action: redesign
-  status: pending
+  status: done
   archive_status: done
   archive_url: /archive/2012/learn_t47_lesson-2.html
-  redirect_url: /archive/2012/learn_t47_lesson-2.html
+  redirect_url: /toki-pona/lesson-2/
 
 
 - page: learn/t47/lesson-3
 
   rewrite_rule: true
   action: redesign
-  status: pending
+  status: done
   archive_status: done
   archive_url: /archive/2012/learn_t47_lesson-3.html
-  redirect_url: /archive/2012/learn_t47_lesson-3.html
+  redirect_url: /toki-pona/lesson-3/
 
 
 - page: learn/t47/lesson-4
@@ -567,7 +567,7 @@
   status: pending
   archive_status: done
   archive_url: /archive/2012/learn_t47_lesson-4.html
-  redirect_url: /archive/2012/learn_t47_lesson-4.html
+  redirect_url: /toki-pona/lesson-4/
 
 
 - page: learn/t47/lesson-4b
@@ -577,7 +577,7 @@
   status: pending
   archive_status: done
   archive_url: /archive/2012/learn_t47_lesson-4b.html
-  redirect_url: /archive/2012/learn_t47_lesson-4b.html
+  redirect_url: /toki-pona/lesson-4b/
 
 
 - page: learn/t47/lesson-5
@@ -587,7 +587,7 @@
   status: pending
   archive_status: done
   archive_url: /archive/2012/learn_t47_lesson-5.html
-  redirect_url: /archive/2012/learn_t47_lesson-5.html
+  redirect_url: /toki-pona/lesson-5/
 
 
 - page: learn/t47/lesson-6
@@ -597,7 +597,7 @@
   status: pending
   archive_status: done
   archive_url: /archive/2012/learn_t47_lesson-6.html
-  redirect_url: /archive/2012/learn_t47_lesson-6.html
+  redirect_url: /toki-pona/lesson-6/
 
 
 - page: learn/t47/lesson-7
@@ -607,7 +607,7 @@
   status: pending
   archive_status: done
   archive_url: /archive/2012/learn_t47_lesson-7.html
-  redirect_url: /archive/2012/learn_t47_lesson-7.html
+  redirect_url: /toki-pona/lesson-7/
 
 
 - page: learn/t47/lesson-8
@@ -617,7 +617,7 @@
   status: pending
   archive_status: done
   archive_url: /archive/2012/learn_t47_lesson-8.html
-  redirect_url: /archive/2012/learn_t47_lesson-8.html
+  redirect_url: /toki-pona/lesson-8/
 
 
 - page: learn/t47/lesson-9
@@ -627,7 +627,7 @@
   status: pending
   archive_status: done
   archive_url: /archive/2012/learn_t47_lesson-9.html
-  redirect_url: /archive/2012/learn_t47_lesson-9.html
+  redirect_url: /toki-pona/lesson-9/
 
 
 - page: learn/t47/links

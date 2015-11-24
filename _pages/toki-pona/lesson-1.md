@@ -1,6 +1,6 @@
 ---
 title: 'Lesson 1: Welcome'
-layout: page_toki
+layout: page
 permalink: /toki-pona/lesson-1/
 
 sitelen_lessons_index: 0

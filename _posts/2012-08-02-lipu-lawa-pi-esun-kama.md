@@ -15,6 +15,7 @@ t_tags:
 - sequel
 year_made:
 - '2009'
+excerpt: This conceptual piece was born in the toki pona discussion forums where Matthew Martin (jan Mato) proposed writing up a sales contract in toki pona.  He reasoned that if contracts in foreign languages could be held valid, than one in an artificial language should be valid as well.  As a challenge, he asked if anyone wanted to sell him something using a toki pona contract.
 ---
 
 {: .wrapper__center-image}

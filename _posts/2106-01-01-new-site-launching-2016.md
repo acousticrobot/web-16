@@ -4,7 +4,7 @@ excerpt: I've simplified this site greatly, but added a bunch of features in the
 slug: new-site-launching
 title: New Site Launching for 2016
 tags:
-- new
+- featured
 ---
 
 ## Why I changed the site

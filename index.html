@@ -4,8 +4,14 @@ title: homepage
 ---
 
 <header>
-<h1 class="content-title">homepage</h1>
+<h1 class="content-title">Featured Pages:</h1>
 </header>
+
+<section id="new">
+  {% for page in site.data.all_tags['featured'] %}
+  {% include image_index.html page=page %}
+  {% endfor %}
+</section>
 
 <section id="metapages">
   <h2>MetaPages:</h2>
@@ -24,15 +30,6 @@ title: homepage
       </span>
     </li>
   {% endif %}
-  {% endfor %}
-</section>
-
-<section id="new">
-  <h2>New On the Site:</h2>
-
-  {% for page in site.data.all_tags['new'] %}
-  <a href="{{ page.url | prepend: site.baseurl}}">{{ page.title }}</a>
-  {{ page.excerpt }}
   {% endfor %}
 </section>
 

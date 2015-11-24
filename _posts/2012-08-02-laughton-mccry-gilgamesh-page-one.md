@@ -13,6 +13,7 @@ t_tags:
 - sequel
 year_made:
 - '2012'
+excerpt: I can't say how excited I was when I got a link to this image in an email. Not only is jan Ote's translation of Gilgamesh into toki pona probably my favorite toki pona text to date, but this adaptation of my sitelen sitelen by Laughton McCry is just absolutely beautiful.
 ---
 
 ### artwork by [Laugton McCry](http://mrmccry.deviantart.com/#/d4vazo4), toki pona translation by [jan Ote](http://tokipl.wikidot.com/tptext:jan-kikamesi-1)

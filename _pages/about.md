@@ -1,10 +1,12 @@
 ---
-title: About This Site
+title: About
 permalink: /about/
 metapage: true
 nav_page: true
 layout: page
 ---
+
+#####  About This Site
 
 This is the website of Jonathan Gabel.
 

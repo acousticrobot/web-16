@@ -1,14 +1,16 @@
 ---
-title: "sitelen sitelen"
+title: sitelen sitelen
 layout: page
 sub_nav: false
 slug: t47_lessons_index
 permalink: /toki-pona/
 tags:
+- featured
 - toki pona
+excerpt: <em>O kama pona! sina ken kama sona e sitelen sitelen lon lipu ni.</em><br><p>Learn how to write in the hieroglyphic blocks known as sitelen sitelen. This is a system of non-linear writing you can use to free your mind or break from regular thought. Here you will find all the lessons for writing toki pona using sitelen sitelen, plus glyph dictionaries and plenty of examples, including sitelen sitelen drawn by others.</p>
 ---
 
-O kama pona! sina ken kama sona e sitelen sitelen lon lipu ni.
+_O kama pona! sina ken kama sona e sitelen sitelen lon lipu ni._
 
 Learn how to write in the hieroglyphic blocks known as sitelen sitelen.  This is a system of non-linear writing you can use to free your mind or break from regular thought.
 

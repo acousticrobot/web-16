@@ -13,6 +13,7 @@ t_tags:
 - sequel
 year_made:
 - '2011'
+excerpt: This is jan Ante's sitelen sitelen using his own translation of L'Internationale. He has his own take on how <em>li</em> could be used as a red band right down the middle of the image, separating the subject from the rest of the sentence. 
 ---
 
 ### artwork by jan Ante, from his translation of **L'Internationale**

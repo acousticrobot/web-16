@@ -13,6 +13,7 @@ t_tags:
 - sequel
 year_made:
 - '2012'
+excerpt: Here's a humorous and dark image by jan Telepi. It's a rather free-form take on sitelen sitelen, with much of the emphasis placed on fleshing out the character of each of the glyphs.
 ---
 
 ### artwork by jan Telepi

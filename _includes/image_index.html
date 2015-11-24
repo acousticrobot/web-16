@@ -15,10 +15,16 @@ Parameters:
 
 {% assign page = include.page %}
 
+{% if page.thumb == nil %}
+{% assign thumb = "/images/nav/web16_thumb.png" %}
+{% else %}
+{% assign thumb = page.thumb %}
+{% endif %}
+
 <article class="image-index__article">
   <div class="image-index__image">
     <a href="{{ page.url }}">
-     <img src="{{ page.thumb }}" alt="{{ page.title }}">
+     <img src="{{ thumb }}" alt="{{ page.title }}">
     </a>
   </div>
   <div class="image-index__description">
@@ -26,7 +32,11 @@ Parameters:
       <a href="{{ page.url }}">{{page.title}}</a>
     </h2>
     <div class="image-index__description-text small-text">
+      {% if page.excerpt != nil %}
+      {{ page.excerpt }}
+      {% else %}
       {{ page.content | strip_html | truncate: 240, '...' }}
+      {% endif %}
     </div>
   </div>
   <div class="clear"></div>

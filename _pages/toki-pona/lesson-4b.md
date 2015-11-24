@@ -1,7 +1,11 @@
 ---
-date: 2012-01-14
-sitelen_lessons_index: 4
 title: 'Lesson 4b: Hieroglyphic Block Order'
+layout: page
+permalink: /toki-pona/lesson-4b/
+
+sitelen_lessons_index: 4
+url_previous: /toki-pona/lesson-4/
+url_next: /toki-pona/lesson-5/
 ---
 
 ### Block arrangements

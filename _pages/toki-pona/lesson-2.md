@@ -1,6 +1,6 @@
 ---
 title: 'Lesson 2: Writing Syllables'
-layout: page_toki
+layout: page
 permalink: /toki-pona/lesson-2/
 
 sitelen_lessons_index: 1 

@@ -52,8 +52,19 @@ defaults:
       comments: false
   -
     scope:
+      path: "toki-pona"
+      type: "pages"
+    values:
+      sub_nav: true
+      sub_nav_term_for: "lesson"
+      url_up: /toki-pona/
+  -
+    scope:
       path: ""
       type: "artworks"
     values:
       layout: artwork
       artist: self
+      sub_nav: true
+      sub_nav_term_for: "artwork"
+      url_up: /artworks/

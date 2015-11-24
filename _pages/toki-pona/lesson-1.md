@@ -1,8 +1,10 @@
 ---
 title: 'Lesson 1: Welcome'
 layout: page_toki
-sitelen_lessons_index: 0
 permalink: /toki-pona/lesson-1/
+
+sitelen_lessons_index: 0
+url_next: /toki-pona/lesson-2/ 
 ---
 
 {% include image_and_caption.html image="/images/t47_tokipona/tokisona/tokisona21.jpg" caption="wile sona li mute e sona." %}

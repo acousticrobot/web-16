@@ -1,8 +1,8 @@
 ---
+title: "sitelen sitelen"
 layout: page
-nav_page: true
+sub_nav: false
 slug: t47_lessons_index
-title: sitelen sitelen
 permalink: /toki-pona/
 tags:
 - toki pona

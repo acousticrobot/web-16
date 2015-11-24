@@ -1,7 +1,11 @@
+---
 title: 'Lesson 2: Writing Syllables'
 layout: page_toki
-sitelen_lessons_index: 1 
 permalink: /toki-pona/lesson-2/
+
+sitelen_lessons_index: 1 
+url_previous: /toki-pona/lesson-1/
+url_next: /toki-pona/lesson-3/
 
 consonant_definitions:
 - image: "/images/t47_tokipona/t47_kalalili/t47_kalalili_xx.jpg"

@@ -4,9 +4,12 @@
   {% include head.html %}
 
   <body {% if page.css_theme != nil %}class="theme-{{page.css_theme}}"{% endif %}>
+
+
     <section class="wrapper__page {{page.style}}">
 
       {% include header.html %}
+      {% include sub_nav.html %}
 
       <div class="wrapper__content {{page.style}}">
       {{ content }}
@@ -27,6 +30,7 @@
       </footer>
       {% endif %}
 
+      {% include sub_nav.html %}
       {% include footer.html %}
 
     </section>

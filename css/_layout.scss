@@ -69,6 +69,7 @@
 	  text-align: center;
 	  border-bottom: 1px solid $color-gris-E;
   	@include media-query($tablet-breakpoint) {
+  		border-bottom: none;
   		font-size: .75rem;
   		clear: none;
       float: right;

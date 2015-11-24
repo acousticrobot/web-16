@@ -1,0 +1,13 @@
+{% if page.sub_nav == true %}
+<nav class="sub-nav__nav-bar">
+  {% if page.url_previous %}
+  <div class="sub-nav__left-nav-button"><a href="{{ page.url_previous }}">previous {{ page.sub_nav_term_for }}</a></div>
+  {% endif %}
+  {% if page.url_next %}
+  <div class="sub-nav__right-nav-button"><a href="{{ page.url_next }}">next {{ page.sub_nav_term_for }}</a></div>
+  {% endif %}
+  {% if page.url_up %}
+   <div class="sub-nav__middle-nav-button"><a href="{{ page.url_up }}">index of {{ page.sub_nav_term_for | pluralize }}s</a></div>
+  {% endif %}
+</nav>
+{% endif %}

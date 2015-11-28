@@ -13,25 +13,5 @@ title: homepage
   {% endfor %}
 </section>
 
-<section id="metapages">
-  <h2>MetaPages:</h2>
-  <p>We're starting to get somewhere. Here are the pages related to getting this site up and running:</p>
-  {% for page in site.pages %}
-  {% if page.metapage == true %}
-    <li>
-      <span>
-        <a href="{{ page.url | prepend : site.baseurl }}">
-          {% if page.title == nil %}
-              {{ page.url }}
-            {% else %}
-              {{ page.title }}
-          {% endif %}
-        </a>
-      </span>
-    </li>
-  {% endif %}
-  {% endfor %}
-</section>
-
 
 

@@ -3,9 +3,15 @@
 }
 
 .image-with-caption {
+  margin-top: $spacing-unit;
 }
 
 .image-with-caption__image-block {
+  img {
+    @include media-query($mobile-breakpoint) {
+      padding: 0 8%;
+    }
+  }
 }
 
 .image-with-caption__caption-block {

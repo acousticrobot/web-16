@@ -2,7 +2,7 @@
 
   rewrite_rule: false
   action: redesign
-  status: pending
+  status: done
   archive_status:  done
   archive_url: /archive/2012/index.html
   redirect_url: /
@@ -142,7 +142,7 @@
 
 - page: arts/status-japanese-fart-scroll
 
-  action: transfer
+  action: collection
   status: done
 
 
@@ -187,7 +187,7 @@
 - page: artworks/laughton-mccry-gilgamesh-page-one
 
   rewrite_rule: true
-  action: done
+  action: redesign
   status: done
   archive_status: done
   archive_url: /archive/2012/artworks_laughton-mccry-gilgamesh-page-one.html
@@ -474,7 +474,7 @@
 
   rewrite_rule: true
   action: redesign
-  status: pending
+  status: done
   archive_status: done
   archive_url: /archive/2012/learn_t47.html
   redirect_url: /toki-pona/
@@ -564,7 +564,7 @@
 
   rewrite_rule: true
   action: redesign
-  status: pending
+  status: done
   archive_status: done
   archive_url: /archive/2012/learn_t47_lesson-4.html
   redirect_url: /toki-pona/lesson-4/
@@ -574,7 +574,7 @@
 
   rewrite_rule: true
   action: redesign
-  status: pending
+  status: done
   archive_status: done
   archive_url: /archive/2012/learn_t47_lesson-4b.html
   redirect_url: /toki-pona/lesson-4b/
@@ -584,7 +584,7 @@
 
   rewrite_rule: true
   action: redesign
-  status: pending
+  status: done
   archive_status: done
   archive_url: /archive/2012/learn_t47_lesson-5.html
   redirect_url: /toki-pona/lesson-5/
@@ -594,7 +594,7 @@
 
   rewrite_rule: true
   action: redesign
-  status: pending
+  status: done
   archive_status: done
   archive_url: /archive/2012/learn_t47_lesson-6.html
   redirect_url: /toki-pona/lesson-6/
@@ -604,7 +604,7 @@
 
   rewrite_rule: true
   action: redesign
-  status: pending
+  status: done
   archive_status: done
   archive_url: /archive/2012/learn_t47_lesson-7.html
   redirect_url: /toki-pona/lesson-7/
@@ -614,7 +614,7 @@
 
   rewrite_rule: true
   action: redesign
-  status: pending
+  status: done
   archive_status: done
   archive_url: /archive/2012/learn_t47_lesson-8.html
   redirect_url: /toki-pona/lesson-8/
@@ -624,7 +624,7 @@
 
   rewrite_rule: true
   action: redesign
-  status: pending
+  status: done
   archive_status: done
   archive_url: /archive/2012/learn_t47_lesson-9.html
   redirect_url: /toki-pona/lesson-9/

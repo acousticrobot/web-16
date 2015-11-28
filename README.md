@@ -1,30 +1,54 @@
-## Roadmap
+This README is really more a list of notes to myself than anything I'm trying to document for others. If anything here is useful to you though, I'm happy to share, and the site itself is all under the [Attribution-NonCommercial-ShareAlike 4.0 International license](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+
+## Pre-Transfer Roadmap
 
  * ~~Store old archive~~
- * Finish copies of old pages, update in data
- * Define index pages and build link lists
+ * ~~Finish copies of old pages, update in data~~
+ * run through lessons one more time, check for errors.
+ * ~~Define index pages and build link lists~~
+  * ~~Artworks~~
+  * ~~Lessons~~
+* Add sitelen sitelen fanart from emails 
+* Add comments
+* ~~Add license~~
+* change the url in htaccess (remove `new.`)
 
 ## Architecture
 
   * posts are grouped by year (to keep root level cleaner for uploading)
   * pages have their own folder _pages, which depends on the pages plugin
   * removed categories, also projects
+  * Thumnails are 150 x 150
 
 ### Homepage
 
-  * currently has a metapage section for development, this could change into nav links
-  * lists all pages tagged as 'new'
-
-### Page Structure?
-
-both archived sites had structure: projects/t47 etc.
-
-maybe?
-
-Categories (toki pona etc.) has index page with custom organization. 
-Tags -- collected on tags page(s) for cross reference.
+  * Displays all posts and pages tagged as **"featured"**
 
 ## Jekyll Usage Notes
+
+### Frontmatter
+
+#### slug
+
+If pages need to be uniquely identified, give them a slug. Slugs in use:
+
+  * `t47_lessons_index` - used for indexing everything sitelen sitelen
+
+#### nav_page:
+
+Set to true in order to have the page show up in the nav bar
+
+#### sub_nav
+
+Set to true to turn on sub nav (prevous | index | next)
+
+Each link is optional, in order to have links appear, use the following additional frontmatter keys:
+
+  * `sub_nav_term_for` - example: "artwork" => "previous artwork"
+  * `url_previous` - for previous link
+  * `url_up` - for index link
+  * `url_next` - for next link
 
 ### Defaults
 
@@ -59,34 +83,21 @@ Located in `_plugins`. Order is important -- use flags:
 
 Quick liquid reference:
 
-#### Creating classes
 
-    {: .special}
-    ![a](/images/t47_tokipona/t47_nimi/t47_nimi_a.jpg)
+#### Custom Image Styling
 
-    a
+Centering image:
 
-will generate:
+    {: .wrapper__center-image}
+    ![lipu lawa pi esun kama](/images/t47/t47.100101_m.jpg)
 
-    <p class="special"><img src="/images/t47_tokipona/t47_nimi/t47_nimi_a.jpg" alt="a"></p>
-    <p>a</p>
 
-### Upload strategy
+Image with a single caption:
 
-Strategy in the works...
-From git commit
+    {% include image_and_caption.html image="/images/t47_tokipona/tokisona/tokisona21.jpg" caption="wile sona li mute e sona." %}
 
-  * Images - not in source control sync changes files:
-    * /images
-    * /archive/2012/images
-    * /archive/2007/images  
-  * Changed pages with each git commit
+Using two images:
 
-## Legacy
-
-### Galleria tag:
-
-I used to handle creating a slide show with multiple images this way (example from 2012-08-01-balloon-boy-interview.md)
-
-[galleria dir="/images/t47/" prefix="t47."]09001**8[/galleria]
+    {% assign image_set="/images/t47_tokipona/t47_kamasona/t47_kaso03_03.jpg|"/images/t47_tokipona/t47_kamasona/t47_kaso03_04.jpg" | split: "|" %}
+    {% include image_and_caption.html image=image_set caption="sina suli." %}
 

@@ -16,9 +16,12 @@
 }
 
 .sub-nav__middle-nav-button {
-  margin: 0 auto;
-  width: 100%;
   text-align: center;
+  clear: both;
+  @include media-query($tablet-breakpoint) {
+    height: 0;
+    transform: translate(0, -23px);
+  }
 }
 
 .sub-nav__right-nav-button {

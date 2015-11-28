@@ -4,6 +4,7 @@ layout: page
 sub_nav: false
 slug: t47_lessons_index
 permalink: /toki-pona/
+thumb: /images/nav/thumb-toki.png
 tags:
 - featured
 - toki pona

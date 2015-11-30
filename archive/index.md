@@ -31,7 +31,7 @@ Index of pages from the previous site, and the corresponding new versions and ar
     {% for page in site.data.old_sitemap %}
     {% if page.action != "ignore" %}
 
-      <tr class={{ page.action }}>
+      <tr class="{{ page.action }}">
 
         <td>{{ page.page }}</td>
         <td>{{ page.action }}</td>

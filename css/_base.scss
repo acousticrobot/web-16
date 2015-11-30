@@ -36,7 +36,6 @@ ul, ol, dl, figure,
  */
 img {
   max-width: 100%;
-  vertical-align: middle;
 }
 
 /**
@@ -111,6 +110,14 @@ h5 {
     font-size: .95rem;
   }
 }
+
+/**
+ * Emphasis
+ */
+i, u, em {
+  color: $color-gris-4;
+}
+
 
 /**
  * Links

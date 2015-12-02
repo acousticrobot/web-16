@@ -14,7 +14,7 @@ This version was a self hosted Wordpress Site, now archived as static pages.
 #### [2007](2007/)
 This version was a static site, each page built originally in Dreamweaver, and then eventually in plain text using Textmate. It has the most complete archive of artworks to date.
 
-### Previous site index:
+#### Previous site index:
 
 Index of pages from the previous site, and the corresponding new versions and archived pages:
 

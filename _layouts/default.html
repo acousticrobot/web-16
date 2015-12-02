@@ -15,7 +15,9 @@
       {{ content }}
       </div>
 
-      {% if page.tags %}
+      {% include comments.html %}
+
+      {% if page.tags != empty %}
       <footer class="footer__tag-list">
           <span>See more on:</span>
 

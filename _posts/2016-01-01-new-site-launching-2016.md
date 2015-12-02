@@ -9,7 +9,7 @@ tags:
 
 ## Why I'm changing this site
 
-I'm rebuilding this site using [Jekyll](http://jekyllrb.com/), in the hope that I'll be actively updating it. For years now I've had my site running as a self hosted WordPress site.  I learned a lot building in back in 2012, but there were aspect of the site that kept me from using it on a regular basis.
+I'm rebuilding this site using [Jekyll](http://jekyllrb.com/), in the hope that I'll be actively updating it. For years now I've had my site running as a self hosted WordPress site.  I learned a lot building in back in 2012, but there were aspects of the site that kept me from using it on a regular basis.
 
 Back when I build the Wordpress version, I spend a great deal of time customizing the behavior, and really enjoyed how far I could push my own theme beyond the default blogging platform at its base. Besides the active support community, the really impressive thing about Wordpress is how far something that was originally meant for blogging can be extended into a customized content management system.
 
@@ -21,15 +21,15 @@ Streamlining the development is part of a more general goal to simplify all aspe
 
 #### Simple Styles
 
-In the sitelen sitelen lessons, for instance, I'm removing the text floating around the images. Take a look at lesson 3 [before](/archive/2012/learn_t47_lesson-3.html), and [after](/toki-pona/lesson-3/). In the previous version, I spent a lot of time moving the images within a grid system before I was satisfied with how they flowed with the text. The thing is, facing this kind of layout on top of writing the lesson kept me from ever getting them finished, which is something I've always wanted to do.  
+In the sitelen sitelen lessons, for instance, I'm removing the text floating around the images. Take a look at lesson 3 [before](/archive/2012/learn_t47_lesson-3.html), and [after](/toki-pona/lesson-3/). In the previous version, I spent a lot of time moving the images within a grid system before I was satisfied with how they flowed with the text. The thing is, facing this kind of layout on top of writing the lesson kept me from ever getting them finished. I'm hoping to have a chance to work on the remaining lessons once I've launched the new site.
 
-The new style may involve more scrolling, but it's content independent, and actually look better when I take all media sizes into consideration. 
+The new style may involve more scrolling, but it's content independent, and actually looks better on phones and laptops. 
 
 #### Files, not a database
 
-The [version of my site](/archive/2007/) that lasted from 2007 until 2012 was build with completely static files. I rebuilt over eight hundred pages, manually typing html and replacing the pertinent details from page to page. So moving onto PHP and all Wordpress offered felt incredibly powerful for my next attempt.
+The [2007-2012 version of my site](/archive/2007/) was build with completely static files. I rebuilt over eight hundred pages, manually typing HTML and replacing the pertinent details from page to page. So moving on to PHP and all Wordpress offered felt incredibly powerful for my next attempt.
 
-It occurred to me though, how many times the same files were being constructed anew, and always with the same result. Sure, this can be sped up with cashing, but nothing about the pages on my site needs to be so elaborate. So far, Jekyll is proving to be the best of both worlds -- the ability to process repeatable content and updates like a dynamic site, but the simplicity and portability of a static one. 
+It occurred to me though, how many times the same files were being processed anew on the backend, and always with the same result. Sure, this can be sped up with cashing, but nothing about the pages on my site needs to be so elaborate. So far, Jekyll is proving to be the best of both worlds -- the ability to process repeatable content and updates like a dynamic site, but the simplicity and portability of a static one. 
 
 ### Ruby!
 
@@ -43,7 +43,7 @@ I may be forcing a simplification of the site, but it's all in the service of ge
 
 ### The Archives
 
-I've transfered most of the content from before into the new site, but if I've screwed up and not presented something that used to be here as well as it once was, I've also done my best to store static copies of all the old content. I've also added the older (pre 2009) content back in. All of this is available in [the Archives](/archives).
+I've transfered most of the content from before into the new site, but for the sake of preservation, I've also done my best to store static copies of all the old content. I've also added the older *(pre 2009)* content back in. All of this is available in [the Archives](/archives).
 
 ### Artworks
 
@@ -56,8 +56,8 @@ Being able to navigate a site is something I cherish highly, and in this regard 
   * [the archive page](/archive/) -- where I hope to add other things as I dig them up
   * [the sitemap](/sitemap/) - where I will list all posts and pages
   * [the artworks page](/artworks/) -- which should soon have sub-menus as well 
-  * [toki pona](/toki-pona) -- all things sitelen sitelen, see below
+  * [toki pona](/toki-pona) -- all things sitelen sitelen
 
 ### Sitelen Sitelen
 
-Fans of toki pona have been making their way here for years, and I hope to fill this site with more content soon. Beyond the sitelen sitelen lessons that still need to be written, I've had several artworks sent to me that hadn't made it onto my site. Check the [sitelen sitelen fanart](/toki-pona#xxx) section for the latest! 
+Fans of toki pona have been making their way here for years, and will be filling this site with more content soon. Beyond the sitelen sitelen lessons that still need to be written, I've had several artworks sent to me that hadn't made it onto my site. Check the [sitelen sitelen fanart](/toki-pona/#sitelen-pi-jan-ante) section for the latest! 

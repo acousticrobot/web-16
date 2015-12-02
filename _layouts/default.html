@@ -17,7 +17,9 @@
 
       {% include comments.html %}
 
-      {% if page.tags != empty %}
+      {% include sub_nav.html %}
+
+      {% if page.tags.size > 0 %}
       <footer class="footer__tag-list">
           <span>See more on:</span>
 
@@ -32,7 +34,6 @@
       </footer>
       {% endif %}
 
-      {% include sub_nav.html %}
       {% include footer.html %}
 
     </section>

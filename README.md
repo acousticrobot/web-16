@@ -1,18 +1,13 @@
 This README is really more a list of notes to myself than anything I'm trying to document for others. If anything here is useful to you though, I'm happy to share, and the site itself is all under the [Attribution-NonCommercial-ShareAlike 4.0 International license](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
+## Upload Strategy
 
-## Pre-Transfer Roadmap
+## Any page change:
 
- * ~~Store old archive~~
- * ~~Finish copies of old pages, update in data~~
- * run through lessons one more time, check for errors.
- * ~~Define index pages and build link lists~~
-  * ~~Artworks~~
-  * ~~Lessons~~
-* Add sitelen sitelen fanart from emails 
-* Add comments
-* ~~Add license~~
-* change the url in htaccess (remove `new.`)
+Upload:
+  * index.html
+  * sitemap 
+  * new page
 
 ## Architecture
 

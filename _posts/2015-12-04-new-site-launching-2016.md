@@ -1,5 +1,5 @@
 ---
-date: 2016-01-01
+date: 2015-12-04
 excerpt: I'm completely rebuilding this site from the ground up. I've simplified a lot of things, but added a bunch of features in the process. Read about the changes and what's new <a href="2016/new-site-launching-2016/">here</a>
 slug: new-site-launching
 title: New Site Launching for 2016
@@ -35,7 +35,7 @@ It occurred to me though, how many times the same files were being processed ane
 
 I'm not here to bash PHP, but at the end of a workday, it's not a language I'd look forward to using on my own site.  There are other enticing languages out there, and part of me would like to chose one I don't know and see how far I could go with it. But this site isn't about me improving my programming skills, it's about creating the site I want with the highest quality and as efficiently as I can. Taking something I'm practiced in and applying it here seems like the best approach, so I can move beyond the technical and get to the content itself.
 
-I'm usually either using Ruby or Javascript for work. Running a Rails, Sinatra or Node app never seemed like a good fit for my own site though; I just don't need that kind of power, or to pay for that kind of support.  And as much as I appreciate the design of Rails, it's Ruby itself that I have any emotional attachment to. So far, transferring my old content over and revamping the site using Jekyll has given me everything I need. And I also have the confidence that whenever I really have a need it for down the line, I be able to let the Ruby or Javascript shine through.
+I'm usually either using Ruby or Javascript for work. Running a Rails, Sinatra or Node app never seemed like a good fit for my own site though; I just don't need that kind of power, or to pay for that kind of support.  And as much as I appreciate the design of Rails, it's Ruby itself that I have any emotional attachment to. So far, transferring my old content over and revamping the site using Jekyll has given me everything I need. And I have the confidence that if I have a need it for down the line, I'll be able to let the Ruby or Javascript shine through.
 
 ## New Features
 

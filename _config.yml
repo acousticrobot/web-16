@@ -19,8 +19,6 @@ kramdown:
 # available on local network
 host: 0.0.0.0
 
-permalink: /:year/:title/
-
 sass:
   sass_dir: css
 
@@ -44,6 +42,7 @@ defaults:
       layout: post
       author: jonathan
       comments: true
+      permalink: /:year/:title/
   -
     scope:
       path: ""
@@ -68,3 +67,14 @@ defaults:
       sub_nav: true
       sub_nav_term_for: "artwork"
       url_up: /artworks/
+      permalink: /artworks/:path/
+  -
+    scope:
+      path: ""
+      type: "drafts"
+    values:
+      layout: post
+      author: jonathan
+      comments: true
+      permalink: /:year/:title/
+

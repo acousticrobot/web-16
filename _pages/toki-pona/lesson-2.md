@@ -331,7 +331,8 @@ Other multi-syllable words can be created simply by adding syllables together:
 
 As we progress through the following chapters, you will notice that some glyphs can change in order to fill in spaces of differing size. This is true for the syllable glyphs as well:
 
-{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso_02_03.jpg" caption="o ante e kulupu lili" %}
+
+![o ante e kulupu lili](/images/t47_tokipona/t47_kamasona/t47_kaso_02_03.jpg)
 
 ### Time to play around
 

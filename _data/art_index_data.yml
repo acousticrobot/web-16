@@ -1,16 +1,22 @@
 
 t47:
 
-  title: "T47 Index"
-  description: "People hang around, get lit, get enlightened"
+  title: "Artworks Index: T47 - Human Sequel"
+  description: "When trying to determine just what it is that makes humanity unique, the topic of language never fails to come up. It is the bond that holds societies together, the skill that allows us to share ideas; it is even the code on which our technologies run. When looking to understand the past, language is the remainder that brings the most reward, for nothing can bring the past back to life as vividly as language."
   tags:
   - t47
+  thumb: /images/t47/t47.09001_1_s.jpg
+  t_tags:
+  - human
+  - sequel
 
 t29:
 
-  title: "T29 Index"
-  description: "A bunch of stuff made out of leaves"
+  title: "Artworks Index: T29 - Organic Prosper"
+  description: "A series of works using plants cloned and grown from seed in ad-hoc hydroponic systems. These plants are sometimes interspersed among plastic plants, begging the question, ‘Which is more natural, a plant reproduced from a mechanical mold or from a genetic blueprint?’"
+  thumb: /images/t29/t29.1_1_s.jpg
   tags:
   - t29
+  t_tags:
   - organic
   - prosper

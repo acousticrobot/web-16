@@ -5,12 +5,27 @@ title: artworks
 nav_page: true
 ---
 
+<header>
+  <h2>Art Indices:</h2>
+</header>
+
+<section class="artwork-indices">
+  {% for page in site.pages %}
+    {% if page.art_index == true %}
+      {% include image_index.html page=page %}
+    {% endif %}
+  {% endfor %}
+
+</section>
+
+<header>
+  <h2>Artworks:</h2>
+</header>
 <section class="image-index">
-  <header>
-    <h2>Artworks:</h2>
 
     {% for artwork in site.artworks %}
       {% if artwork.artist == 'self' %}
+
         <article class="image-index__article">
 
           <div class="image-index__image">
@@ -38,7 +53,4 @@ nav_page: true
 
       {% endif %}
     {% endfor %}
-
-  </header>
-
 </section>

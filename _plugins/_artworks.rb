@@ -11,9 +11,11 @@ module Jekyll
       self.read_yaml(File.join(base, '_layouts'), 'art_index.html')
       cat = dir.match(/\/(.*)\/$/)[1]
       self.data['title'] = site.data["art_index_data"][cat]["title"] || cat
-      self.data['tags'] = site.data["art_index_data"][cat]["tags"]
-      self.data['description'] = site.data["art_index_data"][cat]["description"]
-
+      self.data['excerpt'] = site.data["art_index_data"][cat]["description"]
+      %w"tags description thumb".each do |attr|
+        self.data[attr] = site.data["art_index_data"][cat][attr]
+      end
+      self.data['art_index'] = true
       self.data['artworks'] = site.collections["artworks"].docs.select {|a| a.url.match(cat)}
     end
   end

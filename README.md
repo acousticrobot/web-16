@@ -5,9 +5,11 @@ This README is really more a list of notes to myself than anything I'm trying to
 ## Any page change:
 
 Upload:
-  * index.html
+  * any new images
+  * any new pages 
+  * tags index (if page has tags)
   * sitemap 
-  * new page
+  * index.html
 
 ## Architecture
 

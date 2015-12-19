@@ -11,6 +11,11 @@ Upload:
   * sitemap 
   * index.html
 
+## Spelling and other minor errors:
+
+  * fix the page
+  * log the page in nvalt "web16 fix"
+
 ## Architecture
 
   * posts are grouped by year (to keep root level cleaner for uploading)

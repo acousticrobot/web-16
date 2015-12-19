@@ -25,6 +25,7 @@
 .wrapper__center-image {
 	width: 100%;
 	background-color: $color-white-D;
+	@extend .caption;
 	img {
 		margin-left: auto;
 		margin-right: auto;

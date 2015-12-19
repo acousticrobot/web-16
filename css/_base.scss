@@ -38,6 +38,14 @@ img {
   max-width: 100%;
 }
 
+.caption {
+  font-size: .85rem;
+  margin: 0 auto 1rem auto;
+  font-family: $monospace-font-family;
+  color: $color-gris-9;
+}
+
+
 /**
  * Figures
  */
@@ -48,6 +56,7 @@ figure > img {
 figcaption {
   font-size: $small-font-size;
 }
+
 
 /**
  * Lists
@@ -89,7 +98,7 @@ h3 {
   font-size: 1.25rem;
 
   @include media-query($tablet-breakpoint) {
-    font-size: 1.5rem;
+    font-size: 1.33rem;
   }
 }
 
@@ -118,6 +127,10 @@ i, u, em {
   color: $color-gris-4;
 }
 
+strong {
+  font-weight: 500;
+}
+
 
 /**
  * Links
@@ -143,11 +156,12 @@ a {
  */
 blockquote {
   color: $color-grey-8;
-  border-left: 4px solid $color-grey-E;
+  border-left: 2px solid $color-grey-E;
   padding-left: $spacing-unit / 2;
-  font-size: 18px;
-  letter-spacing: -1px;
+  font-size: .975rem;
+  letter-spacing: -.5px;
   font-style: italic;
+  line-height: 1.125rem;
 
   > :last-child {
     margin-bottom: 0;

@@ -5,3 +5,5 @@ images/*
 **/images/**
 documents/*
 _drafts
+utilities/inbox/*
+utilities/outbox/*

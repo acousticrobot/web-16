@@ -1,6 +1,5 @@
 
 t47:
-
   title: "Artworks Index: T47 - Human Sequel"
   description: "When trying to determine just what it is that makes humanity unique, the topic of language never fails to come up. It is the bond that holds societies together, the skill that allows us to share ideas; it is even the code on which our technologies run. When looking to understand the past, language is the remainder that brings the most reward, for nothing can bring the past back to life as vividly as language."
   tags:
@@ -11,7 +10,6 @@ t47:
   - sequel
 
 t29:
-
   title: "Artworks Index: T29 - Organic Prosper"
   description: "A series of works using plants cloned and grown from seed in ad-hoc hydroponic systems. These plants are sometimes interspersed among plastic plants or placed in cheap plastic containers, so their organic nature is also in competition with an artificial world."
   thumb: /images/t29/t29.1_1_s.jpg
@@ -20,3 +18,9 @@ t29:
   t_tags:
   - organic
   - prosper
+
+t56:
+  title: "Artworks Index: T56 - Time Effect"
+  excerpt: "This project involves making one modest piece a day."
+  description: "<p>This project involves making one modest piece a day.</p><p>This series began in 2005, with this run-on statement of intention:</p><blockquote>Because of a romantic attachment to such ideas as a strong work ethic, the myth of the artist, daily practice, chopping wood, carrying water, etc., and following a desire to continuously make work, to avoid getting stuck, and maintain a belief in a quick aesthetic, as well as an observation that making bad work is better than making no work, and that most artistic attempts end in failure so a quantity is necessary for success, the following will be done:</blockquote><blockquote>I will produce one piece a day, starting today and continuing for at least one year, which will be collected and documented as a piece unto itself, which will be referred to as T56 and each day's piece will be referred to as T56 followed by the date, which will follow any number of aesthetics or ideas, which may contain seeds for larger, more ambitious pieces, but where each day’s piece will be complete unto itself, i.e. will be a completed work, something I would stand by.</blockquote>"
+  thumb: /images/t56_05/t56_050613_l.jpg

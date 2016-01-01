@@ -12,6 +12,8 @@ github_username:  acousticRobot
 # Build settings
 markdown: kramdown
 
+exclude: [utilities, lib]
+
 kramdown:
   input: GFM
   syntax_highlighter: rouge

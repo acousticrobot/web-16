@@ -10,6 +10,6 @@ layout: default
   {{ page.description }}
 </section>
 
-  {% for art in page.artworks %}
-    {% include image_index.html page=art %}
-  {% endfor %}
+{% for art in page.artworks %}
+  {% include image_index.html page=art %}
+{% endfor %}

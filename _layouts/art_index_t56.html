@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+<header>
+  <h1>{{ page.title }}</h1>
+</header>
+
+<div>
+  {{ page.description }}
+</div>
+
+{% if page.month == nil and page.year == nil %}
+<h2>Index by Year:</h2>
+{% else if page.month == nil %}
+<h2>Index by Month:</h2>
+{% endif %}
+
+{% if page.month != nil %}
+  {% for art in page.artworks %}
+    {% include image_index.html page=art %}
+  {% endfor %}
+{% else %}
+  <ul>
+    {% assign all_pages = site.pages %}
+
+    {% for sub_index in site.pages %}
+    {% if sub_index.index_on == page.dir %}
+
+    <li>
+      <span><a href="{{ sub_index.url | prepend: site.baseurl}}">
+        {{ sub_index.month }} {{ sub_index.year }}
+      </a></span>
+    </li>
+
+    {% endif %}
+    {% endfor %}
+  </ul>
+{% endif %}
+

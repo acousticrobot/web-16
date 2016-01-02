@@ -1,0 +1,17 @@
+
+
+.artwork {
+
+}
+
+.artwork__meta {
+  margin-bottom: 1rem;
+  background-color: $color-grey-E;
+}
+
+.artwork__meta-artist,
+.artwork__meta-year,
+.artwork__meta-dimensions,
+.artwork__meta-media {
+  @extend .data-text;
+}

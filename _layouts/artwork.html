@@ -6,14 +6,12 @@ layout: default
   <h1 class="content__title">{{ page.title }}</h1>
 </header>
 
-<article>
-  {% if page.artist != 'self' %}
-   <p>artist: {{ page.artist }}</p>
-  {% endif %}
+<article class="artwork">
 
-  <p>year: {{ page.year_made }}</p>
-  <p>dimensions: {{ page.dimensions }}</p>
-  <p>media: {{ page.media }}</p>
+  <div class="artwork__description">
+    {{ content }}
+  </div>
+
 
   {% for image in page.images %}
     <div class="wrapper__center-image">
@@ -21,7 +19,20 @@ layout: default
     </div>
   {% endfor %}
 
-  <p>
-    {{ content }}
-  </p>
+  <div class="artwork__meta">
+    {% if page.artist != 'self' %}
+      <div class="artwork__meta-artist">artist: {{ page.artist }}</div>
+    {% endif %}
+
+    <div class="artwork__meta-year">year: {{ page.year_made }}</div>
+    <div class="artwork__meta-dimensions">dimensions: {{ page.dimensions }}</div>
+
+
+    <div class="artwork__meta-media">media:
+      {% for media in page.media %}
+      {{ media }}{% unless forloop.last %},{% endunless %}
+      {% endfor %}
+    </div>
+  </div>
+
 </article>

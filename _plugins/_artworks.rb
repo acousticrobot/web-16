@@ -77,7 +77,7 @@ module Jekyll
     end
 
     def set_month(m_num)
-      %w( January February March April May June July August September October November December)[m_num.to_i]
+      %w( January February March April May June July August September October November December)[m_num.to_i - 1]
     end
 
     def set_collected_artworks

@@ -21,7 +21,7 @@ $spacing-unit:     2rem;
 $spacing-unit-bottom: $spacing-unit / 2;
 
 // Design mobile first, override with breakpoints:
-$mobile-breakpoint:          600px;
+$mobile-breakpoint:        600px;
 $tablet-breakpoint:        800px;
 
 
@@ -80,6 +80,7 @@ $tablet-breakpoint:        800px;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
+        "artwork",
         "base",
         "layout",
         "syntax_highlighting",

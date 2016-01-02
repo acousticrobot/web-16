@@ -38,11 +38,15 @@ img {
   max-width: 100%;
 }
 
+.data-text {
+   font-size: .85rem;
+   font-family: $monospace-font-family;
+   color: $color-gris-9;
+}
+
 .caption {
-  font-size: .85rem;
+  @extent .data-text;
   margin: 0 auto 1rem auto;
-  font-family: $monospace-font-family;
-  color: $color-gris-9;
 }
 
 

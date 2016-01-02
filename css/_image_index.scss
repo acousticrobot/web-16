@@ -2,15 +2,17 @@
 .image-index__article {
   margin-bottom: $spacing-unit/4;
   border-bottom: 1px solid $color-gris-C;
-  img {
-    float: left;
-    margin: 16px 15px 10px 0;
-    max-width: 150px;
-    max-height: 150px;
-  }
 }
 
-.image-index__image {}
+.image-index__image {
+  width: 100%;
+  img {
+    margin: 16px auto 10px auto;
+    max-width: 150px;
+    max-height: 150px;
+    display: block;
+  }
+}
 
 
 .image-index__description {}
@@ -26,4 +28,14 @@
 .image-index__description-item {
   color: $color-gris-A;
   margin-left: 5 * $spacing-unit;
+}
+
+
+@include media-query($mobile-breakpoint) {
+  .image-index__article {
+    img {
+      float: left;
+      margin: 16px 15px 10px 0;
+    }
+  }
 }

@@ -9,7 +9,7 @@ index: false
 // Text
 $base-font-family: Helvetica, Arial, sans-serif;
 $base-font-size:   1rem;
-$small-font-size:  $base-font-size * 0.875;
+$small-font-size:  $base-font-size * 0.975;
 $base-line-height: 1.5;
 
 $monospace-font-family: Consolas,'Lucida Console','DejaVu Sans Mono', monospace;
@@ -64,6 +64,9 @@ $tablet-breakpoint:        800px;
 
 .small-text {
   font-size: $small-font-size;
+  color: $color-grey-8;
+  letter-spacing: -.5px;
+  line-height: 1.125rem;
 }
 
 .clear {

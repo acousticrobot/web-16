@@ -68,7 +68,6 @@ defaults:
       artist: self
       sub_nav: true
       sub_nav_term_for: "artwork"
-      url_up: /artworks/
       permalink: /artworks/:path/
   -
     scope:

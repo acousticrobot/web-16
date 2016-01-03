@@ -37,6 +37,9 @@ module Jekyll
         self.data[attr] = category_data[attr]
       end
       self.data['art_index'] = true
+      self.data['sub_nav'] = true
+      self.data['sub_nav_term_for'] = 'artwork'
+      self.data["url_up"] = "/artworks/"
     end
 
     def set_collected_artworks
@@ -45,6 +48,11 @@ module Jekyll
   end
 
   class T56IndexPage < ArtIndexPage
+
+    def initialize(site, base, dir)
+      super
+      set_duration_data
+    end
 
     private
 
@@ -55,24 +63,28 @@ module Jekyll
     def set_category
       @category = "t56"
       @category_data = site.data["art_index_data"][category].clone
-      set_duration
     end
 
-    def set_duration
+    def set_duration_data
       d_match = dir.match(/\/t56\/(\d{4})?\/?(\d{2})?\/?/)
       if d_match[1].nil? && d_match[2].nil?
-        self.data["sub_index"] = false
+        self.data["index_duration"] = "all"
       elsif d_match[2].nil?
+        self.data["index_duration"] = "year"
         year = self.data["year"] = d_match[1]
-        @category_data["title"] = "T56 (#{year})"
+        self.data["title"] = "T56 (#{year})"
         self.data["index_on"] = "artworks/t56/"
-        self.data["sub_index"] = true
+        self.data["url_up"] = "/artworks/t56/"
+        self.data["sub_nav_term_for_up"] = "t56"
+
       else
+        self.data["index_duration"] = "month"
         year = self.data["year"] = d_match[1]
         month = self.data["month"] = set_month(d_match[2])
-        @category_data["title"] = "T56 (#{year} - #{month})"
+        self.data["title"] = "T56 (#{month} #{year})"
         self.data["index_on"] = "artworks/t56/#{year}/"
-        self.data["sub_index"] = true
+        self.data["url_up"] = "/artworks/t56/#{year}/"
+        self.data["sub_nav_term_for_up"] = "#{year} - t56"
       end
     end
 
@@ -81,7 +93,7 @@ module Jekyll
     end
 
     def set_collected_artworks
-      self.data['artworks'] = site.collections["artworks"].docs.select {|a| a.url.match(dir)}
+      self.data['artworks'] = site.collections["artworks"].docs.reverse.select {|a| a.url.match(dir)}
     end
   end
 
@@ -101,6 +113,8 @@ module Jekyll
         index = artwork_urls.index(artwork.url)
         artwork.data["url_previous"] = index == 0 ? artwork_urls[artwork_urls.length - 1] : artwork_urls[index - 1]
         artwork.data["url_next"] = index == artwork_urls.length - 1 ? artwork_urls[0] : artwork_urls[index + 1]
+        artwork.data["url_up"] = artwork.url.match(/(.*)\/.*\/$/)[1]
+        artwork.data["sub_nav_term_for_up"] = artwork.url.match(/artworks\/((\w|\d)+)\//)[1]
       end
     end
 

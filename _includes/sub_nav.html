@@ -9,7 +9,8 @@
   <div class="sub-nav__right-nav-button"><a href="{{ page.url_next }}">next {{ page.sub_nav_term_for }}</a></div>
   {% endif %}
   {% if page.url_up %}
-   <div class="sub-nav__middle-nav-button"><a href="{{ page.url_up }}">index of {{ page.sub_nav_term_for | pluralize }}s</a></div>
+    {% if page.sub_nav_term_for_up %}{% assign term = page.sub_nav_term_for_up %}{% else %} {% assign term = page.sub_nav_term_for %}{% endif %}
+    <div class="sub-nav__middle-nav-button"><a href="{{ page.url_up }}">index of all {{ term | pluralize }}s</a></div>
   {% endif %}
 </nav>
 {% endif %}

@@ -7,7 +7,7 @@
 .image-index__image {
   width: 100%;
   img {
-    margin: 16px auto 10px auto;
+    margin: 10px auto 10px auto;
     max-width: 150px;
     max-height: 150px;
     display: block;
@@ -20,10 +20,19 @@
 .image-index__description-title {
   padding-top: 5px;
   margin-bottom: 0;
+  font-size: 1.25rem;
+}
+
+.image-index__description-date {
+  @extend .small-text;
+  color: $color-grey-5;
+  padding-bottom: .25rem;
 }
 
 .image-index__description-text {
+  @extend .small-text;
 }
+
 
 .image-index__description-item {
   color: $color-gris-A;
@@ -35,7 +44,7 @@
   .image-index__article {
     img {
       float: left;
-      margin: 16px 15px 10px 0;
+      margin: 10px 15px 10px 0;
     }
   }
 }

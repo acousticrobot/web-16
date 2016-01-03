@@ -32,7 +32,14 @@ Parameters:
     <h2 class="image-index__description-title">
       <a href="{{ page.url }}">{{page.title}}</a>
     </h2>
-    <div class="image-index__description-text small-text">
+    <div class="image-index__description-date">
+      {% if page.date != nil %}
+        {{ page.date | date: "%B %-d, %Y" }}
+      {% else if page.year_made != nil %}
+        {{ page.year_made }}
+      {% endif %}
+    </div>
+    <div class="image-index__description-text">
       {% if page.excerpt != nil %}
       {{ page.excerpt }}
       {% else %}

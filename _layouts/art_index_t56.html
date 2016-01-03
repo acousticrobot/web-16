@@ -6,18 +6,20 @@ layout: default
   <h1>{{ page.title }}</h1>
 </header>
 
-<div>
-  {{ page.description }}
-</div>
-
-{% if page.month == nil and page.year == nil %}
-<h2>Index by Year:</h2>
-{% else if page.month == nil %}
-<h2>Index by Month:</h2>
+{% if page.index_duration != "month" %}
+ <div>
+   {{ page.description }}
+ </div>
 {% endif %}
 
-{% if page.month != nil %}
-  {% for art in page.artworks %}
+{% if page.index_duration == "all" %}
+<h2>Indexed by Year:</h2>
+{% elsif page.index_duration == "year" %}
+<h2>Indexed by Month:</h2>
+{% endif %}
+
+{% if page.index_duration == "month" %}
+  {% for art in page.artworks reversed %}
     {% include image_index.html page=art %}
   {% endfor %}
 {% else %}
@@ -36,5 +38,12 @@ layout: default
     {% endif %}
     {% endfor %}
   </ul>
+{% endif %}
+
+{% if page.index_duration == "all" %}
+  <h2>Most Recent:</h2>
+  {% for art in page.artworks limit:3 %}
+    {% include image_index.html page=art %}
+  {% endfor %}
 {% endif %}
 

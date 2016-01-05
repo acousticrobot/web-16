@@ -42,7 +42,7 @@ layout: default
 
 {% if page.index_duration == "all" %}
   <h2>Most Recent:</h2>
-  {% for art in page.artworks limit:3 %}
+  {% for art in page.artworks limit:5 %}
     {% include image_index.html page=art %}
   {% endfor %}
 {% endif %}

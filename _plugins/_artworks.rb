@@ -85,7 +85,13 @@ module Jekyll
         self.data["index_on"] = "artworks/t56/#{year}/"
         self.data["url_up"] = "/artworks/t56/#{year}/"
         self.data["sub_nav_term_for_up"] = "#{year} - t56"
+        set_featured if "#{d_match[1]}#{d_match[2]}" == Time.now.strftime("%Y%m")
       end
+    end
+
+    def set_featured
+      self.data["tags"] = self.data["tags"] || []
+      self.data["tags"] << "featured"
     end
 
     def set_month(m_num)
@@ -94,12 +100,13 @@ module Jekyll
 
     def set_collected_artworks
       self.data['artworks'] = site.collections["artworks"].docs.reverse.select {|a| a.url.match(dir)}
+      self.data['thumb'] = self.data['artworks'].first.data["thumb"]
     end
   end
 
   # Add Links to the Artworks
   class ArtworkGenerator < Generator
-    priority :low
+    priority :highest
 
     def generate(site)
       add_artwork_directories site

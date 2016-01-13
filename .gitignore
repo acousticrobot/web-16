@@ -7,3 +7,4 @@ documents/*
 _drafts
 utilities/inbox/*
 utilities/outbox/*
+sftp-config.json

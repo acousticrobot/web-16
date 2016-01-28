@@ -27,7 +27,7 @@ module Jekyll
       archive_actions = site.data["old_sitemap"].select {|k,v| k["status"] == "pending" }
       {
         'pages_count' => site.pages.count,
-        'posts_count' => site.posts.count,
+        'posts_count' => site.posts.docs.count,
         'artworks_count' => site.collections["artworks"].entries.count,
         'archive_actions' => archive_actions
       }

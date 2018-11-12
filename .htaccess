@@ -3,6 +3,8 @@ index: false
 ---
 
 RewriteEngine on
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 
 {% for page in site.data["old_sitemap"] %}{% if page["rewrite_rule"] %}{% if page["action"] == "archive" %}{% assign redirect = page["archive_url"] %}{% else %}{% assign redirect = page["redirect_url"] %}{% endif %}
-RewriteRule ^{{ page["page"] }} http://www.jonathangabel.com{{ redirect }} [R=301,L]{% endif %}{% endfor %}
+RewriteRule ^{{ page["page"] }} https://www.jonathangabel.com{{ redirect }} [R=301,L]{% endif %}{% endfor %}

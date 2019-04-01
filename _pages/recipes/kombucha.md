@@ -1,6 +1,7 @@
 ---
 date: 2019-04-01
-
+index: false
+recipe: true
 title: 'Kombucha'
 layout: page
 permalink: /recipes/kombucha/

@@ -1,0 +1,34 @@
+---
+layout: default
+permalink: /recipes/
+title: recipes
+nav_page: false
+---
+
+<section>
+  <header>
+    <h2>Recipies:</h2>
+  </header>
+
+  <ul>
+    {% assign sorted_pages = site.pages | sort:"title" %}
+
+    {% for page in sorted_pages %}
+    {% if page.recipe == true %}
+
+    <li>
+      <span><a href="{{ page.url | prepend: site.baseurl}}">
+        {% if page.title == nil %}
+        {{ page.url }}
+        {% else %}
+        {{ page.title }}
+        {% endif %}
+      </a></span>
+    </li>
+
+    {% endif %}
+    {% endfor %}
+  </ul>
+
+
+</section>

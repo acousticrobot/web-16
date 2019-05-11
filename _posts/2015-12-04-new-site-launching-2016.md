@@ -3,8 +3,6 @@ date: 2015-12-04
 excerpt: I'm completely rebuilding this site from the ground up. I've simplified a lot of things, but added a bunch of features in the process. Read about the changes and what's new <a href="2016/new-site-launching-2016/">here</a>
 slug: new-site-launching
 title: New Site Launching for 2016
-tags:
-- featured
 ---
 
 ## Why I'm changing this site
@@ -17,19 +15,19 @@ This is where it also breaks down for me though. It's one thing to build a CMS f
 
 ### Simplify, Simplify, Simplify
 
-Streamlining the development is part of a more general goal to simplify all aspects of the site. The layout I developed the last time was great when elements had custom styling, but this meant any time I posted something, I had to work on the layout as well. This time I tried to design for mobile first, and let the desktop version remain as simple as possible. My goal is to be able to concentrate on the content, and refine a style for all elements that won't require custom overrides. This means making certain concessions, but having some new possibilities as well. 
+Streamlining the development is part of a more general goal to simplify all aspects of the site. The layout I developed the last time was great when elements had custom styling, but this meant any time I posted something, I had to work on the layout as well. This time I tried to design for mobile first, and let the desktop version remain as simple as possible. My goal is to be able to concentrate on the content, and refine a style for all elements that won't require custom overrides. This means making certain concessions, but having some new possibilities as well.
 
 #### Simple Styles
 
 In the sitelen sitelen lessons, for instance, I'm removing the text floating around the images. Take a look at lesson 3 [before](/archive/2012/learn_t47_lesson-3.html), and [after](/toki-pona/lesson-3/). In the previous version, I spent a lot of time moving the images within a grid system before I was satisfied with how they flowed with the text. The thing is, facing this kind of layout on top of writing the lesson kept me from ever getting them finished. I'm hoping to have a chance to work on the remaining lessons once I've launched the new site.
 
-The new style may involve more scrolling, but it's content independent, and actually looks better on phones and laptops. 
+The new style may involve more scrolling, but it's content independent, and actually looks better on phones and laptops.
 
 #### Files, not a database
 
 The [2007-2012 version of my site](/archive/2007/) was build with completely static files. I rebuilt over eight hundred pages, manually typing HTML and replacing the pertinent details from page to page. So moving on to PHP and all Wordpress offered felt incredibly powerful for my next attempt.
 
-It occurred to me though, how many times the same files were being processed anew on the backend, and always with the same result. Sure, this can be sped up with cashing, but nothing about the pages on my site needs to be so elaborate. So far, Jekyll is proving to be the best of both worlds -- the ability to process repeatable content and updates like a dynamic site, but the simplicity and portability of a static one. 
+It occurred to me though, how many times the same files were being processed anew on the backend, and always with the same result. Sure, this can be sped up with cashing, but nothing about the pages on my site needs to be so elaborate. So far, Jekyll is proving to be the best of both worlds -- the ability to process repeatable content and updates like a dynamic site, but the simplicity and portability of a static one.
 
 ### Ruby!
 
@@ -55,9 +53,9 @@ Being able to navigate a site is something I cherish highly, and in this regard 
 
   * [the archive page](/archive/) -- where I hope to add other things as I dig them up
   * [the sitemap](/sitemap/) - where I will list all posts and pages
-  * [the artworks page](/artworks/) -- which should soon have sub-menus as well 
+  * [the artworks page](/artworks/) -- which should soon have sub-menus as well
   * [toki pona](/toki-pona) -- all things sitelen sitelen
 
 ### Sitelen Sitelen
 
-Fans of toki pona have been making their way here for years, and will be filling this site with more content soon. Beyond the sitelen sitelen lessons that still need to be written, I've had several artworks sent to me that hadn't made it onto my site. Check the [sitelen sitelen fanart](/toki-pona/#sitelen-pi-jan-ante) section for the latest! 
+Fans of toki pona have been making their way here for years, and will be filling this site with more content soon. Beyond the sitelen sitelen lessons that still need to be written, I've had several artworks sent to me that hadn't made it onto my site. Check the [sitelen sitelen fanart](/toki-pona/#sitelen-pi-jan-ante) section for the latest!

@@ -2,7 +2,7 @@
 date: 2019-04-01
 index: false
 recipe: true
-title: 'biscuits'
+title: 'Biscuits'
 layout: page
 permalink: /recipes/biscuits/
 ---

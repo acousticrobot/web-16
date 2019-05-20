@@ -14,6 +14,7 @@ Assemble ingredients by type:
 ### base ingredients
 
   * 3 c beans
+  * 2 bay leaves
   * 3 T oil
   * 1 t salt
   * 1 lb ground beef
@@ -26,7 +27,7 @@ Assemble ingredients by type:
     * 6 cloves garlic
     * 1 large onion
     * ginger
-    * 6 jalapeños or 3 habonero
+    * 6 jalapeños or 3 habanero
   * spices
     * 2T coriander, ground
     * 1T cumin
@@ -39,7 +40,7 @@ Assemble ingredients by type:
 ### directions
 
   1. soak beans overnight in 2 quarts water
-  2. Pressure cook beans 10 minutes, set aside with water
+  2. Pressure cook beans and bay leaf 10 minutes, drain and reserve 1c? water
   3. Food processor
       * chop aromatics together
       * chop herbs
@@ -51,9 +52,8 @@ Assemble ingredients by type:
       * oil, aromatics and spices for about 5 min
       * add beef, 5 min
       * add potatoes and carrots
-  6. add potato and carrot
-  6. add back in the beans and water
-  7. cook together (pressure for 3 min?)
+  6. return beans and reserved water
+  7. slow cook 1 hour
   8. let cool
   9. Mix the cheese mix with the beef/bean mix
   10. fill tortillas with 175 grams each

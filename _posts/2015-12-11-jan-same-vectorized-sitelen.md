@@ -27,7 +27,9 @@ jan Same expressed interest in turning his work into a font, which sounds pretty
 ![full sitelen sitelen vectorized](/images/t47/t47.janSame.tokilili.png)
 
 {: .wrapper__center-image}
-![full sitelen sitelen vectorized](/images/t47/t47.janSame.sitelen.png)
+![full sitelen sitelen vectorized](/images/t47/t47.janSame.sitelen_sitelen.png)
 
 {: .wrapper__center-image}
 ![full sitelen sitelen vectorized](/images/t47/t47.janSame.containers.png)
+
+_update June 2019: You can download the font and read more about it from the creator here: http://musilili.net/sitelen-sitelen-remastered/_

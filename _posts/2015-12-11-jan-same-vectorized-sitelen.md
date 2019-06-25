@@ -4,7 +4,6 @@ title: Vectorized sitelen sitelen by Jan Same
 excerpt: jan Same created a complete set of vectorized sitelen sitelen, including the syllable glyphs and an assortment of containers, and has used them to render the first page of <i>The Little Prince</i>.
 thumb: /images/t47/t47.janSame.prince_s.png
 tags:
-- featured
 - sitelen sitelen fanart
 ---
 
@@ -15,7 +14,7 @@ tags:
 
 [see it larger](/images/t47/t47.janSame.prince_l.png)
 
-jan Same sent me this piece back in October, which was a big motivator for me to finish redesigning the new site so I could post these images here. This first chapter of *The Little Prince* based on the translation by [Michael F](http://failbluedot.com/toki_pona/jan_lawa_lili/chap01) that he composed is just one example of what could be build with his fully vectorized version of sitelen sitelen. You can see the full set below, and he's also offered the vectorized versions themselves for anyone's use in his origninal post on the [toki pona forums](http://forums.tokipona.org/viewtopic.php?f=7&p=13786#p13786), along with his description of the project.
+jan Same sent me this piece back in October, which was a big motivator for me to finish redesigning the new site so I could post these images here. This first chapter of *The Little Prince* based on the translation by [Michael F](http://failbluedot.com/toki_pona/jan_lawa_lili/chap01) that he composed is just one example of what could be built with his fully vectorized version of sitelen sitelen. You can see the full set below, and he's also offered the vectorized versions themselves for anyone's use in his origninal post on the [toki pona forums](http://forums.tokipona.org/viewtopic.php?f=7&p=13786#p13786), along with his description of the project.
 
 If you've ever designed vector images before, you know how much work this represents. There are two traps I find with vector images. They can look stiff and unemotional, since many of the tools are optimized for mechanical drawings, flow charts, and diagrams. And they can look janky, with sharp angles and disproportioned elements when the artist tries to break out of the mechanistic tool set.  jan Same's glyphs avoid both of the pitfalls superbly, achieving both a nice, crisp, graphical image, and also smooth flowing lines with a lot of character.
 

@@ -8,10 +8,12 @@ tags:
 - sitelen sitelen fanart
 ---
 
-I just heard from Jan Same has updated his vectorized sitelen sitelen. You can see more about the updates and links to download the files on his site here: http://musilili.net/sitelen-sitelen-remastered/
+I just heard from jan Same that he has updated his vectorized sitelen sitelen. You can see more about the updates and links to download the files on his site here: http://musilili.net/sitelen-sitelen-remastered/
 
 Included changes:
 
 - he added the mising “oko” glyph
 - all the vectors are now outlines in the download files
+
+You can also see the original post [here](/2015/jan-same-vectorized-sitelen/)
 

@@ -1,14 +1,18 @@
 This README is really more a list of notes to myself than anything I'm trying to document for others. If anything here is useful to you though, I'm happy to share, and the site itself is all under the [Attribution-NonCommercial-ShareAlike 4.0 International license](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
+To run Jekyll server:
+
+`jekyll serve`
+
 ## Upload Strategy
 
 ## Any page change:
 
 Upload:
   * any new images
-  * any new pages 
+  * any new pages
   * tags index (if page has tags)
-  * sitemap 
+  * sitemap
   * index.html
 
 ## Spelling and other minor errors:
@@ -70,14 +74,14 @@ Categories in Jekyll are used by default to configure the directory path for pos
 
 ### Plugins
 
-Located in `_plugins`. Order is important -- use flags: 
-  
+Located in `_plugins`. Order is important -- use flags:
+
     :lowest, :low, :normal,  :high, and :highest
 
   * Pages plugin runs first to collect all pages in the _pages directory
   * About plugin runs last -- this is just a smart scrapbook to collect any meta information about the site.
 
-### Finding a specific page 
+### Finding a specific page
 
     site.pages.detect { |page| page.name == 'about.md' }
 

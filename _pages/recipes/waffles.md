@@ -1,5 +1,5 @@
 ---
-date: 2019-11-23
+date: 2020-05-09
 index: false
 recipe: true
 title: 'Sourdough Waffles'
@@ -7,27 +7,25 @@ layout: page
 permalink: /recipes/waffles/
 ---
 
-Notes: Fills waffle iron twice, with a little room left over, 340g each time.
-Maybe try addig more flour/yogurt, increase total weight by ~80g?
-
 ### Flour Mix
 
 Mix the night before
 
-  * 142g flour
+  * 180g flour
   * 225g sourdough starter (100% hydration)
-  * 113g yogurt
-  * (1-2T milk or water if stiff)
+  * 150g yogurt
 
 Let sit out overnight
 
 ### Batter
 
-wisk together, then add starter mix and combine
+Mix dry ingredients into milk, whisk eggs, add butter and milk mixture, then fold in the starter mix
 
-  * 2 eggs
+  * 20g milk
   * 1.5t baking powder
   * 2T sugar
   * 1t salt
+  * 2 eggs
   * 3T butter melted
 
+Total weight: 720g, makes two waffles at 360g each

@@ -4,6 +4,7 @@ title: Vectorized sitelen sitelen by Jan Same
 excerpt: jan Same created a complete set of vectorized sitelen sitelen, including the syllable glyphs and an assortment of containers, and has used them to render the first page of <i>The Little Prince</i>.
 thumb: /images/t47/t47.janSame.prince_s.png
 tags:
+- toki pona
 - sitelen sitelen fanart
 ---
 

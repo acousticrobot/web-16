@@ -5,6 +5,7 @@ excerpt: jan Same's Complete translation of Little Red Riding Hood into toki pon
 thumb: /images/t47/t47.janSame.melilili_1.png
 tags:
 - featured
+- toki pona
 - sitelen sitelen fanart
 ---
 

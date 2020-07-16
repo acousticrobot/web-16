@@ -4,7 +4,6 @@ title: meli lili pi len loje
 excerpt: jan Same's Complete translation of Little Red Riding Hood into toki pona and sitelen sitelen.
 thumb: /images/t47/t47.janSame.melilili_1.png
 tags:
-- featured
 - toki pona
 - sitelen sitelen fanart
 ---

@@ -4,7 +4,6 @@ title: Remastered Vector files from Jan Same
 excerpt: Remasterd EPS files from jan Same including a missing oko.
 thumb: /images/t47/t47.janSame.prince_s.png
 tags:
-- featured
 - toki pona
 - sitelen sitelen fanart
 ---

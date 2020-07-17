@@ -5,7 +5,6 @@ title: 'Lesson 8: Negation and Yes/No Questions.'
 layout: page
 permalink: /toki-pona/lesson-8/
 
-sitelen_lessons_index: 8
 url_previous: /toki-pona/lesson-7/
 url_next: /toki-pona/lesson-9/
 
@@ -77,10 +76,10 @@ However, if you create a four block structure with the subject-verb-ala-verb, th
 The four block are grouped in what would really be a clockwise arrangement.
 
 {% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso08_12.jpg" caption="sina sona ala sona e ni: mi jo e wawa?!" %}
- 
+
 
 {% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso08_11.jpg" caption="mi ken ala ken toki?" %}
 
-The reason for this is to avoid doubling the same verb glyph next to itself. This way they remain separated by ala. 
+The reason for this is to avoid doubling the same verb glyph next to itself. This way they remain separated by ala.
 
 Think of the entire group as one single block with the subject and ala in two opposite corners, and the repeated verb in the other two corners. The 'X' shape in the middle of ala echoes this structure.

@@ -5,7 +5,6 @@ title: 'Lesson 7: Prepositions Part 2'
 layout: page
 permalink: /toki-pona/lesson-7/
 
-sitelen_lessons_index: 7
 url_previous: /toki-pona/lesson-6/
 url_next: /toki-pona/lesson-8/
 
@@ -102,7 +101,7 @@ The first prepositional phrase: _towards his house--tawa tomo ona_ is also part 
 
 The second prepositional phrase _using the car--kepeken tomo tawa_ is not part of the verb, so it goes _outside_ of the li.
 
-You may be thinking this is a whole other thing you have to think about that doesn't come up when you are just writing in toki pona. When you can draw it out though, you will have a much better understanding of how you are using each of these prepositions in each sentence because you will have to know when they are verbs, when they are prepositions, and when they are modifiers. This in turn will help you write much better in toki pona. 
+You may be thinking this is a whole other thing you have to think about that doesn't come up when you are just writing in toki pona. When you can draw it out though, you will have a much better understanding of how you are using each of these prepositions in each sentence because you will have to know when they are verbs, when they are prepositions, and when they are modifiers. This in turn will help you write much better in toki pona.
 
 It also has the advantage of disambiguating things that might have more that one reading when written linearly.
 
@@ -112,7 +111,7 @@ It also has the advantage of disambiguating things that might have more that one
 
 {% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso07_17.jpg" caption="ma li lon anpa mi." %}
 
-Since these words aren't true prepositions, they need one of the prepositions we have discussed to far to complete the prepositional phrase. Because of this they end up acting as part of the infix to the preposition.
+Since these words aren't true prepositions, they need one of the prepositions we have discussed so far to complete the prepositional phrase. Because of this they end up acting as part of the infix to the preposition.
 
 {% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso07_18.jpg" caption="pipi lili li kama tan insa ma." %}
 

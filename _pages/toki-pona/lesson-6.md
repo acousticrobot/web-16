@@ -5,7 +5,6 @@ title: 'Lesson 6: Prepositions Part 1'
 layout: page
 permalink: /toki-pona/lesson-6/
 
-sitelen_lessons_index: 6
 url_previous: /toki-pona/lesson-5/
 url_next: /toki-pona/lesson-7/
 

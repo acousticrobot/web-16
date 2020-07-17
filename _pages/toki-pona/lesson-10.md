@@ -1,6 +1,4 @@
 ---
-date: 2012-01-14
-sitelen_lessons_index: 9
 title: 'Lesson 10: Questions using seme'
 layout: page
 permalink: /toki-pona/lesson-10/
@@ -21,6 +19,14 @@ new_vocab_definitions:
   text: suwi
 - image: "/images/t47_tokipona/t47_nimi/t47_nmpi_question.jpg"
   text: question mark
+
+sin_versions:
+- image: "/images/t47_tokipona/t47_kalalili/t47_kalalili_si.jpg"
+  text: sin
+- image: "/images/t47_tokipona/t47_kalalili/t47_kalalili_sin.jpg"
+  text: sin
+- image: "/images/t47_tokipona/t47_kamasona/t47_kaso10_x.jpg"
+  text: jan sin
 ---
 
 {% include image_dictionary.html definitions=page.new_vocab_definitions %}
@@ -64,5 +70,10 @@ Additionally, seme can take the place of an adjective when asking which one(s)
 
 
 - soweli suli Kowala li tan ma seme?
+
+
+### expressing new, another, more
+
+{% include image_dictionary.html definitions=page.sin_versions %}
 
 

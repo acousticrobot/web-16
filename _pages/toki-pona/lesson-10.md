@@ -41,15 +41,19 @@ The important think to remember is that _seme_ often takes the place of the part
 - seme li lape lon supa?
 - seme li sin?
 
+When asking what was done, seme takes the place of the verb
+
+- sina li seme e ona?
+
 When you are asking what something is, _seme_ will be infixed in _li_:
 
-- soweli suwi ni li seme?
+- pipi suwi ni li seme?
 
 And when asking who or what was acted upon, seme will most likely take the place of the direct object, infixed in _e_:
 
 - ona li olin e seme?
 - sina li lukin e seme?
-- sina pali lon tenpo seme?
+- jan nasa li pali e seme?
 
 Additionally, seme can take the place of an adjective when asking which one(s)
 
@@ -85,7 +89,7 @@ There are two things to note when working with _sin_, one of which you may have 
 
 {% include image_dictionary.html definitions=page.sin_versions %}
 
-I didn't want to distract from the last lesson when learning how to work with syllables, but do take note of the two versions of _i_ within the glyphs above. The syllabary presents the simplified version but both are used interchangeably. Your choice will most likely be determined by how small of a space you are trying to fit it into.
+Do take note of the two variations of _i_ within the glyphs above, and remember from lesson 2 that the syllabary presents the simplified version, but both are used interchangeably both in the glyph as well as the syllable. Your choice will most likely be determined by how small of a space you are trying to fit it into.
 
 The other think to note about _sin_ is that is has a preferred orientation, something that we referred to as a short glyph in [lesson 5](/toki-pona/lesson-5/). As sin is mostly used as a modifier, this again you will find comes in quite handy.
 

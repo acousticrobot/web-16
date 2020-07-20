@@ -7,7 +7,17 @@ title: homepage
 <h1 class="content-title">Featured Pages:</h1>
 </header>
 
-<section id="new">
+<section id="sitelen-sitelen">
+  {% for page in site.data.all_tags['sitelen-index'] %}
+  {% include image_index.html page=page %}
+  {% endfor %}
+</section>
+
+<header>
+<h2 class="content-title">Recent Additions:</h1>
+</header>
+
+<section id="featured_pages">
   {% for page in site.data.all_tags['featured'] %}
   {% include image_index.html page=page %}
   {% endfor %}

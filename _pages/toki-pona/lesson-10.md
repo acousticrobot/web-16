@@ -40,7 +40,6 @@ There isn't anything really difficult to learn about forming questions. As long 
 The important think to remember is that _seme_ often takes the place of the part of the sentence in question. If you are asking who or what did something, _seme_ will probably take place of the subject:
 
 {% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso10_02.jpg" caption="seme li lape lon supa?" %}
-{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso10_03.jpg" caption="seme li sin?" %}
 
 When asking what was done, seme takes the place of the verb
 
@@ -103,6 +102,7 @@ Take note again of the two variations of _i_ within the glyphs above, and rememb
 
 The other thing to note about _sin_ is that it can naturally take on a rectangular proportion, something that we referred to as a short or thin block in [lesson 5](/toki-pona/lesson-5/). As sin is mostly used as a modifier, this again you will find comes in quite handy.
 
+{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso10_03.jpg" caption="seme li sin?" %}
 {% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso10_19.jpg" caption="seme li lon insa poki sin?" %}
 {% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso10_20.jpg" caption="jan sin li seme?" %}
 

@@ -18,13 +18,9 @@ pi_versions:
 - image: "/images/t47_tokipona/t47_kalalili/t47_kalalili_pi.jpg"
   text: pi
 - image: "/images/t47_tokipona/t47_kamasona/t47_kaso11_01.jpg"
-  text: pi
 - image: "/images/t47_tokipona/t47_nimi/t47_nimi_pi.jpg"
-  text: pi
 - image: "/images/t47_tokipona/t47_kamasona/t47_kaso11_02.jpg"
   text: pi
-- image: "/images/t47_tokipona/t47_nimi/t47_nmpi_question.jpg"
-  text: question mark
 ---
 
 
@@ -37,24 +33,21 @@ Despite the relatively simple rules around its usage, when and how to use pi eff
 
 #### common block structures
 
-Like _li_ and _e_, pi operates as a container to group other glyphs. Unique to _pi_ though is the notion that the group of glyphs operate as one unit, which can then be found anywhere within a sentence that you could place a single glyph acting as a noun.
-
 {% include image_dictionary.html definitions=page.pi_versions %}
 
-{% assign image_set="/images/t47_tokipona/t47_kalalili/t47_kalalili_pi.jpg|/images/t47_tokipona/t47_kamasona/t47_kaso11_01.jpg|/images/t47_tokipona/t47_nimi/t47_nimi_pi.jpg|/images/t47_tokipona/t47_kamasona/t47_kaso11_02.jpg" | split: "|" %}
-{% include image_and_caption.html image=image_set caption="pi" %}
+Anatomically, the _pi_ glyph is derived from the syllable _pi_, sticking it's head up, emptied of contents, and ready to take on it's role as a container. Use of _pi_ in toki pona almost always results in at least two glyphs within, and most commonly either one or two glyphs above. Once employed, it's head stretches out like a goose's neck, and rests next to the first group of glyphs. There are three common orientations for this goose neck: up and to the left, up and to the right, or left and down along the bottom.
 
-Anatomically, the _pi_ glyph is derived from the syllable _pi_, sticking it's head up, emptied of contents, and ready to take on it's role as a container. Use of _pi_ in toki pona almost always results in at least two glyphs within, and most commonly one or two glyphs above. Once employed, it's head stretches out like a goose's neck, and rests next to the first group of glyphs. There are three common orientations for this goose neck: up and to the left, up and to the right, or left and down along the bottom:
+Like _li_ and _e_, _pi_ operates as a container to group other glyphs. Unique to _pi_ though is the notion that the group of glyphs that operate as one unit includes a number of glyphs right before the _pi_ as well. This entire grouping can then be found anywhere within a sentence that you could place a single glyph acting as a noun.
 
- - kulupu pi toki pona
- - jan mute pi ma tomo
- - jan suli pi nasin musi
+ {% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso11_03.jpg" caption="kulupu pi toki pona" %}
+ {% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso11_04.jpg" caption="jan mute pi ma tomo" %}
+ {% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso11_05.jpg" caption="jan suli pi nasin musi" %}
 
 Once this grouping feels satisfactory, it's time to fit it into the larger glyph block:
 
- - mi tawa tomo pi telo nasa.
- - jan lawa pi tomo tawa kon li tawa sewi.
- - mi kama sona e nasin pona pi seli moku.
+{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso11_06.jpg" caption="mi tawa tomo pi telo nasa." %}
+{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso11_07.jpg" caption="jan lawa pi tomo tawa kon li tawa sewi." %}
+{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso11_08.jpg" caption="mi kama sona e nasin pona pi seli moku." %}
 
 Depending on the fit, you may find you need to start again with one of the other orientations and build it back up from inside the _pi_ on out.
 
@@ -62,20 +55,19 @@ Depending on the fit, you may find you need to start again with one of the other
 
 Structurally, possessives with pi operate in the same way:
 
- - nimi pi mama mije li seme?
+{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso11_09.jpg" caption="nimi pi mama mije li seme?" %} - nimi pi mama mije li seme?
 
 The only exception is with the _li pi_ formation, where we can find a single glyph inside of pi:
 
- - kalama musi ni li pi mi.
- - ilo ni li pi sina.
+{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso11_10.jpg" caption="kalama musi ni li pi mi." %}
+{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso11_11.jpg" caption="ilo ni li pi sina." %}
 
 ### opposites with pi and ala
 
 Using _ala_ within _pi_ to express  _something of no something_  also works as you would expect:
 
- - jan lawa pi kulupu jan utala li jan pi lape ala.
-
- - jan pi tomo ala li tawa mute.
+{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso11_12.jpg" caption="jan lawa pi kulupu jan utala li jan pi lape ala." %}
+{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso11_13.jpg" caption="jan pi tomo ala li tawa mute." %}
 
 ### more than one pi
 
@@ -83,17 +75,17 @@ One thing that I find is often tempting when first learning toki pona is to try 
 
 But every once in a while it can't be helped, especially when working both with a possessive and descriptive grouping:
 
- - len pi jan pi lon anpa ma li jaki.
+{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso11_14.jpg" caption="len pi jan pi lon anpa ma li jaki." %}
 
- The best thing to do in these cases is to first establish how large you need to draw the innermost glyphs. If you start working from the subject down to the period, you are almost assured of hitting a point where it is simply to tight inside the second nested pi.
+The best thing to do in these cases is to first establish how large you need to draw the innermost glyphs. If you start working from the subject down to the period, you are almost assured of hitting a point where it is simply to tight inside the second nested pi.
 
- The other thing to do is to try several orientations for both goose necks, and try and vary the orientations for better visual flow.
+The other thing to do is to try several orientations for both goose necks, and try and vary the orientations for better visual flow.
 
 ### pi'ing in the wild
 
 I encourage you to search out uses of pi in sitelen sitelen by myself and others to get a good sense of how it works when found within larger sitelen blocks. The best example I've constructed is probably the [lipu lawa pi esun kama]({% post_url 2012-08-02-lipu-lawa-pi-esun-kama %}) which contains 15 _pi_ glyphs in total, including a nested pair and one used in linear isolation.  Take a look at this altered image which highlights all of them, and then take another look at the original and see if you can spot them in the crowd.
 
-- lipu lawa pi esun kama
+ - lipu lawa pi esun kama
 
 
 

@@ -58,4 +58,4 @@ Being able to navigate a site is something I cherish highly, and in this regard 
 
 ### Sitelen Sitelen
 
-Fans of toki pona have been making their way here for years, and will be filling this site with more content soon. Beyond the sitelen sitelen lessons that still need to be written, I've had several artworks sent to me that hadn't made it onto my site. Check the [sitelen sitelen fanart](/toki-pona/#sitelen-pi-jan-ante) section for the latest!
+Fans of toki pona have been making their way here for years, and will be filling this site with more content soon. Beyond the sitelen sitelen lessons that still need to be written, I've had several artworks sent to me that hadn't made it onto my site. Check the [sitelen pi jan ante](/toki-pona/#sitelen-pi-jan-ante) section for the latest!

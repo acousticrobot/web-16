@@ -5,10 +5,12 @@ excerpt: jan Same created a complete set of vectorized sitelen sitelen, includin
 thumb: /images/t47/t47.janSame.prince_s.png
 tags:
 - toki pona
-- sitelen sitelen fanart
+- sitelen pi jan ante
 ---
 
 ### artwork by jan Same, and a fully vectorized collection of the sitelen sitelen
+
+> update 7/2020: Olaf Janssen has made a great [sitelen sitelen renderer](http://livingtokipona.smoishele.com/examples/liveinput/liveinput.html) based on this font. I hope to write more on this soon.
 
 {: .wrapper__center-image}
 ![first chapter of 'The Little Prince'](/images/t47/t47.janSame.prince_l.png)

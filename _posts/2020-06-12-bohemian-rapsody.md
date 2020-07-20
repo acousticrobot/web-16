@@ -6,7 +6,7 @@ thumb: /images/t47/t47.janIlina.bohemian_s.jpg
 tags:
 - featured
 - toki pona
-- sitelen sitelen fanart
+- sitelen pi jan ante
 ---
 
 jan Iliana recently sent me a little piece of Bohemian Rapsody translated into toki pona with some beautiful shading.

@@ -6,7 +6,7 @@ media:
 - pencil on paper
 tags:
 - toki pona
-- sitelen sitelen fanart
+- sitelen pi jan ante
 thumb: "/images/t47/t47.janTelepi.jnjklipkik_s.jpg"
 t_tags:
 - human

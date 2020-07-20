@@ -5,7 +5,7 @@ excerpt: jan Same's Complete translation of Little Red Riding Hood into toki pon
 thumb: /images/t47/t47.janSame.melilili_1.png
 tags:
 - toki pona
-- sitelen sitelen fanart
+- sitelen pi jan ante
 ---
 
 jan Same has made a [complete translation of Little Red Riding Hood](http://musilili.net/lipu/meli-lili-pi-len-loje-2/), and it's fantastic, both in effort and in results. He spent two years on the project, enlisted the help of jan Kipo, jan Lope and jan Tepan for the translation and has presented three versions: toki pona, sitelen sitelen, and sitelen pona.

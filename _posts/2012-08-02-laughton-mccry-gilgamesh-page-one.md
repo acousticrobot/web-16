@@ -6,7 +6,7 @@ media:
 - ink on paper
 tags:
 - toki pona
-- sitelen sitelen fanart
+- sitelen pi jan ante
 thumb: "/images/t47/t47.mrmccry.d4vazo4_s.jpg"
 t_tags:
 - human

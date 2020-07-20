@@ -5,7 +5,7 @@ excerpt: Remasterd EPS files from jan Same including a missing oko.
 thumb: /images/t47/t47.janSame.prince_s.png
 tags:
 - toki pona
-- sitelen sitelen fanart
+- sitelen pi jan ante
 ---
 
 I just heard from jan Same that he has updated his vectorized sitelen sitelen. You can see more about the updates and links to download the files on his site here: http://musilili.net/sitelen-sitelen-remastered/

@@ -1,11 +1,10 @@
-**/images/**
+archive/**/images/**
 .DS_Store
 .jekyll-cache/
 .sass-cache
 _drafts
 _site
 documents/*
-images/*
 sftp-config.json
 utilities/inbox/*
 utilities/outbox/*

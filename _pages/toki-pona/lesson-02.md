@@ -3,7 +3,7 @@ title: 'Lesson 2: Writing Syllables'
 layout: page
 permalink: /toki-pona/lesson-2/
 
-sitelen_lessons_index: 1 
+sitelen_lessons_index: 1
 url_previous: /toki-pona/lesson-1/
 url_next: /toki-pona/lesson-3/
 
@@ -271,7 +271,7 @@ word_definitions:
   text: tan
 ---
 
-### Glyphs can represent whole words, or individual syllables
+### glyphs can represent whole words, or individual syllables
 
 This hieroglyphic writing system uses two methods to form words: images which represent whole words, and images which represent syllables. Most of the time, we will use glyph blocks which represent whole words. Let's look into the syllable method first, however, for a couple of reasons:
   1. This is a good introduction to the idea of _infixing_ and _subfixing_. Many of the sentence constructions you will be learning involve one or more image _inside_ of another, or _below_ another. This is also the case with the syllable constructions.
@@ -312,14 +312,14 @@ Following these rules we arrive at the following table of possible (c)v(n) combi
 
 {% include image_dictionary.html definitions=page.syllabary_definitions grouping=5 %}
 
-### Using the syllabary
+### using the syllabary
 
 
 As you look though the syllabary, you will see several syllables that are toki pona words by themselves. Here are a few:
 
 {% include image_dictionary.html definitions=page.word_definitions %}
 
-#### Combining syllable blocks
+#### combining syllable blocks
 
 Other multi-syllable words can be created simply by adding syllables together:
 
@@ -334,7 +334,7 @@ As we progress through the following chapters, you will notice that some glyphs 
 
 ![o ante e kulupu lili](/images/t47_tokipona/t47_kamasona/t47_kaso_02_03.jpg)
 
-### Time to play around
+### time to play around
 
 Now, as I mentioned earlier, this is a non-linear writing system, so there are a few tricks ahead for grouping several syllables into words, and words into sentences. For now, however, you might want to have some fun writing out these syllable components into linear text. You already know enough to write anything you can say in toki pona using this hieroglyphic script!
 

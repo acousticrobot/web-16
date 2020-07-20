@@ -3,7 +3,6 @@ sitelen_lessons_index: 9
 title: 'Lesson 9: Unofficial Words, Interjections, Commands'
 layout: page
 permalink: /toki-pona/lesson-9/
-
 url_previous: /toki-pona/lesson-8/
 url_next: /toki-pona/lesson-10/
 
@@ -58,7 +57,7 @@ toki pona uses capital letters to distinguish these foreign words, here we infix
 
 {% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso09_08.jpg" caption="Intenasijonale" %}
 
-{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso09_07.jpg" caption="Nujoka2" %}
+{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso09_07.jpg" caption="Nujoka" %}
 
 #### head noun
 
@@ -96,7 +95,7 @@ These two versions of _ma tomo Uluku_ might look strange on their own, but later
 
 When reading linear text written with one character for each consonant and vowel, it is sometimes easy to forget toki pona is actually a syllabic language.  Remember that only the first syllable can begin without a consonant, even though all syllables can end with _n_.  So make sure if there is a syllable starting with an _n_ that the _n_ is used as a container for the vowel, and not attached to the bottom of another glyph. For example _Tina_ is _jan Ti-na_, not _Tin-a_, and the monkey god Haniman is _soweli sewi A-ni-man_, not _An-i-man_.
 
-#### Long words are best organized into columns
+#### long words are best organized into columns
 
 Breaking toki pona into syllables is much more linear in nature than working with containers and infixes. Since the syllable glyphs are pretty regular in form, when it comes time to organize them it is best to break them into regular columns. Also be aware that the _n_ and the _l_ containers are thinner than the others. Sometimes this can work to one's advantage and sometimes it requires a little stretching or squishing.
 
@@ -136,7 +135,7 @@ I'm drawing this out here in different color pens for demonstration purposes, bu
 
 I really could go on forever like this, we didn't even look at a four column grid, but let's call done done and go look at commands.
 
-### Commands
+### commands
 
 The rest of this chapter is going to focus on using _o_ for commands and addressing others.  Lets start with simple commands starting with _o_ because they are really straight forward.  To use _o_ with commands, simply use the glyph with normal block structure rules.
 
@@ -162,7 +161,7 @@ It is somewhat different from the containers we have see so far, because when we
 
 Later on we will see one one other container, _la_, that reverses the block order rules in this way. These exceptions shouldn't be too hard to get used to.  Just remember that the _o_ refers to this subject so the subject rests inside the _o_, just as prepsitions refer to the direct objects they contain.
 
-### Addressing People
+### addressing People
 
 {% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso09_31.jpg" caption="jan Niki o, mama meli li awen e sina." %}
 

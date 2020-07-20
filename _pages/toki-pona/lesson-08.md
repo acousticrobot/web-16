@@ -33,7 +33,7 @@ new_vocab_definitions:
 
 {% include image_dictionary.html definitions=page.new_vocab_definitions %}
 
-### Negation
+### negation
 
 If you understood how modifiers worked (chapter 5) then negation shouldn't be too much trouble. Adding ala to negate nouns or verbs follows normal block order rules:
 

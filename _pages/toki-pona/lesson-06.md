@@ -45,7 +45,7 @@ prepositional_head_definitions:
 {% include image_dictionary.html definitions=page.new_vocab_definitions %}
 
 
-### Prepositions work as containers, sometimes
+### prepositions work as containers, sometimes
 
 If you know how to use prepositions in toki pona, then you've already done the hard part of this chapter. Preposition glyphs work like li or e, in that they
     are containers for the objects of the prepositions. The only new things here is that they can also appear as glyph blocks by themselves and they all have
@@ -53,8 +53,7 @@ If you know how to use prepositions in toki pona, then you've already done the h
 
 #### prepositional “heads”
 
-Before we go any farther, it is important to become aware of the anatomy of the preposition glyphs. Each preposition can be thought of as having a 'head'
-    attached to an expandable body.
+Before we go any farther, it is important to become aware of the anatomy of the preposition glyphs. Each preposition can be thought of as having a 'head' attached to an expandable body.
 
 {% include image_dictionary.html definitions=page.prepositional_head_definitions %}
 
@@ -72,7 +71,7 @@ It doesn't matter if the head rests on the left, right, top, or even the bottom.
 
 It doesn't matter if the head rests on the left, right, top, or even the bottom. It will still be read the same. This allows greater flexibility in getting shapes to fit next to each other.
 
-### Using  lon, tawa ,and  kepeken
+### using  lon, tawa ,and  kepeken
 
 #### working as regular glyph blocks
 
@@ -98,7 +97,7 @@ When glyph blocks are used as a preposition, they expand to surround the rest of
 
 {% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso06_14.jpg" caption="mi moku kepeken ilo." %}
 
-#### Working as both verb and preposition
+#### working as both verb and preposition
 
 Glyph blocks also work as containers when they function as both a verb and preposition.
 
@@ -110,7 +109,7 @@ Glyph blocks also work as containers when they function as both a verb and prepo
 
 Again, the entire prepositional phrase fits into the prepositional glyph. In the next lesson, we will continue to work with prepositions, and look at the rest of the glyph block which have the ability to work in this manner.
 
-### The colon
+### the colon
 
 {% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso06_18.jpg" caption="sina toki e ni: kon tawa li lon." %}
 

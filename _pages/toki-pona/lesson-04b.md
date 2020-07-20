@@ -11,7 +11,7 @@ two_block_images:
 - "/images/t47_tokipona/t47_kamasona/t47_kaso04b_02.png"
 ---
 
-### Block arrangements
+### block arrangements
 
 In lesson 5, we will start adding modifiers to our nouns and verbs, and the possible glyph block arrangements increase drastically. We won't be able to cover all the possibilities for each sentence, so it's probably a good idea that we run through these rules one more time before we go on. A lot of the information below is a review of what you already know, but there are a few more details that cover possibilities to come.
 
@@ -37,7 +37,7 @@ There are four possible arrangements for three blocks, two of which we have alre
 All four of them use two small blocks arranged on the side of one large block.
 
 #### arranging four blocks
-   
+
 {: .wrapper__center-image}
 ![block structure](/images/t47_tokipona/t47_kamasona/t47_kaso04b_07.png)
 
@@ -68,7 +68,7 @@ When glyph blocks are stacked from the top to the bottom of a sentence block, th
 
 Columns and rows are always read all the way through before going to the next column or row.
 
-#### colums before rows.
+#### columns before rows.
 
 What if you can go either down a column or across a row? Just like with the four-block structure, always go down a column first if there is a choice.
 

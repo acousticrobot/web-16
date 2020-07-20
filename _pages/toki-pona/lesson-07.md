@@ -41,7 +41,7 @@ preposition_definitions:
 
 {% include image_dictionary.html definitions=page.new_vocab_definitions %}
 
-### Using sama, tan, and poka
+### using sama, tan, and poka
 
 We already took a look at lon, tawa, and tan in the last lesson, but there's still a little more to cover on prepositions. First let's review what we already know, adding the prepositions sama and poka. Remember, each preposition can be thought of as having a 'head' attached to an expandable body.
 
@@ -71,7 +71,7 @@ If they aren't being used as prepositions, the balloon part of these glyphs shri
 
 Notice here, lon becomes the preposition in _ mi moku lon poka sina_, and poka becomes part of the infix. In _ len mute li sama_, there is no object to fill sama. They can even become the subject, as we see in _tan ni li nasa_.
 
-### Using prepositions with li
+### using prepositions with li
 
 {% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso07_12.jpg" caption="ma suli li poka ma lili." %}
 

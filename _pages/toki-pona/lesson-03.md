@@ -34,7 +34,7 @@ new_vocab_definitions:
 
 {% include image_dictionary.html definitions=page.new_vocab_definitions %}
 
-### Sentences with mi or sina as the subject
+### sentences with mi or sina as the subject
 
 #### vertical stacks, horizontal rows
 
@@ -70,7 +70,7 @@ Notice in both variations of mi moku, above, the period glyph runs horizontal al
 
 Compare the two examples of sina pona, one with a period and one with an exclamation point.  For the end of sentences, all punctuation glyphs work in the same way.
 
-### Sentences using li between the subject and verb
+### sentences using li between the subject and verb
 
 {% assign image_set="/images/t47_tokipona/t47_kamasona/t47_kaso03_13.jpg|/images/t47_tokipona/t47_kamasona/t47_kaso03_14.jpg" | split: "|" %}
 {% include image_and_caption.html image=image_set caption="telo li pona." %}

@@ -55,7 +55,7 @@ Depending on the fit, you may find you need to start again with one of the other
 
 Structurally, possessives with pi operate in the same way:
 
-{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso11_09.jpg" caption="nimi pi mama mije li seme?" %} - nimi pi mama mije li seme?
+{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso11_09.jpg" caption="nimi pi mama mije li seme?" %}
 
 The only exception is with the _li pi_ formation, where we can find a single glyph inside of pi:
 
@@ -85,7 +85,7 @@ The other thing to do is to try several orientations for both goose necks, and t
 
 I encourage you to search out uses of pi in sitelen sitelen by myself and others to get a good sense of how it works when found within larger sitelen blocks. The best example I've constructed is probably the [lipu lawa pi esun kama]({% post_url 2012-08-02-lipu-lawa-pi-esun-kama %}) which contains 15 _pi_ glyphs in total, including a nested pair and one used in linear isolation.  Take a look at this altered image which highlights all of them, and then take another look at the original and see if you can spot them in the crowd.
 
- - lipu lawa pi esun kama
+{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso11_15.jpg" %}
 
 
 

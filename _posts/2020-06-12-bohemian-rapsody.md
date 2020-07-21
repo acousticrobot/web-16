@@ -2,7 +2,7 @@
 date: 2020-06-12
 title: Bohemian Rhapsody
 excerpt: Jan Iliana li pali e kulupu sitelen sitelen lili pi kalama musi Bohemian Rhapsody
-thumb: /images/t47/t47.janIlina.bohemian_s.jpg
+thumb: /images/t47_tokipona/jan_ante/t47.janIlina.bohemian_s.jpg
 tags:
 - featured
 - toki pona
@@ -12,7 +12,7 @@ tags:
 jan Iliana recently sent me a little piece of Bohemian Rapsody translated into toki pona with some beautiful shading.
 
 {: .wrapper__center-image}
-![Bohemian Rapsody](/images/t47/t47.janIlina.bohemian_l.jpg)
+![Bohemian Rapsody](/images/t47_tokipona/jan_ante/t47.janIlina.bohemian_l.jpg)
 open your eyes, look up to the skies...
 
 Included was also a list of questions, which got me digging through some old journals and thinking about a lot of my original ambitions for presenting sitelen sitelen here for public consumption.
@@ -31,9 +31,9 @@ Of all the missing lessons, addressing _la_ is long overdue, and probably the fi
 
 jan Ilina also included two sketches with this question:
 
-{% include image_and_caption.html image="/images/t47/t47.janIlina.pini_1.jpg" caption="this one works similar to other punctuation" %}
+{% include image_and_caption.html image="/images/t47_tokipona/jan_ante/t47.janIlina.pini_1.jpg" caption="this one works similar to other punctuation" %}
 
-{% include image_and_caption.html image="/images/t47/t47.janIlina.pini_2.jpg" caption="this one a row of pini" %}
+{% include image_and_caption.html image="/images/t47_tokipona/jan_ante/t47.janIlina.pini_2.jpg" caption="this one a row of pini" %}
 
 I have experimented with a [banner under headings]({% post_url 2012-08-02-lipu-lawa-pi-esun-kama %}) but generally used white space to group sections, or inserted drawings between paragraphs. My feeling towards this is: think about it as you would composing any drawing. Be aware of the entire page, and all the sentence blocks you want to fill in that space, and how compact you want the final composition.  Then leave those spaces in between paragraphs, and see if you prefer them as negative (white) or positive (glyph) space.  You aren't violating any rules by adding your own separators, you are simply embellishing the drawing.
 

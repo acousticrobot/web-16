@@ -2,7 +2,7 @@
 date: 2019-06-25
 title: meli lili pi len loje
 excerpt: jan Same's Complete translation of Little Red Riding Hood into toki pona and sitelen sitelen.
-thumb: /images/t47/t47.janSame.melilili_1.png
+thumb: /images/t47_tokipona/jan_ante/t47.janSame.melilili_1.png
 tags:
 - toki pona
 - sitelen pi jan ante
@@ -19,7 +19,7 @@ It's worth going to his page to see the original, but I just want to point out a
 
 Here is an example of how he's handled the attributes:
 
-{% include image_and_caption.html image="/images/t47/t47.janSame.melilili_2.png" caption="meli lili en soweli ike li toki e ni:..." %}
+{% include image_and_caption.html image="/images/t47_tokipona/jan_ante/t47.janSame.melilili_2.png" caption="meli lili en soweli ike li toki e ni:..." %}
 
 The _meli lili:_ and _soweli ike:_ are small enough to not be distracting, but still manage to clearly mark out the dialog as it passes between little red riding hood and the wolf.
 
@@ -33,6 +33,6 @@ Finding the right size to comfortably nest in sitelen sitelen is always the hear
 mama meli ona.
 
 {: .wrapper__center-image}
-![Red riding hood tells her grandmother about the wolf on the road.'](/images/t47/t47.janSame.melilili_3.png)
+![Red riding hood tells her grandmother about the wolf on the road.'](/images/t47_tokipona/jan_ante/t47.janSame.melilili_3.png)
 
 By the time we get to _soweli ike sin_ we are nested in both an _e_ and an _pi_, and sandwiched between the main sentence and a prepositional block. And yet no glyph feels so large that it gets undue attention, or so small that it is illegible.

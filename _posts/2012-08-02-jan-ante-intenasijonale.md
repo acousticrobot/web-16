@@ -7,7 +7,7 @@ media:
 tags:
 - toki pona
 - sitelen pi jan ante
-thumb: "/images/t47/t47.janAnte.intenasijonale_s.jpg"
+thumb: "/images/t47_tokipona/jan_ante/t47.janAnte.intenasijonale_s.jpg"
 t_tags:
 - human
 - sequel
@@ -19,7 +19,7 @@ excerpt: This is jan Ante's sitelen sitelen using his own translation of L'Inter
 ### artwork by jan Ante, from his translation of **L'Internationale**
 
 {: .wrapper__center-image}
-![Intenasijonale pi jan Ante](/images/t47/t47.janAnte.intenasijonale_l.jpg)
+![Intenasijonale pi jan Ante](/images/t47_tokipona/jan_ante/t47.janAnte.intenasijonale_l.jpg)
 
 This is jan Ante's sitelen sitelen using his [own translation](http://forums.tokipona.org/viewtopic.php?f=5&t=1172&p=11224&hilit=intenasijonale#p11224) of [L'Internationale](http://en.wikipedia.org/wiki/The_Internationale).  I always found this to be an interesting take on how to organize sitelen glyphs.
 

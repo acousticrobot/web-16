@@ -7,7 +7,7 @@ media:
 tags:
 - toki pona
 - sitelen pi jan ante
-thumb: "/images/t47/t47.janTelepi.jnjklipkik_s.jpg"
+thumb: "/images/t47_tokipona/jan_ante/t47.janTelepi.jnjklipkik_s.jpg"
 t_tags:
 - human
 - sequel
@@ -18,7 +18,7 @@ excerpt: Here's a humorous and dark image by jan Telepi. It's a rather free-form
 
 ### artwork by jan Telepi
 
-![jan jaki li pakala ike.](/images/t47/t47.janTelepi.jnjklipkik_l.jpg)
+![jan jaki li pakala ike.](/images/t47_tokipona/jan_ante/t47.janTelepi.jnjklipkik_l.jpg)
 
 Here's a humorous and dark image by jan Telepi which says _"jan jaki li pakala ike"_. You could translate it a number of ways, but it means something like _"The filthy person evilly destroys."_
 

@@ -2,7 +2,7 @@
 date: 2015-12-11
 title: Vectorized sitelen sitelen by Jan Same
 excerpt: jan Same created a complete set of vectorized sitelen sitelen, including the syllable glyphs and an assortment of containers, and has used them to render the first page of <i>The Little Prince</i>.
-thumb: /images/t47/t47.janSame.prince_s.png
+thumb: /images/t47_tokipona/jan_ante/t47.janSame.prince_s.png
 tags:
 - toki pona
 - sitelen pi jan ante
@@ -13,9 +13,9 @@ tags:
 > update 7/2020: Olaf Janssen has made a great [sitelen sitelen renderer](http://livingtokipona.smoishele.com/examples/liveinput/liveinput.html) based on this font. I hope to write more on this soon.
 
 {: .wrapper__center-image}
-![first chapter of 'The Little Prince'](/images/t47/t47.janSame.prince_l.png)
+![first chapter of 'The Little Prince'](/images/t47_tokipona/jan_ante/t47.janSame.prince_l.png)
 
-[see it larger](/images/t47/t47.janSame.prince_l.png)
+[see it larger](/images/t47_tokipona/jan_ante/t47.janSame.prince_l.png)
 
 jan Same sent me this piece back in October, which was a big motivator for me to finish redesigning the new site so I could post these images here. This first chapter of *The Little Prince* based on the translation by [Michael F](http://failbluedot.com/toki_pona/jan_lawa_lili/chap01) that he composed is just one example of what could be built with his fully vectorized version of sitelen sitelen. You can see the full set below, and he's also offered the vectorized versions themselves for anyone's use in his origninal post on the [toki pona forums](http://forums.tokipona.org/viewtopic.php?f=7&p=13786#p13786), along with his description of the project.
 
@@ -26,12 +26,12 @@ One thing I really appreciate from this piece is that in a couple of places, jan
 jan Same expressed interest in turning his work into a font, which sounds pretty cool, if not ambitious.  I know from working with pinyin on the keyboard to write in Chinese, it's possible to turn multiple keystrokes into a single character, but I don't know the first thing about designing a font set with with key codes. I could see starting with something like [paper.js](http://paperjs.org/), or [D3js](http://d3js.org/) and composing linear sitelen glyphs typed into a field.  Composing full sitelen glyphs from toki pona is something I've wished for a lot through the years, but the scope of such a project has kept me from thinking about is seriously for a while.  Perhaps these glyphs will be enough to tempt another toki pona enthusiast to take on the challenge?
 
 {: .wrapper__center-image}
-![full sitelen sitelen vectorized](/images/t47/t47.janSame.tokilili.png)
+![full sitelen sitelen vectorized](/images/t47_tokipona/jan_ante/t47.janSame.tokilili.png)
 
 {: .wrapper__center-image}
-![full sitelen sitelen vectorized](/images/t47/t47.janSame.sitelen_sitelen.png)
+![full sitelen sitelen vectorized](/images/t47_tokipona/jan_ante/t47.janSame.sitelen_sitelen.png)
 
 {: .wrapper__center-image}
-![full sitelen sitelen vectorized](/images/t47/t47.janSame.containers.png)
+![full sitelen sitelen vectorized](/images/t47_tokipona/jan_ante/t47.janSame.containers.png)
 
 _update June 2019: You can download the font and read more about it from the creator here: http://musilili.net/sitelen-sitelen-remastered/_

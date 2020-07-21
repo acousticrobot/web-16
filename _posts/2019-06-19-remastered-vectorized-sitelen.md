@@ -2,7 +2,7 @@
 date: 2019-06-19
 title: Remastered Vector files from Jan Same
 excerpt: Remasterd EPS files from jan Same including a missing oko.
-thumb: /images/t47/t47.janSame.prince_s.png
+thumb: /images/t47_tokipona/jan_ante/t47.janSame.prince_s.png
 tags:
 - toki pona
 - sitelen pi jan ante

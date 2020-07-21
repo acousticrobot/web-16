@@ -37,7 +37,7 @@ There isn't anything really difficult to learn about forming questions. As long 
 
 {% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso10_01.jpg" caption="seme?" %}
 
-The important think to remember is that _seme_ often takes the place of the part of the sentence in question. If you are asking who or what did something, _seme_ will probably take place of the subject:
+The important thing to remember is that _seme_ often takes the place of the part of the sentence in question. If you are asking who or what did something, _seme_ will probably take place of the subject:
 
 {% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso10_02.jpg" caption="seme li lape lon supa?" %}
 
@@ -102,14 +102,14 @@ Take note again of the two variations of _i_ within the glyphs above, and rememb
 
 {% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso10_03.jpg" caption="seme li sin?" %}
 
-The other thing to note about _sin_ is that it can naturally take on a rectangular proportion, something that we referred to as a short or thin block in [lesson 5](/toki-pona/lesson-5/). As sin is mostly used as a modifier, this again you will find comes in quite handy.
+The other thing to note about _sin_ is that it can naturally take on a rectangular proportion, something that we referred to as a short or thin block in [lesson 5](/toki-pona/lesson-5/). As _sin_ is often used as a modifier, you will find comes in quite handy.
 
 {% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso10_19.jpg" caption="seme li lon insa poki sin?" %}
 {% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso10_20.jpg" caption="jan sin li seme?" %}
 
 ### going further
 
-As jan Pije says at this point, congratulations! You are over half way through the course, and you have enough insight into sitelen sitelen at this point that you can probably infer the rest of the rules without much trouble.
+As jan Pije says at this point, congratulations! You are over half way through the course, and you have enough insight into sitelen sitelen that you can probably infer the rest of the rules without much trouble.
 
 If you have known about the first half of these lessons for some time, and are just now returning, welcome back. Around the time jan Sonja was adding some new words to toki pona and finishing up _pu_, I left these lessons unfinished at lesson 9, not knowing if I would have to restructure them or change them entirely.
 
@@ -118,10 +118,10 @@ Since then, I have continuously received heartfelt emails where you have taken t
 {: .wrapper__center-image}
 ![lipu lawa pi esun kama](/images/t47/t47.2000721_1.jpg)
 
-jan pona mi o pilin pona! sina kama sona mute. tenpo pini mute la mi pini e lipu kama sona pi sitelen sitelen. sina mute li kama jo e sona li sewi e kon pi sitelen sitelen. tenpo ni la mi open pali e lipu sin.  kepeken toki pona la mi mute li toki ala e ni: mi olin e toki pona anu olin e sitelen sitelen. taso mi ken toki e ni: mi olin e kulupu toki pona li olin e sina mute.
+jan pona o pilin pona! sina kama sona mute. tenpo pini mute la mi pini e lipu kama sona pi sitelen sitelen. sina mute li kama jo e sona li sewi e kon pi sitelen sitelen. tenpo ni la mi open pali e lipu sin.  kepeken toki pona la mi mute li toki ala e ni: mi olin e toki pona anu olin e sitelen sitelen. taso mi ken toki e ni: mi olin e kulupu pi toki pona li olin e sina mute.
 
 {: .wrapper__center-image}
 ![lipu lawa pi esun kama](/images/t47/t47.2000721_2.jpg)
 
-lon lipu ni anu lon sitelen sitelen la seme li pona anu ike tawa sina la, o toki tawa mi. mi open.
+lon lipu ni anu lon sitelen sitelen la seme li pona anu ike tawa sina? o toki tawa mi. mi open.
 

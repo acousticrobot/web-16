@@ -7,7 +7,7 @@ media:
 tags:
 - toki pona
 - sitelen pi jan ante
-thumb: "/images/t47/t47.mrmccry.d4vazo4_s.jpg"
+thumb: "/images/t47_tokipona/jan_ante/t47.mrmccry.d4vazo4_s.jpg"
 t_tags:
 - human
 - sequel
@@ -18,7 +18,7 @@ excerpt: I can't say how excited I was when I got a link to this image in an ema
 
 ### artwork by [Laugton McCry](http://mrmccry.deviantart.com/#/d4vazo4), toki pona translation by [jan Ote](http://tokipl.wikidot.com/tptext:jan-kikamesi-1)
 
-![Gilgamesh by Laughton McCry](/images/t47/t47.mrmccry.d4vazo4_m.jpg)
+![Gilgamesh by Laughton McCry](/images/t47_tokipona/jan_ante/t47.mrmccry.d4vazo4_m.jpg)
 
 I can't say how excited I was when I got a link to this image in an email. Not only is jan Ote's translation of Gilgamesh into toki pona probably my favorite toki pona text to date, but this adaptation of my sitelen sitelen by [Laughton McCry](http://mrmccry.deviantart.com/#/d4vazo4) is just absolutely beautiful.
 

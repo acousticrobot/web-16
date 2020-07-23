@@ -81,18 +81,21 @@ This simplification carries over to our other prepositions as well. To be sure t
 {% assign image_set="/images/t47_tokipona/t47_kamasona/t47_kaso10_14.jpg|/images/t47_tokipona/t47_kamasona/t47_kaso10_15.jpg" | split: "|" %}
 {% include image_and_caption.html image=image_set caption="tomo tawa li tawa seme?" %}
 
-Here are two further examples with _lon_ and _kepeken_.
+Here are two further examples with _lon_, _kepeken_, _poka_, and _sama_:
 
 {% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso10_16.jpg" caption="sina li lon seme?" %}
 
 {% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso10_17.jpg" caption="mi pakala kepeken seme?" %}
 
-When _seme_ is modifying something else within _tan_, we follow normal block order rules:
+{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso10_17b.jpg" caption="tomo moku li poka seme?" %}
+
+{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso10_17c.jpg" caption="jan ni li sama seme?" %}
+
+When _seme_ is modifying something else within a preposition, we follow normal block order rules:
 
 {% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso10_18.jpg" caption="jan utala li tan ma seme?" %}
 
 ### expressing new, another, more
-
 
 There are two things to note when working with _sin_, one of which you may have already noticed if you have spend much time looking at [the syllabary](/toki-pona/dictionaries/syllabary/). The glyph for sin is the same as it's syllable equivalent, _si_ with a suffix of _n_.
 

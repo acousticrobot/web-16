@@ -38,52 +38,55 @@ preposition_definitions:
   text: poka
 ---
 
-
 {% include image_dictionary.html definitions=page.new_vocab_definitions %}
 
 ### using sama, tan, and poka
 
-We already took a look at lon, tawa, and tan in the last lesson, but there's still a little more to cover on prepositions. First let's review what we already know, adding the prepositions sama and poka. Remember, each preposition can be thought of as having a 'head' attached to an expandable body.
+We already took a look at lon, tawa, and tan in the last lesson, but there's still a little more to cover on prepositions. First let's review what we already know, adding the preposition sama. Remember, each preposition can be thought of as having a 'head' attached to an expandable body.
 
 {% include image_dictionary.html definitions=page.preposition_definitions %}
 
-#### working as prepositional containers
-
-{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso07_06.jpg" caption="mi telo tan ni: mi jaki." %}
-
-When one of these these glyph blocks function as a preposition, or as a combination verb and preposition, they become a container for the rest of the prepositional phrase.
-
-{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso07_04.jpg" caption="mi poka sina." %}
-
-{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso07_05.jpg" caption="ona li lukin sama mi." %}
-
-The head portion of the glyph is oriented to where is isn’t obstructing the rest of the glyphs.
-
 #### working as regular glyph blocks
 
-{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso07_07.jpg" caption="mi moku lon poka sina." %}
-
-{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso07_08.jpg" caption="len mute li sama." %}
-
-If they aren't being used as prepositions, the balloon part of these glyphs shrinks down, and they act like normal stacking glyph blocks.
+If they aren't being used as part of a prepositional phrase, they act like normal stacking glyph blocks.
 
 {% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso07_09.jpg" caption="tan ni li nasa." %}
 
-Notice here, lon becomes the preposition in _ mi moku lon poka sina_, and poka becomes part of the infix. In _ len mute li sama_, there is no object to fill sama. They can even become the subject, as we see in _tan ni li nasa_.
+{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso07_08.jpg" caption="len mute li sama." %}
 
-### using prepositions with li
+In _len mute li sama_, there is no object to fill _sama_. In _tan ni li nasa_, _tan_ is part of the subject "the reason".  This works the same for _poka_, when it is used as a noun:
 
-{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso07_12.jpg" caption="ma suli li poka ma lili." %}
+{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso07_07.jpg" caption="poka mi li lon suno." %}
+
+#### working as prepositional containers
+
+When one of these these glyph blocks function as a preposition, or as a combination verb and preposition, they become a container for the rest of the prepositional phrase. The head portion of the glyph can be oriented anywhere is isn’t obstructing the rest of the glyphs.
+
+{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso07_06.jpg" caption="mi telo tan ni: mi jaki." %}
+
+{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso07_05.jpg" caption="ona li lukin sama mi." %}
+
+#### using prepositions with li
+
+One thing we haven't covered yet is what to do when your verb is inside of li. Look again at _ona li lukin sama mi_ up above. The verb, lukin, becomes an infix in li, and mi becomes an infix in _sama_. But what if the preposition is also the verb? We end up with a double infix.
 
 {% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso07_10.jpg" caption="ona li lon tomo ona." %}
 
-One thing we haven't covered yet is what to do when your verb is inside of li. Look again at ona li lukin sama mi up above. The verb, lukin, becomes an infix in li, and mi becomes an infix in sama. But what if the preposition is also the verb? We end up with a double infix.
+First the preposition fits into the _li_ container. Then, the object of the preposition and all of the modifiers go inside the preposition glyph.
 
 {% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso07_11.jpg" caption="jan lili li tan unpa." %}
 
-First the preposition fits into the li container. Then, the object of the preposition and all of it’s modifiers goes inside the preposition glyph.
-
 You can try drawing the whole unit from the inside out, and even drawing the rest of the sentence after this block has been composed. I usually find I have to try a couple times until I find a composition I’m satisfied with.
+
+### using poka with lon
+
+When used as a preposition, _poka_ is used in conjunction with _lon_. This offers another double infix, as _poka_ is infixed in _lon_. In _mi lon poka sina_, _sina_ is infixed in _poka_ which in turn is infixed in _lon_.
+
+{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso07_04.jpg" caption="mi lon poka sina." %}
+
+This gets compounded again when we use _li_:
+
+{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso07_12.jpg" caption="ma suli li lon poka ma lili." %}
 
 #### using verb phrases
 
@@ -91,7 +94,7 @@ You can try drawing the whole unit from the inside out, and even drawing the res
 
 {% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso07_14.jpg" caption="mi mute li wile tawa tomo tawa." %}
 
-Remember verb phrases from lesson 4? What if we want to use a verb/preposition in combination with wile? Since the preposition is part of the verb, the whole thing gets infixed into li.
+Remember verb phrases from lesson 4? What if we want to use a verb/preposition in combination with _wile_? Since the preposition is part of the verb, the whole thing gets infixed into _li_.
 
 Let's look at _ona li wile tawa tomo ona kepeken tomo tawa_, "he wants to drive home" (literally: he wants to go to his house using the car). If you can understand how this works then you probably have a good understanding of how to use preposition glyphs.
 

@@ -87,7 +87,7 @@ Here are two further examples with _lon_, _kepeken_, _poka_, and _sama_:
 
 {% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso10_17.jpg" caption="mi pakala kepeken seme?" %}
 
-{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso10_17b.jpg" caption="tomo moku li poka seme?" %}
+{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso10_17b.jpg" caption="tomo moku li lon poka seme?" %}
 
 {% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso10_17c.jpg" caption="jan ni li sama seme?" %}
 

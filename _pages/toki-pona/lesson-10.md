@@ -1,5 +1,6 @@
 ---
 title: 'Lesson 10: Questions using seme'
+slug: t47_lessons_10
 layout: page
 permalink: /toki-pona/lesson-10/
 sitelen_lessons_index: 10

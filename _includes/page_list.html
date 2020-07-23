@@ -1,5 +1,5 @@
 <ul>
-  {% assign sorted_pages = site.pages | sort:"title" %}
+  {% assign sorted_pages = site.pages | sort:"title" | sort:"slug" %}
 
   {% for page in sorted_pages %}
   {% if page.index != false %}

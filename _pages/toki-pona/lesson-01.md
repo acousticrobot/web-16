@@ -1,10 +1,11 @@
 ---
 title: 'Lesson 1: Welcome'
+slug: t47_lessons_01
 layout: page
 permalink: /toki-pona/lesson-1/
 
 sitelen_lessons_index: 0
-url_next: /toki-pona/lesson-2/ 
+url_next: /toki-pona/lesson-2/
 ---
 
 {% include image_and_caption.html image="/images/t47_tokipona/tokisona/tokisona21.jpg" caption="wile sona li mute e sona." %}
@@ -23,7 +24,7 @@ In toki pona, _sitelen_ can mean both drawing and writing.  John Clifford propos
 
 #### personal style
 
-If you think that you can't draw well enough to do this, don't worry. Just draw the image to your own ability and with your own style. It is not important that it looks like my drawing, just that it doesn't look like any of the other glyphs. As you learn them, you will see they can change quite a bit and still remain distinct from one another. It is also permissible to use a simplified version of the glyph that is still easily readable. It can be used when writing in small or tight spaces, or if you just want to make your drawn sentences pona mute. 
+If you think that you can't draw well enough to do this, don't worry. Just draw the image to your own ability and with your own style. It is not important that it looks like my drawing, just that it doesn't look like any of the other glyphs. As you learn them, you will see they can change quite a bit and still remain distinct from one another. It is also permissible to use a simplified version of the glyph that is still easily readable. It can be used when writing in small or tight spaces, or if you just want to make your drawn sentences pona mute.
 
 
 #### slowing down

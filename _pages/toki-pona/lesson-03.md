@@ -1,5 +1,6 @@
 ---
 title: 'Lesson 3: Basic Sentences'
+slug: t47_lessons_03
 layout: page
 permalink: /toki-pona/lesson-3/
 

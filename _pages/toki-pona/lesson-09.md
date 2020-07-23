@@ -1,5 +1,6 @@
 ---
 sitelen_lessons_index: 9
+slug: t47_lessons_09
 title: 'Lesson 9: Unofficial Words, Interjections, Commands'
 layout: page
 permalink: /toki-pona/lesson-9/

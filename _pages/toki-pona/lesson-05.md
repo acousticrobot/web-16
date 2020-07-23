@@ -2,6 +2,7 @@
 date: 2012-01-14
 sitelen_lessons_index: 5
 title: 'Lesson 5: Modifiers'
+slug: t47_lessons_05
 layout: page
 permalink: /toki-pona/lesson-5/
 

@@ -2,7 +2,7 @@
 title: sitelen sitelen
 layout: page
 sub_nav: false
-slug: t47_lessons_index
+slug: t47_lessons_00
 permalink: /toki-pona/
 thumb: /images/nav/thumb-toki.png
 tags:

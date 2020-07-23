@@ -1,5 +1,6 @@
 ---
 title: 'Lesson 4: Direct Objects, Compound Sentences'
+slug: t47_lessons_04
 layout: page
 permalink: /toki-pona/lesson-4/
 

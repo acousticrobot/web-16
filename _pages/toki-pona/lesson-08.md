@@ -1,6 +1,7 @@
 ---
 date: 2012-01-14
 sitelen_lessons_index: 8
+slug: t47_lessons_08
 title: 'Lesson 8: Negation and Yes/No Questions.'
 layout: page
 permalink: /toki-pona/lesson-8/

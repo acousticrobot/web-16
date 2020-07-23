@@ -2,6 +2,7 @@
 date: 2012-01-14
 sitelen_lessons_index: 6
 title: 'Lesson 6: Prepositions Part 1'
+slug: t47_lessons_06
 layout: page
 permalink: /toki-pona/lesson-6/
 

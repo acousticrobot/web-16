@@ -1,5 +1,6 @@
 ---
 title: 'Lesson 2: Writing Syllables'
+slug: t47_lessons_02
 layout: page
 permalink: /toki-pona/lesson-2/
 

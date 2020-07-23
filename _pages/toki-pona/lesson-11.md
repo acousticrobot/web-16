@@ -1,5 +1,6 @@
 ---
 title: 'Lesson 11: Descriptions and Possessives with pi'
+slug: t47_lessons_11
 layout: page
 permalink: /toki-pona/lesson-11/
 sitelen_lessons_index: 11

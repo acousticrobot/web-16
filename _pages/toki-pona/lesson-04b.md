@@ -1,5 +1,6 @@
 ---
 title: 'Lesson 4b: Hieroglyphic Block Order'
+slug: t47_lessons_04b
 layout: page
 permalink: /toki-pona/lesson-4b/
 

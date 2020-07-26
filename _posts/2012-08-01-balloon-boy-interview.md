@@ -18,7 +18,7 @@ Here are the drawings and the toki pona translations:
 ![panel 1](/images/t47/t47.09001_1_l.jpg)
 
 Panel 1
-  
+
 > **jan Muwawa:** tenpo pimeja ni la, toki e weka pi sike con. jan lili li ken lon insa, li ken tawa  moli ona tan insa tomo tawa. jan lawa li lukin tawa sewi en tawa anpa li wile lukin e jan lili Palakon.  jan mute lon ma Mewika li lukin e ni kin.  Tenpo ilo sike tu wan la, pali ike li pini pona.
 
 > kulupu mama ona ale li lon. o kama pona jan lukin pi ma Mewika en ma ale. mi jan Muwawa, jan Lawi Lawa li weka.
@@ -34,8 +34,8 @@ Panel 2
 ![panel 3](/images/t47/t47.09001_3_l.jpg)
 
 Panel 3
-  
-> mi mute ale li pilin pona tan ni: jan Palakon li pona.  tenpo suno ni la mi mute lon ma li pilin ike, li pilin ona li lon sike kon.  tenpo lili la, sike kon li tawa ike, li lon sewi pi ma Kolowato. pona la, ona li lon weka lon insa poka insa tomo sina.
+
+> mi mute ale li pilin pona tan ni: jan Palakon li pona.  tenpo suno ni la mi mute lon ma li pilin ike, li pilin ona li lon sike kon.  tenpo lili la, sike kon li tawa ike, li lon sewi pi ma Kolowato. pona la, ona li lon weka lon insa poki insa tomo sina.
 
 > jan Wiko, o toki pona tawa mi mute e ni: seme li kama tawa jan Palakon? tenpo suno ni la, ale li kama pakala kin tan seme?
 

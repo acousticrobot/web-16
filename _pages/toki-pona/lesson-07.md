@@ -28,21 +28,19 @@ preposition_definitions:
   text: lon
 - image: "/images/t47_tokipona/t47_kamasona/t47_kaso06_02.jpg"
   text: tawa
-- image: "/images/t47_tokipona/t47_kamasona/t47_kaso06_03.jpg"
-  text: kepeken
 - image: "/images/t47_tokipona/t47_kamasona/t47_kaso06_04.jpg"
   text: tan
+- image: "/images/t47_tokipona/t47_kamasona/t47_kaso06_03.jpg"
+  text: kepeken
 - image: "/images/t47_tokipona/t47_kamasona/t47_kaso07_01.jpg"
   text: sama
-- image: "/images/t47_tokipona/t47_kamasona/t47_kaso07_03.jpg"
-  text: poka
 ---
 
 {% include image_dictionary.html definitions=page.new_vocab_definitions %}
 
 ### using sama, tan, and poka
 
-We already took a look at lon, tawa, and tan in the last lesson, but there's still a little more to cover on prepositions. First let's review what we already know, adding the preposition sama. Remember, each preposition can be thought of as having a 'head' attached to an expandable body.
+We already took a look at lon, tawa, and tan in the last lesson, but there's still a little more to cover on prepositions. First let's review what we already know, adding the prepositions _kepeken_ and _sama_. Remember, each preposition can be thought of as having a 'head' attached to an expandable body.
 
 {% include image_dictionary.html definitions=page.preposition_definitions %}
 
@@ -60,7 +58,7 @@ In _len mute li sama_, there is no object to fill _sama_. In _tan ni li nasa_, _
 
 #### working as prepositional containers
 
-When one of these these glyph blocks function as a preposition, or as a combination verb and preposition, they become a container for the rest of the prepositional phrase. The head portion of the glyph can be oriented anywhere is isn’t obstructing the rest of the glyphs.
+When one of these glyph blocks function as a preposition, or as a combination verb and preposition, they become a container for the rest of the prepositional phrase. The head portion of the glyph can be oriented anywhere is isn’t obstructing the rest of the glyphs.
 
 {% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso07_06.jpg" caption="mi telo tan ni: mi jaki." %}
 
@@ -77,16 +75,6 @@ First the preposition fits into the _li_ container. Then, the object of the prep
 {% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso07_11.jpg" caption="jan lili li tan unpa." %}
 
 You can try drawing the whole unit from the inside out, and even drawing the rest of the sentence after this block has been composed. I usually find I have to try a couple times until I find a composition I’m satisfied with.
-
-### using poka with lon
-
-When used as a preposition, _poka_ is used in conjunction with _lon_. This offers another double infix, as _poka_ is infixed in _lon_. In _mi lon poka sina_, _sina_ is infixed in _poka_ which in turn is infixed in _lon_.
-
-{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso07_04.jpg" caption="mi lon poka sina." %}
-
-This gets compounded again when we use _li_:
-
-{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso07_12.jpg" caption="ma suli li lon poka ma lili." %}
 
 #### using verb phrases
 
@@ -108,7 +96,9 @@ You may be thinking this is a whole other thing you have to think about that doe
 
 It also has the advantage of disambiguating things that might have more that one reading when written linearly.
 
-### anpa, insa, monsi, sewi
+### directional nouns
+
+_anpa_, _insa_, _monsi_, _sewi_, and _poka_, or directional nouns as jan Sonja calls them in _pu_, are used in conjunction with prepositions to indicate direction. I am quite used to using _anpa_ as jan Pije does, where Sonja uses _noka_, but they all operate identically:
 
 {% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso07_16.jpg" caption="suno li lon sewi mi." %}
 
@@ -116,10 +106,14 @@ It also has the advantage of disambiguating things that might have more that one
 
 Since these words aren't true prepositions, they need one of the prepositions we have discussed so far to complete the prepositional phrase. Because of this they end up acting as part of the infix to the preposition.
 
+{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso07_04.jpg" caption="mi lon poka sina." %}
+
+{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso07_12.jpg" caption="ma suli li lon poka ma lili." %}
+
+You may have wondered up to now why the glyph block for li was so boring. Now you can see just how much work it has to do at times. If it were any more complex it would be hard to stuff all those verb phrases and verb prepositions inside.
+
 {% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso07_18.jpg" caption="pipi lili li kama tan insa ma." %}
 
 {% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso07_19.jpg" caption="ona li tawa monsi mi." %}
-
-You may have wondered up to now why the glyph block for li was so boring. Now you can see just how much work it has to do at times. If it were any more complex it would be hard to stuff all those verb phrases and verb prepositions inside.
 
 Just as the prepositions have a head and body, often the subject of the sentence becomes the head and li becomes the body.

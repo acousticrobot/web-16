@@ -2,6 +2,7 @@
 layout: dictionary
 grouping: height-and-width
 title: Example Sentences Gallery
+slug: t47_lessons_dict_04
 sitelen_dict_index: 4
 permalink: /toki-pona/dictionaries/gallery/
 definitions:

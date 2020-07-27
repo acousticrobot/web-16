@@ -2,6 +2,7 @@
 layout: dictionary
 grouping: height
 title: 'drawing dictionary: step by step'
+slug: t47_lessons_dict_03
 sitelen_dict_index: 3
 permalink: /toki-pona/dictionaries/drawing-steps/
 definitions:

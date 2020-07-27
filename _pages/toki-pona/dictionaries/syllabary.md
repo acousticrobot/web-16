@@ -2,6 +2,7 @@
 layout: dictionary
 grouping: 5
 title: the syllabary
+slug: t47_lessons_dict_01
 sitelen_dict_index: 1
 permalink: /toki-pona/dictionaries/syllabary/
 definitions:

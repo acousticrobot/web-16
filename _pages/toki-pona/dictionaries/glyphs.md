@@ -2,6 +2,7 @@
 layout: dictionary
 title: the pictographic word dictionary
 sitelen_dict_index: 0
+slug: t47_lessons_dict_00
 permalink: /toki-pona/dictionaries/glyphs/
 
 definitions:

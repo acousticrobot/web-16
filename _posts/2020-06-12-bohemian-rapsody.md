@@ -60,10 +60,4 @@ There was a long time when the number of 'official' toki pona words was stable, 
 
 > Where can I get help with correcting my toki pona translations? (I've found the forums, but they seem to be really inactive.)
 
-This always seems to be a moving target. I know of a group for toki pona [on disocord](https://discord.com/invite/XKzj3ex) but I don't know how active it is.
-
-I've also recently discovered several groups on Telegram, some of which seem to be pretty active. [kulupu pi toki pona](https://t.me/kulupupitokipona) and [toki pona taso](https://t.me/tokiponataso/19099) both look great.
-
-There is also one for [sitelen sitelen taso](https://t.me/sitelensitelentaso). This one is so amazing I will need to do my next post just about it.
-
-Anyone else know of an active site for chatting in toki pona? Please let me know in the comments below.
+_edit_ This always seems to be a moving target. I have moved all the links I have on [one page](/toki-pona/about/) to keep them updated.

@@ -8,7 +8,7 @@ thumb: /images/nav/thumb-toki.png
 tags:
 - sitelen-index
 - toki pona
-excerpt: <em>O kama pona! sina ken kama sona e sitelen sitelen lon lipu ni.</em><br><p>Learn how to write in the hieroglyphic blocks known as sitelen sitelen. This is a system of non-linear writing you can use to free your mind or break from regular thought. Here you will find all the lessons for writing toki pona using sitelen sitelen, plus glyph dictionaries and plenty of examples, including sitelen sitelen drawn by others.</p>
+excerpt: <em>O kama pona! sina ken kama sona e sitelen sitelen lon lipu ni.</em><br><p>Learn how to write in the hieroglyphic blocks known as sitelen sitelen, or sitelen suwi. This is a system of non-linear writing you can use to free your mind or break from regular thought. Here you will find all the lessons for writing toki pona using sitelen sitelen, plus glyph dictionaries and plenty of examples, including sitelen sitelen drawn by others.</p>
 ---
 
 _O kama pona! sina ken kama sona e sitelen sitelen lon lipu ni._
@@ -21,14 +21,23 @@ Learn how to write in the hieroglyphic blocks known as sitelen sitelen.  This is
   * [{{ lesson["title"] }}]({{ lesson["url"] }})
 {% endif %}{% endfor %}
 
-### Dictionaries
+#### dictionaries
 
 {% for dict in page.dictionaries %}{% if dict != nil %}
   * [{{ dict["title"] }}]({{ dict["url"] }})
 {% endif %}{% endfor %}
 
-### Examples
+#### other resources
 
+{% for sitelen_page in site.data.all_tags["toki pona resources"] %}
+  {% include image_index.html page=sitelen_page %}
+{% endfor %}
+
+{% for sitelen_page in site.data.all_tags["sitelen resources"] %}
+  {% include image_index.html page=sitelen_page %}
+{% endfor %}
+
+### Examples
 
 #### sitelen mi
 

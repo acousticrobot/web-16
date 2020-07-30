@@ -5,7 +5,7 @@ excerpt: jan Same created a complete set of vectorized sitelen sitelen, includin
 thumb: /images/t47_tokipona/jan_ante/t47.janSame.prince_s.png
 tags:
 - toki pona
-- sitelen pi jan ante
+- sitelen resources
 ---
 
 ### artwork by jan Same, and a fully vectorized collection of the sitelen sitelen
@@ -23,8 +23,6 @@ If you've ever designed vector images before, you know how much work this repres
 
 One thing I really appreciate from this piece is that in a couple of places, jan Same has allowed glyphs to poke out of their container glyphs.  Look at the *pi* in the first glyph in the upper left: *tempo pi lili mi la mi lukin e sitelen pona.* And look at the *tawa* in column three, the second glyph down: *jan sewi li pilin ike tawa sitlen mi la mi pali ala e sitelen sin.* I have never tried doing this, even though I regularly place one glyph in front of a neighbor. He effectively reduces a lot of the head-space needed to encompass these odd shaped glyphs, and I don't think he's lost any of the legibility. I'm looking forward to trying this out next time I run into a space where it could work!
 
-jan Same expressed interest in turning his work into a font, which sounds pretty cool, if not ambitious.  I know from working with pinyin on the keyboard to write in Chinese, it's possible to turn multiple keystrokes into a single character, but I don't know the first thing about designing a font set with with key codes. I could see starting with something like [paper.js](http://paperjs.org/), or [D3js](http://d3js.org/) and composing linear sitelen glyphs typed into a field.  Composing full sitelen glyphs from toki pona is something I've wished for a lot through the years, but the scope of such a project has kept me from thinking about is seriously for a while.  Perhaps these glyphs will be enough to tempt another toki pona enthusiast to take on the challenge?
-
 {: .wrapper__center-image}
 ![full sitelen sitelen vectorized](/images/t47_tokipona/jan_ante/t47.janSame.tokilili.png)
 
@@ -35,3 +33,5 @@ jan Same expressed interest in turning his work into a font, which sounds pretty
 ![full sitelen sitelen vectorized](/images/t47_tokipona/jan_ante/t47.janSame.containers.png)
 
 _update June 2019: You can download the font and read more about it from the creator here: http://musilili.net/sitelen-sitelen-remastered/_
+
+_update July 2020: There is now an interactive renderer built with these images, see more [here]({% post_url 2020-07-29-olaf-janssen-toki-pona-to-sitelen %})

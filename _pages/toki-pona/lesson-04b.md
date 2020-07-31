@@ -73,7 +73,7 @@ Columns and rows are always read all the way through before going to the next co
 
 What if you can go either down a column or across a row? Just like with the four-block structure, always go down a column first if there is a choice.
 
-{% assign image_set="/images/t47_tokipona/t47_kamasona/t47_kaso04b_10.png|/images/t47_tokipona/t47_kamasona/t47_kaso04b_11.png" | split: "|" %}
+{% assign image_set="/images/t47_tokipona/t47_kamasona/t47_kaso04b_14.png|/images/t47_tokipona/t47_kamasona/t47_kaso04b_15.png" | split: "|" %}
 {% include image_and_caption.html image=image_set %}
 
 #### sub-columns and sub-rows

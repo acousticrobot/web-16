@@ -23,8 +23,7 @@ There are a number of lessons on line as well, each with it's own advantages.
 
 [jan Pije's lessons](http://tokipona.net/tp/janpije/learn.php), once the authoritative source for learning toki pona, is still a great place to go.  He gives examples for sentence structures more complicated than a lot of what is presented in the official book.  His lessons we updated in 2015 to better align with Sonja's lessons. Steer clear of PDFs of earlier versions unless you are specifically [looking for historical changes]({% post_url 2020-07-25-historical-experimental-directions %}). His updated examples easier to understand and more tasteful.
 
-[rnd's toki pona page](https://rnd.neocities.org/tokipona/) has a newer set of lessons. The great thing about this one is that it compares multiple approaches using toki pona, which gives a solid foundation for the different ways people prefer to interpret the grammar.  This is also going to make it harder to learn toki pona if you are new, so I might still suggest it as a second or third course. The additional resource are another reason to visit the site.
-
+[jan Lentan's toki pona page](https://rnd.neocities.org/tokipona/) has a newer set of lessons. The great thing about these is that it compares multiple approaches using toki pona, and it lays out the many meanings for each sentence rather than giving one empirical translation. This ends up giving a solid foundation for the different ways people prefer to interpret the grammar.  This could also make it harder to learn toki pona if you are new to it, depending on your learning style. The additional resource are another reason to visit the site.
 
 #### Dictionaries
 

@@ -1,12 +1,11 @@
 ---
-title: 'Lesson 4: Direct Objects, Compound Sentences'
-slug: t47_lessons_04
 layout: page
-permalink: /toki-pona/lesson-4/
+title: Direct Objects, Compound Sentences
+sitelen_lessons_index: 4
+permalink: /toki-pona/sitelen/direct-objects
 
-sitelen_lessons_index: 3
-url_previous: /toki-pona/lesson-3/
-url_next: /toki-pona/lesson-4b/
+url_previous: /toki-pona/sitelen/basic-sentences
+url_next: /toki-pona/sitelen/block-order
 
 new_vocab_definitions:
 - image: "/images/t47_tokipona/t47_nimi/t47_nimi_ilo.jpg"

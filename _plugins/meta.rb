@@ -14,7 +14,7 @@ module Jekyll
       end
 
       puts "plugin: generating metadata for sitelen sitelen lessons"
-      lessons_page = site.pages.detect {|page| page.data.has_key?("slug") && page.data["slug"] == 't47_lessons_00'}
+      lessons_page = site.pages.detect {|page| page.data.has_key?("slug") && page.data["slug"] == 'sitelen_lesson_index'}
       if lessons_page
         lessons_page.data.merge! generate_lessons_data(site)
       else

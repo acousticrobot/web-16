@@ -1,13 +1,11 @@
 ---
-date: 2012-01-14
-sitelen_lessons_index: 8
-slug: t47_lessons_08
-title: 'Lesson 8: Negation and Yes/No Questions.'
 layout: page
-permalink: /toki-pona/lesson-8/
+title: Yes/No Questions
+sitelen_lessons_index: 13
+permalink: /toki-pona/sitelen/questions-1
 
-url_previous: /toki-pona/lesson-7/
-url_next: /toki-pona/lesson-9/
+url_previous: /toki-pona/sitelen/prepositions-2
+url_next: /toki-pona/sitelen/questions-2
 
 new_vocab_definitions:
 - image: "/images/t47_tokipona/t47_nimi/t47_nimi_ala.jpg"

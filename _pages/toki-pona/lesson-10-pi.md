@@ -1,10 +1,11 @@
 ---
-title: 'Lesson 11: Descriptions and Possessives with pi'
-slug: t47_lessons_11
 layout: page
-permalink: /toki-pona/lesson-11/
-sitelen_lessons_index: 11
-url_previous: /toki-pona/lesson-10/
+title: Descriptions and Possessives with pi
+sitelen_lessons_index: 15
+permalink: /toki-pona/sitelen/pi
+
+url_previous: /toki-pona/sitelen/questions-2
+url_next: /toki-pona/sitelen/la
 
 new_vocab_definitions:
 - image: "/images/t47_tokipona/t47_nimi/t47_nimi_pi.jpg"

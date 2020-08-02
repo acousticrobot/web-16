@@ -1,11 +1,11 @@
 ---
-sitelen_lessons_index: 9
-slug: t47_lessons_09
-title: 'Lesson 9: Unofficial Words, Interjections, Commands'
 layout: page
-permalink: /toki-pona/lesson-9/
-url_previous: /toki-pona/lesson-8/
-url_next: /toki-pona/lesson-10/
+title: More on Organizing Syllables
+sitelen_lessons_index: 17
+permalink: /toki-pona/sitelen/syllables-3
+
+url_previous: /toki-pona/sitelen/la
+url_next: /toki-pona/sitelen/conjunctions
 
 new_vocab_definitions:
 - image: "/images/t47_tokipona/t47_nimi/t47_nimi_a.jpg"

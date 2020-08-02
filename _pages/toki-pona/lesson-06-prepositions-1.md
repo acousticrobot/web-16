@@ -1,13 +1,11 @@
 ---
-date: 2012-01-14
-sitelen_lessons_index: 6
-title: 'Lesson 6: Prepositions Part 1'
-slug: t47_lessons_06
 layout: page
-permalink: /toki-pona/lesson-6/
+title: Prepositions Part 1
+sitelen_lessons_index: 11
+permalink: /toki-pona/sitelen/prepositions-1
 
-url_previous: /toki-pona/lesson-5/
-url_next: /toki-pona/lesson-7/
+url_previous: /toki-pona/sitelen/preverbs
+url_next: /toki-pona/sitelen/prepositions-2
 
 new_vocab_definitions:
 - image: "/images/t47_tokipona/t47_nimi/t47_nimi_kama.jpg"

@@ -1,12 +1,12 @@
 ---
-title: 'Lesson 4b: Hieroglyphic Block Order'
-slug: t47_lessons_04b
 layout: page
-permalink: /toki-pona/lesson-4b/
+title: Hieroglyphic Block Order
+sitelen_lessons_index: 5
+permalink: /toki-pona/sitelen/block-order
 
-sitelen_lessons_index: 4
-url_previous: /toki-pona/lesson-4/
-url_next: /toki-pona/lesson-5/
+url_previous: /toki-pona/sitelen/direct-objects
+url_next: /toki-pona/sitelen/modifiers
+
 two_block_images:
 - "/images/t47_tokipona/t47_kamasona/t47_kaso04b_01.png"
 - "/images/t47_tokipona/t47_kamasona/t47_kaso04b_02.png"

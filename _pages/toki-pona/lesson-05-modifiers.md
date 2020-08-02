@@ -1,14 +1,11 @@
 ---
-date: 2012-01-14
-sitelen_lessons_index: 5
-title: 'Lesson 5: Modifiers'
-slug: t47_lessons_05
 layout: page
-permalink: /toki-pona/lesson-5/
+title: Modifiers
+sitelen_lessons_index: 6
+permalink: /toki-pona/sitelen/modifiers
 
-sitelen_lessons_index: 5
-url_previous: /toki-pona/lesson-4b/
-url_next: /toki-pona/lesson-6/
+url_previous: /toki-pona/sitelen/block-order
+url_next: /toki-pona/sitelen/gender
 
 new_vocab_definitions:
 - image: /images/t47_tokipona/t47_nimi/t47_nimi_ike.jpg

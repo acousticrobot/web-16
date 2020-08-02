@@ -1,12 +1,11 @@
 ---
-title: 'Lesson 2: Writing Syllables'
-slug: t47_lessons_02
 layout: page
-permalink: /toki-pona/lesson-2/
+title: Combining Syllables
+sitelen_lessons_index: 2
+permalink: /toki-pona/sitelen/syllables-2
 
-sitelen_lessons_index: 1
-url_previous: /toki-pona/lesson-1/
-url_next: /toki-pona/lesson-3/
+url_previous: /toki-pona/sitelen/syllables-1
+url_next: /toki-pona/sitelen/basic-sentences
 
 consonant_definitions:
 - image: "/images/t47_tokipona/t47_kalalili/t47_kalalili_xx.jpg"

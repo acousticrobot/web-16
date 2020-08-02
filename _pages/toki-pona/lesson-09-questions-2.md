@@ -1,11 +1,11 @@
 ---
-title: 'Lesson 10: Questions using seme'
-slug: t47_lessons_10
 layout: page
-permalink: /toki-pona/lesson-10/
-sitelen_lessons_index: 10
-url_previous: /toki-pona/lesson-9/
-url_next: /toki-pona/lesson-11/
+title: Questions using seme
+sitelen_lessons_index: 14
+permalink: /toki-pona/sitelen/questions-2
+
+url_previous: /toki-pona/sitelen/questions-1
+url_next: /toki-pona/sitelen/pi
 
 new_vocab_definitions:
 - image: "/images/t47_tokipona/t47_nimi/t47_nimi_olin.jpg"

@@ -1,12 +1,11 @@
 ---
-title: 'Lesson 3: Basic Sentences'
-slug: t47_lessons_03
 layout: page
-permalink: /toki-pona/lesson-3/
+title: Basic Sentences
+sitelen_lessons_index: 3
+permalink: /toki-pona/sitelen/basic-sentences
 
-sitelen_lessons_index: 2
-url_previous: /toki-pona/lesson-2/
-url_next: /toki-pona/lesson-4/
+url_previous: /toki-pona/sitelen/syllables-2
+url_next: /toki-pona/sitelen/direct-objects
 
 new_vocab_definitions:
 - image: "/images/t47_tokipona/t47_nimi/t47_nimi_jan.jpg"

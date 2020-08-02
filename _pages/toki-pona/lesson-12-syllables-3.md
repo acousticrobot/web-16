@@ -40,31 +40,13 @@ vocabulary:
 
 In [lesson 2](t47_lesson_02.html) we learned how to write out the syllable glyphs. Take a look at this lesson again is you need a refresher.  These are the glyphs we use to spell out unofficial words that have been "tokiponized".
 
-{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso09_01.jpg" caption="sonja" %}
-
 {% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso09_02.jpg" caption="akanisa" %}
 
 {% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso09_04.jpg" caption="intenasijonale" %}
 
 {% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso09_03.jpg" caption="nujoka" %}
 
-#### cartouche
-
-toki pona uses capital letters to distinguish these foreign words, here we infix the glyphs in a cartouche.
-
-{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso09_05.jpg" caption="Sonja" %}
-
-{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso09_06.jpg" caption="Akanisa" %}
-
-{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso09_08.jpg" caption="Intenasijonale" %}
-
-{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso09_07.jpg" caption="Nujoka" %}
-
-#### head noun
-
-Since all unofficial words need to modify a noun, this will often rest on top of the cartouche, acting like a head, although it can also be placed anywhere that follows block order rules.
-
-{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso09_09.jpg" caption="jan Sonja" %}
+They are infixed in a cartouche with a head noun:
 
 {% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso09_10.jpg" caption="ma Akanisa" %}
 
@@ -72,11 +54,6 @@ Since all unofficial words need to modify a noun, this will often rest on top of
 
 {% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso09_11.jpg" caption="ma tomo Nujoka" %}
 
-{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso09_13.jpg" caption="jan sonja li mama pi toki pona" %}
-
-You can even mix in whole word blocks like the _toki pona_ in _jan sonja li mama pi toki pona_ here.
-
-Notice this is also a way to break from container rules if you want to use _li_ as an in-line block rather than having it surround the verb. This works for any particle or preposition that would normally act as a container.
 
 ### organizing syllable glyphs
 

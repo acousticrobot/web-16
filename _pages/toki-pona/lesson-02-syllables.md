@@ -244,31 +244,6 @@ syllabary_definitions:
   text: ""
 - image: "/images/t47_tokipona/t47_kalalili/t47_kalalili_blank.jpg"
   text: ""
-word_definitions:
-- image: "/images/t47_tokipona/t47_kalalili/t47_kalalili_a.jpg"
-  text: a
-- image: "/images/t47_tokipona/t47_kalalili/t47_kalalili_jan.jpg"
-  text: jan
-- image: "/images/t47_tokipona/t47_kalalili/t47_kalalili_ko.jpg"
-  text: ko
-- image: "/images/t47_tokipona/t47_kalalili/t47_kalalili_kon.jpg"
-  text: kon
-- image: "/images/t47_tokipona/t47_kalalili/t47_kalalili_len.jpg"
-  text: len
-- image: "/images/t47_tokipona/t47_kalalili/t47_kalalili_ma.jpg"
-  text: ma
-- image: "/images/t47_tokipona/t47_kalalili/t47_kalalili_mi.jpg"
-  text: mi
-- image: "/images/t47_tokipona/t47_kalalili/t47_kalalili_ni.jpg"
-  text: ni
-- image: "/images/t47_tokipona/t47_kalalili/t47_kalalili_mun.jpg"
-  text: mun
-- image: "/images/t47_tokipona/t47_kalalili/t47_kalalili_o.jpg"
-  text: o
-- image: "/images/t47_tokipona/t47_kalalili/t47_kalalili_sin.jpg"
-  text: sin
-- image: "/images/t47_tokipona/t47_kalalili/t47_kalalili_tan.jpg"
-  text: tan
 ---
 
 ### glyphs can represent whole words, or individual syllables

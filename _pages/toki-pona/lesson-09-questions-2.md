@@ -8,21 +8,15 @@ url_previous: /toki-pona/sitelen/questions-1
 url_next: /toki-pona/sitelen/pi
 
 vocabulary:
-- image: "/images/t47_tokipona/t47_nimi/t47_nimi_olin.jpg"
-  text: olin
 - image: "/images/t47_tokipona/t47_nimi/t47_nimi_seme.jpg"
   text: seme
-- image: "/images/t47_tokipona/t47_nimi/t47_nimi_sin.jpg"
-  text: sin
-- image: "/images/t47_tokipona/t47_nimi/t47_nimi_supa.jpg"
-  text: supa
-- image: "/images/t47_tokipona/t47_nimi/t47_nimi_suwi.jpg"
-  text: suwi
+punctuation:
 - image: "/images/t47_tokipona/t47_nimi/t47_nmpi_question.jpg"
   text: question mark
 ---
 
 {% include image_dictionary.html definitions=page.vocabulary %}
+{% include image_dictionary.html definitions=page.punctuation %}
 
 ### Questions using seme
 

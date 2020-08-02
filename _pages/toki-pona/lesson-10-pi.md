@@ -83,7 +83,7 @@ The best thing to do is to first establish how much space you need in order to d
 
 The other thing to do is to try several orientations for both goose necks, and try and vary the orientations for better visual flow.
 
-### pi'ing in the wild
+### pi in the wild
 
 I encourage you to search out uses of pi in sitelen sitelen by myself and others to get a good sense of how it works when found within larger sitelen blocks. One good place to look is [lipu lawa pi esun kama]({% post_url 2012-08-02-lipu-lawa-pi-esun-kama %}) which contains 15 _pi_ glyphs in total, including a nested pair and one used in linear isolation.  Take a look at this altered image which highlights all of them, and then take another look at the original and see if you can spot them in the crowd.
 

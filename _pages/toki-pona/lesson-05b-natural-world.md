@@ -18,6 +18,8 @@ vocabulary:
   text: kasi
 - image: /images/t47_tokipona/t47_nimi/t47_nimi_kiwen.jpg
   text: kiwen
+- image: "/images/t47_tokipona/t47_nimi/t47_nimi_ma.jpg"
+  text: ma
 - image: /images/t47_tokipona/t47_nimi/t47_nimi_moli.jpg
   text: moli
 - image: /images/t47_tokipona/t47_nimi/t47_nimi_mu.jpg
@@ -28,6 +30,10 @@ vocabulary:
   text: olin
 - image: /images/t47_tokipona/t47_nimi/t47_nimi_pipi.jpg
   text: pipi
+- image: /images/t47_tokipona/t47_nimi/t47_nimi_soweli.jpg
+  text: soweli
+- image: /images/t47_tokipona/t47_nimi/t47_nimi_suno.jpg
+  text: suno
 - image: /images/t47_tokipona/t47_nimi/t47_nimi_waso.jpg
   text: waso
 unofficial_words:
@@ -40,10 +46,3 @@ unofficial_words:
 unofficial words
 
 {% include image_dictionary.html definitions=page.unofficial_words %}
-
-### Gender
-### (8)-> negation
-### (8)-> ale/ali
-### ante
-### (9) -> expressing new, another, more
-### mama

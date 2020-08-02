@@ -22,6 +22,8 @@ vocabulary:
   text: pini
 ---
 
+{% include image_dictionary.html definitions=page.vocabulary %}
+
 ### verb phrases using wile
 
 {% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso04_08.jpg" caption="sina wile unpa." %}

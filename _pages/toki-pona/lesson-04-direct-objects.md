@@ -24,6 +24,8 @@ vocabulary:
   text: pali
 - image: "/images/t47_tokipona/t47_nimi/t47_nimi_pana.jpg"
   text: pana
+- image: "/images/t47_tokipona/t47_nimi/t47_nimi_poki.jpg"
+  text: poki
 - image: "/images/t47_tokipona/t47_nimi/t47_nimi_sitelen.jpg"
   text: sitelen
 - image: "/images/t47_tokipona/t47_nimi/t47_nimi_sona.jpg"

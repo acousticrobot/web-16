@@ -12,8 +12,6 @@ vocabulary:
   text: kepeken
 - image: "/images/t47_tokipona/t47_nimi/t47_nimi_lon.jpg"
   text: lon
-- image: "/images/t47_tokipona/t47_nimi/t47_nimi_poki.jpg"
-  text: poki
 - image: "/images/t47_tokipona/t47_nimi/t47_nimi_tan.jpg"
   text: tan
 - image: "/images/t47_tokipona/t47_nimi/t47_nimi_tawa.jpg"

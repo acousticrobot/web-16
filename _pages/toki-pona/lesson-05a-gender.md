@@ -64,6 +64,9 @@ The other thing to note about _sin_ is that it can naturally take on a rectangul
 
 ### mama
 
+
+### test your comprehension
+
 {% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso09_13.jpg"
    caption="jan sonja li mama pi toki pona"
    reveal_text=true

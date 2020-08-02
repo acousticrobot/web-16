@@ -88,3 +88,10 @@ When the subject is other than mi or sina, li separates the subject from the ver
 
 {% assign image_set="/images/t47_tokipona/t47_kamasona/t47_kaso03_17.jpg|/images/t47_tokipona/t47_kamasona/t47_kaso03_18.jpg" | split: "|" %}
 {% include image_and_caption.html image=image_set caption="jan li pona." %}
+
+### test your comprehension
+
+{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso09_13.jpg"
+   caption="jan sonja li mama pi toki pona"
+   reveal_text=true
+%}

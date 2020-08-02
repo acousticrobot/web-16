@@ -8,31 +8,31 @@ url_previous: /toki-pona/sitelen/modifiers
 url_next: /toki-pona/sitelen/nature
 
 vocabulary:
-- image: /images/t47_tokipona/t47_nimi/t47_nimi_ala.jpg
+- image: /images/t47_tokipona/nimi/t47_nimi_ala.jpg
   text: ala
-- image: /images/t47_tokipona/t47_nimi/t47_nimi_ale.jpg
+- image: /images/t47_tokipona/nimi/t47_nimi_ale.jpg
   text: ale
-- image: /images/t47_tokipona/t47_nimi/t47_nimi_mama.jpg
+- image: /images/t47_tokipona/nimi/t47_nimi_mama.jpg
   text: mama
-- image: /images/t47_tokipona/t47_nimi/t47_nimi_meli.jpg
+- image: /images/t47_tokipona/nimi/t47_nimi_meli.jpg
   text: meli
-- image: /images/t47_tokipona/t47_nimi/t47_nimi_mije.jpg
+- image: /images/t47_tokipona/nimi/t47_nimi_mije.jpg
   text: mije
-- image: /images/t47_tokipona/t47_nimi/t47_nimi_pilin.jpg
+- image: /images/t47_tokipona/nimi/t47_nimi_pilin.jpg
   text: pilin
-- image: /images/t47_tokipona/t47_nimi/t47_nimi_sin.jpg
+- image: /images/t47_tokipona/nimi/t47_nimi_sin.jpg
   text: sin
 unofficial_words:
-- image: /images/t47_tokipona/t47_nimi/t47_nimi_namako.jpg
+- image: /images/t47_tokipona/nimi/t47_nimi_namako.jpg
   text: namako
-- image: /images/t47_tokipona/t47_nimi/t47_nimi_tonsi.jpg
+- image: /images/t47_tokipona/nimi/t47_nimi_tonsi.jpg
   text: tonsi
 sin_versions:
-- image: "/images/t47_tokipona/t47_kalalili/t47_kalalili_si.jpg"
+- image: "/images/t47_tokipona/kalalili/t47_kalalili_si.jpg"
   text: si
-- image: "/images/t47_tokipona/t47_kalalili/t47_kalalili_sin.jpg"
+- image: "/images/t47_tokipona/kalalili/t47_kalalili_sin.jpg"
   text: sin
-- image: "/images/t47_tokipona/t47_nimi/t47_nimi_sin.jpg"
+- image: "/images/t47_tokipona/nimi/t47_nimi_sin.jpg"
   text: sin
 ---
 
@@ -55,19 +55,19 @@ There are two things to note when working with _sin_, one of which you may have 
 
 Take note again of the two variations of _i_ within the glyphs above, and remember from [lesson 2](/toki-pona/lesson-2/) that the syllabary presents the simplified version, but both are used interchangeably in the glyph as well as the syllable. Your choice will most likely be determined by how small of a space you are trying to fit it into.
 
-{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso10_03.jpg" caption="seme li sin?" %}
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso10_03.jpg" caption="seme li sin?" %}
 
 The other thing to note about _sin_ is that it can naturally take on a rectangular proportion, something that we referred to as a short or thin block in [lesson 5](/toki-pona/lesson-5/). As _sin_ is often used as a modifier, you will find comes in quite handy.
 
-{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso10_19.jpg" caption="seme li lon insa poki sin?" %}
-{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso10_20.jpg" caption="jan sin li seme?" %}
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso10_19.jpg" caption="seme li lon insa poki sin?" %}
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso10_20.jpg" caption="jan sin li seme?" %}
 
 ### mama
 
 
 ### test your comprehension
 
-{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso09_13.jpg"
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso09_13.jpg"
    caption="jan sonja li mama pi toki pona"
    reveal_text=true
 %}

@@ -8,25 +8,25 @@ url_previous: /toki-pona/sitelen/syllables-3
 url_next: /toki-pona/sitelen/art
 
 vocabulary:
-- image: "/images/t47_tokipona/t47_nimi/t47_nimi_anu.jpg"
+- image: "/images/t47_tokipona/nimi/t47_nimi_anu.jpg"
   text: anu
-- image: "/images/t47_tokipona/t47_nimi/t47_nimi_en.jpg"
+- image: "/images/t47_tokipona/nimi/t47_nimi_en.jpg"
   text: en
-- image: "/images/t47_tokipona/t47_nimi/t47_nimi_jelo.jpg"
+- image: "/images/t47_tokipona/nimi/t47_nimi_jelo.jpg"
   text: jelo
-- image: "/images/t47_tokipona/t47_nimi/t47_nimi_kin.jpg"
+- image: "/images/t47_tokipona/nimi/t47_nimi_kin.jpg"
   text: kin
-- image: "/images/t47_tokipona/t47_nimi/t47_nimi_kule.jpg"
+- image: "/images/t47_tokipona/nimi/t47_nimi_kule.jpg"
   text: kule
-- image: "/images/t47_tokipona/t47_nimi/t47_nimi_loje.jpg"
+- image: "/images/t47_tokipona/nimi/t47_nimi_loje.jpg"
   text: laso
-- image: "/images/t47_tokipona/t47_nimi/t47_nimi_loje.jpg"
+- image: "/images/t47_tokipona/nimi/t47_nimi_loje.jpg"
   text: loje
-- image: "/images/t47_tokipona/t47_nimi/t47_nimi_pimeja.jpg"
+- image: "/images/t47_tokipona/nimi/t47_nimi_pimeja.jpg"
   text: pimeja
-- image: "/images/t47_tokipona/t47_nimi/t47_nimi_taso.jpg"
+- image: "/images/t47_tokipona/nimi/t47_nimi_taso.jpg"
   text: taso
-- image: "/images/t47_tokipona/t47_nimi/t47_nimi_walo.jpg"
+- image: "/images/t47_tokipona/nimi/t47_nimi_walo.jpg"
   text: walo
 ---
 

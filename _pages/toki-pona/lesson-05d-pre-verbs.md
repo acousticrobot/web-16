@@ -8,17 +8,17 @@ url_previous: /toki-pona/sitelen/commands
 url_next: /toki-pona/sitelen/prepositions-1
 
 vocabulary:
-- image: /images/t47_tokipona/t47_nimi/t47_nimi_sona.jpg
+- image: /images/t47_tokipona/nimi/t47_nimi_sona.jpg
   text: sona
-- image: /images/t47_tokipona/t47_nimi/t47_nimi_wile.jpg
+- image: /images/t47_tokipona/nimi/t47_nimi_wile.jpg
   text: wile
-- image: /images/t47_tokipona/t47_nimi/t47_nimi_kama.jpg
+- image: /images/t47_tokipona/nimi/t47_nimi_kama.jpg
   text: kama
-- image: /images/t47_tokipona/t47_nimi/t47_nimi_ken.jpg
+- image: /images/t47_tokipona/nimi/t47_nimi_ken.jpg
   text: ken
-- image: /images/t47_tokipona/t47_nimi/t47_nimi_open.jpg
+- image: /images/t47_tokipona/nimi/t47_nimi_open.jpg
   text: open
-- image: /images/t47_tokipona/t47_nimi/t47_nimi_pini.jpg
+- image: /images/t47_tokipona/nimi/t47_nimi_pini.jpg
   text: pini
 ---
 
@@ -26,9 +26,9 @@ vocabulary:
 
 ### verb phrases using wile
 
-{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso04_08.jpg" caption="sina wile unpa." %}
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso04_08.jpg" caption="sina wile unpa." %}
 
-{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso04_07.jpg" caption="ona li wile pakala." %}
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso04_07.jpg" caption="ona li wile pakala." %}
 
 When using sentences with verb phrases, the entire verb phrase is infixed in li. Think of li and everything inside as one block, and follow the same block structure rules that we have been learning all along.
 

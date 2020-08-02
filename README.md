@@ -134,6 +134,6 @@ Image with a single caption:
 
 Using two images:
 
-    {% assign image_set="/images/t47_tokipona/t47_kamasona/t47_kaso03_03.jpg|"/images/t47_tokipona/t47_kamasona/t47_kaso03_04.jpg" | split: "|" %}
+    {% assign image_set="/images/t47_tokipona/kamasona/t47_kaso03_03.jpg|"/images/t47_tokipona/kamasona/t47_kaso03_04.jpg" | split: "|" %}
     {% include image_and_caption.html image=image_set caption="sina suli." %}
 

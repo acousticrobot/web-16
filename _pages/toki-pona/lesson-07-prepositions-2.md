@@ -8,31 +8,31 @@ url_previous: /toki-pona/sitelen/prepositions-1
 url_next: /toki-pona/sitelen/questions-1
 
 vocabulary:
-- image: "/images/t47_tokipona/t47_nimi/t47_nimi_anpa.jpg"
+- image: "/images/t47_tokipona/nimi/t47_nimi_anpa.jpg"
   text: anpa
-- image: "/images/t47_tokipona/t47_nimi/t47_nimi_insa.jpg"
+- image: "/images/t47_tokipona/nimi/t47_nimi_insa.jpg"
   text: insa
-- image: "/images/t47_tokipona/t47_nimi/t47_nimi_monsi.jpg"
+- image: "/images/t47_tokipona/nimi/t47_nimi_monsi.jpg"
   text: monsi
-- image: "/images/t47_tokipona/t47_nimi/t47_nimi_poka.jpg"
+- image: "/images/t47_tokipona/nimi/t47_nimi_poka.jpg"
   text: poka
-- image: "/images/t47_tokipona/t47_nimi/t47_nimi_sama.jpg"
+- image: "/images/t47_tokipona/nimi/t47_nimi_sama.jpg"
   text: sama
-- image: "/images/t47_tokipona/t47_nimi/t47_nimi_sewi.jpg"
+- image: "/images/t47_tokipona/nimi/t47_nimi_sewi.jpg"
   text: sewi
-- image: "/images/t47_tokipona/t47_nimi/t47_nimi_sinpin.jpg"
+- image: "/images/t47_tokipona/nimi/t47_nimi_sinpin.jpg"
   text: sinpin
 
 preposition_definitions:
-- image: "/images/t47_tokipona/t47_kamasona/t47_kaso06_01.jpg"
+- image: "/images/t47_tokipona/kamasona/t47_kaso06_01.jpg"
   text: lon
-- image: "/images/t47_tokipona/t47_kamasona/t47_kaso06_02.jpg"
+- image: "/images/t47_tokipona/kamasona/t47_kaso06_02.jpg"
   text: tawa
-- image: "/images/t47_tokipona/t47_kamasona/t47_kaso06_04.jpg"
+- image: "/images/t47_tokipona/kamasona/t47_kaso06_04.jpg"
   text: tan
-- image: "/images/t47_tokipona/t47_kamasona/t47_kaso06_03.jpg"
+- image: "/images/t47_tokipona/kamasona/t47_kaso06_03.jpg"
   text: kepeken
-- image: "/images/t47_tokipona/t47_kamasona/t47_kaso07_01.jpg"
+- image: "/images/t47_tokipona/kamasona/t47_kaso07_01.jpg"
   text: sama
 ---
 
@@ -48,45 +48,45 @@ We already took a look at lon, tawa, and tan in the last lesson, but there's sti
 
 If they aren't being used as part of a prepositional phrase, they act like normal stacking glyph blocks.
 
-{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso07_09.jpg" caption="tan ni li nasa." %}
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso07_09.jpg" caption="tan ni li nasa." %}
 
-{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso07_08.jpg" caption="len mute li sama." %}
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso07_08.jpg" caption="len mute li sama." %}
 
 In _len mute li sama_, there is no object to fill _sama_. In _tan ni li nasa_, _tan_ is part of the subject "the reason".  This works the same for _poka_, when it is used as a noun:
 
-{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso07_07.jpg" caption="poka mi li lon suno." %}
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso07_07.jpg" caption="poka mi li lon suno." %}
 
 #### working as prepositional containers
 
 When one of these glyph blocks function as a preposition, or as a combination verb and preposition, they become a container for the rest of the prepositional phrase. The head portion of the glyph can be oriented anywhere is isn’t obstructing the rest of the glyphs.
 
-{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso07_06.jpg" caption="mi telo tan ni: mi jaki." %}
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso07_06.jpg" caption="mi telo tan ni: mi jaki." %}
 
-{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso07_05.jpg" caption="ona li lukin sama mi." %}
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso07_05.jpg" caption="ona li lukin sama mi." %}
 
 #### using prepositions with li
 
 One thing we haven't covered yet is what to do when your verb is inside of li. Look again at _ona li lukin sama mi_ up above. The verb, lukin, becomes an infix in li, and mi becomes an infix in _sama_. But what if the preposition is also the verb? We end up with a double infix.
 
-{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso07_10.jpg" caption="ona li lon tomo ona." %}
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso07_10.jpg" caption="ona li lon tomo ona." %}
 
 First the preposition fits into the _li_ container. Then, the object of the preposition and all of the modifiers go inside the preposition glyph.
 
-{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso07_11.jpg" caption="jan lili li tan unpa." %}
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso07_11.jpg" caption="jan lili li tan unpa." %}
 
 You can try drawing the whole unit from the inside out, and even drawing the rest of the sentence after this block has been composed. I usually find I have to try a couple times until I find a composition I’m satisfied with.
 
 #### using verb phrases
 
-{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso07_13.jpg" caption="ona li wile lon tomo ona." %}
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso07_13.jpg" caption="ona li wile lon tomo ona." %}
 
-{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso07_14.jpg" caption="mi mute li wile tawa tomo tawa." %}
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso07_14.jpg" caption="mi mute li wile tawa tomo tawa." %}
 
 Remember verb phrases from lesson 4? What if we want to use a verb/preposition in combination with _wile_? Since the preposition is part of the verb, the whole thing gets infixed into _li_.
 
 Let's look at _ona li wile tawa tomo ona kepeken tomo tawa_, "he wants to drive home" (literally: he wants to go to his house using the car). If you can understand how this works then you probably have a good understanding of how to use preposition glyphs.
 
-{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso07_15.jpg" caption="ona li wile tawa tomo ona kepeken tomo tawa." %}
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso07_15.jpg" caption="ona li wile tawa tomo ona kepeken tomo tawa." %}
 
 The first prepositional phrase: _towards his house--tawa tomo ona_ is also part of the verb wile tawa, so it all goes _inside_ of li.
 
@@ -100,20 +100,20 @@ It also has the advantage of disambiguating things that might have more that one
 
 _anpa_, _insa_, _monsi_, _sewi_, and _poka_, or directional nouns as jan Sonja calls them in _pu_, are used in conjunction with prepositions to indicate direction. I am quite used to using _anpa_ as jan Pije does, where Sonja uses _noka_, but they all operate identically:
 
-{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso07_16.jpg" caption="suno li lon sewi mi." %}
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso07_16.jpg" caption="suno li lon sewi mi." %}
 
-{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso07_17.jpg" caption="ma li lon anpa mi." %}
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso07_17.jpg" caption="ma li lon anpa mi." %}
 
 Since these words aren't true prepositions, they need one of the prepositions we have discussed so far to complete the prepositional phrase. Because of this they end up acting as part of the infix to the preposition.
 
-{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso07_04.jpg" caption="mi lon poka sina." %}
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso07_04.jpg" caption="mi lon poka sina." %}
 
-{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso07_12.jpg" caption="ma suli li lon poka ma lili." %}
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso07_12.jpg" caption="ma suli li lon poka ma lili." %}
 
 You may have wondered up to now why the glyph block for li was so boring. Now you can see just how much work it has to do at times. If it were any more complex it would be hard to stuff all those verb phrases and verb prepositions inside.
 
-{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso07_18.jpg" caption="pipi lili li kama tan insa ma." %}
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso07_18.jpg" caption="pipi lili li kama tan insa ma." %}
 
-{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso07_19.jpg" caption="ona li tawa monsi mi." %}
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso07_19.jpg" caption="ona li tawa monsi mi." %}
 
 Just as the prepositions have a head and body, often the subject of the sentence becomes the head and li becomes the body.

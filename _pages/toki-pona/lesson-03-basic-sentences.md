@@ -98,6 +98,11 @@ Translate into toki pona (hover or tab through to reveal the answer)
    reveal_text=true
 %}
 
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/basic/nilisuli.jpg"
+   caption="ni li suli."
+   reveal_text=true
+%}
+
 {% include image_and_caption.html image="/images/t47_tokipona/kamasona/basic/janlimoku.jpg"
    caption="jan li moku."
    reveal_text=true

@@ -94,10 +94,14 @@ Since all unofficial words need to modify a noun, this will often rest on top of
 
 {% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso09_09.jpg" caption="jan Sonja" %}
 
-ma x
-nimi x
-sewi x
-soweli x
+ma Tosi
+sewi Apolo
+soweli Kowala
+
+#### staying pure to pu
+
+nimi Leko
+
 
 
 

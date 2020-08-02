@@ -2,9 +2,8 @@
 Output: image(s) with caption underneath
 Parameters:
 - image: url
-- caption: string for caption underneith
-
-* image can also be an array of images *
+- caption: string for caption underneath
+- reveal_text: (boolean) hide text until it is active
 {% endcomment %}
 
 
@@ -19,7 +18,18 @@ Parameters:
       <img src="{{ image }}" alt="{{ caption }}">
       {% endfor %}
     </div>
-    <div class="image-with-caption__caption-block">{{ caption }}</div>
+
+    {% if include.reveal_text %}
+      <div class="image-with-caption__caption-block -reveal" tabindex="1">
+        {{ caption }}
+      </div>
+    {% else %}
+      <div class="image-with-caption__caption-block">
+        {{ caption }}
+      </div>
+    {% endif %}
   </div>
 </div>
+
+
 

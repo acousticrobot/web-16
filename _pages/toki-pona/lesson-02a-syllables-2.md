@@ -73,7 +73,6 @@ Other multi-syllable words can be created simply by adding syllables together:
 
 The capsule
 
-{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso09_13.jpg" caption="jan sonja li mama pi toki pona" %}
 
 #### toki pona words outside of pu
 

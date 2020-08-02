@@ -51,13 +51,19 @@
   background-color: $color-white-C;
   @extend .caption;
   text-align: center;
+}
+
+// Spoiler with hover-reveal text
+.image-with-caption__caption-block,
+.image-dictionary__text {
   &.-reveal {
-      background-color: $color-green-C;
-      color: $color-green-C;
-      transition: background-color .75s, color 1s;
-      &:active, &:focus, &:hover {
-        background-color: white;
-        color: inherit;
+    width: 90%;
+    background-color: $color-green-C;
+    color: $color-green-C;
+    transition: background-color .75s, color 1s;
+    &:active, &:focus, &:hover {
+      background-color: inherit;
+      color: inherit;
     }
   }
 }

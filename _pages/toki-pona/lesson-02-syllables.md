@@ -281,9 +281,9 @@ Finally, if there is an n, it is drawn as a subfix below:
 
 The terminal 'n' is the same as the 'n' used as a main sign, rotated on it's side, and "tucked under" the main consonant. Similarly, the vowels 'i' and 'u' rotate freely within the consonant main sign, and rest at the point where they are most legible.
 
-Following these rules we arrive at the following table of possible (c)v(n) combinations: (remember: ji, ti, wo, and wu don't exist in toki pona, so these places are blank.)
-
 ## Syllabary
+
+Following these rules we arrive at the following table of possible (c)v(n) combinations. (remember: ji, ti, wo, and wu don't exist in toki pona, so these places are blank.). This full chart is also available at any time on the [syllabary page](/toki-pona/dictionaries/syllabary/)
 
 {% include image_dictionary.html definitions=page.syllabary_definitions grouping=5 %}
 

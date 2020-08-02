@@ -11,7 +11,7 @@ url_next: /toki-pona/sitelen/syllables-1
 
 ### toki pona
 
-The language toki pona has been around since 2001, and the official toki pona book was published in 2014. I have started a [resource page](/toki-pona/about/) for additional information and links to other things toki pona.
+The language toki pona has been around since 2001, and the official toki pona book was published in 2014. I have started a [resource page](/toki-pona/about/) for additional information and links to all things toki pona. If you are new to toki pona, you can find lessons and dictionaries to use along side these lessons.
 
 ### sitelen sitelen, or sitelen suwi
 
@@ -35,18 +35,26 @@ In a world of rapid and electronically-aided language, what you are about to lea
 
 This is a way to slow down and play with your thoughts. It is a tool to help connect your mind back to your hand. Just as toki pona examines how the _language_ you use to communicate can influence your thoughts, sitelen sitelen will let you explore how the _method_ you use to communicate can do the same.
 
-I encourage you to follow along with these lessons, to learn how to read sitelen sitelen. But I also encourage you to try and draw along as well, as this is not just for artists but for everybody.  Email me copies of your drawings, I’ll be sure to put them into the gallery!
+I encourage you to follow along with these lessons, if you would like to learn how to read sitelen sitelen. But I also encourage you to try and draw along as well, as this is not just for artists but for everybody. I also guarantee that as a toki pona speaker, your fluency and understanding of the language will improve well beyond sitelen sitelen.
+
+Email me copies of your drawings, I love to share others in the gallery!
 
 #### updated lessons (2020)
 
 If you have known about the first half of these lessons for some time, and are just now returning, welcome back. Around the time jan Sonja was adding some new words to toki pona and finishing up _pu_, I left these lessons unfinished at lesson 9, not knowing if I would have to restructure them or change them entirely.
 
-Since then, I have continuously received heartfelt emails where you have taken the time not only to study these lessons but also decifer from the few examples available what has been left unsaid. You have often also requested that I finish the lessons, and as toki pona has maintained and grown a community of people so positive in nature, I can't help but want to give back to it. So it is my pleasure to add again to these lessons and contribute in the best way that I can. I will continue to follow the lesson outline laid out by jan Pije, but am also looking for ways to integrate better with other lessons or differing positions on the grammar. Any suggestions are always welcome.
+Since then, I have continuously received heartfelt emails where you have taken the time not only to study these lessons but also decifer from the few examples available what has been left unsaid. You have often also requested that I finish the lessons, and as toki pona has maintained and grown a community of people so positive in nature, I can't help but want to give back to it. So it is my pleasure to add again to these lessons and contribute in the best way that I can.
+
+I began again with the intention of following the lessons as laid out by jan Pije, but as I began to revise these lessons I realized that freeing myself from that constraint could really help present the material in the best way possible.
+
+I still present new vocabulary incrementally, but if you have a grasp of toki pona you should feel free to skip around and focus on the lessons that fit your learning path.  I have listed my favorite lessons on the [resource page](/toki-pona/about/), and have tried to blend information from my current three favorite sources: jan Sonja's, jan Pije's, and jan Lentan's, in an order that makes sense for sitelen.
+
+I am also always looking for ways to examples that address and illuminate differing positions on the grammar. Any suggestions are always welcome.
 
 {: .wrapper__center-image}
 ![lipu lawa pi esun kama](/images/t47/t47.200721_1.jpg)
 
-jan pona o pilin pona! sina kama sona mute. tenpo pini mute la mi pini e lipu kama sona pi sitelen sitelen. sina mute li kama jo e sona li sewi e kon pi sitelen sitelen. tenpo ni la mi open pali e lipu sin.  kepeken toki pona la mi mute li toki ala e ni: mi olin e toki pona anu olin e sitelen sitelen. taso mi ken toki e ni: mi olin e kulupu pi toki pona li olin e sina mute.
+jan pona o pilin pona! sina kama sona mute. tenpo pini mute la mi pini e lipu kama sona pi sitelen sitelen. sina mute li kama jo e sona li sewi e kon pi sitelen sitelen. tenpo ni la mi open pali e lipu sin.  kepeken toki pona la mi mute li toki ala e ni: mi olin e toki pona anu sitelen sitelen. taso mi ken toki e ni: mi olin e kulupu pi toki pona li olin e sina mute.
 
 {: .wrapper__center-image}
 ![lipu lawa pi esun kama](/images/t47/t47.200721_2.jpg)

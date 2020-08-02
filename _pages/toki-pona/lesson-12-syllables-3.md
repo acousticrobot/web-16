@@ -109,7 +109,7 @@ When the sentence has a subject, _o_ functions as a container. The subject glyph
 
 It is somewhat different from the containers we have see so far, because when we write the sentence out, the name comes before the _o_. This is an exception to the block order rules.
 
-Later on we will see one one other container, _la_, that reverses the block order rules in this way. These exceptions shouldn't be too hard to get used to.  Just remember that the _o_ refers to this subject so the subject rests inside the _o_, just as prepsitions refer to the direct objects they contain.
+Later on we will see one one other container, _la_, that reverses the block order rules in this way. These exceptions shouldn't be too hard to get used to.  Just remember that the _o_ refers to this subject so the subject rests inside the _o_, just as prepositions refer to the direct objects they contain.
 
 ### addressing People
 

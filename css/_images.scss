@@ -57,7 +57,7 @@
 .image-with-caption__caption-block,
 .image-dictionary__text {
   &.-reveal {
-    width: 90%;
+    max-width: 50%;
     background-color: $color-green-C;
     color: $color-green-C;
     transition: background-color .75s, color 1s;

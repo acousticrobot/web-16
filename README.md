@@ -62,6 +62,21 @@ definitions:
 {% include image_dictionary.html definitions=page.definitions %}
 ```
 
+Single centered image (reveal text optional)
+
+```
+{% include image_and_caption.html image="/images/.../image.jpg"
+   caption="the image title"
+   reveal_text=true
+%}
+```
+
+Several images with a single caption:
+
+```
+{% assign image_set="/images/../image_1.jpg|/images/../image_2.jpg" | split: "|" %}
+{% include image_and_caption.html image=image_set caption="the image title" %}
+```
 
 ### Frontmatter
 

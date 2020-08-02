@@ -16,6 +16,8 @@ vocabulary:
   text: lawa
 - image: /images/t47_tokipona/t47_nimi/t47_nimi_len.jpg
   text: len
+- image: /images/t47_tokipona/t47_nimi/t47_nimi_lete.jpg
+  text: lete
 - image: /images/t47_tokipona/t47_nimi/t47_nimi_lili.jpg
   text: lili
 - image: /images/t47_tokipona/t47_nimi/t47_nimi_mute.jpg
@@ -24,12 +26,14 @@ vocabulary:
   text: nasa
 - image: /images/t47_tokipona/t47_nimi/t47_nimi_seli.jpg
   text: seli
-- image: /images/t47_tokipona/t47_nimi/t47_nimi_sewi.jpg
-  text: sewi
+- image: /images/t47_tokipona/t47_nimi/t47_nimi_suwi.jpg
+  text: suwi
 - image: /images/t47_tokipona/t47_nimi/t47_nimi_tomo.jpg
   text: tomo
 - image: /images/t47_tokipona/t47_nimi/t47_nimi_utala.jpg
   text: utala
+- image: /images/t47_tokipona/t47_nimi/t47_nimi_wawa.jpg
+  text: wawa
 compound_jan_definitions:
 - image: "/images/t47_tokipona/t47_kamasona/t47_kaso05_01.jpg"
   text: jan

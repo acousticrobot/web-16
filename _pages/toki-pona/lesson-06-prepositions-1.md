@@ -8,28 +8,21 @@ url_previous: /toki-pona/sitelen/preverbs
 url_next: /toki-pona/sitelen/prepositions-2
 
 vocabulary:
-- image: "/images/t47_tokipona/t47_nimi/t47_nimi_kama.jpg"
-  text: kama
 - image: "/images/t47_tokipona/t47_nimi/t47_nimi_kepeken.jpg"
   text: kepeken
-- image: "/images/t47_tokipona/t47_nimi/t47_nimi_kiwen.jpg"
-  text: kiwen
-- image: "/images/t47_tokipona/t47_nimi/t47_nimi_kon.jpg"
-  text: kon
 - image: "/images/t47_tokipona/t47_nimi/t47_nimi_lon.jpg"
   text: lon
-- image: "/images/t47_tokipona/t47_nimi/t47_nimi_pana.jpg"
-  text: pana
 - image: "/images/t47_tokipona/t47_nimi/t47_nimi_poki.jpg"
   text: poki
-- image: "/images/t47_tokipona/t47_nimi/t47_nimi_toki.jpg"
-  text: toki
-- image: "/images/t47_tokipona/t47_nimi/t47_nimi_tawa.jpg"
-  text: tawa
 - image: "/images/t47_tokipona/t47_nimi/t47_nimi_tan.jpg"
   text: tan
+- image: "/images/t47_tokipona/t47_nimi/t47_nimi_tawa.jpg"
+  text: tawa
+
+punctuation:
 - image: "/images/t47_tokipona/t47_nimi/t47_nmpi_colon.jpg"
   text: colon
+
 prepositional_head_definitions:
 - image: "/images/t47_tokipona/t47_kamasona/t47_kaso06_01.jpg"
   text: lon
@@ -42,6 +35,7 @@ prepositional_head_definitions:
 ---
 
 {% include image_dictionary.html definitions=page.vocabulary %}
+{% include image_dictionary.html definitions=page.punctuation %}
 
 
 ### prepositions work as containers, sometimes

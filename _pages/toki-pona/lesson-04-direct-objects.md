@@ -8,32 +8,26 @@ url_previous: /toki-pona/sitelen/basic-sentences
 url_next: /toki-pona/sitelen/block-order
 
 vocabulary:
+- image: "/images/t47_tokipona/t47_nimi/t47_nimi_e.jpg"
+  text: e
 - image: "/images/t47_tokipona/t47_nimi/t47_nimi_ilo.jpg"
   text: ilo
+- image: "/images/t47_tokipona/t47_nimi/t47_nimi_ijo.jpg"
+  text: ijo
 - image: "/images/t47_tokipona/t47_nimi/t47_nimi_jo.jpg"
   text: jo
 - image: "/images/t47_tokipona/t47_nimi/t47_nimi_kili.jpg"
   text: kili
 - image: "/images/t47_tokipona/t47_nimi/t47_nimi_lukin.jpg"
   text: lukin
-- image: "/images/t47_tokipona/t47_nimi/t47_nimi_ni.jpg"
-  text: ni
-- image: "/images/t47_tokipona/t47_nimi/t47_nimi_pakala.jpg"
-  text: pakala
-- image: "/images/t47_tokipona/t47_nimi/t47_nimi_ona.jpg"
-  text: ona
-- image: "/images/t47_tokipona/t47_nimi/t47_nimi_unpa.jpg"
-  text: unpa
-- image: "/images/t47_tokipona/t47_nimi/t47_nimi_pipi.jpg"
-  text: pipi
-- image: "/images/t47_tokipona/t47_nimi/t47_nimi_wile.jpg"
-  text: wile
-- image: "/images/t47_tokipona/t47_nimi/t47_nimi_ma.jpg"
-  text: ma
-- image: "/images/t47_tokipona/t47_nimi/t47_nimi_ijo.jpg"
-  text: ijo
-- image: "/images/t47_tokipona/t47_nimi/t47_nimi_e.jpg"
-  text: e
+- image: "/images/t47_tokipona/t47_nimi/t47_nimi_pali.jpg"
+  text: pali
+- image: "/images/t47_tokipona/t47_nimi/t47_nimi_pana.jpg"
+  text: pana
+- image: "/images/t47_tokipona/t47_nimi/t47_nimi_sitelen.jpg"
+  text: sitelen
+- image: "/images/t47_tokipona/t47_nimi/t47_nimi_sona.jpg"
+  text: sona
 ---
 
 {% include image_dictionary.html definitions=page.vocabulary %}
@@ -69,16 +63,6 @@ Notice how in both cases, one of the blocks is larger in size? This keeps the se
 When deciding how to lay out your sentences, the important thing to consider is information density. Make sure you don't end up cramming a bunch of information into a small space. That's why we wouldn't choose to have a large S block, followed by small V and DO blocks.
 
 {% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso04_05.jpg" caption="sina jo e ilo." %}
-
-### verb phrases using wile
-
-{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso04_08.jpg" caption="sina wile unpa." %}
-
-{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso04_07.jpg" caption="ona li wile pakala." %}
-
-When using sentences with verb phrases, the entire verb phrase is infixed in li. Think of li and everything inside as one block, and follow the same block structure rules that we have been learning all along.
-
-When the subject is mi or sina, we aren't bound by li containing the verb. It's still a good idea, however, to keep a verb phrase together, for visual clarity.
 
 ### direct objects using e with wile
 
@@ -118,6 +102,10 @@ One good example of the four block structure is a sentence with two direct objec
 {% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso04_13.jpg" caption="mi moku e moku e telo." %}
 
 {% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso04_14.jpg" caption="mi wile lukin e ma e suno." %}
+
+### topics of conversation with e
+
+!TODO see rnd
 
 ### columns and rows
 

@@ -10,27 +10,13 @@ url_next: /toki-pona/sitelen/questions-2
 vocabulary:
 - image: "/images/t47_tokipona/t47_nimi/t47_nimi_ala.jpg"
   text: ala
-- image: "/images/t47_tokipona/t47_nimi/t47_nimi_ale.jpg"
-  text: ale/ali
-- image: "/images/t47_tokipona/t47_nimi/t47_nimi_ken.jpg"
-  text: ken
-- image: "/images/t47_tokipona/t47_nimi/t47_nimi_lape.jpg"
-  text: lape
-- image: "/images/t47_tokipona/t47_nimi/t47_nimi_musi.jpg"
-  text: musi
-- image: "/images/t47_tokipona/t47_nimi/t47_nimi_pali.jpg"
-  text: pali
-- image: "/images/t47_tokipona/t47_nimi/t47_nimi_sona.jpg"
-  text: sona
-- image: "/images/t47_tokipona/t47_nimi/t47_nimi_wawa.jpg"
-  text: wawa
+punctuation:
 - image: "/images/t47_tokipona/t47_nimi/t47_nmpi_question.jpg"
   text: question mark
-
 ---
 
-
 {% include image_dictionary.html definitions=page.vocabulary %}
+{% include image_dictionary.html definitions=page.punctuation %}
 
 ### negation
 

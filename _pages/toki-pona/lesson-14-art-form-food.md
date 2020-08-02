@@ -8,6 +8,40 @@ url_previous: /toki-pona/sitelen/conjunctions
 url_next: /toki-pona/sitelen/body
 
 vocabulary:
-- image: /images/t47_tokipona/t47_nimi/t47_nimi_ala.jpg
-  text: ala
+- image: /images/t47_tokipona/t47_nimi/t47_nimi_kalama.jpg
+  text: kalama
+- image: /images/t47_tokipona/t47_nimi/t47_nimi_kon.jpg
+  text: kon
+- image: /images/t47_tokipona/t47_nimi/t47_nimi_ko.jpg
+  text: ko
+- image: /images/t47_tokipona/t47_nimi/t47_nimi_linja.jpg
+  text: linja
+- image: /images/t47_tokipona/t47_nimi/t47_nimi_lipu.jpg
+  text: lipu
+- image: /images/t47_tokipona/t47_nimi/t47_nimi_lupa.jpg
+  text: lupa
+- image: /images/t47_tokipona/t47_nimi/t47_nimi_musi.jpg
+  text: musi
+- image: /images/t47_tokipona/t47_nimi/t47_nimi_palisa.jpg
+  text: palisa
+- image: /images/t47_tokipona/t47_nimi/t47_nimi_pan.jpg
+  text: pan
+- image: /images/t47_tokipona/t47_nimi/t47_nimi_pu.jpg
+  text: pu
+- image: /images/t47_tokipona/t47_nimi/t47_nimi_sike.jpg
+  text: sike
+- image: /images/t47_tokipona/t47_nimi/t47_nimi_supa.jpg
+  text: supa
+unofficial_words:
+- image: /images/t47_tokipona/t47_nimi/t47_nimi_leko.jpg
+  text: leko
+- image: /images/t47_tokipona/t47_nimi/t47_nimi_namako.jpg
+  text: namako
+
 ---
+
+{% include image_dictionary.html definitions=page.vocabulary %}
+
+unofficial words
+
+{% include image_dictionary.html definitions=page.unofficial_words %}

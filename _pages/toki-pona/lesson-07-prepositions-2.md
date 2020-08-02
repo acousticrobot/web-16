@@ -14,14 +14,15 @@ vocabulary:
   text: insa
 - image: "/images/t47_tokipona/t47_nimi/t47_nimi_monsi.jpg"
   text: monsi
-- image: "/images/t47_tokipona/t47_nimi/t47_nimi_sewi.jpg"
-  text: sewi
-- image: "/images/t47_tokipona/t47_nimi/t47_nimi_sama.jpg"
-  text: sama
-- image: "/images/t47_tokipona/t47_nimi/t47_nimi_tan.jpg"
-  text: tan
 - image: "/images/t47_tokipona/t47_nimi/t47_nimi_poka.jpg"
   text: poka
+- image: "/images/t47_tokipona/t47_nimi/t47_nimi_sama.jpg"
+  text: sama
+- image: "/images/t47_tokipona/t47_nimi/t47_nimi_sewi.jpg"
+  text: sewi
+- image: "/images/t47_tokipona/t47_nimi/t47_nimi_sinpin.jpg"
+  text: sinpin
+
 preposition_definitions:
 - image: "/images/t47_tokipona/t47_kamasona/t47_kaso06_01.jpg"
   text: lon

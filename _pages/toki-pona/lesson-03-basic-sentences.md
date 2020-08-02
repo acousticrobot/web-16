@@ -8,24 +8,29 @@ url_previous: /toki-pona/sitelen/syllables-2
 url_next: /toki-pona/sitelen/direct-objects
 
 vocabulary:
-- image: "/images/t47_tokipona/t47_nimi/t47_nimi_jan.jpg"
-  text: jan
 - image: "/images/t47_tokipona/t47_nimi/t47_nimi_mi.jpg"
   text: mi
-- image: "/images/t47_tokipona/t47_nimi/t47_nimi_moku.jpg"
-  text: moku
 - image: "/images/t47_tokipona/t47_nimi/t47_nimi_sina.jpg"
   text: sina
-- image: "/images/t47_tokipona/t47_nimi/t47_nimi_suno.jpg"
-  text: suno
-- image: "/images/t47_tokipona/t47_nimi/t47_nimi_telo.jpg"
-  text: telo
+- image: "/images/t47_tokipona/t47_nimi/t47_nimi_ona.jpg"
+  text: ona
+- image: "/images/t47_tokipona/t47_nimi/t47_nimi_li.jpg"
+  text: li
+- image: "/images/t47_tokipona/t47_nimi/t47_nimi_moku.jpg"
+  text: moku
+- image: "/images/t47_tokipona/t47_nimi/t47_nimi_ni.jpg"
+  text: ni
 - image: "/images/t47_tokipona/t47_nimi/t47_nimi_pona.jpg"
   text: pona
 - image: "/images/t47_tokipona/t47_nimi/t47_nimi_suli.jpg"
   text: suli
-- image: "/images/t47_tokipona/t47_nimi/t47_nimi_li.jpg"
-  text: li
+- image: "/images/t47_tokipona/t47_nimi/t47_nimi_suno.jpg"
+  text: suno
+- image: "/images/t47_tokipona/t47_nimi/t47_nimi_telo.jpg"
+  text: telo
+- image: "/images/t47_tokipona/t47_nimi/t47_nimi_toki.jpg"
+  text: toki
+punctuation:
 - image: "/images/t47_tokipona/t47_nimi/t47_nmpi_period2.jpg"
   text: period
 - image: "/images/t47_tokipona/t47_nimi/t47_nmpi_exclamation2.jpg"
@@ -33,6 +38,7 @@ vocabulary:
 ---
 
 {% include image_dictionary.html definitions=page.vocabulary %}
+{% include image_dictionary.html definitions=page.punctuation %}
 
 ### sentences with mi or sina as the subject
 

@@ -25,8 +25,6 @@ pi_versions:
   text: pi
 ---
 
-
-
 {% include image_dictionary.html definitions=page.vocabulary %}
 
 ### descriptive groupings with pi

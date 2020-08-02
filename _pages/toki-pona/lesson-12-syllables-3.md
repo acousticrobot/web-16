@@ -6,35 +6,7 @@ permalink: /toki-pona/sitelen/syllables-3
 
 url_previous: /toki-pona/sitelen/la
 url_next: /toki-pona/sitelen/conjunctions
-
-vocabulary:
-- image: "/images/t47_tokipona/t47_nimi/t47_nimi_a.jpg"
-  text: a
-- image: "/images/t47_tokipona/t47_nimi/t47_nimi_awen.jpg"
-  text: awen
-- image: "/images/t47_tokipona/t47_nimi/t47_nimi_mama.jpg"
-  text: mama
-- image: "/images/t47_tokipona/t47_nimi/t47_nimi_mije.jpg"
-  text: mije
-- image: "/images/t47_tokipona/t47_nimi/t47_nimi_meli.jpg"
-  text: meli
-- image: "/images/t47_tokipona/t47_nimi/t47_nimi_mu.jpg"
-  text: mu
-- image: "/images/t47_tokipona/t47_nimi/t47_nimi_nimi.jpg"
-  text: nimi
-- image: "/images/t47_tokipona/t47_nimi/t47_nimi_o.jpg"
-  text: o
-- image: "/images/t47_tokipona/t47_nimi/t47_nimi_pona.jpg"
-  text: pona
-- image: "/images/t47_tokipona/t47_nimi/t47_nimi_toki.jpg"
-  text: toki
-- image: "/images/t47_tokipona/t47_nimi/t47_nmpi_cartouche.jpg"
-  text: cartouche
-- image: "/images/t47_tokipona/t47_nimi/t47_nmpi_comma.jpg"
-  text: comma
 ---
-
-{% include image_dictionary.html definitions=page.vocabulary %}
 
 ### unofficial words
 

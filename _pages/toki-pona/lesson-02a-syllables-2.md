@@ -81,7 +81,7 @@ It comes in most handy if you ever want to use a toki pona words outside of pu, 
 
 {% include image_and_caption.html image="/images/t47_tokipona/kamasona/syllables/leko.jpg" caption="leko" %}
 
-It is also useful if you want to talk _about_ a word. In toki pona we might put the word in quotes or italics: _mi toki e nimi 'lon'_. Here we can use the capsule around either syllables or glyph block:
+It is also useful if you want to talk _about_ a word. In toki pona we might put the word in quotes or italics: _mi toki e nimi 'lon'_. Here we can use the capsule with _nimi_ to emphasize that we are talking about the word:
 
 {% include image_and_caption.html image="/images/t47_tokipona/kamasona/syllables/nimilon.jpg" caption="nimi 'lon'" %}
 
@@ -133,6 +133,3 @@ soweli Kowala
    caption="jan Ote"
    reveal_text=true
 %}
-
-
-

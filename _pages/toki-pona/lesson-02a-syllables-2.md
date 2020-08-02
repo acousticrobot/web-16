@@ -53,55 +53,86 @@ word_definitions:
 {% include image_dictionary.html definitions=page.vocabulary %}
 {% include image_dictionary.html definitions=page.punctuation %}
 
+### using the syllabary to write words and names
 
-### using the syllabary
+We are going to come back to syllables again, so if you would rather get started with the glyph blocks, feel free to skip or skim this unit for now.  The only reason I'm putting it here is so that you can learn how to write your own name.
 
 As you look though the syllabary, you will see several syllables that are toki pona words by themselves. Here are a few, see if you can figure out which words they are (click on a spoiler box or tab through to reveal the answers):
 
 {% include image_dictionary.html definitions=page.word_definitions reveal_text='true' %}
 
+It is always legitimate to substitute a syllable in for a word glyph block.
+
 #### combining syllable blocks
 
 Other multi-syllable words can be created simply by adding syllables together:
 
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso_02_01.jpg" caption="toki" %}
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/syllables/toki.jpg" caption="toki" %}
 
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso_02_02.jpg" caption="pona" %}
-
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/syllables/pona.jpg" caption="pona" %}
 
 #### forming words from syllables
 
-The capsule
+Since this is a non-linear writing, we can't just rely on space between syllable groups the way we do when using the Latin alphabet. There is a special capsule glyph we can use to group syllables into official words in a way that doesn't require providing spaces.
 
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/syllables/tokipona.jpg" caption="toki pona" %}
 
-#### toki pona words outside of pu
+It comes in most handy if you ever want to use a toki pona words outside of pu, one that don't have a unique glyph block
 
-leko
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/syllables/leko.jpg" caption="leko" %}
+
+It is also useful if you want to talk _about_ a word. In toki pona we might put the word in quotes or italics: _mi toki e nimi 'lon'_. Here we can use the capsule around either syllables or glyph block:
+
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/syllables/nimilon.jpg" caption="nimi 'lon'" %}
+
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/syllables/nimisewi.jpg" caption="nimi 'sewi'" %}
 
 ### unofficial words with a head noun
 
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso09_01.jpg" caption="sonja" %}
+The most common use of syllables is when we need to create unofficial loan words and proper names.
+
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/syllables/sonja.jpg" caption="sonja" %}
+
+tosi
+apolo
+kowala
 
 #### cartouche
 
-toki pona uses capital letters to distinguish these foreign words, here we infix the glyphs in a cartouche.
+toki pona uses capital letters to distinguish these foreign words, here we infix the glyphs in a cartouche. It is similar to the capsule above, but it used for foreign words only.
 
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso09_05.jpg" caption="Sonja" %}
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/syllables/c_sonja.jpg" caption="Sonja" %}
+
+Tosi
+Apolo
+Kowala
 
 #### head noun
 
 Since all unofficial words need to modify a noun, this will often rest on top of the cartouche.
 
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso09_09.jpg" caption="jan Sonja" %}
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/syllables/jansonja.jpg" caption="jan Sonja" %}
 
 ma Tosi
 sewi Apolo
 soweli Kowala
 
-#### staying pure to pu
+### test your comprehension
 
-nimi Leko
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/syllables/mipona.jpg"
+   caption="mi pona"
+   reveal_text=true
+%}
 
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/syllables/niminimi.jpg"
+   caption="nimi 'nimi'"
+   reveal_text=true
+%}
+
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/syllables/janote.jpg"
+   caption="jan Ote"
+   reveal_text=true
+%}
 
 
 

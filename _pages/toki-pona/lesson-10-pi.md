@@ -7,7 +7,7 @@ permalink: /toki-pona/sitelen/pi
 url_previous: /toki-pona/sitelen/questions-2
 url_next: /toki-pona/sitelen/la
 
-new_vocab_definitions:
+vocabulary:
 - image: "/images/t47_tokipona/t47_nimi/t47_nimi_pi.jpg"
   text: pi
 - image: "/images/t47_tokipona/t47_nimi/t47_nimi_kalama.jpg"
@@ -27,7 +27,7 @@ pi_versions:
 
 
 
-{% include image_dictionary.html definitions=page.new_vocab_definitions %}
+{% include image_dictionary.html definitions=page.vocabulary %}
 
 ### descriptive groupings with pi
 

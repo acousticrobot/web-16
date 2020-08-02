@@ -7,7 +7,7 @@ permalink: /toki-pona/sitelen/gender
 url_previous: /toki-pona/sitelen/modifiers
 url_next: /toki-pona/sitelen/nature
 
-new_vocab_definitions:
+vocabulary:
 - image: /images/t47_tokipona/t47_nimi/t47_nimi_ala.jpg
   text: ala
 - image: /images/t47_tokipona/t47_nimi/t47_nimi_ale.jpg
@@ -29,7 +29,7 @@ unofficial_words:
   text: tonsi
 ---
 
-{% include image_dictionary.html definitions=page.new_vocab_definitions %}
+{% include image_dictionary.html definitions=page.vocabulary %}
 
 unofficial words
 

@@ -7,7 +7,7 @@ permalink: /toki-pona/sitelen/prepositions-1
 url_previous: /toki-pona/sitelen/preverbs
 url_next: /toki-pona/sitelen/prepositions-2
 
-new_vocab_definitions:
+vocabulary:
 - image: "/images/t47_tokipona/t47_nimi/t47_nimi_kama.jpg"
   text: kama
 - image: "/images/t47_tokipona/t47_nimi/t47_nimi_kepeken.jpg"
@@ -41,7 +41,7 @@ prepositional_head_definitions:
   text: tan
 ---
 
-{% include image_dictionary.html definitions=page.new_vocab_definitions %}
+{% include image_dictionary.html definitions=page.vocabulary %}
 
 
 ### prepositions work as containers, sometimes

@@ -7,7 +7,7 @@ permalink: /toki-pona/sitelen/modifiers
 url_previous: /toki-pona/sitelen/block-order
 url_next: /toki-pona/sitelen/gender
 
-new_vocab_definitions:
+vocabulary:
 - image: /images/t47_tokipona/t47_nimi/t47_nimi_ike.jpg
   text: ike
 - image: /images/t47_tokipona/t47_nimi/t47_nimi_jaki.jpg
@@ -41,7 +41,7 @@ compound_jan_definitions:
   text: jan utala pona ni
 ---
 
-{% include image_dictionary.html definitions=page.new_vocab_definitions %}
+{% include image_dictionary.html definitions=page.vocabulary %}
 
 ### compound nouns
 

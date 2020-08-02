@@ -7,7 +7,7 @@ permalink: /toki-pona/sitelen/preverbs
 url_previous: /toki-pona/sitelen/commands
 url_next: /toki-pona/sitelen/prepositions-1
 
-new_vocab_definitions:
+vocabulary:
 - image: /images/t47_tokipona/t47_nimi/t47_nimi_ala.jpg
   text: ala
 ---

@@ -7,7 +7,7 @@ permalink: /toki-pona/sitelen/prepositions-2
 url_previous: /toki-pona/sitelen/prepositions-1
 url_next: /toki-pona/sitelen/questions-1
 
-new_vocab_definitions:
+vocabulary:
 - image: "/images/t47_tokipona/t47_nimi/t47_nimi_anpa.jpg"
   text: anpa
 - image: "/images/t47_tokipona/t47_nimi/t47_nimi_insa.jpg"
@@ -35,7 +35,7 @@ preposition_definitions:
   text: sama
 ---
 
-{% include image_dictionary.html definitions=page.new_vocab_definitions %}
+{% include image_dictionary.html definitions=page.vocabulary %}
 
 ### using sama, tan, and poka
 

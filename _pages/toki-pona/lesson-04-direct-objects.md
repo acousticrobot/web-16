@@ -7,7 +7,7 @@ permalink: /toki-pona/sitelen/direct-objects
 url_previous: /toki-pona/sitelen/basic-sentences
 url_next: /toki-pona/sitelen/block-order
 
-new_vocab_definitions:
+vocabulary:
 - image: "/images/t47_tokipona/t47_nimi/t47_nimi_ilo.jpg"
   text: ilo
 - image: "/images/t47_tokipona/t47_nimi/t47_nimi_jo.jpg"
@@ -36,7 +36,7 @@ new_vocab_definitions:
   text: e
 ---
 
-{% include image_dictionary.html definitions=page.new_vocab_definitions %}
+{% include image_dictionary.html definitions=page.vocabulary %}
 
 ### direct objects using e
 

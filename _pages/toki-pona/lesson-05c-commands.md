@@ -7,7 +7,7 @@ permalink: /toki-pona/sitelen/commands
 url_previous: /toki-pona/sitelen/nature
 url_next: /toki-pona/sitelen/preverbs
 
-new_vocab_definitions:
+vocabulary:
 - image: "/images/t47_tokipona/t47_nimi/t47_nimi_a.jpg"
   text: a
 - image: "/images/t47_tokipona/t47_nimi/t47_nimi_awen.jpg"
@@ -34,7 +34,7 @@ new_vocab_definitions:
   text: comma
 ---
 
-{% include image_dictionary.html definitions=page.new_vocab_definitions %}
+{% include image_dictionary.html definitions=page.vocabulary %}
 
 ### unofficial words
 

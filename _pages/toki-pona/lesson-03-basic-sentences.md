@@ -7,7 +7,7 @@ permalink: /toki-pona/sitelen/basic-sentences
 url_previous: /toki-pona/sitelen/syllables-2
 url_next: /toki-pona/sitelen/direct-objects
 
-new_vocab_definitions:
+vocabulary:
 - image: "/images/t47_tokipona/t47_nimi/t47_nimi_jan.jpg"
   text: jan
 - image: "/images/t47_tokipona/t47_nimi/t47_nimi_mi.jpg"
@@ -32,7 +32,7 @@ new_vocab_definitions:
   text: exclamation
 ---
 
-{% include image_dictionary.html definitions=page.new_vocab_definitions %}
+{% include image_dictionary.html definitions=page.vocabulary %}
 
 ### sentences with mi or sina as the subject
 

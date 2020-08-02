@@ -314,29 +314,16 @@ Following these rules we arrive at the following table of possible (c)v(n) combi
 
 ### using the syllabary
 
-
 As you look though the syllabary, you will see several syllables that are toki pona words by themselves. Here are a few:
 
 {% include image_dictionary.html definitions=page.word_definitions %}
 
-#### combining syllable blocks
-
-Other multi-syllable words can be created simply by adding syllables together:
-
-{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso_02_01.jpg" caption="toki" %}
-
-{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso_02_02.jpg" caption="pona" %}
-
 #### changing size
 
 As we progress through the following chapters, you will notice that some glyphs can change in order to fill in spaces of differing size. This is true for the syllable glyphs as well:
-
 
 ![o ante e kulupu lili](/images/t47_tokipona/t47_kamasona/t47_kaso_02_03.jpg)
 
 ### time to play around
 
 Now, as I mentioned earlier, this is a non-linear writing system, so there are a few tricks ahead for grouping several syllables into words, and words into sentences. For now, however, you might want to have some fun writing out these syllable components into linear text. You already know enough to write anything you can say in toki pona using this hieroglyphic script!
-
-
-

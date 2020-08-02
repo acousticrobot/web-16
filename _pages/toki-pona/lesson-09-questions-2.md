@@ -7,7 +7,7 @@ permalink: /toki-pona/sitelen/questions-2
 url_previous: /toki-pona/sitelen/questions-1
 url_next: /toki-pona/sitelen/pi
 
-new_vocab_definitions:
+vocabulary:
 - image: "/images/t47_tokipona/t47_nimi/t47_nimi_olin.jpg"
   text: olin
 - image: "/images/t47_tokipona/t47_nimi/t47_nimi_seme.jpg"
@@ -30,7 +30,7 @@ sin_versions:
   text: sin
 ---
 
-{% include image_dictionary.html definitions=page.new_vocab_definitions %}
+{% include image_dictionary.html definitions=page.vocabulary %}
 
 ### Questions using seme
 

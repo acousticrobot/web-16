@@ -7,7 +7,7 @@ permalink: /toki-pona/sitelen/conjunctions
 url_previous: /toki-pona/sitelen/syllables-3
 url_next: /toki-pona/sitelen/art
 
-new_vocab_definitions:
+vocabulary:
 - image: /images/t47_tokipona/t47_nimi/t47_nimi_ala.jpg
   text: ala
 ---

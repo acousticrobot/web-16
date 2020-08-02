@@ -7,7 +7,7 @@ permalink: /toki-pona/sitelen/questions-1
 url_previous: /toki-pona/sitelen/prepositions-2
 url_next: /toki-pona/sitelen/questions-2
 
-new_vocab_definitions:
+vocabulary:
 - image: "/images/t47_tokipona/t47_nimi/t47_nimi_ala.jpg"
   text: ala
 - image: "/images/t47_tokipona/t47_nimi/t47_nimi_ale.jpg"
@@ -30,7 +30,7 @@ new_vocab_definitions:
 ---
 
 
-{% include image_dictionary.html definitions=page.new_vocab_definitions %}
+{% include image_dictionary.html definitions=page.vocabulary %}
 
 ### negation
 

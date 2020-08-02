@@ -45,6 +45,10 @@ As each word in toki pona can have more than one definition, all of the meanings
   * [list of all telegram groups](https://t.me/tokiponaTelegram) - collected list of all toki pona telegram channels
   * [toki pona forums](http://forums.tokipona.org/) - mostly defunct, but a wealth of archived material, while it lasts.
 
+#### Other toki pona writing systems
+
+[Here is dated but comprehensive](http://tokipl.wikidot.com/art-pisma) look at other pre-pu hieroglyphic and experimental writing systems that have been tried out with toki pona through the years.
+
 #### grammar
 
   * [Toki Pona Analysis: Parts of Speech](https://www.reddit.com/r/tokipona/comments/df0zbi/toki_pona_analysis_parts_of_speech/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) - very thorough and well written (10/19)

@@ -1,3 +1,25 @@
+.image-with-caption__centering-wrapper {
+  text-align: center;
+}
+
+.image-with-caption {
+  margin-top: $spacing-unit;
+}
+
+.image-with-caption__image-block {
+  img {
+    @include media-query($mobile-breakpoint) {
+      padding: 0 8%;
+    }
+  }
+}
+
+.image-with-caption__caption-block {
+  @extend .caption;
+  padding-top: 6px;
+  text-align: center;
+}
+
 .image-dictionary {
   background-color: $color-white-D;
 }
@@ -29,6 +51,15 @@
   background-color: $color-white-C;
   @extend .caption;
   text-align: center;
+  &.-reveal {
+      background-color: $color-green-C;
+      color: $color-green-C;
+      transition: background-color .75s, color 1s;
+      &:active, &:focus, &:hover {
+        background-color: white;
+        color: inherit;
+    }
+  }
 }
 
 // Grouping Modifiers:

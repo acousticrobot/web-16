@@ -56,9 +56,9 @@ word_definitions:
 
 ### using the syllabary
 
-As you look though the syllabary, you will see several syllables that are toki pona words by themselves. Here are a few, see if you can figure out which words they are (click on the box to reveal the text):
+As you look though the syllabary, you will see several syllables that are toki pona words by themselves. Here are a few, see if you can figure out which words they are (click on a spoiler box or tab through to reveal the answers):
 
-{% include image_dictionary.html definitions=page.word_definitions %}
+{% include image_dictionary.html definitions=page.word_definitions reveal_text='true' %}
 
 #### combining syllable blocks
 

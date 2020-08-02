@@ -15,11 +15,6 @@ Upload:
   * sitemap
   * index.html
 
-## Spelling and other minor errors:
-
-  * fix the page
-  * log the page in nvalt "web16 fix"
-
 ## Architecture
 
   * posts are grouped by year (to keep root level cleaner for uploading)
@@ -32,6 +27,41 @@ Upload:
   * Displays all posts and pages tagged as **"featured"**
 
 ## Jekyll Usage Notes
+
+### Links
+
+Links to pages:
+
+  `[syllabary page](/toki-pona/dictionaries/syllabary/)`
+
+Link to posts:
+
+  `[lipu lawa]({% post_url 2012-08-02-lipu-lawa-pi-esun-kama %})`
+
+### Images
+
+Centering large images:
+
+```
+{: .wrapper__center-image}
+![name](/images/../image.jpg)
+title of image
+```
+
+For fixed-width dictionary, hover image and text are optional
+
+```
+---
+definitions:
+- image: "/images/../image.jpg"
+  hover_image: "/images/../image.gif"
+  text: definition text
+- ...
+---
+
+{% include image_dictionary.html definitions=page.definitions %}
+```
+
 
 ### Frontmatter
 

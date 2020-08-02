@@ -5,7 +5,10 @@ Parameters:
     - image: image url
     - hover-image: (optional) on-hover image replacement
     - text: definintion text
-- grouping: (optional) string for modifying css grouping with .group-by-{{grouping}}
+- grouping: (optional) string for modifying css grouping with
+    - adds .group-by-{{grouping}}
+    - This is used to fix the syllables at 5 across
+- reveal_text: (boolean) hide text until it is clicked
 {% endcomment %}
 
 {% assign definitions = include.definitions %}
@@ -19,14 +22,22 @@ Parameters:
       <div class="image-dictionary__image">
         <img src="{{ def.image }}" alt="{{ def.text }}">
       </div>
+
       {% if def.hover_image != nil %}
       <div class="image-dictionary__hover-image">
         <img src="{{ def.hover_image }}" alt="{{ def.text }}">
       </div>
       {% endif %}
-      <div class="image-dictionary__text">
-        {{ def.text }}
-      </div>
+
+      {% if include.reveal_text %}
+        <div class="image-dictionary__text -reveal" tabindex="1">
+          {{ def.text }}
+        </div>
+      {% else %}
+        <div class="image-dictionary__text">
+          {{ def.text }}
+        </div>
+      {% endif %}
     </div>
     {% endfor %}
 

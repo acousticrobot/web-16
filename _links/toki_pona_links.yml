@@ -1,5 +1,5 @@
 ---
-grouping: toki pona
+grouping: hieroglyphics and toki pona
 description: "links related to and language, toki pona, and hieroglyphics"
 
 links:
@@ -10,22 +10,6 @@ links:
   - title: jan Mato's toki pona resources​
     description: "Many tools for analyzing and searching toki pona on the web"
     url: "http://tokipona.net/tp/default.aspx"
-
-  - title: jan Pije's lessons
-    description: "Full lesson plan for learning the toki pona language"
-    url: "http://tokipona.net/tp/janpije/okamasona.php"
-
-  - title: jan Pije's lessons on wikibooks
-    description: "jan Pije's lesson plan, saved on Wikibooks"
-    url: "https://en.wikibooks.org/wiki/Updated_jan_Pije%27s_lessons"
-
-  - title: official toki pona website​
-    description: "Sonja Elen Kisa’s wiki based toki pona website"
-    url: "http://en.tokipona.org/"
-
-  - title: toki pona forum​
-    description: "toki pona discussion board"
-    url: "http://forums.tokipona.org/"
 
   - title: Baidu Dongba Albums​
     description: "a gallery of Dongba (东巴）pictograms with English and Chinese translations (slow to load)​"

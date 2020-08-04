@@ -10,7 +10,7 @@ url_next: /toki-pona/sitelen/conjunctions
 
 ### unofficial words
 
-In [lesson 2](t47_lesson_02.html) we learned how to write out the syllable glyphs. Take a look at this lesson again is you need a refresher.  These are the glyphs we use to spell out unofficial words that have been "tokiponized".
+In [Combining Syllables](/toki-pona/sitelen/syllables-2) we learned how to write out the syllable glyphs. Take a look at this lesson again is you need a refresher.  These are the glyphs we use to spell out unofficial words that have been "tokiponized".
 
 {% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso09_02.jpg" caption="akanisa" %}
 

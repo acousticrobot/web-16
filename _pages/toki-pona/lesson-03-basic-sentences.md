@@ -49,7 +49,6 @@ punctuation:
 
 Simple sentences with mi or sina as the subject, and an intransitive verb are a good place for us to start, because the glyph blocks simply stack one upon another.
 
-
 {% assign image_set="/images/t47_tokipona/kamasona/t47_kaso03_03.jpg|/images/t47_tokipona/kamasona/t47_kaso03_04.jpg" | split: "|" %}
 {% include image_and_caption.html image=image_set caption="sina suli." %}
 

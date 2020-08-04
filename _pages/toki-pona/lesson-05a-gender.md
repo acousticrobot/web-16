@@ -27,6 +27,16 @@ unofficial_words:
   text: namako
 - image: /images/t47_tokipona/nimi/t47_nimi_tonsi.jpg
   text: tonsi
+ala_verb_examples:
+- image: /images/t47_tokipona/kamasona/t47_kaso08_01.jpg
+  text: ona li lape ala.
+- image: /images/t47_tokipona/kamasona/t47_kaso08_03.jpg
+  text: ni li musi ala!
+ale_examples:
+- image: /images/t47_tokipona/kamasona/t47_kaso08_06.jpg
+  text: jan ali li kama.
+- image: /images/t47_tokipona/kamasona/t47_kaso08_05.jpg
+  text: ale li pona.
 sin_versions:
 - image: "/images/t47_tokipona/kalalili/t47_kalalili_si.jpg"
   text: si
@@ -52,17 +62,15 @@ unofficial words
 
 If you understood how modifiers worked (chapter 5) then negation shouldn't be too much trouble, since adding _ala_ to negate nouns or verbs follows the same block order rules.
 
-To negate a verb, _ala_ comes directly after the verb.  And if it is modifying an action or a state of being infixed in _li_, so is _ala_:
-
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso08_01.jpg" caption="ona li lape ala." %}
-
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso08_03.jpg" caption="ni li musi ala!" %}
-
 If _ala_ modifies the subject, as in _jan ala_, no one, it comes before _li_ as part of the head noun:
 
 {% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso08_02.jpg" caption="jan ala li sona." %}
 
-What makes _ala_ particularly powerful in toki pona, with it's limited vocabulary, is using it to modify adjectives.  _pona_ as an adjective could potentially express a quality such a cleanliness in context, but it would also be overloaded with all of the other qualities of goodness it is used to express. _jaki ala_, on the other hand comes much more limited in scope and probably means 'clean' with much less context needed.
+To negate a verb, _ala_ comes directly after the verb.  And if it is modifying an action or a state of being infixed in _li_, so is _ala_:
+
+{% include image_dictionary.html definitions=page.ala_verb_examples %}
+
+with toki pona's limited vocabulary, using ala it to modify adjectives becomes particularly powerful.  For example, _pona_ could potentially express cleanliness in context, but the exact meaning would be ambiguous. _jaki_, on the other hand comes much more limited in scope and _jaki ala_ would almost certainly be understood to mean clean, without dirt, etc.
 
 -> tomo li jaki ala.
 -> moko ni li suwi ala.
@@ -72,11 +80,11 @@ What makes _ala_ particularly powerful in toki pona, with it's limited vocabular
 
 There may be two ways to spell it, but only one glyph block for _ale/ali_. Just like the modifiers we have already seen, it follows normal block order rules.
 
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso08_06.jpg" caption="jan ali li kama." %}
-
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso08_05.jpg" caption="ale li pona." %}
+{% include image_dictionary.html definitions=page.ale_examples %}
 
 ### ante
+
+
 
 ### expressing new, another, more
 
@@ -98,3 +106,5 @@ The other thing to note about _sin_ is that it can naturally take on a rectangul
    caption="jan sonja li mama pi toki pona"
    reveal_text=true
 %}
+
+-> mi sona ala e toki sina. I don't understand you.

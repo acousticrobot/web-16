@@ -25,6 +25,12 @@
   background-color: $color-white-D;
 }
 
+.image-dictionary__centering-wrapper {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
 .image-dictionary__definition-block {
   float: left;
   margin: 4px;

@@ -27,9 +27,17 @@
 
 .image-dictionary__centering-wrapper {
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
   flex-wrap: wrap;
+  align-items: flex-end;
 }
+
+@include media-query($mobile-breakpoint) {
+  .image-dictionary__centering-wrapper {
+    justify-content: space-evenly;
+  }
+}
+
 
 .image-dictionary__definition-block {
   float: left;

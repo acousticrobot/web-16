@@ -34,7 +34,7 @@ vocabulary:
   text: utala
 - image: /images/t47_tokipona/nimi/t47_nimi_wawa.jpg
   text: wawa
-compound_jan_definitions:
+compound_jan:
 - image: "/images/t47_tokipona/kamasona/t47_kaso05_01.jpg"
   text: jan
 - image: "/images/t47_tokipona/kamasona/t47_kaso05_02.jpg"
@@ -43,6 +43,33 @@ compound_jan_definitions:
   text: jan utala pona
 - image: "/images/t47_tokipona/kamasona/t47_kaso05_04.jpg"
   text: jan utala pona ni
+compound_jan_utala:
+- image: /images/t47_tokipona/kamasona/t47_kaso05_05.jpg
+  text: jan utala pona ni li lawa.
+- image: /images/t47_tokipona/kamasona/t47_kaso05_06.jpg
+  text: mi lawa e jan utala pona ni.
+lili_mute_versions:
+- image: /images/t47_tokipona/kamasona/t47_kaso05_07.jpg
+  text: jan lili
+- image: /images/t47_tokipona/kamasona/t47_kaso05_08.jpg
+  text: tomo mute
+- image: /images/t47_tokipona/kamasona/t47_kaso05_09.jpg
+  text: jan nasa mute
+ni_versions:
+- image: /images/t47_tokipona/kamasona/t47_kaso05_12.jpg
+  text: telo nasa ni
+- image: /images/t47_tokipona/kamasona/t47_kaso05_11.jpg
+  text: ilo seli ni
+- image: /images/t47_tokipona/kamasona/t47_kaso05_10.jpg
+  text: len ni
+ma_ike_jaki_ni:
+- image: /images/t47_tokipona/kamasona/t47_kaso05_19.jpg
+- image: /images/t47_tokipona/kamasona/t47_kaso05_18.jpg
+- image: /images/t47_tokipona/kamasona/t47_kaso05_17.jpg
+- image: /images/t47_tokipona/kamasona/t47_kaso05_14.jpg
+- image: /images/t47_tokipona/kamasona/t47_kaso05_13.jpg
+- image: /images/t47_tokipona/kamasona/t47_kaso05_16.jpg
+- image: /images/t47_tokipona/kamasona/t47_kaso05_15.jpg
 ---
 
 {% include image_dictionary.html definitions=page.vocabulary %}
@@ -51,60 +78,30 @@ compound_jan_definitions:
 
 If you feel you are starting to understand how to stack your glyph blocks, adding modifiers shouldn't be too hard. Let's look at jan Pije's example, building up to _this good soldier_.
 
-{% include image_dictionary.html definitions=page.compound_jan_definitions %}
+{% include image_dictionary.html definitions=page.compound_jan %}
 
 This compound noun block is equally at home as the subject, or direct object.
 
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso05_05.jpg" caption="jan utala pona ni li lawa." %}
-
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso05_06.jpg" caption="mi lawa e jan utala pona ni." %}
+{% include image_dictionary.html definitions=page.compound_jan_utala %}
 
 In chapter 2 we talked about tucking glyphs behind others. Look how well this works for the combination _jan utala_ in these examples.
 
 ### short blocks: lili and mute
 
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso05_07.jpg" caption="jan lili" %}
+Lili and mute are wider and shorter than some of the more square glyphs. As modifiers this can work to your advantage, as they don't take up too much space. Often they can tuck right underneath the noun they are modifying.
 
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso05_08.jpg" caption="tomo mute" %}
-
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso05_09.jpg" caption="jan nasa mute" %}
-
-Lili and mute are wider and shorter than some of the more square glyphs.
-
-As modifiers this can work to your advantage, as they don't take up too much space. Often they can tuck right underneath the noun they are modifying.
+{% include image_dictionary.html definitions=page.lili_mute_versions %}
 
 ### thin blocks: ni
 
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso05_12.jpg" caption="telo nasa ni" %}
+Remember in lesson 1 we said syllable glyphs can be used instead of glyph blocks? As a glyph block, ni is pretty square, but as a syllable it is tall and thin. This can be useful when ni is used as a modifier. Take a look at how ni works here as a syllable block and above as a glyph block.  This can offer you a variety of ways to fill the given space in any situation.
 
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso05_11.jpg" caption="ilo seli ni" %}
-
-Remember in lesson 1 we said syllable glyphs can be used instead of glyph blocks? As a glyph block, ni is pretty square, but as a syllable it is tall and thin.
-
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso05_10.jpg" caption="len ni " %}
-
-This can be useful when ni is used as a modifier. Take a look at how ni works here as a syllable block and above as a glyph block.  This can offer you a variety of ways to fill the given space in any situation.
+{% include image_dictionary.html definitions=page.ni_versions %}
 
 ### stretching and squishing blocks
 
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso05_13.jpg" caption="ma ike jaki ni" %}
+Maybe you have started to notice, glyph blocks have a little bit of give to them. They can stretch or squish in order to maintain a square shape in a multi-block structure. If you understand how to tuck one glyph behind another, to stretch or squish glyphs, and use short and thin blocks, you will see just how many different arrangements there are for compound blocks.
 
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso05_14.jpg" caption="ma ike jaki ni" %}
+Here are seven different ways to arrange _ma ike jaki ni_. Which one you would want to choose would depend on the how well it fits in the rest of the sentence.
 
-Maybe you have started to notice, glyph blocks have a little bit of give to them.
-
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso05_15.jpg" caption="ma ike jaki ni" %}
-
-They can stretch or squish in order to maintain a square shape in a multi-block structure.
-
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso05_16.jpg" caption="ma ike jaki ni" %}
-
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso05_17.jpg" caption="ma ike jaki ni" %}
-
-If you understand how to tuck one glyph behind another, to stretch or squish glyphs, and use short and thin blocks, you will see just how many different arrangements there are for compound blocks.
-
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso05_18.jpg" caption="ma ike jaki ni" %}
-
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso05_19.jpg" caption="ma ike jaki ni" %}
-
-Here are seven different ways to arrange ma ike jaki ni. Which one you would want to choose would depend on the how well it fits in the rest of the sentence.
+{% include image_dictionary.html definitions=page.ma_ike_jaki_ni %}

@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Art, Form, and Food
-sitelen_lessons_index: 19
+sitelen_lessons_index: 20
+index: false
 permalink: /toki-pona/sitelen/art
 
 url_previous: /toki-pona/sitelen/conjunctions
@@ -37,7 +38,6 @@ unofficial_words:
   text: leko
 - image: /images/t47_tokipona/nimi/t47_nimi_namako.jpg
   text: namako
-
 ---
 
 {% include image_dictionary.html definitions=page.vocabulary %}

@@ -7,32 +7,34 @@ permalink: /toki-pona/sitelen/direct-objects
 url_previous: /toki-pona/sitelen/basic-sentences
 url_next: /toki-pona/sitelen/block-order
 
-vocabulary:
+vocabulary_row_1:
 - image: "/images/t47_tokipona/nimi/t47_nimi_e.jpg"
   text: e
-- image: "/images/t47_tokipona/nimi/t47_nimi_ilo.jpg"
-  text: ilo
-- image: "/images/t47_tokipona/nimi/t47_nimi_ijo.jpg"
-  text: ijo
 - image: "/images/t47_tokipona/nimi/t47_nimi_jo.jpg"
   text: jo
-- image: "/images/t47_tokipona/nimi/t47_nimi_kili.jpg"
-  text: kili
 - image: "/images/t47_tokipona/nimi/t47_nimi_lukin.jpg"
   text: lukin
 - image: "/images/t47_tokipona/nimi/t47_nimi_pali.jpg"
   text: pali
 - image: "/images/t47_tokipona/nimi/t47_nimi_pana.jpg"
   text: pana
+- image: "/images/t47_tokipona/nimi/t47_nimi_sona.jpg"
+  text: sona
+vocabulary_row_2:
+- image: "/images/t47_tokipona/nimi/t47_nimi_ijo.jpg"
+  text: ijo
+- image: "/images/t47_tokipona/nimi/t47_nimi_ilo.jpg"
+  text: ilo
+- image: "/images/t47_tokipona/nimi/t47_nimi_kili.jpg"
+  text: kili
 - image: "/images/t47_tokipona/nimi/t47_nimi_poki.jpg"
   text: poki
 - image: "/images/t47_tokipona/nimi/t47_nimi_sitelen.jpg"
   text: sitelen
-- image: "/images/t47_tokipona/nimi/t47_nimi_sona.jpg"
-  text: sona
 ---
 
-{% include image_dictionary.html definitions=page.vocabulary %}
+{% include image_dictionary.html definitions=page.vocabulary_row_1 %}
+{% include image_dictionary.html definitions=page.vocabulary_row_2 %}
 
 ### direct objects using e
 
@@ -94,14 +96,6 @@ One good example of the four block structure is a sentence with two direct objec
 {% include image_and_caption.html image="/images/t47_tokipona/kamasona/direct_objects/mimoemoete.jpg" caption="mi moku e moku e telo." %}
 
 {% include image_and_caption.html image="/images/t47_tokipona/kamasona/direct_objects/miluemaesu.jpg" caption="mi lukin e ma e suno." %}
-
-### topics of conversation with e
-
-I really like the [section of jan Lentan's lessons](https://rnd.neocities.org/tokipona/4.html) that introduces this convention so I want to include an example here. He describes using _toki e_ as a way presenting what is being talked about as a direct object.
-
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/direct_objects/onalitokesi.jpg" caption="ona li toki e sitelen." %}
-
-Here the _e_ separates toki and sitelen to clarify that 'they talk _about_ writing/drawing'. If sitelen was a modifier, _ona li toki sitelen_, it could also mean 'they use written communication'.
 
 ### columns and rows
 

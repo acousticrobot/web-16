@@ -62,11 +62,12 @@ ni_versions:
   text: ilo seli ni
 - image: /images/t47_tokipona/kamasona/t47_kaso05_10.jpg
   text: len ni
-ma_ike_jaki_ni:
+ma_ike_jaki_ni_1:
 - image: /images/t47_tokipona/kamasona/t47_kaso05_19.jpg
 - image: /images/t47_tokipona/kamasona/t47_kaso05_18.jpg
 - image: /images/t47_tokipona/kamasona/t47_kaso05_17.jpg
 - image: /images/t47_tokipona/kamasona/t47_kaso05_14.jpg
+ma_ike_jaki_ni_2:
 - image: /images/t47_tokipona/kamasona/t47_kaso05_13.jpg
 - image: /images/t47_tokipona/kamasona/t47_kaso05_16.jpg
 - image: /images/t47_tokipona/kamasona/t47_kaso05_15.jpg
@@ -104,4 +105,5 @@ Maybe you have started to notice, glyph blocks have a little bit of give to them
 
 Here are seven different ways to arrange _ma ike jaki ni_. Which one you would want to choose would depend on the how well it fits in the rest of the sentence.
 
-{% include image_dictionary.html definitions=page.ma_ike_jaki_ni %}
+{% include image_dictionary.html definitions=page.ma_ike_jaki_ni_1 %}
+{% include image_dictionary.html definitions=page.ma_ike_jaki_ni_2 %}

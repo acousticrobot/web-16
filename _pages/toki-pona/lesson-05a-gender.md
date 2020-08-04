@@ -5,7 +5,8 @@ sitelen_lessons_index: 7
 permalink: /toki-pona/sitelen/gender
 
 url_previous: /toki-pona/sitelen/modifiers
-url_next: /toki-pona/sitelen/nature
+# url_next: /toki-pona/sitelen/nature
+url_next: /toki-pona/sitelen/commands
 
 vocabulary:
 - image: /images/t47_tokipona/nimi/t47_nimi_ala.jpg
@@ -23,8 +24,6 @@ vocabulary:
 - image: /images/t47_tokipona/nimi/t47_nimi_sin.jpg
   text: sin
 unofficial_words:
-- image: /images/t47_tokipona/nimi/t47_nimi_namako.jpg
-  text: namako
 - image: /images/t47_tokipona/nimi/t47_nimi_tonsi.jpg
   text: tonsi
 ala_verb_examples:
@@ -62,7 +61,7 @@ unofficial words
 
 If you understood how modifiers worked (chapter 5) then negation shouldn't be too much trouble, since adding _ala_ to negate nouns or verbs follows the same block order rules.
 
-If _ala_ modifies the subject, as in _jan ala_, no one, it comes before _li_ as part of the head noun:
+If _ala_ modifies the subject, as in _jan ala_ (no one), it comes before _li_ as part of the head noun:
 
 {% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso08_02.jpg" caption="jan ala li sona." %}
 
@@ -70,7 +69,9 @@ To negate a verb, _ala_ comes directly after the verb.  And if it is modifying a
 
 {% include image_dictionary.html definitions=page.ala_verb_examples %}
 
-with toki pona's limited vocabulary, using ala it to modify adjectives becomes particularly powerful.  For example, _pona_ could potentially express cleanliness in context, but the exact meaning would be ambiguous. _jaki_, on the other hand comes much more limited in scope and _jaki ala_ would almost certainly be understood to mean clean, without dirt, etc.
+### description with ala
+
+With toki pona's limited vocabulary, using _ala_ it to modify adjectives becomes particularly powerful.  For example, _pona_ could potentially express cleanliness in context, but the exact meaning would be ambiguous. _jaki_, on the other hand comes much more limited in scope and _jaki ala_ would almost certainly be understood to mean clean, without dirt, etc.
 
 -> tomo li jaki ala.
 -> moko ni li suwi ala.

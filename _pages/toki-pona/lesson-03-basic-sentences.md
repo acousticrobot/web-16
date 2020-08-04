@@ -30,7 +30,6 @@ vocabulary:
   text: telo
 - image: "/images/t47_tokipona/nimi/t47_nimi_toki.jpg"
   text: toki
-punctuation:
 - image: "/images/t47_tokipona/nimi/t47_nmpi_period2.jpg"
   text: period
 - image: "/images/t47_tokipona/nimi/t47_nmpi_exclamation2.jpg"
@@ -38,7 +37,6 @@ punctuation:
 ---
 
 {% include image_dictionary.html definitions=page.vocabulary %}
-{% include image_dictionary.html definitions=page.punctuation %}
 
 ### sentences with mi or sina as the subject
 

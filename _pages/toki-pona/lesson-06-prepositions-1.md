@@ -4,7 +4,8 @@ title: Prepositions Part 1
 sitelen_lessons_index: 11
 permalink: /toki-pona/sitelen/prepositions-1
 
-url_previous: /toki-pona/sitelen/preverbs
+# url_previous: /toki-pona/sitelen/preverbs
+url_previous: /toki-pona/sitelen/commands
 url_next: /toki-pona/sitelen/prepositions-2
 
 vocabulary:
@@ -16,10 +17,6 @@ vocabulary:
   text: tan
 - image: "/images/t47_tokipona/nimi/t47_nimi_tawa.jpg"
   text: tawa
-
-punctuation:
-- image: "/images/t47_tokipona/nimi/t47_nmpi_colon.jpg"
-  text: colon
 
 prepositional_head_definitions:
 - image: "/images/t47_tokipona/kamasona/t47_kaso06_01.jpg"
@@ -33,8 +30,6 @@ prepositional_head_definitions:
 ---
 
 {% include image_dictionary.html definitions=page.vocabulary %}
-{% include image_dictionary.html definitions=page.punctuation %}
-
 
 ### prepositions work as containers, sometimes
 
@@ -99,13 +94,3 @@ Glyph blocks also work as containers when they function as both a verb and prepo
 {% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso06_16.jpg" caption="mi tawa jan pona." %}
 
 Again, the entire prepositional phrase fits into the prepositional glyph. In the next lesson, we will continue to work with prepositions, and look at the rest of the glyph block which have the ability to work in this manner.
-
-### the colon
-
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso06_18.jpg" caption="sina toki e ni: kon tawa li lon." %}
-
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso06_19.jpg" caption="mi wile e ni: mi tawa tomo mi." %}
-
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso06_20.jpg" caption="ona li len tan ni: ona li wile e seli." %}
-
-The only other thing we need to cover in this lesson is the colon. Just like the period, the colon is a horizontal bar that the glyph blocks rest upon. In this case though, it is sandwiched between the two sentence fragments.

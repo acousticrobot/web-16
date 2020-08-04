@@ -37,6 +37,7 @@ module Jekyll
       indices = {"lessons" => [], "dictionaries" => [] }
       site.pages.each_with_object(indices) do |page,data|
         if page.data.has_key?("sitelen_lessons_index")
+          next if page.data.has_key?("index") && page.data["index"] == false
           data["lessons"][page.data["sitelen_lessons_index"]] = {"title" => page.data["title"], "url" => page.url }
         elsif page.data.has_key?("sitelen_dict_index")
           data["dictionaries"][page.data["sitelen_dict_index"]] = {"title" => page.data["title"], "url" => page.url }

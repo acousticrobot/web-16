@@ -1,7 +1,8 @@
 ---
 layout: page
 title: The Body
-sitelen_lessons_index: 20
+sitelen_lessons_index: 21
+index: false
 permalink: /toki-pona/sitelen/body
 
 url_previous: /toki-pona/sitelen/art
@@ -35,3 +36,6 @@ vocabulary:
 ---
 
 {% include image_dictionary.html definitions=page.vocabulary %}
+
+
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso07_11.jpg" caption="jan lili li tan unpa." %}

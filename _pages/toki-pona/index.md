@@ -18,13 +18,13 @@ Learn how to write in the hieroglyphic blocks known as sitelen sitelen.  This is
 ### Lessons
 
 {% for lesson in page.lessons %}{% if lesson != nil %}
-  * [{{ lesson["title"] }}]({{ lesson["url"] }})
+  * [{{ lesson.title }}]({{ lesson.url }})
 {% endif %}{% endfor %}
 
 #### dictionaries
 
 {% for dict in page.dictionaries %}{% if dict != nil %}
-  * [{{ dict["title"] }}]({{ dict["url"] }})
+  * [{{ dict.title }}]({{ dict.url }})
 {% endif %}{% endfor %}
 
 #### other resources

@@ -1,11 +1,11 @@
 ---
 layout: page
 title: More on Organizing Syllables
-sitelen_lessons_index: 17
+sitelen_lessons_index: 18
 permalink: /toki-pona/sitelen/syllables-3
 
 url_previous: /toki-pona/sitelen/la
-url_next: /toki-pona/sitelen/conjunctions
+# url_next: /toki-pona/sitelen/conjunctions
 ---
 
 ### unofficial words

@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Conjunctions and Colors
-sitelen_lessons_index: 18
+sitelen_lessons_index: 19
+index: false
 permalink: /toki-pona/sitelen/conjunctions
 
 url_previous: /toki-pona/sitelen/syllables-3

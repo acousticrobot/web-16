@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Preconditions with la
-sitelen_lessons_index: 16
+sitelen_lessons_index: 17
+index: false
 permalink: /toki-pona/sitelen/la
 
 url_previous: /toki-pona/sitelen/pi

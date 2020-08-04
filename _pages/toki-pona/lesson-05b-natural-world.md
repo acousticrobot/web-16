@@ -2,6 +2,7 @@
 layout: page
 title: The Natural World
 sitelen_lessons_index: 8
+index: false
 permalink: /toki-pona/sitelen/nature
 
 url_previous: /toki-pona/sitelen/gender

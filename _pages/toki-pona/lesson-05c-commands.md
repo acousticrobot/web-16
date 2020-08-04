@@ -4,8 +4,10 @@ title: Interjections and Commands
 sitelen_lessons_index: 9
 permalink: /toki-pona/sitelen/commands
 
-url_previous: /toki-pona/sitelen/nature
-url_next: /toki-pona/sitelen/preverbs
+# url_previous: /toki-pona/sitelen/nature
+url_previous: /toki-pona/sitelen/gender
+# url_next: /toki-pona/sitelen/preverbs
+url_next: /toki-pona/sitelen/prepositions-1
 
 vocabulary:
 - image: "/images/t47_tokipona/nimi/t47_nimi_a.jpg"

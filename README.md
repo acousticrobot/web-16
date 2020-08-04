@@ -84,7 +84,7 @@ Several images with a single caption:
 
 If pages need to be uniquely identified, give them a slug. Slugs in use:
 
-  * `t47_lessons_index` - used for indexing everything sitelen sitelen
+  * `sitelen_lesson_index` - used for indexing everything sitelen sitelen
 
 #### nav_page:
 

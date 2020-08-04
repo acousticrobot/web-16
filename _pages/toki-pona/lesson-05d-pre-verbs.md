@@ -2,6 +2,7 @@
 layout: page
 title: Pre-verbs
 sitelen_lessons_index: 10
+index: false
 permalink: /toki-pona/sitelen/preverbs
 
 url_previous: /toki-pona/sitelen/commands

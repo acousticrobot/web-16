@@ -9,3 +9,10 @@ layout: default
 {{ content }}
 
 {% include image_dictionary.html definitions=page.definitions grouping=page.grouping %}
+
+{% if page['supplimental_definitions'] %}
+  <header>
+    <h2 class="content__title">{{ page.supplimental_text }}</h1>
+  </header>
+  {% include image_dictionary.html definitions=page.supplimental_definitions grouping=page.grouping %}
+{% endif %}

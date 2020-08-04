@@ -119,13 +119,15 @@ soweli Kowala
 
 ### test your comprehension
 
+#### translate into toki pona and English (hover or tab through to reveal the answer)
+
 {% include image_and_caption.html image="/images/t47_tokipona/kamasona/syllables/mipona.jpg"
    caption="mi pona"
    reveal_text=true
 %}
 
 {% include image_and_caption.html image="/images/t47_tokipona/kamasona/syllables/niminimi.jpg"
-   caption="nimi 'nimi'"
+   caption="nimi 'nimi' - (the word 'nimi')"
    reveal_text=true
 %}
 

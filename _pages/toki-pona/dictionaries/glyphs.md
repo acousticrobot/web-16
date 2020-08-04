@@ -1,6 +1,6 @@
 ---
 layout: dictionary
-title: the pictographic word dictionary
+title: sitelen suwi ale - the glyphs
 sitelen_dict_index: 0
 slug: t47_lessons_dict_00
 permalink: /toki-pona/dictionaries/glyphs/
@@ -61,10 +61,6 @@ definitions:
   text: kepeken
 - image: "/images/t47_tokipona/nimi/t47_nimi_kili.jpg"
   text: kili
-- image: "/images/t47_tokipona/nimi/t47_nimi_kin.jpg"
-  text: kin
-- image: "/images/t47_tokipona/nimi/t47_nimi_kipisi.jpg"
-  text: kipisi
 - image: "/images/t47_tokipona/nimi/t47_nimi_kiwen.jpg"
   text: kiwen
 - image: "/images/t47_tokipona/nimi/t47_nimi_ko.jpg"
@@ -133,8 +129,6 @@ definitions:
   text: musi
 - image: "/images/t47_tokipona/nimi/t47_nimi_mute.jpg"
   text: mute
-- image: "/images/t47_tokipona/nimi/t47_nimi_namako.jpg"
-  text: namako
 - image: "/images/t47_tokipona/nimi/t47_nimi_nanpa.jpg"
   text: nanpa
 - image: "/images/t47_tokipona/nimi/t47_nimi_nasa.jpg"
@@ -151,8 +145,6 @@ definitions:
   text: noka
 - image: "/images/t47_tokipona/nimi/t47_nimi_o.jpg"
   text: o
-- image: "/images/t47_tokipona/nimi/t47_nimi_oko.jpg"
-  text: oko
 - image: "/images/t47_tokipona/nimi/t47_nimi_olin.jpg"
   text: olin
 - image: "/images/t47_tokipona/nimi/t47_nimi_ona.jpg"
@@ -253,6 +245,17 @@ definitions:
   text: weka
 - image: "/images/t47_tokipona/nimi/t47_nimi_wile.jpg"
   text: wile
-
+supplimental_text: alternate and unofficial sitelen suwi
+supplimental_definitions:
+- image: "/images/t47_tokipona/nimi/t47_nimi_kin.jpg"
+  text: kin
+- image: "/images/t47_tokipona/nimi/t47_nimi_kipisi.jpg"
+  text: kipisi
+- image: "/images/t47_tokipona/nimi/t47_nimi_mama.jpg"
+  text: mama (old)
+- image: "/images/t47_tokipona/nimi/t47_nimi_namako.jpg"
+  text: namako
+- image: "/images/t47_tokipona/nimi/t47_nimi_oko.jpg"
+  text: oko
 ---
 

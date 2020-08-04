@@ -36,11 +36,11 @@ vocabulary:
 
 ### direct objects using e
 
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso04_01.jpg" caption="mi moku e kili." %}
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/direct_objects/mimokuekili.jpg" caption="mi moku e kili." %}
 
 In lesson three, we saw how li works as a container for the verb. The separator e works in the same way, by forming a container for the direct object.
 
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso04_02.jpg" caption="ona li lukin e pipi." %}
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/direct_objects/onlilukinepoki.jpg" caption="ona li lukin e poki." %}
 
 #### three block structure
 
@@ -52,43 +52,33 @@ We are now looking at sentences with a subject, verb, and direct object. This tr
 
 Remember how we move down and to the right? We also want to keep each sentence as compact as possible, not strung out in a long line. Here are two useful arrangements for a three-block sentence:
 
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso04_04.png" %}
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/direct_objects/three_block_top.png" %}
 
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso04_03.png" %}
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/direct_objects/three_block_left.png" %}
 
 Notice how in both cases, one of the blocks is larger in size? This keeps the sentence in a relatively square shape. It also clues us in to the direction that the sentence is to be read. You must read either across an entire row, or down an entire column.
 
 #### don’t crowd your composition
 
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso04_06.jpg" caption="ona li pona e ijo." %}
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/direct_objects/onaliponaeijo.jpg" caption="ona li pona e ijo." %}
 
 When deciding how to lay out your sentences, the important thing to consider is information density. Make sure you don't end up cramming a bunch of information into a small space. That's why we wouldn't choose to have a large S block, followed by small V and DO blocks.
 
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso04_05.jpg" caption="sina jo e ilo." %}
-
-### direct objects using e with wile
-
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso04_09.jpg" caption="ona li wile pakala e pipi." %}
-
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso04_10.jpg" caption="sina wile unpa e ona." %}
-
-sina wile unpa e ona.
-Adding a direct object to the above sentences is easy. Simply add the direct object infixed in e either below or to the side of the entire subject/verb block.
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/direct_objects/sinajoeilo.jpg" caption="sina jo e ilo." %}
 
 ### compound sentences
 
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso04_11.jpg" caption="pipi li lukin li unpa." %}
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/direct_objects/janlilulisit.jpg" caption="jan li toki li sitelen" %}
 
 Now we can really see how this script treats language as spatial, rather than linear. In this respect, long compound sentences can prove an organizational challenge, since a string of verbs or direct objects is naturally linear.
 
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso04_12.jpg" caption="mi moku li pakala." %}
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/direct_objects/mipalilisona.jpg" caption="mi pali li sona" %}
 
-mi moku li pakala.
 A grouping of a couple verbs or direct objects, however, can still be managed quite easily. In a sentence with two verbs, the three block structure from above will still work.
 
 #### four equal sized blocks
 
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso04_12b.png" caption="four block structure" %}
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/direct_objects/four_blocks.png" caption="four block structure" %}
 
 Sometimes the best organization is four blocks of equal size. To avoid ambiguity, four block structures are always read down the columns, from left to right.
 
@@ -101,14 +91,45 @@ One good example of the four block structure is a sentence with two direct objec
   * Direct object 1
   * Direct object 2
 
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso04_13.jpg" caption="mi moku e moku e telo." %}
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/direct_objects/mimoemoete.jpg" caption="mi moku e moku e telo." %}
 
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso04_14.jpg" caption="mi wile lukin e ma e suno." %}
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/direct_objects/miluemaesu.jpg" caption="mi lukin e ma e suno." %}
 
 ### topics of conversation with e
 
-!TODO see rnd
+I really like the [section of jan Lentan's lessons](https://rnd.neocities.org/tokipona/4.html) that introduces this convention so I want to include an example here. He describes using _toki e_ as a way presenting what is being talked about as a direct object.
+
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/direct_objects/onalitokesi.jpg" caption="ona li toki e sitelen." %}
+
+Here the _e_ separates toki and sitelen to clarify that 'they talk _about_ writing/drawing'. If sitelen was a modifier, _ona li toki sitelen_, it could also mean 'they use written communication'.
 
 ### columns and rows
 
 Now that our sentences are getting longer, we’ve started to talk about block structure in terms of columns and rows.  If this is still a little confusing to visualize, don’t worry.  In the next lesson we will look more closely at how this works.
+
+### test your comprehension
+
+Translate into both toki pona and English, then hover or tab through to check your answers against mine.
+
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/direct_objects/misoneijo.jpg"
+   caption="mi sona e ijo. - I know the thing, I know something"
+   reveal_text=true
+%}
+
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/direct_objects/x.jpg"
+   caption="telo li suli li pona. - Water is important and good."
+   reveal_text=true
+%}
+
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/direct_objects/x.jpg"
+   caption="sewi li pana e sona. - The gods gives knowledge."
+   reveal_text=true
+%}
+
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/direct_objects/x.jpg"
+   caption="ma li jo e telo e suno. - The land has water and sunshine."
+   reveal_text=true
+%}
+
+
+

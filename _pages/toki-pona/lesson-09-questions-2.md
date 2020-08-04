@@ -79,3 +79,11 @@ Here are two further examples with _lon_, _kepeken_, and _sama_:
 When _seme_ is modifying something else within a preposition, we follow normal block order rules:
 
 {% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso10_18.jpg" caption="jan utala li tan ma seme?" %}
+
+### test your comprehension
+
+
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso10_03.jpg" caption="seme li sin?" %}
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso10_19.jpg" caption="seme li lon insa poki sin?" %}
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso10_20.jpg" caption="jan sin li seme?" %}
+

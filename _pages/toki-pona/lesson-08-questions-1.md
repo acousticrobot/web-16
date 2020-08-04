@@ -18,28 +18,6 @@ punctuation:
 {% include image_dictionary.html definitions=page.vocabulary %}
 {% include image_dictionary.html definitions=page.punctuation %}
 
-### negation
-
-If you understood how modifiers worked (chapter 5) then negation shouldn't be too much trouble. Adding ala to negate nouns or verbs follows normal block order rules:
-
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso08_01.jpg" caption="ona li lape ala." %}
-
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso08_02.jpg" caption="jan ala li sona." %}
-
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso08_03.jpg" caption="ni li musi ala!" %}
-
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso08_04.jpg" caption="mi ken ala pali." %}
-
-### ale / ali
-
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso08_06.jpg" caption="jan ali li kama." %}
-
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso08_05.jpg" caption="ale li pona." %}
-
-Nothing special here either. There may be two ways to spell it, but only one glyph block for _ale/ali_.
-
-Just like the modifiers we have already seen, it follows normal block order rules.
-
 ### yes / no questions
 
 {% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso08_09.jpg" caption="jan li jo ala jo e wawa?" %}

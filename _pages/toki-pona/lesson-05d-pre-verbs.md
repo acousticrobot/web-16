@@ -33,3 +33,12 @@ vocabulary:
 When using sentences with verb phrases, the entire verb phrase is infixed in li. Think of li and everything inside as one block, and follow the same block structure rules that we have been learning all along.
 
 When the subject is mi or sina, we aren't bound by li containing the verb. It's still a good idea, however, to keep a verb phrase together, for visual clarity.
+
+### ken
+
+
+-> When negating... mi ken ala pali, mi ken pali ala.
+
+
+
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso08_04.jpg" caption="mi ken ala pali." %}

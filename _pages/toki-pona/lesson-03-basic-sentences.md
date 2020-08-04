@@ -91,7 +91,7 @@ When the subject is other than mi or sina, li separates the subject from the ver
 
 ### test your comprehension
 
-Translate into toki pona (hover or tab through to reveal the answer)
+#### translate into toki pona (hover or tab through to reveal the answer)
 
 {% include image_and_caption.html image="/images/t47_tokipona/kamasona/basic/onlipona.jpg"
    caption="ona li pona."
@@ -113,7 +113,7 @@ Translate into toki pona (hover or tab through to reveal the answer)
    reveal_text=true
 %}
 
-Translate into English (hover or tab through to reveal the answer)
+#### translate into English (hover or tab through to reveal the answer)
 
 {% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso03_07.jpg"
    caption="I eat."

@@ -1,53 +1,60 @@
 ---
 layout: page
-title: Combining Syllables
+title: 'Syllables Part 2: Combinig Syllables'
 sitelen_lessons_index: 2
-permalink: /toki-pona/sitelen/syllables-2
+permalink: /toki-pona/syllables-2
 
-url_previous: /toki-pona/sitelen/syllables-1
-url_next: /toki-pona/sitelen/basic-sentences
+url_previous: /toki-pona/syllables-1
+url_next: /toki-pona/basic-sentences
 
 vocabulary:
-- image: "/images/t47_tokipona/nimi/t47_nimi_jan.jpg"
+- image: /images/t47_tokipona/nimi/t47_nimi_jan.jpg
   text: jan
-- image: "/images/t47_tokipona/nimi/t47_nimi_ma.jpg"
+- image: /images/t47_tokipona/nimi/t47_nimi_ma.jpg
   text: ma
-- image: "/images/t47_tokipona/nimi/t47_nimi_nimi.jpg"
+- image: /images/t47_tokipona/nimi/t47_nimi_nimi.jpg
   text: nimi
-- image: "/images/t47_tokipona/nimi/t47_nimi_sewi.jpg"
+- image: /images/t47_tokipona/nimi/t47_nimi_sewi.jpg
   text: sewi
-- image: "/images/t47_tokipona/nimi/t47_nimi_soweli.jpg"
+- image: /images/t47_tokipona/nimi/t47_nimi_soweli.jpg
   text: soweli
 punctuation:
-- image: "/images/t47_tokipona/nimi/t47_nmpi_cartouche.jpg"
+- image: /images/t47_tokipona/nimi/t47_nmpi_cartouche.jpg
   text: cartouche
-- image: "/images/t47_tokipona/nimi/t47_nmpi_capsule.jpg"
+- image: /images/t47_tokipona/nimi/t47_nmpi_capsule.jpg
   text: capsule
-word_definitions:
-- image: "/images/t47_tokipona/kalalili/t47_kalalili_a.jpg"
+syllable_words:
+- image: /images/t47_tokipona/kalalili/t47_kalalili_a.jpg
   text: a
-- image: "/images/t47_tokipona/kalalili/t47_kalalili_jan.jpg"
+- image: /images/t47_tokipona/kalalili/t47_kalalili_jan.jpg
   text: jan
-- image: "/images/t47_tokipona/kalalili/t47_kalalili_ko.jpg"
+- image: /images/t47_tokipona/kalalili/t47_kalalili_ko.jpg
   text: ko
-- image: "/images/t47_tokipona/kalalili/t47_kalalili_kon.jpg"
+- image: /images/t47_tokipona/kalalili/t47_kalalili_kon.jpg
   text: kon
-- image: "/images/t47_tokipona/kalalili/t47_kalalili_len.jpg"
+- image: /images/t47_tokipona/kalalili/t47_kalalili_len.jpg
   text: len
-- image: "/images/t47_tokipona/kalalili/t47_kalalili_ma.jpg"
+- image: /images/t47_tokipona/kalalili/t47_kalalili_ma.jpg
   text: ma
-- image: "/images/t47_tokipona/kalalili/t47_kalalili_mi.jpg"
+- image: /images/t47_tokipona/kalalili/t47_kalalili_mi.jpg
   text: mi
-- image: "/images/t47_tokipona/kalalili/t47_kalalili_ni.jpg"
+- image: /images/t47_tokipona/kalalili/t47_kalalili_ni.jpg
   text: ni
-- image: "/images/t47_tokipona/kalalili/t47_kalalili_mun.jpg"
+- image: /images/t47_tokipona/kalalili/t47_kalalili_mun.jpg
   text: mun
-- image: "/images/t47_tokipona/kalalili/t47_kalalili_o.jpg"
+- image: /images/t47_tokipona/kalalili/t47_kalalili_o.jpg
   text: o
-- image: "/images/t47_tokipona/kalalili/t47_kalalili_sin.jpg"
+- image: /images/t47_tokipona/kalalili/t47_kalalili_sin.jpg
   text: sin
-- image: "/images/t47_tokipona/kalalili/t47_kalalili_tan.jpg"
+- image: /images/t47_tokipona/kalalili/t47_kalalili_tan.jpg
   text: tan
+toki_pona_tests:
+- image: /images/t47_tokipona/kamasona/syllables/mipona.jpg
+  text: mi pona
+- image: /images/t47_tokipona/kamasona/syllables/niminimi.jpg
+  text: nimi 'nimi' - (the word 'nimi')
+- image: /images/t47_tokipona/kamasona/syllables/janote.jpg
+  text: jan Ote
 ---
 
 {% include image_dictionary.html definitions=page.vocabulary %}
@@ -59,7 +66,7 @@ We are going to come back to syllables again, so if you would rather get started
 
 As you look though the syllabary, you will see several syllables that are toki pona words by themselves. Here are a few, see if you can figure out which words they are (click on a spoiler box or tab through to reveal the answers):
 
-{% include image_dictionary.html definitions=page.word_definitions reveal_text='true' %}
+{% include image_dictionary.html definitions=page.syllable_words reveal_text='true' %}
 
 It is always legitimate to substitute a syllable in for a word glyph block.
 
@@ -119,19 +126,6 @@ soweli Kowala
 
 ### test your comprehension
 
-#### translate into toki pona and English (hover or tab through to reveal the answer)
+#### translate into toki pona (hover or tab through to reveal the answer)
 
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/syllables/mipona.jpg"
-   caption="mi pona"
-   reveal_text=true
-%}
-
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/syllables/niminimi.jpg"
-   caption="nimi 'nimi' - (the word 'nimi')"
-   reveal_text=true
-%}
-
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/syllables/janote.jpg"
-   caption="jan Ote"
-   reveal_text=true
-%}
+{% include image_dictionary.html definitions=page.toki_pona_tests reveal_text='true' %}

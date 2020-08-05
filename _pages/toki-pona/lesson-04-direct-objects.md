@@ -2,10 +2,10 @@
 layout: page
 title: Direct Objects, Compound Sentences
 sitelen_lessons_index: 4
-permalink: /toki-pona/sitelen/direct-objects
+permalink: /toki-pona/direct-objects
 
-url_previous: /toki-pona/sitelen/basic-sentences
-url_next: /toki-pona/sitelen/block-order
+url_previous: /toki-pona/basic-sentences
+url_next: /toki-pona/block-order
 
 vocabulary_row_1:
 - image: "/images/t47_tokipona/nimi/t47_nimi_e.jpg"
@@ -31,6 +31,25 @@ vocabulary_row_2:
   text: poki
 - image: "/images/t47_tokipona/nimi/t47_nimi_sitelen.jpg"
   text: sitelen
+toki_pona_tests:
+- image: /images/t47_tokipona/kamasona/direct_objects/misoneijo.jpg
+  text: mi sona e ijo. - I know the thing, I know something
+- image: /images/t47_tokipona/kamasona/direct_objects/x.jpg
+  text: telo li suli li pona. - Water is important and good.
+- image: /images/t47_tokipona/kamasona/direct_objects/x.jpg
+  text: sewi li pana e sona. - The gods gives knowledge.
+- image: /images/t47_tokipona/kamasona/direct_objects/x.jpg
+  text: ma li jo e telo e suno. - The land has water and sunshine.
+english_tests:
+- image: /images/t47_tokipona/kamasona/direct_objects/misoneijo.jpg
+  text: I know the thing, I know something
+- image: /images/t47_tokipona/kamasona/direct_objects/x.jpg
+  text: Water is important and good.
+- image: /images/t47_tokipona/kamasona/direct_objects/x.jpg
+  text: The gods gives knowledge.
+- image: /images/t47_tokipona/kamasona/direct_objects/x.jpg
+  text: The land has water and sunshine.
+
 ---
 
 {% include image_dictionary.html definitions=page.vocabulary_row_1 %}
@@ -103,27 +122,13 @@ Now that our sentences are getting longer, we’ve started to talk about block s
 
 ### test your comprehension
 
-Translate into both toki pona and English, then hover or tab through to check your answers against mine.
+### test your comprehension
 
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/direct_objects/misoneijo.jpg"
-   caption="mi sona e ijo. - I know the thing, I know something"
-   reveal_text=true
-%}
+#### translate into toki pona (hover or tab through to reveal the answer):
 
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/direct_objects/x.jpg"
-   caption="telo li suli li pona. - Water is important and good."
-   reveal_text=true
-%}
+{% include image_dictionary.html definitions=page.toki_pona_tests reveal_text='true' %}
 
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/direct_objects/x.jpg"
-   caption="sewi li pana e sona. - The gods gives knowledge."
-   reveal_text=true
-%}
+#### compare your English translations to mine:
 
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/direct_objects/x.jpg"
-   caption="ma li jo e telo e suno. - The land has water and sunshine."
-   reveal_text=true
-%}
-
-
+{% include image_dictionary.html definitions=page.english_tests reveal_text='true' %}
 

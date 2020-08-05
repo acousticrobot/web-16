@@ -1,16 +1,16 @@
 ---
 layout: page
-title: More on Organizing Syllables
+title: 'Syllables Part 3: Organizing Syllables'
 sitelen_lessons_index: 18
-permalink: /toki-pona/sitelen/syllables-3
+permalink: /toki-pona/syllables-3
 
-url_previous: /toki-pona/sitelen/la
-# url_next: /toki-pona/sitelen/conjunctions
+url_previous: /toki-pona/la
+# url_next: /toki-pona/conjunctions
 ---
 
 ### unofficial words
 
-In [Combining Syllables](/toki-pona/sitelen/syllables-2) we learned how to write out the syllable glyphs. Take a look at this lesson again is you need a refresher.  These are the glyphs we use to spell out unofficial words that have been "tokiponized".
+In [Combining Syllables](/toki-pona/syllables-2) we learned how to write out the syllable glyphs. Take a look at this lesson again is you need a refresher.  These are the glyphs we use to spell out unofficial words that have been "tokiponized".
 
 {% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso09_02.jpg" caption="akanisa" %}
 
@@ -63,7 +63,7 @@ Seven is a prime number so we know right away we won't have a nice regular grid 
 
 {% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso09_19.jpg" caption="kijetesan / takalu" %}
 
-Ok, they're both passible, but you know what bothers me?  Either way the _san_ glyph is going to be squeezed into the column with the extra glyph, and with the _n_ on the bottom it's already a little taller than the others.  Also the _l_ is on the bottom right side, and its hard to stretch it out enough to fill in the space. Either way, the whole block looks like it would fall over to the right.
+OK, they're both passable, but you know what bothers me?  Either way the _san_ glyph is going to be squeezed into the column with the extra glyph, and with the _n_ on the bottom it's already a little taller than the others.  Also the _l_ is on the bottom right side, and its hard to stretch it out enough to fill in the space. Either way, the whole block looks like it would fall over to the right.
 
 Let's try three columns next.  We have three choices now, because one of the three columns will have three glyps.
 
@@ -84,43 +84,3 @@ I like the version with three glyphs on the left best because that also gives _l
 I'm drawing this out here in different color pens for demonstration purposes, but you can try doing your sketching with a light colored pencil first, or tracing from your sketches onto a new sheet for the final drawing. As I make the final drawing, I'm going to drop the head down slightly over the top of the cartouche, and fill in the details.
 
 I really could go on forever like this, we didn't even look at a four column grid, but let's call done done and go look at commands.
-
-### commands
-
-The rest of this chapter is going to focus on using _o_ for commands and addressing others.  Lets start with simple commands starting with _o_ because they are really straight forward.  To use _o_ with commands, simply use the glyph with normal block structure rules.
-
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso09_25.jpg" caption="o toki!" %}
-
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso09_26.jpg" caption="o awen e mama!" %}
-
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso09_27.jpg" caption="o kama tawa ma tomo Uluku." %}
-
-In this way _o_ works similar to the first sentences we learned to draw with _mi_ or _sina_ as the subject.  _o_ operates in place of the subject, and the verb does not require _li_.
-
-### o with a subject
-
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso09_28.jpg" caption="jan Epi o a!" %}
-
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso09_29.jpg" caption="soweli Kuti o mu!" %}
-
-When the sentence has a subject, _o_ functions as a container. The subject glyph and any cartouche attached to it all go within the _o_.
-
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso09_30.jpg" caption="jan Enkitu o moku e moku ni. o moku e telo ni." %}
-
-It is somewhat different from the containers we have see so far, because when we write the sentence out, the name comes before the _o_. This is an exception to the block order rules.
-
-Later on we will see one one other container, _la_, that reverses the block order rules in this way. These exceptions shouldn't be too hard to get used to.  Just remember that the _o_ refers to this subject so the subject rests inside the _o_, just as prepositions refer to the direct objects they contain.
-
-### addressing People
-
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso09_31.jpg" caption="jan Niki o, mama meli li awen e sina." %}
-
-When we are addressing others, but not giving direct orders, the grammar of the sentence is different.  Everything that comes after the _o_ is a complete sentence with its own subject.
-
-The _o_ is still connected to the person who is being address, so this is what we infix in the _o_. then a comma is added between the o container and the rest of the sentence to make the separation more apparent.
-
-Just as this comma isn't strictly necessary when writing out the toki pona, you can leave it out here too if need be.
-
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso09_32.jpg" caption="jan lili mi o, jan Kikamesi li lon ma tomo Uluku." %}
-
-I don't use this comma glyph as often as I might use a comma when writing, since much of the infixing we are doing serves to group the language just as a comma might.  Also without clauses, toki pona has relatively few uses for commas in general.  Feel free however to use this glyph in the middle of your sentence block structures if you need to break the glyphs up to create a pause or emphasize the block order.

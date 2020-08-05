@@ -2,10 +2,11 @@
 layout: page
 title: Descriptions and Possessives with pi
 sitelen_lessons_index: 15
-permalink: /toki-pona/sitelen/pi
+permalink: /toki-pona/pi
 
-url_previous: /toki-pona/sitelen/questions-2
-url_next: /toki-pona/sitelen/la
+url_previous: /toki-pona/questions-2
+# url_next: /toki-pona/la
+url_next: /toki-pona/syllables-3
 
 vocabulary:
 - image: "/images/t47_tokipona/nimi/t47_nimi_pi.jpg"
@@ -18,11 +19,9 @@ vocabulary:
   text: nasin
 pi_versions:
 - image: "/images/t47_tokipona/kalalili/t47_kalalili_pi.jpg"
-  text: pi
 - image: "/images/t47_tokipona/kamasona/t47_kaso11_01.jpg"
 - image: "/images/t47_tokipona/nimi/t47_nimi_pi.jpg"
 - image: "/images/t47_tokipona/kamasona/t47_kaso11_02.jpg"
-  text: pi
 ---
 
 {% include image_dictionary.html definitions=page.vocabulary %}

@@ -2,11 +2,11 @@
 layout: page
 title: Prepositions Part 1
 sitelen_lessons_index: 11
-permalink: /toki-pona/sitelen/prepositions-1
+permalink: /toki-pona/prepositions-1
 
-# url_previous: /toki-pona/sitelen/preverbs
-url_previous: /toki-pona/sitelen/commands
-url_next: /toki-pona/sitelen/prepositions-2
+# url_previous: /toki-pona/preverbs
+url_previous: /toki-pona/commands
+url_next: /toki-pona/prepositions-2
 
 vocabulary:
 - image: "/images/t47_tokipona/nimi/t47_nimi_kepeken.jpg"

@@ -2,25 +2,23 @@
 layout: page
 title: Questions using seme
 sitelen_lessons_index: 14
-permalink: /toki-pona/sitelen/questions-2
+permalink: /toki-pona/questions-2
 
-url_previous: /toki-pona/sitelen/questions-1
-url_next: /toki-pona/sitelen/pi
+url_previous: /toki-pona/questions-1
+url_next: /toki-pona/pi
 
 vocabulary:
 - image: "/images/t47_tokipona/nimi/t47_nimi_seme.jpg"
   text: seme
-punctuation:
 - image: "/images/t47_tokipona/nimi/t47_nmpi_question.jpg"
   text: question mark
 ---
 
 {% include image_dictionary.html definitions=page.vocabulary %}
-{% include image_dictionary.html definitions=page.punctuation %}
 
 ### Questions using seme
 
-There isn't anything really difficult to learn about forming questions. As long as you learned what the question mark looks like in [lesson 8](/toki-pona/lesson-8/), and you know how to use seme in toki pona grammar, you only need to learn the glyph for _seme_ and you are set to go:
+There isn't anything really difficult to learn about forming questions. As long as you learned what the question mark looks like in [the last lesson](/toki-pona/questions-1), and you know how to use seme in toki pona grammar, you only need to learn the glyph for _seme_ and you are set to go:
 
 {% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso10_01.jpg" caption="seme?" %}
 

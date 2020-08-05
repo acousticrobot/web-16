@@ -2,21 +2,19 @@
 layout: page
 title: Yes/No Questions
 sitelen_lessons_index: 13
-permalink: /toki-pona/sitelen/questions-1
+permalink: /toki-pona/questions-1
 
-url_previous: /toki-pona/sitelen/prepositions-2
-url_next: /toki-pona/sitelen/questions-2
+url_previous: /toki-pona/prepositions-2
+url_next: /toki-pona/questions-2
 
 vocabulary:
 - image: "/images/t47_tokipona/nimi/t47_nimi_ala.jpg"
   text: ala
-punctuation:
 - image: "/images/t47_tokipona/nimi/t47_nmpi_question.jpg"
   text: question mark
 ---
 
 {% include image_dictionary.html definitions=page.vocabulary %}
-{% include image_dictionary.html definitions=page.punctuation %}
 
 ### yes / no questions
 

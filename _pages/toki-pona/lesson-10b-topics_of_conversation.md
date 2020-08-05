@@ -2,11 +2,11 @@
 layout: page
 title: "About: Topics of Conversation"
 sitelen_lessons_index: 16
-permalink: /toki-pona/sitelen/topics-of-conversation
+permalink: /toki-pona/topics-of-conversation
 
-url_previous: /toki-pona/sitelen/pi
-# url_next: /toki-pona/sitelen/la
-url_next: /toki-pona/sitelen/syllables-3
+url_previous: /toki-pona/pi
+# url_next: /toki-pona/la
+url_next: /toki-pona/syllables-3
 
 punctuation:
 - image: "/images/t47_tokipona/nimi/t47_nmpi_colon.jpg"

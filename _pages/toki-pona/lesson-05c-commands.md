@@ -2,12 +2,12 @@
 layout: page
 title: Interjections and Commands
 sitelen_lessons_index: 9
-permalink: /toki-pona/sitelen/commands
+permalink: /toki-pona/commands
 
-# url_previous: /toki-pona/sitelen/nature
-url_previous: /toki-pona/sitelen/gender
-# url_next: /toki-pona/sitelen/preverbs
-url_next: /toki-pona/sitelen/prepositions-1
+# url_previous: /toki-pona/nature
+url_previous: /toki-pona/gender
+# url_next: /toki-pona/preverbs
+url_next: /toki-pona/prepositions-1
 
 vocabulary:
 - image: "/images/t47_tokipona/nimi/t47_nimi_a.jpg"
@@ -48,9 +48,9 @@ When the sentence has a subject, _o_ functions as a container. The subject glyph
 
 It is somewhat different from the containers we have see so far, because when we write the sentence out, the name comes before the _o_. This is an exception to the block order rules.
 
-Later on we will see one one other container, _la_, that reverses the block order rules in this way. These exceptions shouldn't be too hard to get used to.  Just remember that the _o_ refers to this subject so the subject rests inside the _o_, just as prepsitions refer to the direct objects they contain.
+Later on we will see one one other container, _la_, that reverses the block order rules in this way. These exceptions shouldn't be too hard to get used to.  Just remember that the _o_ refers to this subject so the subject rests inside the _o_, just as prepositions refer to the direct objects they contain.
 
-### addressing People
+### addressing people
 
 {% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso09_31.jpg" caption="jan Niki o, mama meli li awen e sina." %}
 

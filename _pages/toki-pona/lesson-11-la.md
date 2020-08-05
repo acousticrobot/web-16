@@ -3,10 +3,10 @@ layout: page
 title: Preconditions with la
 sitelen_lessons_index: 17
 index: false
-permalink: /toki-pona/sitelen/la
+permalink: /toki-pona/la
 
-url_previous: /toki-pona/sitelen/pi
-url_next: /toki-pona/sitelen/syllables-3
+url_previous: /toki-pona/pi
+url_next: /toki-pona/syllables-3
 
 vocabulary:
 - image: "/images/t47_tokipona/nimi/t47_nimi_la.jpg"

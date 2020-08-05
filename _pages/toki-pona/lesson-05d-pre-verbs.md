@@ -3,10 +3,10 @@ layout: page
 title: Pre-verbs
 sitelen_lessons_index: 10
 index: false
-permalink: /toki-pona/sitelen/preverbs
+permalink: /toki-pona/preverbs
 
-url_previous: /toki-pona/sitelen/commands
-url_next: /toki-pona/sitelen/prepositions-1
+url_previous: /toki-pona/commands
+url_next: /toki-pona/prepositions-1
 
 vocabulary:
 - image: /images/t47_tokipona/nimi/t47_nimi_sona.jpg
@@ -27,7 +27,7 @@ vocabulary:
 
 ### verb phrases using wile
 
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso04_08.jpg" caption="sina wile unpa." %}
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/preverbs/x.jpg" caption="jan wile sona." %}
 
 {% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso04_07.jpg" caption="ona li wile pakala." %}
 

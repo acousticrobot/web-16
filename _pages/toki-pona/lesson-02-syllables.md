@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Writing Syllables
+title: Syllables Part 1
 sitelen_lessons_index: 1
-permalink: /toki-pona/sitelen/syllables-1
+permalink: /toki-pona/syllables-1
 
-url_previous: /toki-pona/sitelen/o-kama-pona
-url_next: /toki-pona/sitelen/syllables-2
+url_previous: /toki-pona/o-kama-pona
+url_next: /toki-pona/syllables-2
 
 consonant_definitions:
 - image: "/images/t47_tokipona/kalalili/t47_kalalili_xx.jpg"

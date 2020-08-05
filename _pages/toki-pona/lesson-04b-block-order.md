@@ -2,10 +2,10 @@
 layout: page
 title: Hieroglyphic Block Order
 sitelen_lessons_index: 5
-permalink: /toki-pona/sitelen/block-order
+permalink: /toki-pona/block-order
 
-url_previous: /toki-pona/sitelen/direct-objects
-url_next: /toki-pona/sitelen/modifiers
+url_previous: /toki-pona/direct-objects
+url_next: /toki-pona/modifiers
 
 two_block_images:
 - "/images/t47_tokipona/kamasona/t47_kaso04b_01.png"

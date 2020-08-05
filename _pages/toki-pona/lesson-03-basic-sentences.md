@@ -2,10 +2,10 @@
 layout: page
 title: Basic Sentences
 sitelen_lessons_index: 3
-permalink: /toki-pona/sitelen/basic-sentences
+permalink: /toki-pona/basic-sentences
 
-url_previous: /toki-pona/sitelen/syllables-2
-url_next: /toki-pona/sitelen/direct-objects
+url_previous: /toki-pona/syllables-2
+url_next: /toki-pona/direct-objects
 
 vocabulary:
 - image: "/images/t47_tokipona/nimi/t47_nimi_mi.jpg"
@@ -34,6 +34,23 @@ vocabulary:
   text: period
 - image: "/images/t47_tokipona/nimi/t47_nmpi_exclamation2.jpg"
   text: exclamation
+toki_pona_tests:
+- image: /images/t47_tokipona/kamasona/basic/onlipona.jpg
+  text: ona li pona.
+- image: /images/t47_tokipona/kamasona/basic/nilisuli.jpg
+  text: ni li suli.
+- image: /images/t47_tokipona/kamasona/basic/janlimoku.jpg
+  text: jan li moku.
+- image: /images/t47_tokipona/kamasona/basic/sinatoki.jpg
+  text: sina toki.
+english_tests:
+- image: /images/t47_tokipona/kamasona/t47_kaso03_07.jpg
+  text: I eat.
+- image: /images/t47_tokipona/kamasona/t47_kaso03_11.jpg
+  text: you're great!
+- image: /images/t47_tokipona/kamasona/t47_kaso03_15.jpg
+  text: the sun is big!
+
 ---
 
 {% include image_dictionary.html definitions=page.vocabulary %}
@@ -88,41 +105,10 @@ When the subject is other than mi or sina, li separates the subject from the ver
 
 ### test your comprehension
 
-#### translate into toki pona (hover or tab through to reveal the answer)
+#### translate into toki pona (hover or tab through to reveal the answer):
 
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/basic/onlipona.jpg"
-   caption="ona li pona."
-   reveal_text=true
-%}
+{% include image_dictionary.html definitions=page.toki_pona_tests reveal_text='true' %}
 
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/basic/nilisuli.jpg"
-   caption="ni li suli."
-   reveal_text=true
-%}
+#### compare your English translations to mine:
 
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/basic/janlimoku.jpg"
-   caption="jan li moku."
-   reveal_text=true
-%}
-
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/basic/sinatoki.jpg"
-   caption="sina toki."
-   reveal_text=true
-%}
-
-#### translate into English (hover or tab through to reveal the answer)
-
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso03_07.jpg"
-   caption="I eat."
-   reveal_text=true
-%}
-
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso03_11.jpg"
-   caption="you're great!"
-   reveal_text=true
-%}
-
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso03_15.jpg"
-   caption="the sun is big!"
-   reveal_text=true
-%}
+{% include image_dictionary.html definitions=page.english_tests reveal_text='true' %}

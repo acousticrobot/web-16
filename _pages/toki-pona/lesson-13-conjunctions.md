@@ -3,10 +3,10 @@ layout: page
 title: Conjunctions and Colors
 sitelen_lessons_index: 19
 index: false
-permalink: /toki-pona/sitelen/conjunctions
+permalink: /toki-pona/conjunctions
 
-url_previous: /toki-pona/sitelen/syllables-3
-url_next: /toki-pona/sitelen/art
+url_previous: /toki-pona/syllables-3
+url_next: /toki-pona/art
 
 vocabulary:
 - image: "/images/t47_tokipona/nimi/t47_nimi_anu.jpg"

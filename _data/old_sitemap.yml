@@ -1,24 +1,44 @@
-- page: index
-
-  rewrite_rule: false
-  action: redesign
-  status: done
-  archive_status:  done
-  archive_url: /archive/2012/index.html
-  redirect_url: /
-
-
-- page: archive
-
-  action: ignore
-  status: remove
-
+- page: /toki-pona/lesson-1/
+  rewrite_rule: true
+  redirect_url: /toki-pona/o-kama-pona
+- page: /toki-pona/lesson-2/
+  rewrite_rule: true
+  redirect_url: /toki-pona/syllables-1
+- page: /toki-pona/lesson-3/
+  rewrite_rule: true
+  redirect_url: /toki-pona/basic-sentences
+- page: /toki-pona/lesson-4/
+  rewrite_rule: true
+  redirect_url: /toki-pona/direct-objects
+- page: /toki-pona/lesson-4b/
+  rewrite_rule: true
+  redirect_url: /toki-pona/block-order
+- page: /toki-pona/lesson-5/
+  rewrite_rule: true
+  redirect_url: /toki-pona/modifiers
+- page: /toki-pona/lesson-6/
+  rewrite_rule: true
+  redirect_url: /toki-pona/prepositions-1
+- page: /toki-pona/lesson-7/
+  rewrite_rule: true
+  redirect_url: /toki-pona/prepositions-2
+- page: /toki-pona/lesson-8/
+  rewrite_rule: true
+  redirect_url: /toki-pona/questions-1
+- page: /toki-pona/lesson-9/
+  rewrite_rule: true
+  redirect_url: /toki-pona/commands
+- page: /toki-pona/lesson-10/
+  rewrite_rule: true
+  redirect_url: /toki-pona/questions-2
+- page: /toki-pona/lesson-11/
+  rewrite_rule: true
+  redirect_url: /toki-pona/pi
 
 - page: art125/abstract-expressionism
 
   rewrite_rule: true
   action: archive
-  status: done
   archive_status: done
   archive_url: /archive/2012/art125_abstract-expressionism.html
 
@@ -33,7 +53,6 @@
 
   rewrite_rule: true
   action: archive
-  status: done
   archive_status: done
   archive_url: /archive/2012/art125_earthworks.html
 
@@ -42,7 +61,6 @@
 
   rewrite_rule: true
   action: archive
-  status: done
   archive_status: done
   archive_url: /archive/2012/art125_feminism.html
 
@@ -51,7 +69,6 @@
 
   rewrite_rule: true
   action: archive
-  status: done
   archive_status: done
   archive_url: /archive/2012/art125_globalism-1-europe.html
 
@@ -60,7 +77,6 @@
 
   rewrite_rule: true
   action: archive
-  status: done
   archive_status: done
   archive_url: /archive/2012/art125_globalism-2-contemporary-world-art.html
 
@@ -69,7 +85,6 @@
 
   rewrite_rule: true
   action: archive
-  status: done
   archive_status: done
   archive_url: /archive/2012/art125_introduction.html
 
@@ -78,7 +93,6 @@
 
   rewrite_rule: true
   action: archive
-  status: done
   archive_status: done
   archive_url: /archive/2012/art125_introduction-to-postmodernism.html
 
@@ -87,7 +101,6 @@
 
   rewrite_rule: true
   action: archive
-  status: done
   archive_status: done
   archive_url: /archive/2012/art125_minimalism.html
 
@@ -96,7 +109,6 @@
 
   rewrite_rule: true
   action: archive
-  status: done
   archive_status: done
   archive_url: /archive/2012/art125_photography.html
 
@@ -105,7 +117,6 @@
 
   rewrite_rule: true
   action: archive
-  status: done
   archive_status: done
   archive_url: /archive/2012/art125_pop.html
 
@@ -114,7 +125,6 @@
 
   rewrite_rule: true
   action: archive
-  status: done
   archive_status: done
   archive_url: /archive/2012/art125_race-and-identity.html
 
@@ -129,7 +139,6 @@
 
   rewrite_rule: true
   action: archive
-  status: done
   archive_status: done
   archive_url: /archive/2012/art125_welcome.html
 
@@ -137,38 +146,22 @@
 - page: arts/link-status-cowbells
 
   action: transfer
-  status: done
 
 
 - page: arts/status-japanese-fart-scroll
 
   action: collection
-  status: done
-
-
-- page: artworks/
-
-  rewrite_rule: false
-  action: collection
-  status: done
-  archive_status: done
-  archive_url: /archive/2012/artworks_index.html
 
 - page: artworks/balloon-boy-interview/
 
   rewrite_rule: true
-  action: redesign
-  status: done
   archive_status: done
   archive_url: /archive/2012/artworks_balloon-boy-interview.html
   redirect_url: /2012/balloon-boy-interview
 
-
 - page: artworks/jan-ante-intenasijonale
 
   rewrite_rule: true
-  action: redesign
-  status: done
   archive_status: done
   archive_url: /archive/2012/artworks_jan-ante-intenasijonale.html
   redirect_url: /2012/jan-ante-intenasijonale
@@ -177,8 +170,6 @@
 - page: artworks/jan-telepi-jan-jaki
 
   rewrite_rule: true
-  action: redesign
-  status: done
   archive_status: done
   archive_url: /archive/2012/artworks_jan-telepi-jan-jaki.html
   redirect_url: /2012/jan-telepi-jan-jaki
@@ -187,8 +178,6 @@
 - page: artworks/laughton-mccry-gilgamesh-page-one
 
   rewrite_rule: true
-  action: redesign
-  status: done
   archive_status: done
   archive_url: /archive/2012/artworks_laughton-mccry-gilgamesh-page-one.html
   redirect_url: /2012/laughton-mccry-gilgamesh-page-one
@@ -197,8 +186,6 @@
 - page: artworks/lipu-lawa-pi-esun-kama
 
   rewrite_rule: true
-  action: redesign
-  status: done
   archive_status: done
   archive_url: /archive/2012/artworks_lipu-lawa-pi-esun-kama.html
   redirect_url: /2012/lipu-lawa-pi-esun-kama
@@ -208,7 +195,6 @@
 
   rewrite_rule: true
   action: artwork only
-  status: done
   archive_status: done
   archive_url: /archive/2012/artworks_rectifier.html
   redirect_url: /artworks/t29_01.html
@@ -218,7 +204,6 @@
 
   rewrite_rule: true
   action: archive
-  status: done
   archive_status:  done
   archive_url: /archive/2012/category_art125.html
 
@@ -239,7 +224,6 @@
 
   rewrite_rule: true
   action: archive
-  status: done
   archive_status: done
   archive_url: /archive/2012/category_t29-2.html
   redirect_url: /archive/2012/category_t29-2.html
@@ -249,7 +233,6 @@
 
   rewrite_rule: true
   action: archive
-  status: done
   archive_status: done
   archive_url: /archive/2012/category_t47.html
   redirect_url: /archive/2012/category_t47.html
@@ -264,8 +247,6 @@
 - page: design
 
   rewrite_rule: true
-  action: redesign
-  status: done
   archive_status: done
   archive_url: /archive/2012/design.html
   redirect_url: /cv
@@ -341,7 +322,6 @@
 
   rewrite_rule: true
   action: archive
-  status: done
   archive_status: done
   archive_url: /archive/2012/learn_index.html
   redirect_url: /archive/2012/learn_index.html
@@ -351,7 +331,6 @@
 
   rewrite_rule: true
   action: archive
-  status: done
   archive_status:  done
   archive_url: /archive/2012/art125.html
 
@@ -366,7 +345,6 @@
 
   rewrite_rule: true
   action: archive
-  status: done
   archive_status: done
   archive_url: /archive/2012/learn_art125_unit-1.html
 
@@ -375,7 +353,6 @@
 
   rewrite_rule: true
   action: archive
-  status: done
   archive_status: done
   archive_url: /archive/2012/learn_art125_unit-10.html
 
@@ -384,7 +361,6 @@
 
   rewrite_rule: true
   action: archive
-  status: done
   archive_status: done
   archive_url: /archive/2012/learn_art125_unit-11.html
 
@@ -393,7 +369,6 @@
 
   rewrite_rule: true
   action: archive
-  status: done
   archive_status:  done
   archive_url: /archive/2012/learn_art125_unit-2.html
 
@@ -402,7 +377,6 @@
 
   rewrite_rule: true
   action: archive
-  status: done
   archive_status:  done
   archive_url: /archive/2012/learn_art125_unit-3.html
 
@@ -411,7 +385,6 @@
 
   rewrite_rule: true
   action: archive
-  status: done
   archive_status: done
   archive_url: /archive/2012/learn_art125_unit-4.html
 
@@ -420,7 +393,6 @@
 
   rewrite_rule: true
   action: archive
-  status: done
   archive_status: done
   archive_url: /archive/2012/learn_art125_unit-5.html
 
@@ -429,7 +401,6 @@
 
   rewrite_rule: true
   action: archive
-  status: done
   archive_status: done
   archive_url: /archive/2012/learn_art125_unit-6.html
 
@@ -438,7 +409,6 @@
 
   rewrite_rule: true
   action: archive
-  status: done
   archive_status: done
   archive_url: /archive/2012/learn_art125_unit-7.html
 
@@ -447,7 +417,6 @@
 
   rewrite_rule: true
   action: archive
-  status: done
   archive_status: done
   archive_url: /archive/2012/learn_art125_unit-8.html
 
@@ -456,7 +425,6 @@
 
   rewrite_rule: true
   action: archive
-  status: done
   archive_status: done
   archive_url: /archive/2012/learn_art125_unit-9.html
 
@@ -465,7 +433,6 @@
 
   rewrite_rule: true
   action: redirect
-  status: done
   archive_status: done
   archive_url: /archive/2012/art125_welcome.html
 
@@ -473,8 +440,6 @@
 - page: learn/t47
 
   rewrite_rule: true
-  action: redesign
-  status: done
   archive_status: done
   archive_url: /archive/2012/learn_t47.html
   redirect_url: /toki-pona/
@@ -483,8 +448,6 @@
 - page: learn/t47/dictionaries
 
   rewrite_rule: true
-  action: redesign
-  status: done
   archive_status: done
   archive_url: /archive/2012/learn_t47_dictionaries.html
   redirect_url: /toki-pona/dictionaries/
@@ -493,8 +456,6 @@
 - page: learn/t47/dictionaries/drawing_steps
 
   rewrite_rule: true
-  action: redesign
-  status: done
   archive_status: done
   archive_url: /archive/2012/learn_t47_dictionaries_drawing_steps.html
   redirect_url: /toki-pona/dictionaries/drawing-steps/
@@ -503,8 +464,6 @@
 - page: learn/t47/dictionaries/glyphs
 
   rewrite_rule: true
-  action: redesign
-  status: done
   archive_status: done
   archive_url: /archive/2012/learn_t47_dictionaries_glyphs.html
   redirect_url: /toki-pona/dictionaries/glyphs/
@@ -513,8 +472,6 @@
 - page: learn/t47/dictionaries/syllabary
 
   rewrite_rule: true
-  action: redesign
-  status: done
   archive_status: done
   archive_url: /archive/2012/learn_t47_dictionaries_syllabary.html
   redirect_url: /toki-pona/dictionaries/syllabary/
@@ -523,8 +480,6 @@
 - page: learn/t47/gallery
 
   rewrite_rule: true
-  action: redesign
-  status: done
   archive_status: done
   archive_url: /archive/2012/learn_t47_gallery.html
   redirect_url: /toki-pona/dictionaries/gallery/
@@ -533,8 +488,6 @@
 - page: learn/t47/lesson-1
 
   rewrite_rule: true
-  action: redesign
-  status: done
   archive_status: done
   archive_url: /archive/2012/learn_t47_lesson-1.html
   redirect_url: /toki-pona/lesson-1/
@@ -543,8 +496,6 @@
 - page: learn/t47/lesson-2
 
   rewrite_rule: true
-  action: redesign
-  status: done
   archive_status: done
   archive_url: /archive/2012/learn_t47_lesson-2.html
   redirect_url: /toki-pona/lesson-2/
@@ -553,8 +504,6 @@
 - page: learn/t47/lesson-3
 
   rewrite_rule: true
-  action: redesign
-  status: done
   archive_status: done
   archive_url: /archive/2012/learn_t47_lesson-3.html
   redirect_url: /toki-pona/lesson-3/
@@ -563,8 +512,6 @@
 - page: learn/t47/lesson-4
 
   rewrite_rule: true
-  action: redesign
-  status: done
   archive_status: done
   archive_url: /archive/2012/learn_t47_lesson-4.html
   redirect_url: /toki-pona/lesson-4/
@@ -573,8 +520,6 @@
 - page: learn/t47/lesson-4b
 
   rewrite_rule: true
-  action: redesign
-  status: done
   archive_status: done
   archive_url: /archive/2012/learn_t47_lesson-4b.html
   redirect_url: /toki-pona/lesson-4b/
@@ -583,8 +528,6 @@
 - page: learn/t47/lesson-5
 
   rewrite_rule: true
-  action: redesign
-  status: done
   archive_status: done
   archive_url: /archive/2012/learn_t47_lesson-5.html
   redirect_url: /toki-pona/lesson-5/
@@ -593,8 +536,6 @@
 - page: learn/t47/lesson-6
 
   rewrite_rule: true
-  action: redesign
-  status: done
   archive_status: done
   archive_url: /archive/2012/learn_t47_lesson-6.html
   redirect_url: /toki-pona/lesson-6/
@@ -603,8 +544,6 @@
 - page: learn/t47/lesson-7
 
   rewrite_rule: true
-  action: redesign
-  status: done
   archive_status: done
   archive_url: /archive/2012/learn_t47_lesson-7.html
   redirect_url: /toki-pona/lesson-7/
@@ -613,8 +552,6 @@
 - page: learn/t47/lesson-8
 
   rewrite_rule: true
-  action: redesign
-  status: done
   archive_status: done
   archive_url: /archive/2012/learn_t47_lesson-8.html
   redirect_url: /toki-pona/lesson-8/
@@ -623,8 +560,6 @@
 - page: learn/t47/lesson-9
 
   rewrite_rule: true
-  action: redesign
-  status: done
   archive_status: done
   archive_url: /archive/2012/learn_t47_lesson-9.html
   redirect_url: /toki-pona/lesson-9/
@@ -634,164 +569,12 @@
 
   rewrite_rule: true
   action: automate
-  status: done
   redirect_url: /links
-
-- page: links
-
-  rewrite_rule: false
-  action: collection
-  status: done
-
-
-- page: main-site-news/1189
-
-  action: ignore
-  status: removed
-
-
-- page: main-site-news/388
-
-  action: ignore
-  status: removed
-
-
-- page: main-site-news/391
-
-  action: ignore
-  status: removed
-
-
-- page: main-site-news/394
-
-  action: ignore
-  status: removed
-
-
-- page: main-site-news/399
-
-  action: ignore
-  status: removed
-
-
-- page: main-site-news/401
-
-  action: ignore
-  status: removed
-
-
-- page: main-site-news/403
-
-  action: ignore
-  status: removed
-
-
-- page: main-site-news/405
-
-  action: ignore
-  status: removed
-
-
-- page: main-site-news/new-site-launching
-
-  action: ignore
-  status: removed
-
-
-- page: main-site-news/status
-
-  action: ignore
-  status: removed
-
-
-- page: main-site-news/status-2
-
-  action: ignore
-  status: removed
-
-
-- page: media/digital
-
-  rewrite_rule: false
-  action: skip
-  status: done
-
-
-- page: media/electronic-equipment
-
-  rewrite_rule: false
-  action: skip
-  status: done
-
-
-- page: media/ink-on-paper
-
-  rewrite_rule: false
-  action: skip
-  status: done
-
-
-- page: media/organic-plants
-
-  rewrite_rule: false
-  action: skip
-  status: done
-
-
-- page: media/paper-pulp
-
-  rewrite_rule: false
-  action: skip
-  status: done
-
-
-- page: media/pencil-on-paper
-
-  rewrite_rule: false
-  action: skip
-  status: done
-
-
-- page: media/plastic-bins
-
-  rewrite_rule: false
-  action: skip
-  status: done
-
-
-- page: media/pumps
-
-  rewrite_rule: false
-  action: skip
-  status: done
-
-
-- page: media/synthetic-plants
-
-  rewrite_rule: false
-  action: skip
-  status: done
-
-
-- page: media/video
-
-  rewrite_rule: false
-  action: skip
-  status: done
-
-
-- page: media/water
-
-  rewrite_rule: false
-  action: skip
-  status: done
-
 
 - page: projects
 
   rewrite_rule: true
   action: archive
-  status: done
   archive_status: done
   archive_url: /archive/2012/projects.html
   redirect_url: /archive/2012/projects.html
@@ -801,7 +584,6 @@
 
   rewrite_rule: true
   action: archive
-  status: done
   archive_status: done
   archive_url: /archive/2012/projects_t29.html
   redirect_url: /archive/2012/projects_t29.html
@@ -811,7 +593,6 @@
 
   rewrite_rule: true
   action: archive
-  status: done
   archive_status: done
   archive_url: /archive/2012/projects_t47.html
   redirect_url: /archive/2012/projects_t47.html
@@ -821,7 +602,6 @@
 
   rewrite_rule: true
   action: redirect
-  status: done
   redirect_url: /archive/2012/learn_t47_dictionaries.html
 
 
@@ -829,7 +609,6 @@
 
   rewrite_rule: true
   action: redirect
-  status: done
   redirect_url: /archive/2012/learn_t47_dictionaries_glyphs.html
 
 
@@ -837,7 +616,6 @@
 
   rewrite_rule: true
   action: redirect
-  status: done
   redirect_url: /archive/2012/learn_t47_lesson-9.html
 
 
@@ -845,407 +623,12 @@
 
   rewrite_rule: true
   action: redirect
-  status: done
   redirect_url: /archive/2012/learn_t47_lessons_lesson-8.html
-
-- page: recent
-
-  rewrite_rule: false
-  action: ignore
-  status: done
 
 
 - page: t47/human-sequel
 
   rewrite_rule: true
-  action: redesign
-  status: done
   archive_status: done
   archive_url: /archive/2012/t47_human-sequel.html
   redirect_url: /2012/human-sequel/
-
-- page: tag/abstract-expressionism
-
-  rewrite_rule: true
-  action: automate
-  status: done
-
-
-- page: tag/abstraction
-
-  rewrite_rule: true
-  action: automate
-  status: done
-
-
-- page: tag/anarchist
-
-  rewrite_rule: true
-  action: automate
-  status: done
-
-
-- page: tag/black-mountain
-
-  rewrite_rule: true
-  action: automate
-  status: done
-
-
-- page: tag/clement-greenberg
-
-  rewrite_rule: true
-  action: automate
-  status: done
-
-
-- page: tag/color-field
-
-  rewrite_rule: true
-  action: automate
-  status: done
-
-
-- page: tag/communist
-
-  rewrite_rule: true
-  action: automate
-  status: done
-
-
-- page: tag/contemporary-art
-
-  rewrite_rule: true
-  action: automate
-  status: done
-
-
-- page: tag/drawing
-
-  rewrite_rule: true
-  action: automate
-  status: done
-
-
-- page: tag/dynamic
-
-  rewrite_rule: true
-  action: automate
-  status: done
-
-
-- page: tag/earth-art
-
-  rewrite_rule: true
-  action: automate
-  status: done
-
-
-- page: tag/environment
-
-  rewrite_rule: true
-  action: automate
-  status: done
-
-
-- page: tag/expressionism
-
-  rewrite_rule: true
-  action: automate
-  status: done
-
-
-- page: tag/fan-art
-
-  rewrite_rule: true
-  action: automate
-  status: done
-
-
-- page: tag/feminism
-
-  rewrite_rule: true
-  action: automate
-  status: done
-
-
-- page: tag/formalism
-
-  rewrite_rule: true
-  action: automate
-  status: done
-
-
-- page: tag/galleries
-
-  rewrite_rule: true
-  action: automate
-  status: done
-
-
-- page: tag/gilgamesh
-
-  rewrite_rule: true
-  action: automate
-  status: done
-
-
-- page: tag/human
-
-  rewrite_rule: true
-  action: automate
-  status: done
-
-
-- page: tag/japanese
-
-  rewrite_rule: true
-  action: automate
-  status: done
-
-
-- page: tag/jazz
-
-  rewrite_rule: true
-  action: automate
-  status: done
-
-
-- page: tag/language
-
-  rewrite_rule: true
-  action: automate
-  status: done
-
-
-- page: tag/mayan
-
-  rewrite_rule: true
-  action: automate
-  status: done
-
-
-- page: tag/metaphysical
-
-  rewrite_rule: true
-  action: automate
-  status: done
-
-
-- page: tag/minimalism
-
-  rewrite_rule: true
-  action: automate
-  status: done
-
-
-- page: tag/monumental
-
-  rewrite_rule: true
-  action: automate
-  status: done
-
-
-- page: tag/news
-
-  rewrite_rule: true
-  action: automate
-  status: done
-
-
-- page: tag/organic
-
-  rewrite_rule: true
-  action: automate
-  status: done
-
-
-- page: tag/ouroboros
-
-  rewrite_rule: true
-  action: automate
-  status: done
-
-
-- page: tag/painting
-
-  rewrite_rule: true
-  action: automate
-  status: done
-
-
-- page: tag/photography
-
-  rewrite_rule: true
-  action: automate
-  status: done
-
-
-- page: tag/pop
-
-  rewrite_rule: true
-  action: automate
-  status: done
-
-
-- page: tag/process
-
-  rewrite_rule: true
-  action: automate
-  status: done
-
-
-- page: tag/prosper
-
-  rewrite_rule: true
-  action: automate
-  status: done
-
-
-- page: tag/push-pull
-
-  rewrite_rule: true
-  action: automate
-  status: done
-
-
-- page: tag/sartre
-
-  rewrite_rule: true
-  action: automate
-  status: done
-
-
-- page: tag/scrolls
-
-  rewrite_rule: true
-  action: automate
-  status: done
-
-
-- page: tag/sculpture
-
-  rewrite_rule: true
-  action: automate
-  status: done
-
-
-- page: tag/sequel
-
-  rewrite_rule: true
-  action: automate
-  status: done
-
-
-- page: tag/sitelen
-
-  rewrite_rule: true
-  action: automate
-  status: done
-
-
-- page: tag/soak-and-stain
-
-  rewrite_rule: true
-  action: automate
-  status: done
-
-
-- page: tag/socialist
-
-  rewrite_rule: true
-  action: automate
-  status: done
-
-
-- page: tag/sublime
-
-  rewrite_rule: true
-  action: automate
-  status: done
-
-
-- page: tag/tanscendental
-
-  rewrite_rule: true
-  action: automate
-  status: done
-
-
-- page: tag/toki-pona
-
-  rewrite_rule: true
-  action: automate
-  status: done
-
-
-- page: tag/topics
-
-  rewrite_rule: true
-  action: automate
-  status: done
-
-
-- page: tag/update
-
-  rewrite_rule: true
-  action: automate
-  status: done
-
-
-- page: tag/venus-of-hohle-fels
-
-  rewrite_rule: true
-  action: automate
-  status: done
-
-
-- page: tag/wordpress
-
-  rewrite_rule: true
-  action: automate
-  status: done
-
-
-- page: tag/zero-point
-
-  rewrite_rule: true
-  action: automate
-  status: done
-
-
-- page: tag/zip
-
-  rewrite_rule: true
-  action: automate
-  status: done
-
-
-- page: year_made/2005
-
-  rewrite_rule: false
-  action: ignore
-  status: done
-
-
-- page: year_made/2009
-
-  rewrite_rule: false
-  action: ignore
-  status: done
-
-
-- page: year_made/2011
-
-  rewrite_rule: false
-  action: ignore
-  status: done
-
-
-- page: year_made/2012
-
-  rewrite_rule: false
-  action: ignore
-  status: done
-
-

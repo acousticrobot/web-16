@@ -3,10 +3,10 @@ layout: page
 title: The Natural World
 sitelen_lessons_index: 8
 index: false
-permalink: /toki-pona/sitelen/nature
+permalink: /toki-pona/nature
 
-url_previous: /toki-pona/sitelen/gender
-url_next: /toki-pona/sitelen/commands
+url_previous: /toki-pona/gender
+url_next: /toki-pona/commands
 
 vocabulary:
 - image: /images/t47_tokipona/nimi/t47_nimi_akesi.jpg

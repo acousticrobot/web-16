@@ -3,9 +3,9 @@ layout: page
 title: Numbers, Joining, and Separating
 sitelen_lessons_index: 22
 index: false
-permalink: /toki-pona/sitelen/numbers
+permalink: /toki-pona/numbers
 
-url_previous: /toki-pona/sitelen/body
+url_previous: /toki-pona/body
 
 vocabulary:
 - image: /images/t47_tokipona/nimi/t47_nimi_ala.jpg

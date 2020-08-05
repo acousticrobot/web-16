@@ -2,10 +2,10 @@
 layout: page
 title: Modifiers
 sitelen_lessons_index: 6
-permalink: /toki-pona/sitelen/modifiers
+permalink: /toki-pona/modifiers
 
-url_previous: /toki-pona/sitelen/block-order
-url_next: /toki-pona/sitelen/gender
+url_previous: /toki-pona/block-order
+url_next: /toki-pona/gender
 
 vocabulary:
 - image: /images/t47_tokipona/nimi/t47_nimi_ike.jpg

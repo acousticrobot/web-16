@@ -3,10 +3,10 @@ layout: page
 title: The Body
 sitelen_lessons_index: 21
 index: false
-permalink: /toki-pona/sitelen/body
+permalink: /toki-pona/body
 
-url_previous: /toki-pona/sitelen/art
-url_next: /toki-pona/sitelen/numbers
+url_previous: /toki-pona/art
+url_next: /toki-pona/numbers
 
 vocabulary:
 - image: /images/t47_tokipona/nimi/t47_nimi_ko.jpg
@@ -39,3 +39,5 @@ vocabulary:
 
 
 {% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso07_11.jpg" caption="jan lili li tan unpa." %}
+
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso04_08.jpg" caption="sina wile unpa." %}

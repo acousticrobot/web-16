@@ -2,11 +2,11 @@
 layout: page
 title: Gender, Negation, Other, and Every
 sitelen_lessons_index: 7
-permalink: /toki-pona/sitelen/gender
+permalink: /toki-pona/gender
 
-url_previous: /toki-pona/sitelen/modifiers
-# url_next: /toki-pona/sitelen/nature
-url_next: /toki-pona/sitelen/commands
+url_previous: /toki-pona/modifiers
+# url_next: /toki-pona/nature
+url_next: /toki-pona/commands
 
 vocabulary:
 - image: /images/t47_tokipona/nimi/t47_nimi_ala.jpg
@@ -95,7 +95,7 @@ There are two things to note when working with _sin_, one of which you may have 
 
 Take note again of the two variations of _i_ within the glyphs above, and remember that the syllabary presents the simplified version, but both are used interchangeably in the glyph as well as the syllable. Your choice will most likely be determined by how small of a space you are trying to fit it into.
 
-The other thing to note about _sin_ is that it can naturally take on a rectangular proportion, something that we referred to as a short or thin block in [modifiers](/toki-pona/modifiers/). As _sin_ is often used as a modifier, you will find comes in quite handy.
+The other thing to note about _sin_ is that it can naturally take on a rectangular proportion, something that we referred to as a short or thin block in [modifiers](/toki-pona/modifiers). As _sin_ is often used as a modifier, you will find comes in quite handy.
 
 {% include image_and_caption.html image="/images/t47_tokipona/kamasona/gender/x.jpg" caption="seme li lon insa poki sin?" %}
 {% include image_and_caption.html image="/images/t47_tokipona/kamasona/gender/x.jpg" caption="jan sin li seme?" %}

@@ -2,10 +2,10 @@
 layout: page
 title: Prepositions Part 2
 sitelen_lessons_index: 12
-permalink: /toki-pona/sitelen/prepositions-2
+permalink: /toki-pona/prepositions-2
 
-url_previous: /toki-pona/sitelen/prepositions-1
-url_next: /toki-pona/sitelen/questions-1
+url_previous: /toki-pona/prepositions-1
+url_next: /toki-pona/questions-1
 
 vocabulary:
 - image: "/images/t47_tokipona/nimi/t47_nimi_anpa.jpg"

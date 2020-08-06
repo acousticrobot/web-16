@@ -69,7 +69,7 @@ The only time you may find a single glyph innside of pi is with the _li pi_ form
 
 Using _ala_ within _pi_ to express _the opposite of_ also works as you would expect:
 
-{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso11_12.jpg" caption="jan lawa pi kulupu jan utala li jan pi lape ala." %}
+{% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso11_12.jpg" caption="jan lawa pi kulupu utala li jan pi lape ala." %}
 {% include image_and_caption.html image="/images/t47_tokipona/t47_kamasona/t47_kaso11_13.jpg" caption="jan pi tomo ala li tawa mute." %}
 
 ### more than one pi

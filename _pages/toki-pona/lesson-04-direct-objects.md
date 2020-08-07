@@ -33,13 +33,13 @@ vocabulary_row_2:
   text: sitelen
 toki_pona_tests:
 - image: /images/t47_tokipona/kamasona/direct_objects/misoneijo.jpg
-  text: mi sona e ijo. - I know the thing, I know something
+  text: mi sona e ijo.
 - image: /images/t47_tokipona/kamasona/direct_objects/x.jpg
-  text: telo li suli li pona. - Water is important and good.
+  text: telo li suli li pona.
 - image: /images/t47_tokipona/kamasona/direct_objects/x.jpg
-  text: sewi li pana e sona. - The gods gives knowledge.
+  text: sewi li pana e sona.
 - image: /images/t47_tokipona/kamasona/direct_objects/x.jpg
-  text: ma li jo e telo e suno. - The land has water and sunshine.
+  text: ma li jo e telo e suno.
 english_tests:
 - image: /images/t47_tokipona/kamasona/direct_objects/misoneijo.jpg
   text: I know the thing, I know something
@@ -119,8 +119,6 @@ One good example of the four block structure is a sentence with two direct objec
 ### columns and rows
 
 Now that our sentences are getting longer, we’ve started to talk about block structure in terms of columns and rows.  If this is still a little confusing to visualize, don’t worry.  In the next lesson we will look more closely at how this works.
-
-### test your comprehension
 
 ### test your comprehension
 

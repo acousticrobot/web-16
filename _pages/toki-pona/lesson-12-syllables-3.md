@@ -6,26 +6,64 @@ permalink: /toki-pona/syllables-3
 
 url_previous: /toki-pona/la
 # url_next: /toki-pona/conjunctions
+
+syllable_names:
+- image: /images/t47_tokipona/kamasona/syllables/sonja.jpg
+  text: sonja
+- image: /images/t47_tokipona/kamasona/syllables/akanisa.jpg
+  text: akanisa
+- image: /images/t47_tokipona/kamasona/syllables/intenasijonale.jpg
+  text: intenasijonale
+- image: /images/t47_tokipona/kamasona/syllables/nujoka.jpg
+  text: nujoka
+cartouche_names:
+- image: /images/t47_tokipona/kamasona/syllables/csonja.jpg
+  text: Sonja
+- image: /images/t47_tokipona/kamasona/syllables/cakanisa.jpg
+  text: Akanisa
+- image: /images/t47_tokipona/kamasona/syllables/cintenasijonale.jpg
+  text: Intenasijonale
+- image: /images/t47_tokipona/kamasona/syllables/cnujoka.jpg
+  text: Nujoka
+head_names:
+- image: /images/t47_tokipona/kamasona/syllables/jansonja.jpg
+  text: jan Sonja
+- image: /images/t47_tokipona/kamasona/syllables/maakanisa.jpg
+  text: ma Akanisa
+- image: /images/t47_tokipona/kamasona/syllables/tokisuliintenasijonale.jpg
+  text: toki suli Intenasijonale
+- image: /images/t47_tokipona/kamasona/syllables/matomonujoka.jpg
+  text: ma tomo Nujoka
+jan_cartouche:
+- image: /images/t47_tokipona/kamasona/syllables/jcansonja.jpg
+  text: jan Sonja
+- image: /images/t47_tokipona/kamasona/syllables/jcanote.jpg
+  text: jan Ote
+- image: /images/t47_tokipona/kamasona/syllables/jcantoni.jpg
+  text: jan Toni
 ---
 
 ### unofficial words
 
-In [Combining Syllables](/toki-pona/syllables-2) we learned how to write out the syllable glyphs. Take a look at this lesson again is you need a refresher.  These are the glyphs we use to spell out unofficial words that have been "tokiponized".
+Right at the beginning of the course in Syllables [part 1](/toki-pona/syllables-1) and [part 2](/toki-pona/syllables-2) we learned how to write out the syllable glyphs. Take a look at this lesson again is you need a refresher.
 
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso09_02.jpg" caption="akanisa" %}
+Now that we know more about block order, let's review proper names with longer syllable strings:
 
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso09_04.jpg" caption="intenasijonale" %}
+{% include image_dictionary.html definitions=page.syllable_names %}
 
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso09_03.jpg" caption="nujoka" %}
+infixed in a cartouche:
 
-They are infixed in a cartouche with a head noun:
+{% include image_dictionary.html definitions=page.cartouche_names %}
 
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso09_10.jpg" caption="ma Akanisa" %}
+and complete with a head noun:
 
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso09_12.jpg" caption="toki suli Intenasijonale" %}
+{% include image_dictionary.html definitions=page.head_names %}
 
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso09_11.jpg" caption="ma tomo Nujoka" %}
+#### jan as a container
 
+By far the most common head noun is _jan_, as everyone's proper name is presented this way.  Luckily we have one simplification available to us, as _jan_ can combine with the cartouche and act as a container in itself:
+
+{% include image_dictionary.html definitions=page.jan_cartouche %}
 
 ### organizing syllable glyphs
 

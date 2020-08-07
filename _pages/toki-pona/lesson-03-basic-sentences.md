@@ -35,8 +35,8 @@ vocabulary:
 - image: "/images/t47_tokipona/nimi/t47_nmpi_exclamation2.jpg"
   text: exclamation
 toki_pona_tests:
-- image: /images/t47_tokipona/kamasona/basic/onlipona.jpg
-  text: ona li pona.
+- image: /images/t47_tokipona/kamasona/basic/onalipona.jpg
+  text: ona li pona!
 - image: /images/t47_tokipona/kamasona/basic/nilisuli.jpg
   text: ni li suli.
 - image: /images/t47_tokipona/kamasona/basic/janlimoku.jpg

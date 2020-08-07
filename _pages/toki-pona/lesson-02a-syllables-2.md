@@ -48,13 +48,45 @@ syllable_words:
   text: sin
 - image: /images/t47_tokipona/kalalili/t47_kalalili_tan.jpg
   text: tan
+capsule_words:
+- image: /images/t47_tokipona/kamasona/syllables/nimilon.jpg
+  text: "nimi 'lon'"
+- image: /images/t47_tokipona/kamasona/syllables/nimisewi.jpg
+  text: "nimi 'sewi'"
+syllable_names:
+- image: /images/t47_tokipona/kamasona/syllables/sonja_tall.jpg
+  text: sonja
+- image: /images/t47_tokipona/kamasona/syllables/tosi.jpg
+  text: tosi
+- image: /images/t47_tokipona/kamasona/syllables/apolo.jpg
+  text: apolo
+- image: /images/t47_tokipona/kamasona/syllables/kowala.jpg
+  text: kowala
+cartouche_names:
+- image: /images/t47_tokipona/kamasona/syllables/csonja_tall.jpg
+  text: Sonja
+- image: /images/t47_tokipona/kamasona/syllables/ctosi.jpg
+  text: Tosi
+- image: /images/t47_tokipona/kamasona/syllables/capolo.jpg
+  text: Apolo
+- image: /images/t47_tokipona/kamasona/syllables/ckowala.jpg
+  text: Kowala
+head_names:
+- image: /images/t47_tokipona/kamasona/syllables/jansonja_tall.jpg
+  text: jan Sonja
+- image: /images/t47_tokipona/kamasona/syllables/matosi.jpg
+  text: ma Tosi
+- image: /images/t47_tokipona/kamasona/syllables/sewiapolo.jpg
+  text: sewi Apolo
+- image: /images/t47_tokipona/kamasona/syllables/sowelikowala.jpg
+  text: soweli Kowala
 toki_pona_tests:
 - image: /images/t47_tokipona/kamasona/syllables/mipona.jpg
   text: mi pona
 - image: /images/t47_tokipona/kamasona/syllables/niminimi.jpg
-  text: nimi 'nimi' - (the word 'nimi')
-- image: /images/t47_tokipona/kamasona/syllables/janote.jpg
-  text: jan Ote
+  text: nimi 'nimi'
+- image: /images/t47_tokipona/kamasona/syllables/janjosan.jpg
+  text: jan Josan
 ---
 
 {% include image_dictionary.html definitions=page.vocabulary %}
@@ -90,42 +122,30 @@ It comes in most handy if you ever want to use a toki pona words outside of pu, 
 
 It is also useful if you want to talk _about_ a word. In toki pona we might put the word in quotes or italics: _mi toki e nimi 'lon'_. Here we can use the capsule with _nimi_ to emphasize that we are talking about the word:
 
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/syllables/nimilon.jpg" caption="nimi 'lon'" %}
-
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/syllables/nimisewi.jpg" caption="nimi 'sewi'" %}
+{% include image_dictionary.html definitions=page.capsule_words %}
 
 ### unofficial words with a head noun
 
 The most common use of syllables is when we need to create unofficial loan words and proper names.
 
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/syllables/sonja.jpg" caption="sonja" %}
-
-tosi
-apolo
-kowala
+{% include image_dictionary.html definitions=page.syllable_names %}
 
 #### cartouche
 
 toki pona uses capital letters to distinguish these foreign words, here we infix the glyphs in a cartouche. It is similar to the capsule above, but it used for foreign words only.
 
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/syllables/c_sonja.jpg" caption="Sonja" %}
-
-Tosi
-Apolo
-Kowala
+{% include image_dictionary.html definitions=page.cartouche_names %}
 
 #### head noun
 
 Since all unofficial words need to modify a noun, this will often rest on top of the cartouche.
 
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/syllables/jansonja.jpg" caption="jan Sonja" %}
-
-ma Tosi
-sewi Apolo
-soweli Kowala
+{% include image_dictionary.html definitions=page.head_names %}
 
 ### test your comprehension
 
 #### translate into toki pona (hover or tab through to reveal the answer)
 
 {% include image_dictionary.html definitions=page.toki_pona_tests reveal_text='true' %}
+
+That last one is my toki pona name, if you are looking for me on any social sites.

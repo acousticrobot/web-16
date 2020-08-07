@@ -251,7 +251,7 @@ supplimental_definitions:
   text: kin
 - image: "/images/t47_tokipona/nimi/t47_nimi_kipisi.jpg"
   text: kipisi
-- image: "/images/t47_tokipona/nimi/t47_nimi_mama.jpg"
+- image: "/images/t47_tokipona/nimi/t47_nimi_mama_old.jpg"
   text: mama (old)
 - image: "/images/t47_tokipona/nimi/t47_nimi_namako.jpg"
   text: namako

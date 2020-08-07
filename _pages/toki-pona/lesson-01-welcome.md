@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Welcome - o kama pona
+title: Welcome - kama pona
 sitelen_lessons_index: 0
-permalink: /toki-pona/o-kama-pona
+permalink: /toki-pona/kama-pona
 
 url_next: /toki-pona/syllables-1
 ---

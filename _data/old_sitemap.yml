@@ -1,6 +1,6 @@
 - page: /toki-pona/lesson-1/
   rewrite_rule: true
-  redirect_url: /toki-pona/o-kama-pona
+  redirect_url: /toki-pona/kama-pona
 - page: /toki-pona/lesson-2/
   rewrite_rule: true
   redirect_url: /toki-pona/syllables-1

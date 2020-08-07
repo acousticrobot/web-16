@@ -7,10 +7,11 @@ tags:
 - toki pona
 - sitelen pi jan ante
 images:
+- image: /images/t47_tokipona/jan_ante/soweliLuwi/tawa.png
 - image: /images/t47_tokipona/jan_ante/soweliLuwi/akesi.png
+- image: /images/t47_tokipona/jan_ante/soweliLuwi/ken.png
 - image: /images/t47_tokipona/jan_ante/soweliLuwi/musi.png
 - image: /images/t47_tokipona/jan_ante/soweliLuwi/pona.png
-- image: /images/t47_tokipona/jan_ante/soweliLuwi/tawa.png
 ---
 
 soweli Luwi (Loey) li pana e sitelen musi mute.  ona li tan sitelen sitelen, li lukin sama meli. mi awen e sitelen lon lipu ni. soweli Lewi li pana sin la, mi pana kin.

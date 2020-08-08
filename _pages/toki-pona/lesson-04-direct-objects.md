@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Direct Objects, Compound Sentences
+title: Direct Objects and Multiple Actions
 sitelen_lessons_index: 4
 permalink: /toki-pona/direct-objects
 
@@ -55,21 +55,42 @@ english_tests:
 {% include image_dictionary.html definitions=page.vocabulary_row_1 %}
 {% include image_dictionary.html definitions=page.vocabulary_row_2 %}
 
+### The grammar in this lesson
+
+_This grammar in this lesson is covered by chapter 5 in [pu](https://www.amazon.com/dp/B012M1RLXS), lesson 3 in [Pije](http://tokipona.net/tp/janpije/okamasona.php), and pages 3-4 in [Lantan](https://rnd.neocities.org/tokipona/)._
+
+#### grammar review
+
+In the last lesson we saw a single word operating as the predicate.  In this lesson we examine two ways that the predicate can expand. It can offer an object to receive the action, or it can include more than one action.
+
+To introduce a direct object, toki pona uses _e_.  Everything between _li_ and _e_ describes an action the subject is taking, and everything after _e_ describes what is being acted upon.
+
+  * __jan li moku e kili.__ - _[subject] li [action] e [object]._ - The person eats fruit.
+
+If there is more than one object, each one is preceded by _e_:
+
+  * __jan li moku e kili e telo.__ - _[subject] li [action] e [object] e [object]._ - The person consumes fruit and water.
+
+We can also describe more that one [action/quality/state of being] if each one is preceded by _li_
+
+  * __jan li toki li sitelen.__ - _[subject] li [action] li [action]._  - The person talks and writes.
+  * __telo li suli li pona.__ - _[subject] li [quality] li [quality]._  - Water is important and good.
+
 ### direct objects using e
 
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/direct_objects/mimokuekili.jpg" caption="mi moku e kili." %}
+In the last lesson, we saw how _li_ works as a container for the predicate in a basic sentence. When there is a direct object, the particle _e_ forms a second container for the object:
 
-In lesson three, we saw how li works as a container for the verb. The separator e works in the same way, by forming a container for the direct object.
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/direct_objects/mimokuekili.jpg" caption="mi moku e kili." %}
 
 {% include image_and_caption.html image="/images/t47_tokipona/kamasona/direct_objects/onlilukinepoki.jpg" caption="ona li lukin e poki." %}
 
 #### three block structure
 
-We are now looking at sentences with a subject, verb, and direct object. This translates into 3 glyph blocks:
+We are now looking at sentences with a subject, action, and an object. This translates into 3 glyph blocks:
 
   * [S] subject
-  * [V] verb (infixed in 'li' if the subject is not mi or sina)
-  * [DO] direct object infixed in e.
+  * [A] action (infixed in 'li' if the subject is not mi or sina)
+  * [O] object infixed in e.
 
 Remember how we move down and to the right? We also want to keep each sentence as compact as possible, not strung out in a long line. Here are two useful arrangements for a three-block sentence:
 
@@ -83,7 +104,7 @@ Notice how in both cases, one of the blocks is larger in size? This keeps the se
 
 {% include image_and_caption.html image="/images/t47_tokipona/kamasona/direct_objects/onaliponaeijo.jpg" caption="ona li pona e ijo." %}
 
-When deciding how to lay out your sentences, the important thing to consider is information density. Make sure you don't end up cramming a bunch of information into a small space. That's why we wouldn't choose to have a large S block, followed by small V and DO blocks.
+When deciding how to lay out your sentences, the important thing to consider is information density. Make sure you don't end up cramming a bunch of information into a small space. That's why we wouldn't choose to have a large S block, followed by small A and O blocks.
 
 {% include image_and_caption.html image="/images/t47_tokipona/kamasona/direct_objects/sinajoeilo.jpg" caption="sina jo e ilo." %}
 
@@ -91,11 +112,11 @@ When deciding how to lay out your sentences, the important thing to consider is 
 
 {% include image_and_caption.html image="/images/t47_tokipona/kamasona/direct_objects/janlilulisit.jpg" caption="jan li toki li sitelen" %}
 
-Now we can really see how this script treats language as spatial, rather than linear. In this respect, long compound sentences can prove an organizational challenge, since a string of verbs or direct objects is naturally linear.
+Now we can really see how sitelen sitelen treats language as spatial, rather than linear. In this respect, long compound sentences can prove an organizational challenge, since a string of actions or objects separated by _li_ or _e_ become atomic blocks that must be arranged in space.
 
 {% include image_and_caption.html image="/images/t47_tokipona/kamasona/direct_objects/mipalilisona.jpg" caption="mi pali li sona" %}
 
-A grouping of a couple verbs or direct objects, however, can still be managed quite easily. In a sentence with two verbs, the three block structure from above will still work.
+A grouping of a couple actions or objects, however, can still be managed quite easily. In a sentence with two actions, the three block structure from above will still work.
 
 #### four equal sized blocks
 
@@ -107,10 +128,12 @@ Sometimes the best organization is four blocks of equal size. To avoid ambiguity
 
 One good example of the four block structure is a sentence with two direct objects. They naturally fall into four components:
 
-  * Subject block
-  * Verb block
-  * Direct object 1
-  * Direct object 2
+  * [S] Subject block
+  * [A] Action block
+  * [O] e + Object 1
+  * [O] e + Object 2
+
+By running down the columns, the subject with rest on top of the action, and the objects will stack to the right:
 
 {% include image_and_caption.html image="/images/t47_tokipona/kamasona/direct_objects/mimoemoete.jpg" caption="mi moku e moku e telo." %}
 
@@ -118,7 +141,7 @@ One good example of the four block structure is a sentence with two direct objec
 
 ### columns and rows
 
-Now that our sentences are getting longer, we’ve started to talk about block structure in terms of columns and rows.  If this is still a little confusing to visualize, don’t worry.  In the next lesson we will look more closely at how this works.
+Now that our sentences are getting longer, we’ve started to talk about block structure in terms of columns and rows.  If this is still a little confusing to visualize, don’t worry.  In the next lesson we will focus on how this works.
 
 ### test your comprehension
 

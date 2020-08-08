@@ -17,7 +17,7 @@ Many others have written better than I could about the language, it's history an
 
 #### learning courses
 
-If you know you want to learn toki pona, [Toki Pona The Language of Good](https://www.amazon.com/dp/B012M1RLXS?tag=duckduckgo-exp-b-20&linkCode=osi&th=1&psc=1), the official toki pona book, is a must own.  The examples are simple, easy to understand, and used as a standard to judge all other resources by.
+If you know you want to learn toki pona, [Toki Pona The Language of Good](https://www.amazon.com/dp/B012M1RLXS), the official toki pona book, is a must own.  The examples are simple, easy to understand, and used as a standard to judge all other resources by.
 
 There are a number of lessons on line as well, each with it's own advantages.
 

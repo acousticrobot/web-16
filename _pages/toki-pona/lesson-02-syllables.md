@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Syllables Part 1
+title: 'Syllables Part 1: Introducing syllable glyphs'
 sitelen_lessons_index: 1
 permalink: /toki-pona/syllables-1
 

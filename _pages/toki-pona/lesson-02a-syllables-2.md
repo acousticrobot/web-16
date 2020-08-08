@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Syllables Part 2: Combinig Syllables'
+title: 'Syllables Part 2: Combining Syllables and Writing Names'
 sitelen_lessons_index: 2
 permalink: /toki-pona/syllables-2
 
@@ -24,8 +24,6 @@ punctuation:
 - image: /images/t47_tokipona/nimi/t47_nmpi_capsule.jpg
   text: capsule
 syllable_words:
-- image: /images/t47_tokipona/kalalili/t47_kalalili_a.jpg
-  text: a
 - image: /images/t47_tokipona/kalalili/t47_kalalili_jan.jpg
   text: jan
 - image: /images/t47_tokipona/kalalili/t47_kalalili_ko.jpg
@@ -36,18 +34,20 @@ syllable_words:
   text: len
 - image: /images/t47_tokipona/kalalili/t47_kalalili_ma.jpg
   text: ma
+- image: /images/t47_tokipona/kalalili/t47_kalalili_a.jpg
+  text: a
 - image: /images/t47_tokipona/kalalili/t47_kalalili_mi.jpg
   text: mi
 - image: /images/t47_tokipona/kalalili/t47_kalalili_ni.jpg
   text: ni
-- image: /images/t47_tokipona/kalalili/t47_kalalili_mun.jpg
-  text: mun
 - image: /images/t47_tokipona/kalalili/t47_kalalili_o.jpg
   text: o
 - image: /images/t47_tokipona/kalalili/t47_kalalili_sin.jpg
   text: sin
 - image: /images/t47_tokipona/kalalili/t47_kalalili_tan.jpg
   text: tan
+- image: /images/t47_tokipona/kalalili/t47_kalalili_mun.jpg
+  text: mun
 capsule_words:
 - image: /images/t47_tokipona/kamasona/syllables/nimilon.jpg
   text: "nimi 'lon'"
@@ -94,9 +94,11 @@ toki_pona_tests:
 
 ### using the syllabary to write words and names
 
-We are going to come back to syllables again, so if you would rather get started with the glyph blocks, feel free to skip or skim this unit for now.  The only reason I'm putting it here is so that you can learn how to write your own name.
+We are going to come back to syllables again, so if you would rather get started with the glyph blocks, feel free to skip or skim this unit for now.  The reason I'm putting it here is because you are really close to being able to write your own name.
 
-As you look though the syllabary, you will see several syllables that are toki pona words by themselves. Here are a few, see if you can figure out which words they are (click on a spoiler box or tab through to reveal the answers):
+#### single syllable words
+
+As you look though the syllabary, you will see several syllables that are toki pona words by themselves. Here are a few, see if you can figure out which words they are (hover over a spoiler box or click and tab through to reveal the answers):
 
 {% include image_dictionary.html definitions=page.syllable_words reveal_text='true' %}
 
@@ -116,17 +118,17 @@ Since this is a non-linear writing, we can't just rely on space between syllable
 
 {% include image_and_caption.html image="/images/t47_tokipona/kamasona/syllables/tokipona.jpg" caption="toki pona" %}
 
-It comes in most handy if you ever want to use a toki pona words outside of pu, one that don't have a unique glyph block
+It comes in most handy if you ever want to use a toki pona words outside of pu, one that doesn't have a unique glyph block
 
 {% include image_and_caption.html image="/images/t47_tokipona/kamasona/syllables/leko.jpg" caption="leko" %}
 
-It is also useful if you want to talk _about_ a word. In toki pona we might put the word in quotes or italics: _mi toki e nimi 'lon'_. Here we can use the capsule with _nimi_ to emphasize that we are talking about the word:
+It is also useful if you want to talk _about_ a word. If you ever might put a word in quotes or italics: _mi toki e nimi 'lon'_, you can use the capsule with _nimi_ to place emphasis in the same way:
 
 {% include image_dictionary.html definitions=page.capsule_words %}
 
 ### unofficial words with a head noun
 
-The most common use of syllables is when we need to create unofficial loan words and proper names.
+The most common use of syllables is when we need to create unofficial loan words or proper name.
 
 {% include image_dictionary.html definitions=page.syllable_names %}
 
@@ -148,4 +150,4 @@ Since all unofficial words need to modify a noun, this will often rest on top of
 
 {% include image_dictionary.html definitions=page.toki_pona_tests reveal_text='true' %}
 
-That last one is my toki pona name, if you are looking for me on any social sites.
+(That last one is me, if you are looking for me anywhere I might be found by my toki pona name.)

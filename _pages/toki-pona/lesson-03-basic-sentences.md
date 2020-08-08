@@ -55,35 +55,34 @@ english_tests:
 
 {% include image_dictionary.html definitions=page.vocabulary %}
 
-### The grammar in this lesson
-
-_This grammar in this lesson is covered by chapters 2-5 in [pu](https://www.amazon.com/dp/B012M1RLXS), lesson 3 in [Pije](http://tokipona.net/tp/janpije/okamasona.php), and pages 1-3 in [Lantan](https://rnd.neocities.org/tokipona/)._
-
-#### grammar review
-
-The most simple sentences in toki pona consist of two words. The first word is the subject _mi_ or _sina_. The second word is the entire predicate. It describes something about the subject, and can function as a verb, adjective, or noun.
-
-There are a lot of sentences in toki pona where what we call the verb in English is ambiguous or absent entirely. To say 'you are big' in toki pona, _sina suli_, there is no 'are'. It may be better to think of this second word as an action, quality, or state of being.
-
-Here are examples of each of these types of sentences:
-
-  * __mi moku.__ - _[subject][action]._ - I eat.
-  * __sina pona.__ - _[subject][quality]._ - You are good.
-  * __mi jan.__ - _[subject][state of being]._ - I am a person.
-
-Most of these simple predicates can operate in more than one of these capacities, changing the meaning of the sentence. Only context and common sense can be used to determine the most likely meaning:
-
-  * __sina moku__ - _[subject][action]_ - You eat.
-  * __sina moku__ - _[subject][quality]_ - You are like food.
-  * __sina moku__ - _[subject][state of being]_ - You are food.
-
-When the subject is anything other than _mi_ or _sina_, _li_ separates the subject from the predicate.
-
-* [subject] li [verb]: jan li moku - the person eats.
-* [subject] li [noun]: ona li jan - he/she is a person / they are people.
-* [subject] li [verb]: telo li pona - water is good.
-
-When you see a sentence like _ona li jan_, do not think of _li_ as meaning _is_.  Think of it as a marker that indicates the end of defining the subject, and the beginning of describing something about that subject.
+{:.grammar}
+> ### grammar review
+>
+>_The grammar in this lesson is covered by chapters 2-5 in [pu](https://www.amazon.com/dp/B012M1RLXS), lesson 3 in [Pije](http://tokipona.net/tp/janpije/okamasona.php), and pages 1-3 in [Lantan](https://rnd.neocities.org/tokipona/)._
+>
+>Basic sentences in toki pona consist of two words. The first word is the subject _mi_ or _sina_. The second word is the entire predicate. It describes something about the subject, and can function as a verb, adjective, or noun.
+>
+>There are a lot of sentences in toki pona where what we call the verb in English is ambiguous or absent entirely. To say 'you are big' in toki pona, _sina suli_, there is no 'are'. It may be better to think of this second word as an action, quality, or state of being.
+>
+>Here are examples of each of these types of sentences:
+>
+>* __mi moku.__ - _[subject][action]._ - I eat.
+>* __sina pona.__ - _[subject][quality]._ - You are good.
+ >* __mi jan.__ - _[subject][state of being]._ - I am a person.
+>
+>Most of these simple predicates can operate in more than one of these capacities, changing the meaning of the sentence. Only context and common sense can be used to determine the most likely meaning:
+>
+>* __sina moku__ - _[subject][action]_ - You eat.
+>* __sina moku__ - _[subject][quality]_ - You are like food.
+ >* __sina moku__ - _[subject][state of being]_ - You are food.
+>
+>When the subject is anything other than _mi_ or _sina_, the particle _li_ separates the subject from the predicate.
+>
+>* __jan li moku__ - _[subject] li [verb]_ - the person eats.
+>* __ona li jan__ - _[subject] li [noun]_ - he/she is a person / they are people.
+>* __telo li pona__ - _[subject] li [verb]_ - water is good.
+>
+>When you see a sentence like _ona li jan_, do not think of _li_ as meaning _is_.  Think of it as a marker that indicates the end of the subject, and the beginning of something about that subject.
 
 ### sentences with mi or sina as the subject
 

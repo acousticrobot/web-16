@@ -75,6 +75,25 @@ ma_ike_jaki_ni_2:
 
 {% include image_dictionary.html definitions=page.vocabulary %}
 
+{:.grammar}
+>### grammar review
+>_The grammar in this lesson is covered by chapter 3 and 6 in [pu](https://www.amazon.com/dp/B012M1RLXS), lesson 5 in [Pije](http://tokipona.net/tp/janpije/okamasona.php), and page 2 in [Lantan](https://rnd.neocities.org/tokipona/)._
+>
+> Content words, or words that aren't particles like _li_ and _e_, can have their meaning altered by a word that come after them.  We can think of the first word as the head, and following word as the modifier.
+>
+>* __kili jaki__ - _[head][modifier]_ : _vegetable(s)<-dirty_ - dirty vegetable(s).
+>
+> More than one modifier can be chained together, with each modifying the meaning that came before.
+>
+>* __kili jaki mute__ - _[head][modifier][modifier]_ : _dirty vegetable(s)<-many_ - many dirty vegetables.
+>
+> So far we have seen single words act as a subject, action/quality/state, and object. They all can be modified.
+>
+>* __jan mute li telo e kili jaki.__ - many people wash the dirty vegetables.
+>* __jan li telo mute e kili jaki.__ - the people thoroughly wash the dirty vegetables.
+>* __jan li telo e kili jaki mute.__ - the people wash may dirty vegetables.
+>
+
 ### compound nouns
 
 If you feel you are starting to understand how to stack your glyph blocks, adding modifiers shouldn't be too hard. Let's look at jan Pije's example, building up to _this good soldier_.

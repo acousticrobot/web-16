@@ -55,26 +55,24 @@ english_tests:
 {% include image_dictionary.html definitions=page.vocabulary_row_1 %}
 {% include image_dictionary.html definitions=page.vocabulary_row_2 %}
 
-### The grammar in this lesson
-
-_This grammar in this lesson is covered by chapter 5 in [pu](https://www.amazon.com/dp/B012M1RLXS), lesson 3 in [Pije](http://tokipona.net/tp/janpije/okamasona.php), and pages 3-4 in [Lantan](https://rnd.neocities.org/tokipona/)._
-
-#### grammar review
-
-In the last lesson we saw a single word operating as the predicate.  In this lesson we examine two ways that the predicate can expand. It can offer an object to receive the action, or it can include more than one action.
-
-To introduce a direct object, toki pona uses _e_.  Everything between _li_ and _e_ describes an action the subject is taking, and everything after _e_ describes what is being acted upon.
-
-  * __jan li moku e kili.__ - _[subject] li [action] e [object]._ - The person eats fruit.
-
-If there is more than one object, each one is preceded by _e_:
-
-  * __jan li moku e kili e telo.__ - _[subject] li [action] e [object] e [object]._ - The person consumes fruit and water.
-
-We can also describe more that one [action/quality/state of being] if each one is preceded by _li_
-
-  * __jan li toki li sitelen.__ - _[subject] li [action] li [action]._  - The person talks and writes.
-  * __telo li suli li pona.__ - _[subject] li [quality] li [quality]._  - Water is important and good.
+{:.grammar}
+>### grammar review
+>_The grammar in this lesson is covered by chapter 5 in [pu](https://www.amazon.com/dp/B012M1RLXS), lesson 3 in [Pije](http://tokipona.net/tp/janpije/okamasona.php), and pages 3-4 in [Lantan](https://rnd.neocities.org/tokipona/)._
+>
+>In the last lesson we saw a single word operating as the predicate.  In this lesson we examine two ways that the predicate can expand. It can offer an object to receive the action, or it can include more than one action.
+>
+>To introduce a direct object, toki pona uses _e_.  Everything between _li_ and _e_ describes an action the subject is taking, and everything after _e_ describes what is being acted upon.
+>
+>* __jan li moku e kili.__ - _[subject] li [action] e [object]._ - The person eats fruit.
+>
+>If there is more than one object, each one is preceded by _e_:
+>
+>* __jan li moku e kili e telo.__ - _[subject] li [action] e [object] e [object]._ - The person consumes fruit and water.
+>
+>We can also describe more that one [action/quality/state of being] if each one is preceded by _li_
+>
+>* __jan li toki li sitelen.__ - _[subject] li [action] li [action]._  - The person talks and writes.
+>* __telo li suli li pona.__ - _[subject] li [quality] li [quality]._  - Water is important and good.
 
 ### direct objects using e
 

@@ -114,7 +114,7 @@ Lili and mute are wider and shorter than some of the more square glyphs. As modi
 
 ### thin blocks: ni
 
-Remember in lesson 1 we said syllable glyphs can be used instead of glyph blocks? As a glyph block, ni is pretty square, but as a syllable it is tall and thin. This can be useful when ni is used as a modifier. Take a look at how ni works here as a syllable block and above as a glyph block.  This can offer you a variety of ways to fill the given space in any situation.
+Remember we said syllable glyphs can be used instead of glyph blocks? As a glyph block, _ni_ is pretty square, but as a syllable it is tall and thin. This can be useful when _ni_ is used as a modifier. Take a look at how _ni_ works as a glyph block above and a syllable block below .  This can offer you a variety of ways to fill the given space in any situation.
 
 {% include image_dictionary.html definitions=page.ni_versions %}
 

@@ -66,21 +66,21 @@ english_tests:
 >
 >Here are examples of each of these types of sentences:
 >
->* __mi moku.__ - _[subject][action]._ - I eat.
->* __sina pona.__ - _[subject][quality]._ - You are good.
- >* __mi jan.__ - _[subject][state of being]._ - I am a person.
+>* __mi moku.__ - _[subj][action]._ - I eat.
+>* __sina pona.__ - _[subj][quality]._ - You are good.
+ >* __mi jan.__ - _[subj][state of being]._ - I am a person.
 >
 >Most of these simple predicates can operate in more than one of these capacities, changing the meaning of the sentence. Only context and common sense can be used to determine the most likely meaning:
 >
->* __sina moku__ - _[subject][action]_ - You eat.
->* __sina moku__ - _[subject][quality]_ - You are like food.
- >* __sina moku__ - _[subject][state of being]_ - You are food.
+>* __sina moku__ - _[subj][action]_ - You eat.
+>* __sina moku__ - _[subj][quality]_ - You are edible.
+ >* __sina moku__ - _[subj][state of being]_ - You are food.
 >
 >When the subject is anything other than _mi_ or _sina_, the particle _li_ separates the subject from the predicate.
 >
->* __jan li moku__ - _[subject] li [verb]_ - the person eats.
->* __ona li jan__ - _[subject] li [noun]_ - he/she is a person / they are people.
->* __telo li pona__ - _[subject] li [verb]_ - water is good.
+>* __jan li moku__ - _[subj] li [verb]_ - the person eats.
+>* __ona li jan__ - _[subj] li [noun]_ - he/she is a person, they are people.
+>* __telo li pona__ - _[subj] li [verb]_ - water is good.
 >
 >When you see a sentence like _ona li jan_, do not think of _li_ as meaning _is_.  Think of it as a marker that indicates the end of the subject, and the beginning of something about that subject.
 

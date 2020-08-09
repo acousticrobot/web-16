@@ -63,16 +63,16 @@ english_tests:
 >
 >To introduce a direct object, toki pona uses _e_.  Everything between _li_ and _e_ describes an action the subject is taking, and everything after _e_ describes what is being acted upon.
 >
->* __jan li moku e kili.__ - _[subject] li [action] e [object]._ - The person eats fruit.
+>* __jan li moku e kili.__ - _[subj] li [action] e [obj]._ - The person eats fruit.
 >
 >If there is more than one object, each one is preceded by _e_:
 >
->* __jan li moku e kili e telo.__ - _[subject] li [action] e [object] e [object]._ - The person consumes fruit and water.
+>* __jan li moku e kili e telo.__ - _[subj] li [action] e [obj] e [obj]._ - The person consumes fruit and water.
 >
 >We can also describe more that one [action/quality/state of being] if each one is preceded by _li_
 >
->* __jan li toki li sitelen.__ - _[subject] li [action] li [action]._  - The person talks and writes.
->* __telo li suli li pona.__ - _[subject] li [quality] li [quality]._  - Water is important and good.
+>* __jan li toki li sitelen.__ - _[subj] li [action] li [action]._  - The person talks and writes.
+>* __telo li suli li pona.__ - _[subj] li [quality] li [quality]._  - Water is important and good.
 
 ### direct objects using e
 

@@ -2,6 +2,8 @@ blockquote.grammar {
   border-left: none;
   font-style: inherit;
   background-color: $color-grey-E;
-  padding-top: 1rem;
-  padding-bottom: 1rem;
+  padding: 1rem;
+  ul {
+    list-style-type: none;
+  }
 }

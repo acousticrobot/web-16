@@ -31,6 +31,24 @@ prepositional_head_definitions:
 
 {% include image_dictionary.html definitions=page.vocabulary %}
 
+{:.grammar}
+>### grammar review
+>
+>_The grammar in this lesson is covered by chapter 8 in [pu](https://www.amazon.com/dp/B012M1RLXS), lesson 6 in [Pije](http://tokipona.net/tp/janpije/okamasona.php), and page 6 in [Lantan](https://rnd.neocities.org/tokipona/)._
+>
+> There are five words in toki pona that can fulfill the unique role as the head of a prepositional phrase, _kepeken, lon, tan, tawa, and sama._ This words also have roles outside of prepositions, for instance as actions or modifiers. Prepositional phrases can also act as the entire predicate.
+>
+>* __mi lon tomo.__ - _[subj][state of being/prep-head][prep-object]._ - I am at home.
+>* __mi tawa tomo.__ - _[subj][action/prep-head][prep-object]._ - I go (to) home.
+>* __mi pali kepeken ijo.__ - _[subj][action][prep-head][prep-object]._ - I work using a tool.
+>* __kala li tan telo.__ - _[subj]li[quality/prep-head][prep-object]._ - Fish are from the water.
+>
+>These words have meanings outside of their prepositional roles as well.
+>
+>* __ni li lon.__ - This is true
+>* __tomo tawa.__ - car, moving vehicle
+>* __mi pilin sama.__ - I feel the same
+
 ### prepositions work as containers, sometimes
 
 If you know how to use prepositions in toki pona, then you've already done the hard part of this chapter. Preposition glyphs work like li or e, in that they

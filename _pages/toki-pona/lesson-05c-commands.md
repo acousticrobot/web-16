@@ -24,6 +24,23 @@ vocabulary:
 
 {% include image_dictionary.html definitions=page.vocabulary %}
 
+{:.grammar}
+>### grammar review
+>
+>_The grammar in this lesson is covered by chapter 10 in [pu](https://www.amazon.com/dp/B012M1RLXS), lesson 9 in [Pije](http://tokipona.net/tp/janpije/okamasona.php), and page 7 in [Lantan](https://rnd.neocities.org/tokipona/)._
+>
+> _o_ is a particle that has three use cases.  The first is after the subject to get their attention. Note that this can be considered a complete sentence in itself.
+>
+>* __jan Pepe o__! - hey Pepe!
+>
+>The second use is at the start of a sentence. It take the place of the subject and implies a command.
+>
+>* __o awen e mi!__ - wait for me!
+>
+>The third case combines the last two, effectively taking the place of _li_. It also could be seen as softening the tone to that of a request.
+>
+>* __jan Pepe o awen e mi!__ - hey Pepe please wait for me!
+
 ### commands
 
 The different uses of _o_ in toki pona are clear cases on their own, but when combined with other rules can lead to some confusion. Lets start with simple commands starting with _o_ because they are really straight forward.  To use _o_ with commands, treat _o_ as a substitute for _sina_ and use the glyph with normal block structure rules.

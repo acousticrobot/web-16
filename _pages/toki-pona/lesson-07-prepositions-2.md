@@ -8,22 +8,21 @@ url_previous: /toki-pona/prepositions-1
 url_next: /toki-pona/questions-1
 
 vocabulary:
+- image: "/images/t47_tokipona/nimi/t47_nimi_poka.jpg"
+  text: poka
 - image: "/images/t47_tokipona/nimi/t47_nimi_anpa.jpg"
   text: anpa
 - image: "/images/t47_tokipona/nimi/t47_nimi_insa.jpg"
   text: insa
 - image: "/images/t47_tokipona/nimi/t47_nimi_monsi.jpg"
   text: monsi
-- image: "/images/t47_tokipona/nimi/t47_nimi_poka.jpg"
-  text: poka
 - image: "/images/t47_tokipona/nimi/t47_nimi_sama.jpg"
   text: sama
 - image: "/images/t47_tokipona/nimi/t47_nimi_sewi.jpg"
   text: sewi
 - image: "/images/t47_tokipona/nimi/t47_nimi_sinpin.jpg"
   text: sinpin
-
-preposition_definitions:
+prepositions:
 - image: "/images/t47_tokipona/kamasona/t47_kaso06_01.jpg"
   text: lon
 - image: "/images/t47_tokipona/kamasona/t47_kaso06_02.jpg"
@@ -38,11 +37,26 @@ preposition_definitions:
 
 {% include image_dictionary.html definitions=page.vocabulary %}
 
+{:.grammar}
+>### grammar review
+>
+>_The grammar in this lesson is covered by chapter 15 in [pu](https://www.amazon.com/dp/B012M1RLXS), lesson 7 in [Pije](http://tokipona.net/tp/janpije/okamasona.php), and page 6 in [Lantan](https://rnd.neocities.org/tokipona/)._
+>
+> Not prepositions in themselves, there are several words that describe location. They can be used frequently with _tawa_, _lon_, and _tan_  to describe going to, existing in or coming from a location relative to the speaker.
+>
+>* __ona li lon tomo.__ - She is at home.
+>* __waso li tawa sewi.__ - The bird flies into the sky.
+>* __pipi li lon anpa lipu kasi.__ - The bugs are underneath the leaves.
+>*
+>* The most common directions relative to one's location can be described with _sewi, anpa, sinpin, mosi, insa, and poka_. This list is by no means an exhaustive. _pu_ uses _noka_ instead of _anpa_, and in context many other words can make sense to describe location, and many other ways to describe movement and direction. One word to keep in mind is _weka_.
+>
+>* __ona li tawa weka__ - They are going away.
+
 ### using sama, tan, and poka
 
-We already took a look at lon, tawa, and tan in the last lesson, but there's still a little more to cover on prepositions. First let's review what we already know, adding the prepositions _kepeken_ and _sama_. Remember, each preposition can be thought of as having a 'head' attached to an expandable body.
+We already took a look at lon, tawa, and tan in the last lesson, but there's still a little more to cover on prepositions. First let's review what we already know with a few more examples. Remember, each preposition can be thought of as having a 'head' attached to an expandable body.
 
-{% include image_dictionary.html definitions=page.preposition_definitions %}
+{% include image_dictionary.html definitions=page.prepositions %}
 
 #### working as regular glyph blocks
 

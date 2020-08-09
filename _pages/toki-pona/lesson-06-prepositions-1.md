@@ -17,16 +17,17 @@ vocabulary:
   text: tan
 - image: "/images/t47_tokipona/nimi/t47_nimi_tawa.jpg"
   text: tawa
-
-prepositional_head_definitions:
+prepositions:
 - image: "/images/t47_tokipona/kamasona/t47_kaso06_01.jpg"
   text: lon
 - image: "/images/t47_tokipona/kamasona/t47_kaso06_02.jpg"
   text: tawa
-- image: "/images/t47_tokipona/kamasona/t47_kaso06_03.jpg"
-  text: kepeken
 - image: "/images/t47_tokipona/kamasona/t47_kaso06_04.jpg"
   text: tan
+- image: "/images/t47_tokipona/kamasona/t47_kaso06_03.jpg"
+  text: kepeken
+- image: "/images/t47_tokipona/kamasona/t47_kaso07_01.jpg"
+  text: sama
 ---
 
 {% include image_dictionary.html definitions=page.vocabulary %}
@@ -38,10 +39,10 @@ prepositional_head_definitions:
 >
 > There are five words in toki pona that can fulfill the unique role as the head of a prepositional phrase, _kepeken, lon, tan, tawa, and sama._ This words also have roles outside of prepositions, for instance as actions or modifiers. Prepositional phrases can also act as the entire predicate.
 >
->* __mi lon tomo.__ - _[subj][state of being/prep-head][prep-object]._ - I am at home.
->* __mi tawa tomo.__ - _[subj][action/prep-head][prep-object]._ - I go (to) home.
->* __mi pali kepeken ijo.__ - _[subj][action][prep-head][prep-object]._ - I work using a tool.
->* __kala li tan telo.__ - _[subj]li[quality/prep-head][prep-object]._ - Fish are from the water.
+>* __mi lon tomo.__ - _[subj][state of being/prep-head][prep-obj]._ - I am at home.
+>* __mi tawa tomo.__ - _[subj][action/prep-head][prep-obj]._ - I go (to) home.
+>* __mi pali kepeken ijo.__ - _[subj][action][prep-head][prep-obj]._ - I work using a tool.
+>* __kala li tan telo.__ - _[subj]li[quality/prep-head][prep-obj]._ - Fish are from the water.
 >
 >These words have meanings outside of their prepositional roles as well.
 >
@@ -59,7 +60,7 @@ If you know how to use prepositions in toki pona, then you've already done the h
 
 Before we go any farther, it is important to become aware of the anatomy of the preposition glyphs. Each preposition can be thought of as having a 'head' attached to an expandable body.
 
-{% include image_dictionary.html definitions=page.prepositional_head_definitions %}
+{% include image_dictionary.html definitions=page.prepositions %}
 
 #### head rotation
 

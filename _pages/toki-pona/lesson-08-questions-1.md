@@ -16,6 +16,28 @@ vocabulary:
 
 {% include image_dictionary.html definitions=page.vocabulary %}
 
+{:.grammar}
+>### grammar review
+>
+>Questions with a yes/no response in toki pona have a special grammatical structure. The word in question is repeated twice with _ala_ in between. The repeated word is generally constrained to the [action/quality/state of being] or a pre-verb, even if that word is also acting in another capacity such as a preposition.
+>
+>* __sina pali ala pali?__ - _[subj][action] ala [action]?_ - are you working?
+>* __soweli li tan ala tan kasi suli?__ - _[subj] li [action/prep-head] ala [action/prep-head][prep-obj]?_ - Did the animal come from the woods?
+>* __moku li suwi ala suwi__ - _[subj] li [quality] ala [quality]?_ - Is the food tasty?
+>
+> To answer, the target word is repeated by itself to answer yes, or with _ala_ for no.
+>
+>* __pali.__ - Yes (I am working).
+>* __tan ala.__ - No (not from the woods).
+>* __suwi.__ - Yes (it's good tasting).
+>
+> I say above _generally_ constrained. In _pu_ the structure is described solely with the word acting as the verb, but this is also before pre-verbs are introduced.  jan Pije and jan Lantan do not describe any limitations to it's use. My impression is if there is a pre-verb this is often the preferable word to target:
+>
+>* __sina wile ala wile moku__ - Do you [want/ not want] to eat?
+>* __sina wile moku ala moku__ - Do you want to [eat/not eat]?
+>
+>The later makes one option appear to be "Do you want to not eat?" rather than "Don't you want to eat?"
+
 ### yes / no questions
 
 {% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso08_09.jpg" caption="jan li jo ala jo e wawa?" %}

@@ -19,6 +19,8 @@ vocabulary:
 {:.grammar}
 >### grammar review
 >
+>_The grammar in this lesson is covered by chapter 7 in [pu](https://www.amazon.com/dp/B012M1RLXS), lesson 8 in [Pije](http://tokipona.net/tp/janpije/okamasona.php), and page 7 in [Lantan](https://rnd.neocities.org/tokipona/)._
+>
 >Questions with a yes/no response in toki pona have a special grammatical structure. The word in question is repeated twice with _ala_ in between. The repeated word is generally constrained to the [action/quality/state of being] or a pre-verb, even if that word is also acting in another capacity such as a preposition.
 >
 >* __sina pali ala pali?__ - _[subj][action] ala [action]?_ - are you working?

@@ -32,3 +32,13 @@ vocabulary:
 ---
 
 {% include image_dictionary.html definitions=page.vocabulary %}
+
+
+{:.grammar}
+>### grammar review
+>
+>_The grammar in this lesson is covered by chapter 7 in [pu](https://www.amazon.com/dp/B012M1RLXS), lesson 10 in [Pije](http://tokipona.net/tp/janpije/okamasona.php), and page 7 in [Lantan](https://rnd.neocities.org/tokipona/)._
+>
+> If you are asking a question to confirm what you think is true, add _anu seme_ to the end of the sentence.
+>
+> __sina moku e kili anu seme?__ - Are you eating a fruit?

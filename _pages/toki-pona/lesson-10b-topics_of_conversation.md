@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "About: Topics of Conversation"
+index: false
 sitelen_lessons_index: 16
 permalink: /toki-pona/topics-of-conversation
 

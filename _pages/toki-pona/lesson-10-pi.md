@@ -26,6 +26,23 @@ pi_versions:
 
 {% include image_dictionary.html definitions=page.vocabulary %}
 
+{:.grammar}
+>### grammar review
+>
+>_The grammar in this lesson is covered by chapter 11 in [pu](https://www.amazon.com/dp/B012M1RLXS), lesson 11 in [Pije](http://tokipona.net/tp/janpije/okamasona.php), and page 9 in [Lantan](https://rnd.neocities.org/tokipona/)._
+>
+>the particle _pi_ is used to regroup modifiers.  It requires a minimum of one head noun and two modifiers. _pi_ is inserted between the head noun and the two modifiers.  This indicates that the second modifier modifies the first modifier before the meaning is used to modify the head noun. It is particularly useful when the head noun and first modifier have a meaning unto themselves:
+>
+>* __ma tomo mi__ - [ma tomo][mi] -> my city
+>* ma pi tomo mi - [ma]pi[tomo mi] -> the land (of/around/associated with) my house
+>
+> _Do not constrain your thinking about pi as meaning "of"!_
+>
+> Note that jan Pije also describes _pi_ as a possessive. This is generally not an accepted use case, especially with a single word after pi. It may be repetitive, but you can avoid this pattern by repeating the head noun:
+>
+>* _ike:_ ilo ni li pi sina. -> _pona:_ __ilo ni li ilo sina.__
+>* _ike:_ kalama musi ni li pi mi. -> _pona:_ __kalama musi ni li kalama mi.__
+
 ### descriptive groupings with pi
 
 Despite the relatively simple rules around its usage, when and how to use pi effectively is one of the most complicated aspects of speaking toki pona. Similarly when drawing sitelen sitelen, the use and placement of pi will take some practice.  It is complicated enough that whenever I am laying out a glyph block with pi in it, I often start within pi and then work my way out.
@@ -51,17 +68,6 @@ Once this grouping feels satisfactory, it's time to fit it into the larger glyph
 {% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso11_08.jpg" caption="mi kama sona e nasin pona pi seli moku." %}
 
 Depending on the fit, you may find you need to start again with one of the other orientations and build it back up from inside the _pi_ on out.
-
-### possessives with pi
-
-Structurally, possessives with pi operate in the same way:
-
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso11_09.jpg" caption="nimi pi mama mije li seme?" %}
-
-The only time you may find a single glyph innside of pi is with the _li pi_ formation:
-
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso11_10.jpg" caption="kalama musi ni li pi mi." %}
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso11_11.jpg" caption="ilo ni li pi sina." %}
 
 ### opposites with pi and ala
 

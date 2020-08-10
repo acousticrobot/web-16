@@ -16,6 +16,19 @@ vocabulary:
 
 {% include image_dictionary.html definitions=page.vocabulary %}
 
+{:.grammar}
+>### grammar review
+>
+>_The grammar in this lesson is covered by chapter 7 in [pu](https://www.amazon.com/dp/B012M1RLXS), lesson 10 in [Pije](http://tokipona.net/tp/janpije/okamasona.php), and page 7 in [Lantan](https://rnd.neocities.org/tokipona/)._
+>
+>Questions using seme follow a simple pattern. Imagine the question as a statement with one possibly answer, and replace the information you want to know with _seme_.
+>
+> _sina moku e [kili]._ -> __sina moku e seme?__ - What are you eating?
+>
+> If you are confirming what you think is true, add _anu seme_ to the end of the sentence.
+>
+> __sina moku e kili anu seme?__ - Are you eating a fruit?
+
 ### Questions using seme
 
 There isn't anything really difficult to learn about forming questions. As long as you learned what the question mark looks like in [the last lesson](/toki-pona/questions-1), and you know how to use seme in toki pona grammar, you only need to learn the glyph for _seme_ and you are set to go:

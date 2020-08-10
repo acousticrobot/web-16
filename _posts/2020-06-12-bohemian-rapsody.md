@@ -48,7 +48,7 @@ It included drawing instructions and simplified versions. Some of the original s
 What I'd really like to present would be a collection of early examples for each glyph that would illuminate the origin story well, something like what [hanziyuan](https://hanziyuan.net/) does for Chinese. That is a site I have gotten lost in more than once. In an unfiltered preview though, here is an example page from one of the first notebooks with sitelen in it:
 
 {: .wrapper__center-image}
-![notebook page 2007](/images/t47/t47.lipu_awen_001.jpg)
+![notebook page 2007](/images/t47/t47.070905_l.jpg)
 
 > Why do supa, utala, kulupu and kiwen have crosses in them?
 

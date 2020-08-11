@@ -107,6 +107,8 @@ definitions:
   text: ma
 - image: "/images/t47_tokipona/nimi/t47_nimi_mama.jpg"
   text: mama
+- image: "/images/t47_tokipona/nimi/t47_nimi_mama_old.jpg"
+  text: mama (alt)
 - image: "/images/t47_tokipona/nimi/t47_nimi_mani.jpg"
   text: mani
 - image: "/images/t47_tokipona/nimi/t47_nimi_meli.jpg"
@@ -251,8 +253,6 @@ supplimental_definitions:
   text: kin
 - image: "/images/t47_tokipona/nimi/t47_nimi_kipisi.jpg"
   text: kipisi
-- image: "/images/t47_tokipona/nimi/t47_nimi_mama_old.jpg"
-  text: mama (old)
 - image: "/images/t47_tokipona/nimi/t47_nimi_namako.jpg"
   text: namako
 - image: "/images/t47_tokipona/nimi/t47_nimi_oko.jpg"

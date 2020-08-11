@@ -58,9 +58,9 @@ english_tests:
 {:.grammar}
 > ### grammar review
 >
->_The grammar in this lesson is covered by chapters 2-5 in [pu](https://www.amazon.com/dp/B012M1RLXS), lesson 3 in [Pije](http://tokipona.net/tp/janpije/okamasona.php), and pages 1-3 in [Lantan](https://rnd.neocities.org/tokipona/)._
+>_The grammar in this lesson is covered in chapters 2-5 in [pu](https://www.amazon.com/dp/B012M1RLXS), lesson 3 in [Pije](http://tokipona.net/tp/janpije/okamasona.php), and pages 1-3 in [Lentan](https://rnd.neocities.org/tokipona/)._
 >
->Basic sentences in toki pona consist of two words. The first word is the subject _mi_ or _sina_. The second word is the entire predicate. It describes something about the subject, and can function as a verb, adjective, or noun.
+>Basic sentences about you or me in toki pona consist of two words. The first word is the subject _mi_ or _sina_. The second word is the entire predicate. It describes something about the subject, and can function as a verb, adjective, or noun.
 >
 >There are a lot of sentences in toki pona where what we call the verb in English is ambiguous or absent entirely. To say 'you are big' in toki pona, _sina suli_, there is no 'are'. It may be better to think of this second word as an action, quality, or state of being.
 >
@@ -82,7 +82,7 @@ english_tests:
 >* __ona li jan__ - _[subj] li [noun]_ - he/she is a person, they are people.
 >* __telo li pona__ - _[subj] li [verb]_ - water is good.
 >
->When you see a sentence like _ona li jan_, do not think of _li_ as meaning _is_.  Think of it as a marker that indicates the end of the subject, and the beginning of something about that subject.
+>When you see _li_ in a sentence, do not think of it as meaning _is_!  Think of it as a marker that indicates the end of the subject, and the beginning of something about that subject.
 
 ### sentences with mi or sina as the subject
 

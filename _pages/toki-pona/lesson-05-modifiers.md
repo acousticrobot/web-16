@@ -77,7 +77,7 @@ ma_ike_jaki_ni_2:
 
 {:.grammar}
 >### grammar review
->_The grammar in this lesson is covered by chapter 3 and 6 in [pu](https://www.amazon.com/dp/B012M1RLXS), lesson 5 in [Pije](http://tokipona.net/tp/janpije/okamasona.php), and page 2 in [Lantan](https://rnd.neocities.org/tokipona/)._
+>_The grammar in this lesson is covered in chapters 3 and 6 in [pu](https://www.amazon.com/dp/B012M1RLXS), lesson 5 in [Pije](http://tokipona.net/tp/janpije/okamasona.php), and page 2 in [Lentan](https://rnd.neocities.org/tokipona/)._
 >
 > Content words, or words that aren't particles like _li_ and _e_, can have their meaning altered by a word that come after them.  We can think of the first word as the head, and following word as the modifier.
 >

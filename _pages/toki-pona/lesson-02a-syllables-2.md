@@ -48,6 +48,11 @@ syllable_words:
   text: tan
 - image: /images/t47_tokipona/kalalili/t47_kalalili_mun.jpg
   text: mun
+unofficial_words:
+- image: /images/t47_tokipona/kamasona/syllables/cleko.jpg
+  text: leko
+- image: /images/t47_tokipona/kamasona/syllables/cmonsuta.jpg
+  text: monsuta
 capsule_words:
 - image: /images/t47_tokipona/kamasona/syllables/nimilon.jpg
   text: "nimi 'lon'"
@@ -85,12 +90,22 @@ toki_pona_tests:
   text: mi pona
 - image: /images/t47_tokipona/kamasona/syllables/niminimi.jpg
   text: nimi 'nimi'
-- image: /images/t47_tokipona/kamasona/syllables/janjosan.jpg
-  text: jan Josan
+- image: /images/t47_tokipona/kamasona/syllables/janwiko.jpg
+  text: jan Wiko
 ---
 
 {% include image_dictionary.html definitions=page.vocabulary %}
 {% include image_dictionary.html definitions=page.punctuation %}
+
+{:.grammar}
+> ### grammar review
+>
+>_Proper names are covered in chapter 9 in [pu](https://www.amazon.com/dp/B012M1RLXS), lesson 9 in [Pije](http://tokipona.net/tp/janpije/okamasona.php), and pages 7 and 7a in [Lentan](https://rnd.neocities.org/tokipona/)._
+>
+> To form proper names for people and things in toki pona, a capitalized word in used as a modifier to a head noun.  The capitalized loan word can resemble it's root as much as possible, but should be limited to the syllables we covered in the last lesson.
+>
+>* 中国 -> son ko -> __ma Sonko__
+>
 
 ### using the syllabary to write words and names
 
@@ -120,15 +135,15 @@ Since this is a non-linear writing, we can't just rely on space between syllable
 
 It comes in most handy if you ever want to use a toki pona words outside of pu, one that doesn't have a unique glyph block
 
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/syllables/leko.jpg" caption="leko" %}
+{% include image_dictionary.html definitions=page.unofficial_words %}
 
-It is also useful if you want to talk _about_ a word. If you ever might put a word in quotes or italics: _mi toki e nimi 'lon'_, you can use the capsule with _nimi_ to place emphasis in the same way:
+It is also useful if you want to talk _about_ a word. Just as using quotes is never required but can add contextual emphasis: _mi toki e nimi 'lon'_, you can use the capsule with _nimi_ to place emphasis in the same way:
 
 {% include image_dictionary.html definitions=page.capsule_words %}
 
 ### unofficial words with a head noun
 
-The most common use of syllables is when we need to create unofficial loan words or proper name.
+The most common use of syllables is when we need to create unofficial loan words or proper names.
 
 {% include image_dictionary.html definitions=page.syllable_names %}
 
@@ -149,5 +164,3 @@ Since all unofficial words need to modify a noun, this will often rest on top of
 #### translate into toki pona (hover or tab through to reveal the answer)
 
 {% include image_dictionary.html definitions=page.toki_pona_tests reveal_text='true' %}
-
-(That last one is me, if you are looking for me anywhere I might be found by my toki pona name.)

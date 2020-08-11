@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gender, Negation, Other, and Every
+title: Gender, Plurality, Negation, Other, and Every
 sitelen_lessons_index: 7
 permalink: /toki-pona/gender
 
@@ -13,6 +13,8 @@ vocabulary:
   text: ala
 - image: /images/t47_tokipona/nimi/t47_nimi_ale.jpg
   text: ale
+- image: /images/t47_tokipona/nimi/t47_nimi_kulupu.jpg
+  text: kulupu
 - image: /images/t47_tokipona/nimi/t47_nimi_mama.jpg
   text: mama
 - image: /images/t47_tokipona/nimi/t47_nimi_meli.jpg
@@ -26,11 +28,44 @@ vocabulary:
 unofficial_words:
 - image: /images/t47_tokipona/nimi/t47_nimi_tonsi.jpg
   text: tonsi
+- image: /images/t47_tokipona/nimi/t47_nimi_mama_old.jpg
+  text: mama (alt)
+ona_examples:
+- image: /images/t47_tokipona/kamasona/basic/onalipona.jpg
+  text: 'he is good!'
+- image: /images/t47_tokipona/kamasona/basic/onalipona.jpg
+  text: 'she is good!'
+- image: /images/t47_tokipona/kamasona/basic/onalipona.jpg
+  text: 'they are good!'
+gender_examples:
+- image: /images/t47_tokipona/kamasona/basic/mijelipilinpona.jpg
+  text: 'he is good!'
+- image: /images/t47_tokipona/kamasona/basic/mijelipilinpona.jpg
+  text: mije li pilin pona.
+- image: /images/t47_tokipona/kamasona/basic/lawamelilisuli.jpg
+  text: lawa meli li suli.
+- image: /images/t47_tokipona/kamasona/basic/nilikuluputonsi.jpg
+  text: ona li kulupu tonsi.
+mute_examples:
+- image: /images/t47_tokipona/kamasona/gender/mimute.png
+  text: 'mi mute li toki'
+- image: /images/t47_tokipona/kamasona/gender/mimute.png
+  text: 'sina mute li toki'
+- image: /images/t47_tokipona/kamasona/gender/onamutelitoki.png
+  text: 'ona mute li toki'
 ala_verb_examples:
 - image: /images/t47_tokipona/kamasona/t47_kaso08_01.jpg
   text: ona li lape ala.
 - image: /images/t47_tokipona/kamasona/t47_kaso08_03.jpg
   text: ni li musi ala!
+ala_description_examples:
+- image: /images/t47_tokipona/kamasona/gender/tomolijakiala.jpg
+  text: tomo li jaki ala.
+- image: /images/t47_tokipona/kamasona/gender/mokonilisuwiala.jpg
+  text: moko ni li suwi ala.
+- image: /images/t47_tokipona/kamasona/gender/mijoewawaala.jpg
+  text: mi jo e wawa ala.
+
 ale_examples:
 - image: /images/t47_tokipona/kamasona/t47_kaso08_06.jpg
   text: jan ali li kama.
@@ -47,19 +82,50 @@ sin_versions:
 
 {% include image_dictionary.html definitions=page.vocabulary %}
 
-unofficial words
+additional vocabulary
 
 {% include image_dictionary.html definitions=page.unofficial_words %}
 
-### gender
+{:.grammar}
+>### grammar review
+>_The grammar in this lesson is covered in chapters 2, 4 and 6 in [pu](https://www.amazon.com/dp/B012M1RLXS), lessons 8 and 9 in [Pije](http://tokipona.net/tp/janpije/okamasona.php), and page 2 and 5 in [Lentan](https://rnd.neocities.org/tokipona/)._
+>
 
+### gender and plurality
+
+One of the beautiful things about toki pona, in my opinion, is that gender and plurality tends to remain unspoken by default. Let's translate _ona li pona!_:
+
+{% include image_dictionary.html definitions=page.ona_examples %}
+
+We can however express gender and plurality more explicitly if necessary.
+
+#### gender
+
+Besides _meli_ and _mije_ for man and woman, many in the toki pona community also employ _tonsi_ to express gender identity outside of the more limited binary concept of gender. Like many words, they all can take on many roles in the sentence.
+
+% include image_dictionary.html definitions=page.ona_examples %}
+
+#### plurality
+
+To express more than one of anything we have already seen we can use mute to modify our head noun. This works with _mi_, _sina_ and _ona_ as well, to make _us_, _you (plural)_, and _they_ explicit:
+
+{% include image_dictionary.html definitions=page.mute_examples %}
+
+Additionally _kulupu_ is used regularly to talk about a community or group of people:
+
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/gender/kulupumiliwawasuli." caption="kulupu mi li wawa suli." %}
 
 #### mama
+
+_mama_ is unusual in that there are two glyphs for one word. I've added a second glyph for reasons explained in more depth [here]({% post_url 2020-08-07-mi-ante-e-sitelen-tawa-nimi-mama %}). Although there has never been an inherent gender to _mama_, is use has expanded far beyond the examples present in texts when I was first learning toki pona.
+
+The older glyph will always be here, it has historical precedent, and in some contexts may be the preferable of the two.  The example sentence in _pu_ is a case in point. But by being figurative and _meli_, it comes loaded with additional pretext, and so I've added the newer glyph for uses when one wants to free the image from these constraints.
+
 
 
 ### negation
 
-If you understood how modifiers worked (chapter 5) then negation shouldn't be too much trouble, since adding _ala_ to negate nouns or verbs follows the same block order rules.
+If you understand how modifiers work then negation shouldn't be too much trouble, since adding _ala_ to negate nouns or verbs follows the same block order rules.
 
 If _ala_ modifies the subject, as in _jan ala_ (no one), it comes before _li_ as part of the head noun:
 
@@ -73,9 +139,7 @@ To negate a verb, _ala_ comes directly after the verb.  And if it is modifying a
 
 With toki pona's limited vocabulary, using _ala_ it to modify adjectives becomes particularly powerful.  For example, _pona_ could potentially express cleanliness in context, but the exact meaning would be ambiguous. _jaki_, on the other hand comes much more limited in scope and _jaki ala_ would almost certainly be understood to mean clean, without dirt, etc.
 
--> tomo li jaki ala.
--> moko ni li suwi ala.
--> mi jo e wawa ala.
+{% include image_dictionary.html definitions=page.ala_description_examples %}
 
 ### ale / ali
 
@@ -83,9 +147,7 @@ There may be two ways to spell it, but only one glyph block for _ale/ali_. Just 
 
 {% include image_dictionary.html definitions=page.ale_examples %}
 
-### ante
-
-
+<!-- ### ante -->
 
 ### expressing new, another, more
 

@@ -49,7 +49,12 @@ I began again with the intention of following the lessons as laid out by jan Pij
 
 I still present new vocabulary incrementally, but if you have a grasp of toki pona you should feel free to skip around and focus on the lessons that fit your learning path.  I have listed my favorite toki pona lessons on the [resource page](/toki-pona/about/), and have tried to blend information from my current three favorite sources: jan Sonja's, jan Pije's, and jan Lentan's, in an order that makes sense for sitelen.
 
-I am also always looking for ways to examples that address and illuminate differing positions on the grammar. Any suggestions are always welcome.
+{:.grammar}
+>### grammar review
+>Most lessons will now have a small section on the top that lists where you can find the information covered in the lesson in _pu_, _Pije_, and _Letan_, and a small grammar review for anything not covered within the lesson.
+>
+
+I am also always looking for clarification on differing positions on the grammar myself, especially as the language evolves. All of your experiences and opinions make this test that much stronger and more palettable to newcomers. Any suggestions are always welcome.
 
 {: .wrapper__center-image}
 ![lipu lawa pi esun kama](/images/t47/t47.200721_1.jpg)

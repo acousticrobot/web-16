@@ -246,6 +246,12 @@ syllabary_definitions:
   text: ""
 ---
 
+{:.grammar}
+> ### grammar review
+>
+>_The grammar in this lesson is covered in chapter 1 in [pu](https://www.amazon.com/dp/B012M1RLXS), lesson 2 in [Pije](http://tokipona.net/tp/janpije/okamasona.php), and page 0 in [Lentan](https://rnd.neocities.org/tokipona/)._
+>
+
 ### glyphs can represent whole words, or individual syllables
 
 This hieroglyphic writing system uses two methods to form words: images which represent whole words, and images which represent syllables. Most of the time, we will use glyph blocks which represent whole words. Let's look into the syllable method first, however, for a couple of reasons:

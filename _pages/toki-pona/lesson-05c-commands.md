@@ -27,7 +27,7 @@ vocabulary:
 {:.grammar}
 >### grammar review
 >
->_The grammar in this lesson is covered by chapter 10 in [pu](https://www.amazon.com/dp/B012M1RLXS), lesson 9 in [Pije](http://tokipona.net/tp/janpije/okamasona.php), and page 7 in [Lantan](https://rnd.neocities.org/tokipona/)._
+>_The grammar in this lesson is covered in chapter 10 in [pu](https://www.amazon.com/dp/B012M1RLXS), lesson 9 in [Pije](http://tokipona.net/tp/janpije/okamasona.php), and page 7 in [Lentan](https://rnd.neocities.org/tokipona/)._
 >
 > _o_ is a particle that has three use cases.  The first is after the subject to get their attention. Note that this can be considered a complete sentence in itself.
 >

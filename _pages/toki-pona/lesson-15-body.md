@@ -39,5 +39,6 @@ vocabulary:
 
 
 {% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso07_11.jpg" caption="jan lili li tan unpa." %}
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso08_01.jpg" caption="ona li lape ala." %}
 
 {% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso04_08.jpg" caption="sina wile unpa." %}

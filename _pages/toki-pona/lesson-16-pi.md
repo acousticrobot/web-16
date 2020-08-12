@@ -22,6 +22,26 @@ pi_versions:
 - image: "/images/t47_tokipona/kamasona/t47_kaso11_01.jpg"
 - image: "/images/t47_tokipona/nimi/t47_nimi_pi.jpg"
 - image: "/images/t47_tokipona/kamasona/t47_kaso11_02.jpg"
+common_groupings:
+- image: /images/t47_tokipona/kamasona/t47_kaso11_03.jpg
+  text: 'kulupu pi toki pona'
+- image: /images/t47_tokipona/kamasona/t47_kaso11_04.jpg
+  text: 'jan mute pi ma tomo'
+- image: /images/t47_tokipona/kamasona/t47_kaso11_05.jpg
+  text: 'jan suli pi nasin musi'
+common_groupings_blocks:
+- image: /images/t47_tokipona/kamasona/t47_kaso11_06.jpg
+  text: 'mi tawa tomo pi telo nasa.'
+- image: /images/t47_tokipona/kamasona/t47_kaso11_07.jpg
+  text: 'jan lawa pi tomo tawa kon li tawa sewi.'
+common_groupings_blocks_2:
+- image: /images/t47_tokipona/kamasona/t47_kaso11_08.jpg
+  text: 'mi kama sona e nasin pona pi seli moku.'
+pi_ala:
+- image: /images/t47_tokipona/kamasona/t47_kaso11_12.jpg
+  text: 'jan lawa pi kulupu utala li jan pi lape ala.'
+- image: /images/t47_tokipona/kamasona/t47_kaso11_13.jpg
+  text: 'jan pi tomo ala li tawa mute.'
 ---
 
 {% include image_dictionary.html definitions=page.vocabulary %}
@@ -57,15 +77,12 @@ Anatomically, the _pi_ glyph is derived from the syllable _pi_, sticking it's he
 
 Like _li_ and _e_, _pi_ operates as a container to group other glyphs. Use of _pi_ in toki pona almost always results in at least two glyphs within, and most commonly either one or two glyphs above. Unique to _pi_ is the notion that the group of glyphs that operate as one unit includes a number of glyphs right before the _pi_ as well. This entire grouping can then be found anywhere within a sentence that you could place a single glyph acting as a noun.
 
- {% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso11_03.jpg" caption="kulupu pi toki pona" %}
- {% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso11_04.jpg" caption="jan mute pi ma tomo" %}
- {% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso11_05.jpg" caption="jan suli pi nasin musi" %}
+{% include image_dictionary.html definitions=page.common_groupings %}
 
 Once this grouping feels satisfactory, it's time to fit it into the larger glyph block:
 
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso11_06.jpg" caption="mi tawa tomo pi telo nasa." %}
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso11_07.jpg" caption="jan lawa pi tomo tawa kon li tawa sewi." %}
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso11_08.jpg" caption="mi kama sona e nasin pona pi seli moku." %}
+{% include image_dictionary.html definitions=page.common_groupings_blocks %}
+{% include image_dictionary.html definitions=page.common_groupings_blocks_2 %}
 
 Depending on the fit, you may find you need to start again with one of the other orientations and build it back up from inside the _pi_ on out.
 
@@ -73,8 +90,7 @@ Depending on the fit, you may find you need to start again with one of the other
 
 Using _ala_ within _pi_ to express _the opposite of_ also works as you would expect:
 
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso11_12.jpg" caption="jan lawa pi kulupu utala li jan pi lape ala." %}
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso11_13.jpg" caption="jan pi tomo ala li tawa mute." %}
+{% include image_dictionary.html definitions=page.pi_ala %}
 
 ### more than one pi
 

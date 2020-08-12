@@ -35,12 +35,17 @@ head_names:
 - image: /images/t47_tokipona/kamasona/syllables/matomonujoka.jpg
   text: ma tomo Nujoka
 jan_cartouche:
-- image: /images/t47_tokipona/kamasona/syllables/jcansonja.jpg
+- image: /images/t47_tokipona/kamasona/syllables/cjansonja.jpg
   text: jan Sonja
-- image: /images/t47_tokipona/kamasona/syllables/jcanote.jpg
+- image: /images/t47_tokipona/kamasona/syllables/cjanote.jpg
   text: jan Ote
-- image: /images/t47_tokipona/kamasona/syllables/jcantoni.jpg
+- image: /images/t47_tokipona/kamasona/syllables/cjantoni.jpg
   text: jan Toni
+syllable_breaks:
+- image: /images/t47_tokipona/kamasona/syllables/cjantoni.jpg
+  text: 'jan Toni'
+- image: /images/t47_tokipona/kamasona/t47_kaso09_16.jpg
+  text: 'soweli sewi Animan'
 ---
 
 ### unofficial words
@@ -77,9 +82,7 @@ These two versions of _ma tomo Uluku_ might look strange on their own, but later
 
 #### syllable breaks
 
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso09_15.jpg" caption="jan Tina" %}
-
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso09_16.jpg" caption="soweli sewi Animan" %}
+{% include image_dictionary.html definitions=page.syllable_breaks %}
 
 When reading linear text written with one character for each consonant and vowel, it is sometimes easy to forget toki pona is actually a syllabic language.  Remember that only the first syllable can begin without a consonant, even though all syllables can end with _n_.  So make sure if there is a syllable starting with an _n_ that the _n_ is used as a container for the vowel, and not attached to the bottom of another glyph. For example _Tina_ is _jan Ti-na_, not _Tin-a_, and the monkey god Haniman is _soweli sewi A-ni-man_, not _An-i-man_.
 
@@ -120,5 +123,3 @@ I like the version with three glyphs on the left best because that also gives _l
 {% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso09_24.jpg" caption="soweli Kijetesantakalu" %}
 
 I'm drawing this out here in different color pens for demonstration purposes, but you can try doing your sketching with a light colored pencil first, or tracing from your sketches onto a new sheet for the final drawing. As I make the final drawing, I'm going to drop the head down slightly over the top of the cartouche, and fill in the details.
-
-I really could go on forever like this, we didn't even look at a four column grid, but let's call done done and go look at commands.

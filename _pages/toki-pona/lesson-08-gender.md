@@ -41,15 +41,11 @@ mama_examples:
 - image: /images/t47_tokipona/kamasona/gender/sowelisuli.jpg
   text: soweli suli li mama e soweli lili mute.
 toki_pona_tests:
-- image: /images/t47_tokipona/kamasona/gender/misonaalaesina.jpg
-  text: mi sona ala e sina.
 - image: /images/t47_tokipona/kamasona/gender/mijeliteloleteelenjaki.jpg
   text: mije li telo lete e len jaki.
 english_tests:
-- image: /images/t47_tokipona/kamasona/gender/misonaalaesina.jpg
-  text: I don't understand you.
 - image: /images/t47_tokipona/kamasona/gender/mijeliteloleteelenjaki.jpg
-  text: The man cold washed the dirty clothes.
+  text: The man cold-washed the dirty clothes.
 - image: /images/t47_tokipona/kamasona/gender/sowelisuli.jpg
   text: The adult bear raises many cubs.
 - image: /images/t47_tokipona/kamasona/gender/mamasinlipilinnasa.jpg

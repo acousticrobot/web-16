@@ -11,8 +11,6 @@ url_next: /toki-pona/body
 vocabulary:
 - image: /images/t47_tokipona/nimi/t47_nimi_kalama.jpg
   text: kalama
-- image: /images/t47_tokipona/nimi/t47_nimi_kon.jpg
-  text: kon
 - image: /images/t47_tokipona/nimi/t47_nimi_ko.jpg
   text: ko
 - image: /images/t47_tokipona/nimi/t47_nimi_linja.jpg

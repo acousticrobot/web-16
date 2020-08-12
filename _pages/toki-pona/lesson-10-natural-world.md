@@ -19,6 +19,8 @@ vocabulary:
   text: kasi
 - image: /images/t47_tokipona/nimi/t47_nimi_kiwen.jpg
   text: kiwen
+- image: /images/t47_tokipona/nimi/t47_nimi_kon.jpg
+  text: kon
 - image: "/images/t47_tokipona/nimi/t47_nimi_ma.jpg"
   text: ma
 - image: /images/t47_tokipona/nimi/t47_nimi_moli.jpg

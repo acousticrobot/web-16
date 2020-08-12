@@ -16,10 +16,24 @@ vocabulary:
   text: o
 - image: "/images/t47_tokipona/nimi/t47_nimi_awen.jpg"
   text: awen
+- image: "/images/t47_tokipona/nimi/t47_nimi_mu.jpg"
+  text: mu
 - image: "/images/t47_tokipona/nimi/t47_nimi_weka.jpg"
   text: weka
 - image: "/images/t47_tokipona/nimi/t47_nimi_pakala.jpg"
   text: pakala
+commands_examples:
+- image: /images/t47_tokipona/kamasona/t47_kaso09_25.jpg
+  text: 'o toki!'
+- image: /images/t47_tokipona/kamasona/t47_kaso09_26.jpg
+  text: 'o awen e mama!'
+- image: /images/t47_tokipona/kamasona/t47_kaso09_27.jpg
+  text: 'o kama tawa ma tomo Uluku.'
+subject_o_examples:
+- image: /images/t47_tokipona/kamasona/t47_kaso09_28.jpg
+  text: 'jan Epi o a!'
+- image: /images/t47_tokipona/kamasona/t47_kaso09_29.jpg
+  text: 'soweli Kuti o mu!'
 ---
 
 {% include image_dictionary.html definitions=page.vocabulary %}
@@ -45,19 +59,15 @@ vocabulary:
 
 The different uses of _o_ in toki pona are clear cases on their own, but when combined with other rules can lead to some confusion. Lets start with simple commands starting with _o_ because they are really straight forward.  To use _o_ with commands, treat _o_ as a substitute for _sina_ and use the glyph with normal block structure rules.
 
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso09_25.jpg" caption="o toki!" %}
+{% include image_dictionary.html definitions=page.command_examples %}
 
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso09_26.jpg" caption="o awen e mama!" %}
-
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso09_27.jpg" caption="o kama tawa ma tomo Uluku." %}
+---
 
 In this way _o_ works similar to the first sentences we learned to draw with _mi_ or _sina_ as the subject.  _o_ operates in place of the subject, and the verb does not require _li_.
 
 ### o with a subject
 
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso09_28.jpg" caption="jan Epi o a!" %}
-
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso09_29.jpg" caption="soweli Kuti o mu!" %}
+{% include image_dictionary.html definitions=page.subject_o_examples %}
 
 When the sentence has a subject, _o_ functions as a container. The subject glyph and any cartouche attached to it all go within the _o_.
 

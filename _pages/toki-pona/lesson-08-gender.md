@@ -48,8 +48,6 @@ english_tests:
   text: The man cold-washed the dirty clothes.
 - image: /images/t47_tokipona/kamasona/gender/sowelisuli.jpg
   text: The adult bear raises many cubs.
-- image: /images/t47_tokipona/kamasona/gender/mamasinlipilinnasa.jpg
-  text: the new parent feels out of sorts.
 ---
 
 {% include image_dictionary.html definitions=page.vocabulary %}

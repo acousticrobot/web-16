@@ -56,17 +56,11 @@ sin_versions:
 toki_pona_tests:
 - image: /images/t47_tokipona/kamasona/modifiers-2/misonaalaesina.jpg
   text: mi sona ala e sina.
-- image: /images/t47_tokipona/kamasona/modifiers-2/mijeliteloleteelenjaki.jpg
-  text: mije li telo lete e len jaki.
 english_tests:
 - image: /images/t47_tokipona/kamasona/modifiers-2/misonaalaesina.jpg
   text: I don't understand you.
-- image: /images/t47_tokipona/kamasona/modifiers-2/mijeliteloleteelenjaki.jpg
-  text: The man cold washed the dirty clothes.
-- image: /images/t47_tokipona/kamasona/modifiers-2/sowelisuli.jpg
-  text: The adult bear raises many cubs.
 - image: /images/t47_tokipona/kamasona/modifiers-2/mamasinlipilinnasa.jpg
-  text: the new parent feels out of sorts.
+  text: the new parent feels out of sorts!
 ---
 
 {% include image_dictionary.html definitions=page.vocabulary %}
@@ -92,19 +86,19 @@ To negate a verb, _ala_ comes directly after the verb.  And if it is modifying a
 
 {% include image_dictionary.html definitions=page.ala_verb_examples %}
 
-##### description with ala
+#### description with ala
 
 With toki pona's limited vocabulary, using _ala_ it to modify adjectives becomes particularly powerful.  For example, _pona_ could potentially express cleanliness in context, but the exact meaning would be ambiguous. _jaki_, on the other hand comes much more limited in scope and _jaki ala_ would almost certainly be understood to mean clean, without dirt, etc.
 
 {% include image_dictionary.html definitions=page.ala_description_examples %}
 
-### ante
+#### ante
 
 As a modifier, _ante_ can indicate the other, or another. It pairs well both implicitly and explicitly with ni.
 
 {% include image_dictionary.html definitions=page.ante_examples %}
 
-### inclusion
+#### inclusion
 
 There may be two ways to spell it, but only one glyph block for _ale/ali_. Just like the modifiers we have already seen, it follows normal block order rules.
 
@@ -120,8 +114,7 @@ Take note again of the two variations of _i_ within the glyphs above, and rememb
 
 The other thing to note about _sin_ is that it can naturally take on a rectangular proportion, something that we referred to as a short or thin block in [modifiers](/toki-pona/modifiers). As _sin_ is often used as a modifier, you will find comes in quite handy.
 
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/modifiers-2/mamasinlipilinnasa.jpg" caption="mama sin li pilin nasa" %}
-
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/modifiers-2/mamasinlipilinnasa.jpg" caption="mama sin li pilin nasa!" %}
 
 #### translate into toki pona (hover or tab through to reveal the answer):
 

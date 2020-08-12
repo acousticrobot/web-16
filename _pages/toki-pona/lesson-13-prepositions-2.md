@@ -8,31 +8,43 @@ url_previous: /toki-pona/prepositions-1
 url_next: /toki-pona/questions-1
 
 vocabulary:
-- image: "/images/t47_tokipona/nimi/t47_nimi_poka.jpg"
+- image: /images/t47_tokipona/nimi/t47_nimi_poka.jpg
   text: poka
-- image: "/images/t47_tokipona/nimi/t47_nimi_anpa.jpg"
+- image: /images/t47_tokipona/nimi/t47_nimi_anpa.jpg
   text: anpa
-- image: "/images/t47_tokipona/nimi/t47_nimi_insa.jpg"
+- image: /images/t47_tokipona/nimi/t47_nimi_insa.jpg
   text: insa
-- image: "/images/t47_tokipona/nimi/t47_nimi_monsi.jpg"
+- image: /images/t47_tokipona/nimi/t47_nimi_monsi.jpg
   text: monsi
-- image: "/images/t47_tokipona/nimi/t47_nimi_sama.jpg"
+- image: /images/t47_tokipona/nimi/t47_nimi_sama.jpg
   text: sama
-- image: "/images/t47_tokipona/nimi/t47_nimi_sewi.jpg"
+- image: /images/t47_tokipona/nimi/t47_nimi_sewi.jpg
   text: sewi
-- image: "/images/t47_tokipona/nimi/t47_nimi_sinpin.jpg"
+- image: /images/t47_tokipona/nimi/t47_nimi_sinpin.jpg
   text: sinpin
 prepositions:
-- image: "/images/t47_tokipona/kamasona/t47_kaso06_01.jpg"
+- image: /images/t47_tokipona/kamasona/t47_kaso06_01.jpg
   text: lon
-- image: "/images/t47_tokipona/kamasona/t47_kaso06_02.jpg"
+- image: /images/t47_tokipona/kamasona/t47_kaso06_02.jpg
   text: tawa
-- image: "/images/t47_tokipona/kamasona/t47_kaso06_04.jpg"
+- image: /images/t47_tokipona/kamasona/t47_kaso06_04.jpg
   text: tan
-- image: "/images/t47_tokipona/kamasona/t47_kaso06_03.jpg"
+- image: /images/t47_tokipona/kamasona/t47_kaso06_03.jpg
   text: kepeken
-- image: "/images/t47_tokipona/kamasona/t47_kaso07_01.jpg"
+- image: /images/t47_tokipona/kamasona/t47_kaso07_01.jpg
   text: sama
+regular_blocks:
+- image: /images/t47_tokipona/kamasona/t47_kaso07_09.jpg
+  text: 'tan ni li nasa.'
+- image: /images/t47_tokipona/kamasona/t47_kaso07_08.jpg
+  text: 'len mute li sama.'
+preposition_examples:
+- image: /images/t47_tokipona/kamasona/t47_kaso07_07.jpg
+  text: 'poka mi li lon suno.'
+- image: /images/t47_tokipona/kamasona/t47_kaso07_06.jpg
+  text: 'mi telo tan ni: mi jaki.'
+- image: /images/t47_tokipona/kamasona/t47_kaso07_05.jpg
+  text: 'ona li lukin sama mi.'
 ---
 
 {% include image_dictionary.html definitions=page.vocabulary %}
@@ -47,8 +59,8 @@ prepositions:
 >* __ona li lon tomo.__ - She is at home.
 >* __waso li tawa sewi.__ - The bird flies into the sky.
 >* __pipi li lon anpa lipu kasi.__ - The bugs are underneath the leaves.
->*
->* The most common directions relative to one's location can be described with _sewi, anpa, sinpin, mosi, insa, and poka_. This list is by no means an exhaustive. _pu_ uses _noka_ instead of _anpa_, and in context many other words can make sense to describe location, and many other ways to describe movement and direction. One word to keep in mind is _weka_.
+>
+>The most common directions relative to one's location can be described with _sewi, anpa, sinpin, mosi, insa, and poka_. This list is by no means an exhaustive. _pu_ uses _noka_ instead of _anpa_, and in context many other words can make sense to describe location, and many other ways to describe movement and direction. One word to keep in mind is _weka_.
 >
 >* __ona li tawa weka__ - They are going away.
 
@@ -62,21 +74,15 @@ We already took a look at lon, tawa, and tan in the last lesson, but there's sti
 
 If they aren't being used as part of a prepositional phrase, they act like normal stacking glyph blocks.
 
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso07_09.jpg" caption="tan ni li nasa." %}
-
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso07_08.jpg" caption="len mute li sama." %}
+{% include image_dictionary.html definitions=page.regular_blocks %}
 
 In _len mute li sama_, there is no object to fill _sama_. In _tan ni li nasa_, _tan_ is part of the subject "the reason".  This works the same for _poka_, when it is used as a noun:
-
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso07_07.jpg" caption="poka mi li lon suno." %}
 
 #### working as prepositional containers
 
 When one of these glyph blocks function as a preposition, or as a combination verb and preposition, they become a container for the rest of the prepositional phrase. The head portion of the glyph can be oriented anywhere is isn’t obstructing the rest of the glyphs.
 
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso07_06.jpg" caption="mi telo tan ni: mi jaki." %}
-
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso07_05.jpg" caption="ona li lukin sama mi." %}
+{% include image_dictionary.html definitions=page.preposition_examples %}
 
 #### using prepositions with li
 
@@ -86,7 +92,7 @@ One thing we haven't covered yet is what to do when your verb is inside of li. L
 
 First the preposition fits into the _li_ container. Then, the object of the preposition and all of the modifiers go inside the preposition glyph.
 
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/prepositions/tan_soweli.jpg" caption="mu li tan soweli ni." %}
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/prepositions/mulitansowelini.jpg" caption="mu li tan soweli ni." %}
 
 You can try drawing the whole unit from the inside out, and even drawing the rest of the sentence after this block has been composed. I usually find I have to try a couple times until I find a composition I’m satisfied with.
 

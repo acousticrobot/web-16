@@ -51,10 +51,10 @@ I still present new vocabulary incrementally, but if you have a grasp of toki po
 
 {:.grammar}
 >### grammar review
->Most lessons will now have a small section on the top that lists where you can find the information covered in the lesson in _pu_, _Pije_, and _Letan_, and a small grammar review for anything not covered within the lesson.
+>Most lessons will now have a small section on the top that lists where you can find the information covered in the lesson in _pu_, _Pije_, and _Letan_, and a small grammar review for anything not covered below.
 >
 
-I am also always looking for clarification on differing positions on the grammar myself, especially as the language evolves. All of your experiences and opinions make this test that much stronger and more palettable to newcomers. Any suggestions are always welcome.
+I am also always looking for clarification on differing positions on the grammar myself, especially as the language evolves. All of your experiences and opinions make this text that much stronger and more palatable to newcomers. Any suggestions are always welcome.
 
 {: .wrapper__center-image}
 ![lipu lawa pi esun kama](/images/t47/t47.200721_1.jpg)

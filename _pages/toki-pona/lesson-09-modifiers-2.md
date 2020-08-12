@@ -31,6 +31,11 @@ ala_verb_examples:
   text: ona li pilin pona ala.
 - image: /images/t47_tokipona/kamasona/t47_kaso08_03.jpg
   text: ni li musi ala!
+taso_examples:
+- image: /images/t47_tokipona/kamasona/modifiers-2/mamalilawaemitaso.jpg
+  text: mama li lawa e mi taso.
+- image: /images/t47_tokipona/kamasona/modifiers-2/jansintasolitoki.jpg
+  text: jan sin taso li toki.
 ala_description_examples:
 - image: /images/t47_tokipona/kamasona/modifiers-2/tomolijakiala.jpg
   text: tomo li jaki ala.
@@ -58,11 +63,17 @@ sin_versions:
 toki_pona_tests:
 - image: /images/t47_tokipona/kamasona/modifiers-2/misonaalaesina.jpg
   text: mi sona ala e sina.
+- image: /images/t47_tokipona/kamasona/modifiers-2/sitelensitelentaso.jpg
+  text: sitelen sitelen taso
+- image: /images/t47_tokipona/kamasona/modifiers-2/aleliante.jpg
+  text: aleliante.
 english_tests:
 - image: /images/t47_tokipona/kamasona/modifiers-2/misonaalaesina.jpg
   text: I don't understand you.
 - image: /images/t47_tokipona/kamasona/modifiers-2/mamasinlipilinnasa.jpg
-  text: the new parent feels out of sorts!
+  text: The new parent feels out of sorts!
+- image: /images/t47_tokipona/kamasona/modifiers-2/jansintasolitoki.jpg
+  text: Only the new person talks.
 english_tests_2:
 - image: /images/t47_tokipona/kamasona/modifiers-2/mianteetomomi.jpg
   text: I changed something about my house / I moved.
@@ -87,7 +98,7 @@ english_tests_2:
 
 ### Inclusion and Exclusion
 
-If you've made it this far, and know enough about toki pona to make sentences with _li_ and _e_ and modify a noun, then I'm going to guess you've heard this at least once: _context matters_.  Usually this means "how you would say that depends on context", but there is another side to this: the speaker actively providing context. This often means not describing exactly what you are talking about, but rather differentiating it enough from other things that what _"it"_ is can be inferred.
+If you've made it this far, then I'm going to guess you've heard this at least once: _"context matters"_.  Usually this means "how you would say that depends on context", but there is another side to this: you the toki pona speaker often need to actively provide context. This may not mean describing exactly what you are talking about, but rather differentiating it enough from other things that what _"it"_ is can be inferred.
 
 There are many ways in toki pona to focus attention down to a subset from a much larger group of possibilities. Once you add prepositions, _la_, and _pi_ to your grammatical arsenal, your strategy will expand tremendously. But with a few more words and your current understanding of modifiers you can already get really far.  In this lesson we are going to focus on how to communicate by including or excluding people, items or qualities from a range of possibilities.
 
@@ -111,13 +122,15 @@ As a modifier I will often flip the _ni_ glyph so it can get right up close to t
 
 As a modifier _sin_ gives the sense of new, another, more
 
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/modifiers-2/onalipalietomosin.jpg" caption="ona li pali e tomo sin." %}
+
 There are two things to note when working with _sin_, one of which you may have already noticed if you have spend much time looking at [the syllabary](/toki-pona/dictionaries/syllabary/). The glyph for sin is the same as it's syllable equivalent, _si_ with a suffix of _n_.
 
 {% include image_dictionary.html definitions=page.sin_versions %}
 
 Take note again of the two variations of _i_ within the glyphs above, and remember that the syllabary presents the simplified version, but both are used interchangeably in the glyph as well as the syllable. Your choice will most likely be determined by how small of a space you are trying to fit it into.
 
-The other thing to note about _sin_ is that it can naturally take on a rectangular proportion, something that we referred to as a short or thin block in [modifiers](/toki-pona/modifiers). As _sin_ is often used as a modifier, you will find comes in quite handy.
+The other thing to note about _sin_ is that it can naturally take on a rectangular proportion, something that we referred to as a short or thin block when first learning about [modifiers](/toki-pona/modifiers). As _sin_ is often used as a modifier, you will find comes in quite handy.
 
 {% include image_and_caption.html image="/images/t47_tokipona/kamasona/modifiers-2/mamasinlipilinnasa.jpg" caption="mama sin li pilin nasa!" %}
 
@@ -135,7 +148,16 @@ Uses as an action, _ante_ marks a difference that exists through time. Be aware 
 
 #### taso
 
-_taso_ as "only", limits the scope down to just what it is modifying.
+_taso_ as a modifier means "only", so it limits the scope down to just what it is modifying.
+
+{% include image_dictionary.html definitions=page.taso_examples %}
+
+mama li lawa e mi taso.
+jan sin taso li toki.
+
+You will see _taso_ used in a lot of toki pona groups to indicate that that group or channel is for interacting only in toki pona.  The _taso_ glyph rotates pretty freely, so if used as a modifier in this way it often sites comfortable on the bottom of the arrangement.
+
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/modifiers-2/tokiponataso.jpg" caption="toki pona taso" %}
 
 
 #### ala
@@ -144,7 +166,7 @@ If you understand how modifiers work then negation shouldn't be too much trouble
 
 If _ala_ modifies the subject, as in _jan ala_ (no one), it comes before _li_ as part of the head noun:
 
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso08_02.jpg" caption="jan ala li sona." %}
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/modifiers-2/janalalisona.jpg" caption="jan ala li sona." %}
 
 To negate a verb, _ala_ comes directly after the verb.  And if it is modifying an action or a state of being infixed in _li_, so is _ala_:
 

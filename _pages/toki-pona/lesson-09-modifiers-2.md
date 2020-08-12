@@ -18,28 +18,28 @@ vocabulary:
 - image: /images/t47_tokipona/nimi/t47_nimi_sin.jpg
   text: sin
 mute_examples:
-- image: /images/t47_tokipona/kamasona/gender/mimutelitoki.jpg
+- image: /images/t47_tokipona/kamasona/modifiers-2/mimutelitoki.jpg
   text: mi mute li toki.
-- image: /images/t47_tokipona/kamasona/gender/sinamutelimamapona.jpg
+- image: /images/t47_tokipona/kamasona/modifiers-2/sinamutelimamapona.jpg
   text: sina mute li mama pona.
-- image: /images/t47_tokipona/kamasona/gender/onamutelinasaala.jpg
+- image: /images/t47_tokipona/kamasona/modifiers-2/onamutelinasaala.jpg
   text: ona mute li nasa ala.
 ala_verb_examples:
-- image: /images/t47_tokipona/kamasona/gender/onalipilinponaala.jpg
+- image: /images/t47_tokipona/kamasona/modifiers-2/onalipilinponaala.jpg
   text: ona li pilin pona ala.
 - image: /images/t47_tokipona/kamasona/t47_kaso08_03.jpg
   text: ni li musi ala!
 ala_description_examples:
-- image: /images/t47_tokipona/kamasona/gender/tomolijakiala.jpg
+- image: /images/t47_tokipona/kamasona/modifiers-2/tomolijakiala.jpg
   text: tomo li jaki ala.
-- image: /images/t47_tokipona/kamasona/gender/mokunilisuwiala.jpg
+- image: /images/t47_tokipona/kamasona/modifiers-2/mokunilisuwiala.jpg
   text: moku ni li suwi ala.
-- image: /images/t47_tokipona/kamasona/gender/miwawaala.jpg
+- image: /images/t47_tokipona/kamasona/modifiers-2/miwawaala.jpg
   text: mi wawa ala.
 ante_examples:
-- image: /images/t47_tokipona/kamasona/gender/jananteliutala.jpg
+- image: /images/t47_tokipona/kamasona/modifiers-2/jananteliutala.jpg
   text: moku ni li lete. moku ante li seli.
-- image: /images/t47_tokipona/kamasona/gender/jananteliutala.jpg
+- image: /images/t47_tokipona/kamasona/modifiers-2/jananteliutala.jpg
   text: jan ante li toki utala.
 ale_examples:
 - image: /images/t47_tokipona/kamasona/t47_kaso08_06.jpg
@@ -54,18 +54,18 @@ sin_versions:
 - image: "/images/t47_tokipona/nimi/t47_nimi_sin.jpg"
   text: sin
 toki_pona_tests:
-- image: /images/t47_tokipona/kamasona/gender/misonaalaesina.jpg
+- image: /images/t47_tokipona/kamasona/modifiers-2/misonaalaesina.jpg
   text: mi sona ala e sina.
-- image: /images/t47_tokipona/kamasona/gender/mijeliteloleteelenjaki.jpg
+- image: /images/t47_tokipona/kamasona/modifiers-2/mijeliteloleteelenjaki.jpg
   text: mije li telo lete e len jaki.
 english_tests:
-- image: /images/t47_tokipona/kamasona/gender/misonaalaesina.jpg
+- image: /images/t47_tokipona/kamasona/modifiers-2/misonaalaesina.jpg
   text: I don't understand you.
-- image: /images/t47_tokipona/kamasona/gender/mijeliteloleteelenjaki.jpg
+- image: /images/t47_tokipona/kamasona/modifiers-2/mijeliteloleteelenjaki.jpg
   text: The man cold washed the dirty clothes.
-- image: /images/t47_tokipona/kamasona/gender/sowelisuli.jpg
+- image: /images/t47_tokipona/kamasona/modifiers-2/sowelisuli.jpg
   text: The adult bear raises many cubs.
-- image: /images/t47_tokipona/kamasona/gender/mamasinlipilinnasa.jpg
+- image: /images/t47_tokipona/kamasona/modifiers-2/mamasinlipilinnasa.jpg
   text: the new parent feels out of sorts.
 ---
 
@@ -120,7 +120,7 @@ Take note again of the two variations of _i_ within the glyphs above, and rememb
 
 The other thing to note about _sin_ is that it can naturally take on a rectangular proportion, something that we referred to as a short or thin block in [modifiers](/toki-pona/modifiers). As _sin_ is often used as a modifier, you will find comes in quite handy.
 
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/gender/mamasinlipilinnasa.jpg" caption="mama sin li pilin nasa" %}
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/modifiers-2/mamasinlipilinnasa.jpg" caption="mama sin li pilin nasa" %}
 
 
 #### translate into toki pona (hover or tab through to reveal the answer):

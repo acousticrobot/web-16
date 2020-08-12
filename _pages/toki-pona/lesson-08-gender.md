@@ -19,6 +19,8 @@ vocabulary:
   text: meli
 - image: /images/t47_tokipona/nimi/t47_nimi_mije.jpg
   text: mije
+- image: /images/t47_tokipona/nimi/t47_nimi_pilin.jpg
+  text: pilin
 - image: /images/t47_tokipona/nimi/t47_nimi_tonsi.jpg
   text: tonsi
 ona_examples:
@@ -43,11 +45,15 @@ mama_examples:
 toki_pona_tests:
 - image: /images/t47_tokipona/kamasona/gender/mijeliteloleteelenjaki.jpg
   text: mije li telo lete e len jaki.
+- image: /images/t47_tokipona/kamasona/gender/meliliseliemokusuwi.jpg
+  text: meli li seli e moku suwi.
+- image: /images/t47_tokipona/kamasona/gender/mamalilenejanlili.jpg
+  text: mama li len e jan lili.
 english_tests:
 - image: /images/t47_tokipona/kamasona/gender/mijeliteloleteelenjaki.jpg
   text: The man cold-washed the dirty clothes.
 - image: /images/t47_tokipona/kamasona/gender/sowelisuli.jpg
-  text: The adult bear raises many cubs.
+  text: The adult animal raises many cubs.
 ---
 
 {% include image_dictionary.html definitions=page.vocabulary %}

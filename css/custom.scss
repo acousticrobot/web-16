@@ -6,4 +6,14 @@ blockquote.grammar {
   ul {
     list-style-type: none;
   }
+  table {
+    text-align: right;
+    line-height: 13px;
+    th {
+      font-weight: 300;
+    }
+    td {
+      width: 40px;
+    }
+  }
 }

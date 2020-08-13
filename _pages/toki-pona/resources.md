@@ -2,7 +2,7 @@
 title: 'toki pona'
 layout: page
 permalink: /toki-pona/about/
-thumb: /images/nav/thumb-toki.png
+thumb: /images/t47_tokipona/toki_pona_logo.png
 tags:
 - toki pona
 - toki pona resources

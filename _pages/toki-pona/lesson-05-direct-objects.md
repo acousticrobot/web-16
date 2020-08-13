@@ -139,8 +139,8 @@ Sometimes the best organization is four blocks of equal size. To avoid ambiguity
 
 One good example of the four block structure is a sentence with two direct objects. They naturally fall into four components:
 
-  * Subject block
-  * Action block
+  * Subject
+  * Action
   * e + Object 1
   * e + Object 2
 

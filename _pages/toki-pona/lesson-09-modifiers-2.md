@@ -106,13 +106,13 @@ There are many ways in toki pona to focus attention down to a subset from a much
 
 #### ale/ali
 
-There may be two ways to spell it, but only one glyph block for _ale/ali_. Just like the modifiers we have already seen, it follows normal block order rules. _ale_ as a head noun implies absolutely everything, as a modifier everything included in the head noun.
+There may be two ways to spell it, but only one glyph block for _ale/ali_. Just like the modifiers we have already seen, it follows normal block order rules. _ale_ as a head noun implies absolutely everything, as a modifier it includes everyone or every instance of the head noun.
 
 {% include image_dictionary.html definitions=page.ale_examples %}
 
 #### ni
 
-We introduced ni when we first started building basic sentences, but it bears reintroducing it here. Not only is it great for pointing out "this one", or "that one", but it also helps join discussion of an object through multiple sentences.
+We introduced _ni_ when we first started building basic sentences, but it bears reintroducing it here. Not only is it great for pointing out "this one", or "that one", but it also helps join discussion of an object through multiple sentences.
 
 {% include image_and_caption.html image="/images/t47_tokipona/kamasona/modifiers-2/milukinepoki.jpg" caption="mi lukin e poki moku sina.  poki ni li jaki. mi telo e ni." %}
 

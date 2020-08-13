@@ -35,10 +35,10 @@ head_names:
 - image: /images/t47_tokipona/kamasona/syllables/matomonujoka.jpg
   text: ma tomo Nujoka
 jan_cartouche:
-- image: /images/t47_tokipona/kamasona/syllables/cjansonja.jpg
-  text: jan Sonja
 - image: /images/t47_tokipona/kamasona/syllables/cjanote.jpg
   text: jan Ote
+- image: /images/t47_tokipona/kamasona/syllables/cjansonja.jpg
+  text: jan Sonja
 - image: /images/t47_tokipona/kamasona/syllables/cjantoni.jpg
   text: jan Toni
 syllable_breaks:

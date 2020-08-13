@@ -22,7 +22,7 @@ vocabulary:
   text: weka
 - image: "/images/t47_tokipona/nimi/t47_nimi_pakala.jpg"
   text: pakala
-commands_examples:
+command_examples:
 - image: /images/t47_tokipona/kamasona/t47_kaso09_25.jpg
   text: 'o toki!'
 - image: /images/t47_tokipona/kamasona/t47_kaso09_26.jpg
@@ -61,8 +61,6 @@ The different uses of _o_ in toki pona are clear cases on their own, but when co
 
 {% include image_dictionary.html definitions=page.command_examples %}
 
----
-
 In this way _o_ works similar to the first sentences we learned to draw with _mi_ or _sina_ as the subject.  _o_ operates in place of the subject, and the verb does not require _li_.
 
 ### o with a subject
@@ -71,7 +69,7 @@ In this way _o_ works similar to the first sentences we learned to draw with _mi
 
 When the sentence has a subject, _o_ functions as a container. The subject glyph and any cartouche attached to it all go within the _o_.
 
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso09_30.jpg" caption="jan Enkitu o moku e moku ni. o moku e telo ni." %}
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/commands/janenkituo.jpg" caption="jan Enkitu o moku e moku ni. o moku e telo ni." %}
 
 It is somewhat different from the containers we have see so far, because when we write the sentence out, the name comes before the _o_. This is an exception to the block order rules.
 

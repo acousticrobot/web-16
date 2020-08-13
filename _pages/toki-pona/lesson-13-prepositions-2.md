@@ -113,7 +113,7 @@ One thing we haven't covered yet is what to do when your verb is inside of li. L
 
 First the preposition fits into the _li_ container. Then, the object of the preposition and all of the modifiers go inside the preposition glyph.
 
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/prepositions/mulitansowelini.jpg" caption="mu li tan soweli ni." %}
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/prepositions/mulitansoweli.jpg" caption="mu li tan soweli ni." %}
 
 You can try drawing the whole unit from the inside out, and even drawing the rest of the sentence after this block has been composed. I usually find I have to try a couple times until I find a composition I’m satisfied with.
 

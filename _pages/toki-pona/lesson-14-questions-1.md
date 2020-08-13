@@ -12,6 +12,16 @@ vocabulary:
   text: ala
 - image: "/images/t47_tokipona/nimi/t47_nmpi_question.jpg"
   text: question mark
+yes_no:
+- image: /images/t47_tokipona/kamasona/t47_kaso08_09.jpg
+  text: 'jan li jo ala jo e wawa?'
+- image: /images/t47_tokipona/kamasona/t47_kaso08_08.jpg
+  text: 'ni li musi ala musi?'
+four_block:
+- image: /images/t47_tokipona/kamasona/t47_kaso08_12.jpg
+  text: 'sina sona ala sona e ni: mi jo e wawa?!'
+- image: /images/t47_tokipona/kamasona/t47_kaso08_11.jpg
+  text: 'mi ken ala ken toki?'
 ---
 
 {% include image_dictionary.html definitions=page.vocabulary %}
@@ -42,9 +52,7 @@ vocabulary:
 
 ### yes / no questions
 
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso08_09.jpg" caption="jan li jo ala jo e wawa?" %}
-
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso08_08.jpg" caption="ni li musi ala musi?" %}
+{% include image_dictionary.html definitions=page.yes_no %}
 
 Just as in Chinese, toki pona has the verb-not-verb structure for yes/no questions. Most of the time ala used in this way will behave normally.
 
@@ -60,10 +68,7 @@ However, if you create a four block structure with the subject-verb-ala-verb, th
 
 The four block are grouped in what would really be a clockwise arrangement.
 
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso08_12.jpg" caption="sina sona ala sona e ni: mi jo e wawa?!" %}
-
-
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso08_11.jpg" caption="mi ken ala ken toki?" %}
+{% include image_dictionary.html definitions=page.four_block %}
 
 The reason for this is to avoid doubling the same verb glyph next to itself. This way they remain separated by ala.
 

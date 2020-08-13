@@ -51,16 +51,18 @@ pi_ala:
 >
 >_The grammar in this lesson is covered in chapter 11 in [pu](https://www.amazon.com/dp/B012M1RLXS), lesson 11 in [Pije](http://tokipona.net/tp/janpije/okamasona.php), and page 9 in [Lentan](https://rnd.neocities.org/tokipona/)._
 >
->the particle _pi_ is used to regroup modifiers.  It requires a minimum of one head noun and two modifiers. _pi_ is inserted between the head noun and the two modifiers.  This indicates that the second modifier modifies the first modifier before the meaning is used to modify the head noun. It is particularly useful when the head noun and first modifier have a meaning unto themselves:
+>the particle _pi_ is used to regroup modifiers.  It requires a minimum of one head noun and two modifiers.
+>
+>_pi_ is inserted between the head noun and the two modifiers.  This indicates that the second modifier modifies the first modifier before the meaning is used to modify the head noun. It is particularly useful when the head noun and first modifier have a meaning unto themselves:
 >
 >* __ma tomo mi__ - [ma tomo][mi] -> my city
 >* ma pi tomo mi - [ma]pi[tomo mi] -> the land (of/around/associated with) my house
 >
-> When you see a noun group with _pi_, do not think of li as meaning _of_! Think of it as a marker that indicates the end of the head noun, and the beginning of a modifier aplied to the head. Figure out the meaning of each half first, and then combine these into a one.
-
-> Note that jan Pije also describes _pi_ as a possessive. This is generally not an accepted use case, especially with a single word after pi. It may be repetitive, but you can avoid this pattern by repeating the head noun:
+> When you see a noun group with _pi_, do not think of li as meaning _of_. Think of it as a marker that indicates the end of the head noun, and the beginning of a modifier applied to the head. Figure out the meaning of each half first, and then combine these into a one.
 >
->* _ike:_ ilo ni li pi sina. -> _pona:_ __ilo ni li ilo sina.__
+> Note that jan Pije also describes _pi_ as a possessive. This is generally not an accepted use case, especially with a single word after pi. You can avoid this pattern by repeating the head noun, or replacing the subject with _ni_:
+>
+>* _ike:_ ilo ni li pi sina. -> _pona:_ __ni li ilo sina.__
 >* _ike:_ kalama musi ni li pi mi. -> _pona:_ __kalama musi ni li kalama mi.__
 
 ### descriptive groupings with pi
@@ -96,7 +98,7 @@ Using _ala_ within _pi_ to express _the opposite of_ also works as you would exp
 
 One of the initial temptations when learning toki pona is to try and distinguish the object you are describing from all other similar things. Raccoon becomes "night dirt eating animal of front hand feet" and you still haven't ruled out the Opossum or Coati. Once you have more than one pi it's often a sign that you are overloading your subject, and having to nest multiple _pi_ containers will probably be more than enough help you put and end to that.
 
-But every once in a while it can't be helped, especially when working both with a possessive and descriptive grouping:
+But every once in a while it can't be helped:
 
 {% include image_and_caption.html image="/images/t47_tokipona/kamasona/pi/t47_kaso11_14.jpg" caption="len pi jan pi lon anpa ma li jaki." %}
 

@@ -103,9 +103,9 @@ In the last lesson, we saw how _li_ works as a container for the predicate in a 
 
 We are now looking at sentences with a subject, action, and an object. This translates into 3 glyph blocks:
 
-  * [S] subject
-  * [A] action (infixed in 'li' if the subject is not mi or sina)
-  * [O] object infixed in e.
+  * Subject
+  * Action (infixed in 'li' if the subject is not mi or sina)
+  * Object infixed in e.
 
 Remember how we move down and to the right? We also want to keep each sentence as compact as possible, not strung out in a long line. Here are two useful arrangements for a three-block sentence:
 
@@ -139,10 +139,10 @@ Sometimes the best organization is four blocks of equal size. To avoid ambiguity
 
 One good example of the four block structure is a sentence with two direct objects. They naturally fall into four components:
 
-  * [S] Subject block
-  * [A] Action block
-  * [O] e + Object 1
-  * [O] e + Object 2
+  * Subject block
+  * Action block
+  * e + Object 1
+  * e + Object 2
 
 By running down the columns, the subject with rest on top of the action, and the objects will stack to the right:
 

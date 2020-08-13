@@ -78,9 +78,9 @@ english_tests:
 >
 >When the subject is anything other than _mi_ or _sina_, the particle _li_ separates the subject from the predicate.
 >
->* __jan li moku__ - _[subj] li [verb]_ - the person eats.
->* __ona li jan__ - _[subj] li [noun]_ - he/she is a person, they are people.
->* __telo li pona__ - _[subj] li [verb]_ - water is good.
+>* __jan li moku__ - _[subj] li [action]_ - the person eats.
+>* __telo li pona__ - _[subj] li [quality]_ - water is good.
+>* __ona li jan__ - _[subj] li [state of being]_ - he/she is a person, they are people.
 >
 >When you see _li_ in a sentence, do not think of it as meaning _is_!  Think of it as a marker that indicates the end of the subject, and the beginning of something about that subject.
 

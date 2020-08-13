@@ -113,7 +113,7 @@ We are going to come back to syllables again, so if you would rather get started
 
 #### single syllable words
 
-As you look though the syllabary, you will see several syllables that are toki pona words by themselves. Here are a few, see if you can figure out which words they are (hover over a spoiler box or click and tab through to reveal the answers):
+As you look though the syllabary, you will see several syllables that are toki pona words by themselves. Here are a few, see if you can figure out which words they are (hover over a spoiler box or tab through to reveal the answers):
 
 {% include image_dictionary.html definitions=page.syllable_words reveal_text='true' %}
 

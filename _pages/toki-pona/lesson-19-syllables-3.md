@@ -84,7 +84,7 @@ These two versions of _ma tomo Uluku_ might look strange on their own, but later
 
 {% include image_dictionary.html definitions=page.syllable_breaks %}
 
-When reading linear text written with one character for each consonant and vowel, it is sometimes easy to forget toki pona is actually a syllabic language.  Remember that only the first syllable can begin without a consonant, even though all syllables can end with _n_.  So make sure if there is a syllable starting with an _n_ that the _n_ is used as a container for the vowel, and not attached to the bottom of another glyph. For example _Tina_ is _jan Ti-na_, not _Tin-a_, and the monkey god Haniman is _soweli sewi A-ni-man_, not _An-i-man_.
+When reading linear text written with one character for each consonant and vowel, it is sometimes easy to forget toki pona is actually a syllabic language.  Remember that only the first syllable can begin without a consonant, even though all syllables can end with _n_.  So make sure if there is a syllable starting with an _n_ that the _n_ is used as a container for the vowel, and not attached to the bottom of another glyph. For example _Toni_ is _jan To-ni_, not _Ton-i_, and the monkey god Haniman is _soweli sewi A-ni-man_, not _An-i-man_.
 
 #### long words are best organized into columns
 
@@ -101,10 +101,9 @@ Lets look at jan Sonja's April Fools day word _kijetesantakalu_ as an extreme ex
 Seven is a prime number so we know right away we won't have a nice regular grid to work with. A single column or row is too long, so our next choice is two or three columns. Lets look at two columns first.
 
 {% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso09_18.jpg" caption="kijete / santakalu" %}
-
 {% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso09_19.jpg" caption="kijetesan / takalu" %}
 
-OK, they're both passable, but you know what bothers me?  Either way the _san_ glyph is going to be squeezed into the column with the extra glyph, and with the _n_ on the bottom it's already a little taller than the others.  Also the _l_ is on the bottom right side, and its hard to stretch it out enough to fill in the space. Either way, the whole block looks like it would fall over to the right.
+OK, they're both passable, but you know what bothers me?  Either way the _san_ glyph is going to be squeezed into the column with the extra glyph, and with the _n_ on the bottom it's already a little taller than the others.  Also the _lu_ is on the bottom right side, and its too thin to fill in the space. Either way, the whole block looks like it would fall over to the right.
 
 Let's try three columns next.  We have three choices now, because one of the three columns will have three glyps.
 
@@ -114,12 +113,12 @@ Let's try three columns next.  We have three choices now, because one of the thr
 
 {% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso09_21.jpg" caption="kije / tesan / takalu" %}
 
-If three glyphs run down in the middle we have the same problem with _san_ so that means the extra glyph is best on the left or right.
+If three glyphs run down in the middle the taller _san_ block is crowded again, so that means the column of three is best on the left or right. I like the version with three glyphs on the left best because that also gives _li_ space to stretch up on the bottom right.
+
+Next I'm going to start stretching the _san_ in the middle out even more and push the _ta_ below it into a rounder shape.  If this really was an official word, we'd be done now, but I'm going to add a cartouche and head glyph.
 
 {% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso09_23.jpg" caption="soweli Kijetesantakalu sketch" %}
 
-I like the version with three glyphs on the left best because that also gives _li_ space to stretch up on the bottom right.  Next I'm going to start stretching the _san_ in the middle out even more and push the _ta_ below it into a rounder shape.  If this really was an official word, we'd be done now, but I'm going to add a cartouche and head glyph.
+I'm drawing this out here in different color pens for demonstration purposes, but you can try doing your sketching with a light colored pencil first, or tracing from your sketches onto a new sheet for the final drawing. As I make the final drawing, I'm going to drop the head down slightly over the top of the cartouche, and fill in the details.
 
 {% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso09_24.jpg" caption="soweli Kijetesantakalu" %}
-
-I'm drawing this out here in different color pens for demonstration purposes, but you can try doing your sketching with a light colored pencil first, or tracing from your sketches onto a new sheet for the final drawing. As I make the final drawing, I'm going to drop the head down slightly over the top of the cartouche, and fill in the details.

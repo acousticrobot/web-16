@@ -92,7 +92,7 @@ Additionally _kulupu_ is used regularly to talk about a community or group of pe
 
 {% include image_dictionary.html definitions=page.mama_examples %}
 
-_mama_ is unusual in sitelen sitelen   in that there are two glyphs for one word. I've added a second glyph for [reasons explained more in depth here]({% post_url 2020-08-07-mi-ante-e-sitelen-tawa-nimi-mama %}). Although there has never been an inherent gender to _mama_, its use has expanded far beyond the examples present in texts when I was first learning toki pona.
+_mama_ is unusual in sitelen sitelen   in that there are two glyphs for one word. I've added a second glyph for [reasons explained more in depth here]({% post_url 2020-08-14-mi-ante-e-sitelen-tawa-nimi-mama %}). Although there has never been an inherent gender to _mama_, its use has expanded far beyond the examples present in texts when I was first learning toki pona.
 
 The older glyph will always be here, it has historical precedent, and in some sentences it can actually add context.  The example sentence in _pu_ is a case in point. But by being figurative and _meli_, it comes loaded with additional pretext, and so I've added the second glyph for uses when one wants to free the image from these constraints.
 

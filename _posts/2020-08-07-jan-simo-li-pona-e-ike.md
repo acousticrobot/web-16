@@ -12,7 +12,7 @@ toki_ike:
 - image: /images/t47_tokipona/kamasona/x_janenkiu.jpg
   text: 'nimi Enki-u li ike'
 - image: /images/t47_tokipona/kamasona/pi/t47_kaso11_12.jpg
-  text: 'toki li ni: kulupu jan ulala, sitelen li ni: kulupu utala'
+  text: 'kulupu jan ulala / kulupu utala'
 ---
 
 > This beautiful drawing from jan Simo describes a couple of errors in the sitelen sitelen lessons that he found.

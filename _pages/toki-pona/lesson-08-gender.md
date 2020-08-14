@@ -2,11 +2,11 @@
 layout: page
 title: Gender and Identity
 sitelen_lessons_index: 7
-permalink: /toki-pona/gender
+permalink: /toki-pona/gender/
 
-url_previous: /toki-pona/modifiers
-# url_next: /toki-pona/nature
-url_next: /toki-pona/modifiers-2
+url_previous: /toki-pona/modifiers/
+# url_next: /toki-pona/nature/
+url_next: /toki-pona/modifiers-2/
 
 vocabulary:
 - image: /images/t47_tokipona/nimi/t47_nimi_kulupu.jpg

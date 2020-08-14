@@ -3,10 +3,10 @@ layout: page
 title: The Body
 sitelen_lessons_index: 21
 index: false
-permalink: /toki-pona/body
+permalink: /toki-pona/body/
 
-url_previous: /toki-pona/art
-url_next: /toki-pona/numbers
+url_previous: /toki-pona/art/
+url_next: /toki-pona/numbers/
 
 vocabulary:
 - image: /images/t47_tokipona/nimi/t47_nimi_ko.jpg

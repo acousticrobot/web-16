@@ -2,11 +2,11 @@
 layout: page
 title: Descriptions and Possessives with pi
 sitelen_lessons_index: 15
-permalink: /toki-pona/pi
+permalink: /toki-pona/pi/
 
-url_previous: /toki-pona/questions-2
-# url_next: /toki-pona/la
-url_next: /toki-pona/syllables-3
+url_previous: /toki-pona/questions-2/
+# url_next: /toki-pona/la/
+url_next: /toki-pona/syllables-3/
 
 vocabulary:
 - image: "/images/t47_tokipona/nimi/t47_nimi_pi.jpg"

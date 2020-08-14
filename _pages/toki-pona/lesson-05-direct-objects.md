@@ -2,10 +2,10 @@
 layout: page
 title: Direct Objects and Multiple Actions
 sitelen_lessons_index: 4
-permalink: /toki-pona/direct-objects
+permalink: /toki-pona/direct-objects/
 
-url_previous: /toki-pona/basic-sentences
-url_next: /toki-pona/block-order
+url_previous: /toki-pona/basic-sentences/
+url_next: /toki-pona/block-order/
 
 vocabulary_row_1:
 - image: "/images/t47_tokipona/nimi/t47_nimi_e.jpg"

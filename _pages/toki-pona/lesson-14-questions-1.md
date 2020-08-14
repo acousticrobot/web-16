@@ -2,10 +2,10 @@
 layout: page
 title: Yes/No Questions
 sitelen_lessons_index: 13
-permalink: /toki-pona/questions-1
+permalink: /toki-pona/questions-1/
 
-url_previous: /toki-pona/prepositions-2
-url_next: /toki-pona/questions-2
+url_previous: /toki-pona/prepositions-2/
+url_next: /toki-pona/questions-2/
 
 vocabulary:
 - image: "/images/t47_tokipona/nimi/t47_nimi_ala.jpg"

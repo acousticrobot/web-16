@@ -2,9 +2,9 @@
 layout: page
 title: Welcome - kama pona
 sitelen_lessons_index: 0
-permalink: /toki-pona/kama-pona
+permalink: /toki-pona/kama-pona/
 
-url_next: /toki-pona/syllables-1
+url_next: /toki-pona/syllables-1/
 ---
 
 {% include image_and_caption.html image="/images/t47_tokipona/tokisona/tokisona21.jpg" caption="wile sona li mute e sona." %}

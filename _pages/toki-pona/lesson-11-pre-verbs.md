@@ -3,10 +3,10 @@ layout: page
 title: Pre-verbs
 sitelen_lessons_index: 10
 index: false
-permalink: /toki-pona/preverbs
+permalink: /toki-pona/preverbs/
 
-url_previous: /toki-pona/commands
-url_next: /toki-pona/prepositions-1
+url_previous: /toki-pona/commands/
+url_next: /toki-pona/prepositions-1/
 
 vocabulary:
 - image: /images/t47_tokipona/nimi/t47_nimi_sona.jpg

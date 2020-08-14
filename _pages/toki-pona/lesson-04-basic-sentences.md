@@ -2,10 +2,10 @@
 layout: page
 title: Basic Sentences
 sitelen_lessons_index: 3
-permalink: /toki-pona/basic-sentences
+permalink: /toki-pona/basic-sentences/
 
-url_previous: /toki-pona/syllables-2
-url_next: /toki-pona/direct-objects
+url_previous: /toki-pona/syllables-2/
+url_next: /toki-pona/direct-objects/
 
 vocabulary:
 - image: "/images/t47_tokipona/nimi/t47_nimi_mi.jpg"

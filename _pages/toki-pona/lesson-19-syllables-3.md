@@ -2,10 +2,10 @@
 layout: page
 title: 'Syllables Part 3: Organizing Syllables'
 sitelen_lessons_index: 18
-permalink: /toki-pona/syllables-3
+permalink: /toki-pona/syllables-3/
 
-url_previous: /toki-pona/la
-# url_next: /toki-pona/conjunctions
+url_previous: /toki-pona/la/
+# url_next: /toki-pona/conjunctions/
 
 syllable_names:
 - image: /images/t47_tokipona/kamasona/syllables/sonja.jpg

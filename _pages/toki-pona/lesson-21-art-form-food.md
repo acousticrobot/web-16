@@ -3,10 +3,10 @@ layout: page
 title: Art, Form, and Food
 sitelen_lessons_index: 20
 index: false
-permalink: /toki-pona/art
+permalink: /toki-pona/art/
 
-url_previous: /toki-pona/conjunctions
-url_next: /toki-pona/body
+url_previous: /toki-pona/conjunctions/
+url_next: /toki-pona/body/
 
 vocabulary:
 - image: /images/t47_tokipona/nimi/t47_nimi_kalama.jpg

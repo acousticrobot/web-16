@@ -2,12 +2,12 @@
 layout: page
 title: Interjections and Commands
 sitelen_lessons_index: 9
-permalink: /toki-pona/commands
+permalink: /toki-pona/commands/
 
-# url_previous: /toki-pona/nature
-url_previous: /toki-pona/modifiers-2
-# url_next: /toki-pona/preverbs
-url_next: /toki-pona/prepositions-1
+# url_previous: /toki-pona/nature/
+url_previous: /toki-pona/modifiers-2/
+# url_next: /toki-pona/preverbs/
+url_next: /toki-pona/prepositions-1/
 
 vocabulary:
 - image: "/images/t47_tokipona/nimi/t47_nimi_a.jpg"

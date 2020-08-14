@@ -2,11 +2,11 @@
 layout: page
 title: "Modifiers 2: Inclusion and Exclusion"
 sitelen_lessons_index: 7
-permalink: /toki-pona/modifiers-2
+permalink: /toki-pona/modifiers-2/
 
-url_previous: /toki-pona/gender
-# url_next: /toki-pona/nature
-url_next: /toki-pona/commands
+url_previous: /toki-pona/gender/
+# url_next: /toki-pona/nature/
+url_next: /toki-pona/commands/
 
 vocabulary:
 - image: /images/t47_tokipona/nimi/t47_nimi_ala.jpg

@@ -2,10 +2,10 @@
 layout: page
 title: 'Syllables Part 2: Combining Syllables and Writing Names'
 sitelen_lessons_index: 2
-permalink: /toki-pona/syllables-2
+permalink: /toki-pona/syllables-2/
 
-url_previous: /toki-pona/syllables-1
-url_next: /toki-pona/basic-sentences
+url_previous: /toki-pona/syllables-1/
+url_next: /toki-pona/basic-sentences/
 
 vocabulary:
 - image: /images/t47_tokipona/nimi/t47_nimi_jan.jpg

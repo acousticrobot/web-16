@@ -2,10 +2,10 @@
 layout: page
 title: Questions using seme
 sitelen_lessons_index: 14
-permalink: /toki-pona/questions-2
+permalink: /toki-pona/questions-2/
 
-url_previous: /toki-pona/questions-1
-url_next: /toki-pona/pi
+url_previous: /toki-pona/questions-1/
+url_next: /toki-pona/pi/
 
 vocabulary:
 - image: "/images/t47_tokipona/nimi/t47_nimi_seme.jpg"

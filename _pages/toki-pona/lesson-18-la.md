@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Preconditions with la
-sitelen_lessons_index: 17
+sitelen_lessons_index: 18
 index: false
 permalink: /toki-pona/la/
 

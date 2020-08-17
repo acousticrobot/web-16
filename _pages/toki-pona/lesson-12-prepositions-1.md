@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Prepositions Part 1
-sitelen_lessons_index: 11
+sitelen_lessons_index: 12
 permalink: /toki-pona/prepositions-1/
 
 # url_previous: /toki-pona/preverbs/

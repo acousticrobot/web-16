@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Questions using seme
-sitelen_lessons_index: 14
+sitelen_lessons_index: 15
 permalink: /toki-pona/questions-2/
 
 url_previous: /toki-pona/questions-1/

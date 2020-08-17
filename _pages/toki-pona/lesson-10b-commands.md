@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Interjections and Commands
-sitelen_lessons_index: 9
+sitelen_lessons_index: 10
 permalink: /toki-pona/commands/
 
 # url_previous: /toki-pona/nature/

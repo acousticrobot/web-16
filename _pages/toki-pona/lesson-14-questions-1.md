@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Yes/No Questions
-sitelen_lessons_index: 13
+sitelen_lessons_index: 14
 permalink: /toki-pona/questions-1/
 
 url_previous: /toki-pona/prepositions-2/

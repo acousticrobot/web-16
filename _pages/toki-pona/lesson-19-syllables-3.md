@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Syllables Part 3: Organizing Syllables'
-sitelen_lessons_index: 18
+sitelen_lessons_index: 19
 permalink: /toki-pona/syllables-3/
 
 url_previous: /toki-pona/la/

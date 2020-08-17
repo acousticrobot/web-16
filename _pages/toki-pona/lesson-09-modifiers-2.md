@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Modifiers 2: Inclusion and Exclusion"
-sitelen_lessons_index: 7
+sitelen_lessons_index: 8
 permalink: /toki-pona/modifiers-2/
 
 url_previous: /toki-pona/gender/

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Conjunctions and Colors
-sitelen_lessons_index: 19
+sitelen_lessons_index: 20
 index: false
 permalink: /toki-pona/conjunctions/
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Art, Form, and Food
-sitelen_lessons_index: 20
+sitelen_lessons_index: 21
 index: false
 permalink: /toki-pona/art/
 

@@ -9,9 +9,9 @@ tags:
 excerpt: sona pi toki pona. links and resources for learning toki pona and engaging with others.
 ---
 
-toki pona is a philosophically minimalist constructed language, created by Sonja Lang.  Versions of it first appeared on line in 2001, and a small but dedicated community of speakers developed around it in the 2000's, mostly around a handful of resources that were linked from her website.  In 2009, Sonja began to develop a formal lesson plan, which was published in 2014.
+toki pona is a philosophically minimalist constructed language, created by Sonja Lang.  Versions of it first appeared on line in 2001, and a small but dedicated community of speakers developed around it in the 2000's, mostly around a handful of resources that were linked from her website.  In 2009, Sonja began to develop a formal lesson plan, which was published in 2014. Many others have written better than I could about the language, it's history and use, so I will not attempt to repeat their work here.
 
-Many others have written better than I could about the language, it's history and use, so I will not attempt to repeat their work here. My interest on this page is to keep a list of resources for others looking to learn.
+This page is where I keep a list of up-to-date resources for others looking to learn.
 
 ### resources
 
@@ -21,9 +21,15 @@ If you know you want to learn toki pona, [Toki Pona The Language of Good](https:
 
 There are a number of lessons on line as well, each with it's own advantages.
 
-[jan Pije's lessons](http://tokipona.net/tp/janpije/learn.php), once the authoritative source for learning toki pona, is still a great place to go.  He gives examples for sentence structures more complicated than a lot of what is presented in the official book.  His lessons were updated in 2015 to better align with Sonja's lessons. Steer clear of PDFs of earlier versions unless you are specifically [looking for historical changes]({% post_url 2020-07-25-historical-experimental-directions %}). His updated examples are easier to understand and more tasteful.
+[jan Lentan's toki pona page](https://rnd.neocities.org/tokipona/) are my new favorite set of on line lessons. One great thing about them is that they compare multiple approaches using toki pona, and lay out the many meanings for each sentence rather than giving one empirical translation. This ends up giving a solid foundation for the different ways people prefer to interpret the grammar.  This could also make it harder to learn toki pona if you are new to it, depending on your learning style. The additional resources alone are another reason to visit the site.
 
-[jan Lentan's toki pona page](https://rnd.neocities.org/tokipona/) has a newer set of lessons. The great thing about these lessons is that they compare multiple approaches using toki pona, and lay out the many meanings for each sentence rather than giving one empirical translation. This ends up giving a solid foundation for the different ways people prefer to interpret the grammar.  This could also make it harder to learn toki pona if you are new to it, depending on your learning style. The additional resources alone are another reason to visit the site.
+[jan Pije's lessons](http://tokipona.net/tp/janpije/learn.php), once the authoritative source for learning toki pona, is still a good place to look.  He gives examples for sentence structures more complicated than a lot of what is presented in the official book.  His lessons were updated in 2015 to better align with Sonja's lessons. Some of his grammatical examples are questionable in more recent toki pona usage, you might want to look [here](https://harphony.tumblr.com/post/189972899625/misconceptions-from-jan-pijes-lessons) and [here](https://github.com/stefichjo/toki-pona/blob/master/pije.md) to clear up any confusion in this regard. Also, steer clear of PDFs of earlier versions unless you are specifically [looking for historical changes]({% post_url 2020-07-25-historical-experimental-directions %}). His updated examples are easier to understand and more tasteful.
+
+#### videos
+
+[jan Misali 12 days of learning toki pona](https://www.youtube.com/watch?reload=9&v=4L-dvvng4Zc). I don't know that I could learn a language well from video lessons, but I know others do and these videos have been a hit for a lot of people. Already knowing toki pona, I find them very easy to watch.
+
+[toki kala -tawa pona](https://www.youtube.com/watch?v=kVslAhkMgPU),  [toki Kala - jan pali](https://www.youtube.com/watch?v=QdRBD7dfdlU), and [toki kala - nasin pona](https://www.youtube.com/watch?v=GcnnnAKyHRk). There are only three videos here, but they are a goldmine if you are looking to hear toki pona, and a lot of it, spoken well.
 
 #### dictionaries
 

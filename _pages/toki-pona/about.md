@@ -29,7 +29,7 @@ There are a number of lessons on line as well, each with it's own advantages.
 
 [jan Misali 12 days of learning toki pona](https://www.youtube.com/watch?reload=9&v=4L-dvvng4Zc). I don't know that I could learn a language well from video lessons, but I know others do and these videos have been a hit for a lot of people. Already knowing toki pona, I find them very easy to watch.
 
-[toki kala -tawa pona](https://www.youtube.com/watch?v=kVslAhkMgPU),  [toki Kala - jan pali](https://www.youtube.com/watch?v=QdRBD7dfdlU), and [toki kala - nasin pona](https://www.youtube.com/watch?v=GcnnnAKyHRk). There are only three videos here, but they are a goldmine if you are looking to hear toki pona, and a lot of it, spoken well.
+[toki kala -tawa pona](https://www.youtube.com/watch?v=kVslAhkMgPU),  [toki kala - jan pali](https://www.youtube.com/watch?v=QdRBD7dfdlU), and [toki kala - nasin pona](https://www.youtube.com/watch?v=GcnnnAKyHRk). There are only three videos here, but they are a goldmine if you are looking to hear toki pona, and a lot of it, spoken well.
 
 #### dictionaries
 

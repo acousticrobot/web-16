@@ -37,6 +37,13 @@ gender_examples:
   text: lawa meli li wawa.
 - image: /images/t47_tokipona/kamasona/gender/kuluputonsilisuli.jpg
   text: kulupu tonsi li suli.
+mute_examples:
+- image: /images/t47_tokipona/kamasona/gender/mimutelimama.jpg
+  text: mi mute li mama.
+- image: /images/t47_tokipona/kamasona/gender/sinamutelilawaejanlili.jpg
+  text: sina mute li lawa e jan lili.
+- image: /images/t47_tokipona/kamasona/gender/onamutelipilinlete.jpg
+  text: ona mute li pilin lete.
 mama_examples:
 - image: /images/t47_tokipona/kamasona/t47_kaso09_13.jpg
   text: jan sonja li mama pi toki pona
@@ -49,11 +56,20 @@ toki_pona_tests:
   text: meli li seli e moku suwi.
 - image: /images/t47_tokipona/kamasona/gender/mamalilenejanlili.jpg
   text: mama li len e jan lili.
+toki_pona_tests_2:
+- image: /images/t47_tokipona/kamasona/gender/mimutelitoki.jpg
+  text: mi mute li toki.
+- image: /images/t47_tokipona/kamasona/gender/sinamutelimamapona.jpg
+  text: sina mute li mama pona.
+- image: /images/t47_tokipona/kamasona/gender/onamuteliasaala.jpg
+  text: ona mute li nasa ala.
 english_tests:
 - image: /images/t47_tokipona/kamasona/gender/mijeliteloleteelenjaki.jpg
   text: The man cold-washed the dirty clothes.
 - image: /images/t47_tokipona/kamasona/gender/sowelisuli.jpg
   text: The adult animal raises many cubs.
+- image: /images/t47_tokipona/kamasona/gender/sinamutelilawaejanlili.jpg
+  text: You all are in charge of the children.
 ---
 
 {% include image_dictionary.html definitions=page.vocabulary %}
@@ -99,6 +115,7 @@ The older glyph will always be here, it has historical precedent, and in some se
 #### translate into toki pona (hover or tab through to reveal the answer):
 
 {% include image_dictionary.html definitions=page.toki_pona_tests reveal_text='true' %}
+{% include image_dictionary.html definitions=page.toki_pona_tests_2 reveal_text='true' %}
 
 #### now compare your English translations to mine:
 

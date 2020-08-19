@@ -71,6 +71,24 @@ ma_ike_jaki_ni_2:
 - image: /images/t47_tokipona/kamasona/t47_kaso05_13.jpg
 - image: /images/t47_tokipona/kamasona/t47_kaso05_16.jpg
 - image: /images/t47_tokipona/kamasona/t47_kaso05_15.jpg
+toki_pona_tests:
+- image: /images/t47_tokipona/kamasona/modifiers/wawasunoliseli.jpg
+  text: wawa suno li seli.
+- image: /images/t47_tokipona/kamasona/modifiers/milukinesitelensina.jpg
+  text: mi lukin e sitelen sina.
+- image: /images/t47_tokipona/kamasona/modifiers/janlililisuwi.jpg
+  text: jan lili li suwi.
+- image: /images/t47_tokipona/kamasona/modifiers/iloletesulilipana.jpg
+  text: ilo lete suli li pana e lete mute.
+english_tests:
+- image: /images/t47_tokipona/kamasona/modifiers/wawasunoliseli.jpg
+  text: Solar energy is hot.
+- image: /images/t47_tokipona/kamasona/modifiers/milukinesitelensina.jpg
+  text: I'm looking at your drawing.
+- image: /images/t47_tokipona/kamasona/modifiers/janlililisuwi.jpg
+  text: The children are sweet.
+- image: /images/t47_tokipona/kamasona/modifiers/iloletesulilipana.jpg
+  text: The big AC gives off a lot of cold.
 ---
 
 {% include image_dictionary.html definitions=page.vocabulary %}
@@ -126,3 +144,11 @@ Here are seven different ways to arrange _ma ike jaki ni_. Which one you would w
 
 {% include image_dictionary.html definitions=page.ma_ike_jaki_ni_1 %}
 {% include image_dictionary.html definitions=page.ma_ike_jaki_ni_2 %}
+
+#### translate into toki pona (hover or tab through to reveal the answer):
+
+{% include image_dictionary.html definitions=page.toki_pona_tests reveal_text='true' %}
+
+#### now compare your English translations to mine:
+
+{% include image_dictionary.html definitions=page.english_tests reveal_text='true' %}

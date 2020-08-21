@@ -69,7 +69,7 @@ english_tests:
 - image: /images/t47_tokipona/kamasona/gender/sowelisuli.jpg
   text: The adult animal raises many cubs.
 - image: /images/t47_tokipona/kamasona/gender/sinamutelilawaejanlili.jpg
-  text: You all are in charge of the children.
+  text: Y'all are in charge of the children.
 ---
 
 {% include image_dictionary.html definitions=page.vocabulary %}

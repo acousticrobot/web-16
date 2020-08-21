@@ -22,6 +22,7 @@ vocabulary:
   text: lili
 - image: /images/t47_tokipona/nimi/t47_nimi_mute.jpg
   text: mute
+vocabulary_2:
 - image: /images/t47_tokipona/nimi/t47_nimi_nasa.jpg
   text: nasa
 - image: /images/t47_tokipona/nimi/t47_nimi_seli.jpg
@@ -88,10 +89,11 @@ english_tests:
 - image: /images/t47_tokipona/kamasona/modifiers/janlililisuwi.jpg
   text: The children are sweet.
 - image: /images/t47_tokipona/kamasona/modifiers/iloletesulilipana.jpg
-  text: The big AC gives off a lot of cold.
+  text: The big freezer produces a lot of cold.
 ---
 
 {% include image_dictionary.html definitions=page.vocabulary %}
+{% include image_dictionary.html definitions=page.vocabulary_2 %}
 
 {:.grammar}
 >### grammar review

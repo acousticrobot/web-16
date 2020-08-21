@@ -66,7 +66,7 @@ toki_pona_tests:
 - image: /images/t47_tokipona/kamasona/modifiers-2/sitelensitelentaso.jpg
   text: sitelen sitelen taso
 - image: /images/t47_tokipona/kamasona/modifiers-2/aleliante.jpg
-  text: aleliante.
+  text: ale li ante.
 english_tests:
 - image: /images/t47_tokipona/kamasona/modifiers-2/misonaalaesina.jpg
   text: I don't understand you.

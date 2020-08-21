@@ -151,8 +151,6 @@ a {
   }
 }
 
-
-
 /**
  * Blockquotes
  */
@@ -167,7 +165,6 @@ blockquote {
   }
 }
 
-
 /**
  * Clearfix
  */
@@ -179,8 +176,6 @@ blockquote {
     clear: both;
   }
 }
-
-
 
 /**
  * Icons
@@ -197,4 +192,12 @@ blockquote {
       fill: $color-grey-8;
     }
   }
+}
+
+dt {
+  font-weight: 700;
+}
+
+dd {
+  padding: 0 0 .5rem 1rem;
 }

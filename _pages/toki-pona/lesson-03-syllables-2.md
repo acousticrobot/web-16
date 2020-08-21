@@ -36,6 +36,7 @@ syllable_words:
   text: ma
 - image: /images/t47_tokipona/kalalili/t47_kalalili_a.jpg
   text: a
+syllable_words_2:
 - image: /images/t47_tokipona/kalalili/t47_kalalili_mi.jpg
   text: mi
 - image: /images/t47_tokipona/kalalili/t47_kalalili_ni.jpg
@@ -116,6 +117,7 @@ We are going to come back to syllables again, so if you would rather get started
 As you look though the syllabary, you will see several syllables that are toki pona words by themselves. Here are a few, see if you can figure out which words they are (hover over a spoiler box or tab through to reveal the answers):
 
 {% include image_dictionary.html definitions=page.syllable_words reveal_text='true' %}
+{% include image_dictionary.html definitions=page.syllable_words_2 reveal_text='true' %}
 
 It is always legitimate to substitute a syllable in for a word glyph block.
 

@@ -35,7 +35,6 @@
 }
 
 .image-dictionary__definition-block {
-
 }
 
 .image-dictionary__image {
@@ -56,7 +55,6 @@
 }
 
 .image-dictionary__text {
-  background-color: $color-background-content;
   @extend .caption;
   text-align: center;
   max-width: 200px;

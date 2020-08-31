@@ -4,7 +4,8 @@ title: 'Syllables Part 3: Organizing Syllables'
 sitelen_lessons_index: 19
 permalink: /toki-pona/syllables-3/
 
-url_previous: /toki-pona/la/
+url_previous: /toki-pona/pi/
+#url_previous: /toki-pona/la/
 # url_next: /toki-pona/conjunctions/
 
 syllable_names:

@@ -23,6 +23,8 @@
 - page: /toki-pona/lesson-11/
   redirect_url: /toki-pona/pi/
 
+- page: /projects/t47/index.html
+  redirect_url: /toki-pona/
 - page: /archive/2012/artworks_laughton-mccry-gilgamesh-page-one.html
   redirect_url: /2012/laughton-mccry-gilgamesh-page-one/
 - page: /archive/2012/artworks_lipu-lawa-pi-esun-kama.html

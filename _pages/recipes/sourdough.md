@@ -2,7 +2,7 @@
 date: 2020-05-09
 index: false
 recipe: true
-title: 'Basic Sourdough (WIP)'
+title: 'Sourdough - basic recipe (WIP)'
 layout: page
 permalink: /recipes/sourdough/
 ---
@@ -31,7 +31,7 @@ Mix 7 min or until it passes the window pane test.
 
 ### Proof
 
-Rise until doubled (3-4 hours), divide in two and shape in banetons.
+Rise until doubled (3-4 hours), divide in two and shape in bannetons.
 
 Rise a second time 2-3 hours.
 
@@ -39,4 +39,6 @@ Rise a second time 2-3 hours.
 
 1 hour before baking preheat oven to 500F.
 
-Standard steam treatment and immediately lower oven to 450F for 20-30 minutes.
+Standard steam treatment and immediately lower oven to 450F for 30-40? minutes.
+
+Aim for 190 internal? (~210 was over-baked)

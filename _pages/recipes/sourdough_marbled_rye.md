@@ -4,7 +4,7 @@ index: false
 recipe: true
 title: 'Sourdough Marbled Rye'
 layout: page
-permalink: /recipes/marble-rye/
+permalink: /recipes/sourdough-marbled-rye/
 ---
 
 Adapted from Peter Reinhart's Marbled Rye. This is an enriched bread,
@@ -44,4 +44,4 @@ Rise a second time until close to the top of the pans (2 hours).
 
 1 hour before baking preheat oven to 475F.
 
-After 5 minutes lower temperature to 375, and bake for 15 minutes.  Lower temperature to 350 and bake for an additional _____ minutes. Final internal temperature should be 190. Aim for a light brown crust, tent with foil if the top starts to brown too early.
+After 5 minutes lower temperature to 375, and bake for 15 minutes.  Lower temperature to 350 and bake for an additional 25-27 minutes. Final internal temperature should be 190. Aim for a light brown crust, tent with foil if the top starts to brown too early.

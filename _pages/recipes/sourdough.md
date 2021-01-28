@@ -43,6 +43,6 @@ Rise a second time 2-3 hours.
 
 1 hour before baking preheat oven to 500F.
 
-Standard steam treatment and immediately lower oven to 450F for 30-45 minutes, depending on size and shape of loaves.
+Standard steam treatment and immediately lower oven to 450F.
 
-Aim for 190 internal
+Aim for 190 internal, check at 25-30 minutes for smaller loaves, 30-40 minutes for larger

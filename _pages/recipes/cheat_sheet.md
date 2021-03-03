@@ -19,9 +19,9 @@ _________ temperature at ________ per lb
 
 ## Chicken, nuggets
 
-  * 4% brine for 1 hour.
+  * 5% brine for 1 hour.
   * flour, egg, breadcrumbs
-  * 450 for 20 minutes
+  * 425 for 15 minutes
 
 ## Egg, coddled
 

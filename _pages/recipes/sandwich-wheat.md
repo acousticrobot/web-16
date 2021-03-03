@@ -7,6 +7,7 @@ layout: page
 permalink: /recipes/sandwich-wheat/
 ---
 
+This is a shaggy dough for soft sandwich bread. It can be made in one day and doesn't require a second rise. Make the starter in the morning, and aim to get the loaves in the oven right after dinner is made, in time to cool and be wrapped.
 
 
 Makes two loaves
@@ -16,32 +17,31 @@ Makes two loaves
 Ferment 4 hours
 
   * 120g sourdough starter (100% hydration)
-  * 240 bread/AP
-  * 472g water
-
+  * 240g AP flour
+  * 240g water
 
 ### Wheat
 
-Make an hour before mixing and cover.
+Make 1 hour before making dough.
 
-  * 170g bulgur
-  * 275g boiling water
+  * 170g bulgur or quinoa
+  * 270g boiling water
 
 ### Dough
 
   * Starter
-  * 225g water
+  * 220g water
   * Bulgur
   * 140g whole wheat bread flour
-  * 480 AP/bread
+  * 480 AP flour
   * 20g milk powder
   * 12g sugar
   * 44g honey
   * 2t yeast
-  * 2T oil
+  * 25g oil
   * 22g salt
 
-Mix and proof 45-60 minutes, shape into two bread pans, rise another 45-60m.
+Mix and divide into two loaf pans, each about 1kg.  Let rise 2 hours
 
 Bake at 350 for 45-55 minutes, internal 210
 

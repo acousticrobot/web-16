@@ -10,12 +10,14 @@ permalink: /recipes/cheat-sheet/
 ## Almonds, brinded and roasted
 
   * in mason jar, cover with boiling water
-  * add salt to make %(12?) brine and shake
-  * roasted at X for 17-20 minutes, stir once or twice
+  * add salt to make %(17?) brine and shake
+  * roasted at 375 for 15-19 minutes, stir once or twice
 
 ## Chicken, roasted
 
-_________ temperature at ________ per lb
+preheat 425
+
+375 at 20 min? per lb
 
 ## Chicken, nuggets
 

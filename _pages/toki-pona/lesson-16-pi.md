@@ -5,7 +5,7 @@ sitelen_lessons_index: 16
 permalink: /toki-pona/pi/
 
 url_previous: /toki-pona/questions-2/
-# url_next: /toki-pona/la/
+# url_next: /toki-pona/topics-of-conversation/
 url_next: /toki-pona/syllables-3/
 
 vocabulary:

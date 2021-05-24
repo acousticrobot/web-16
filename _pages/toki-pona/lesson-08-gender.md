@@ -5,7 +5,6 @@ sitelen_lessons_index: 7
 permalink: /toki-pona/gender/
 
 url_previous: /toki-pona/modifiers/
-# url_next: /toki-pona/nature/
 url_next: /toki-pona/modifiers-2/
 
 vocabulary:

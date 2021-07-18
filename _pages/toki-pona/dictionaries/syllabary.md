@@ -114,7 +114,7 @@ definitions:
 - image: "/images/t47_tokipona/kalalili/t47_kalalili_ni.jpg"
   text: ni
 - image: "/images/t47_tokipona/kalalili/t47_kalalili_no.jpg"
-  text: no
+  text: "no"
 - image: "/images/t47_tokipona/kalalili/t47_kalalili_nu.jpg"
   text: nu
 - image: "/images/t47_tokipona/kalalili/t47_kalalili_nan.jpg"

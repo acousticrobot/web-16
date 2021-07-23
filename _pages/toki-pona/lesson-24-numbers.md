@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Numbers, Joining, and Separating
-sitelen_lessons_index: 23
+sitelen_lessons_index: 24
 index: false
 permalink: /toki-pona/numbers/
 

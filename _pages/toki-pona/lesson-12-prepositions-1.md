@@ -63,7 +63,7 @@ verb_and_prep:
 {:.grammar}
 >### grammar review
 >
->_The grammar in this lesson is covered in chapter 8 in [pu](https://www.amazon.com/dp/B012M1RLXS), lesson 6 in [Pije](http://tokipona.net/tp/janpije/okamasona.php), and page 6 in [Lentan](https://rnd.neocities.org/tokipona/)._
+>_The grammar in this lesson is covered in chapter 8 in [pu](https://www.amazon.com/dp/B012M1RLXS), lesson 6 in [Pije](https://en.wikibooks.org/wiki/Updated_jan_Pije%27s_lessons), and page 6 in [Lentan](https://devurandom.xyz/tokipona/)._
 >
 > There are five words in toki pona that can fulfill the unique role as the head of a prepositional phrase, _kepeken, lon, tan, tawa, and sama._ This words also have roles outside of prepositions, for instance as actions or modifiers. Prepositional phrases can also act as the entire predicate.
 >

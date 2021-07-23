@@ -49,7 +49,7 @@ pi_ala:
 {:.grammar}
 >### grammar review
 >
->_The grammar in this lesson is covered in chapter 11 in [pu](https://www.amazon.com/dp/B012M1RLXS), lesson 11 in [Pije](http://tokipona.net/tp/janpije/okamasona.php), and page 9 in [Lentan](https://rnd.neocities.org/tokipona/)._
+>_The grammar in this lesson is covered in chapter 11 in [pu](https://www.amazon.com/dp/B012M1RLXS), lesson 11 in [Pije](https://en.wikibooks.org/wiki/Updated_jan_Pije%27s_lessons), and page 9 in [Lentan](https://devurandom.xyz/tokipona/)._
 >
 >the particle _pi_ is used to regroup modifiers.  It requires a minimum of one head noun and two modifiers.
 >

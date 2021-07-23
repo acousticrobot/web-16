@@ -73,7 +73,7 @@ directional_nouns_3:
 {:.grammar}
 >### grammar review
 >
->_The grammar in this lesson is covered in chapter 15 in [pu](https://www.amazon.com/dp/B012M1RLXS), lesson 7 in [Pije](http://tokipona.net/tp/janpije/okamasona.php), and page 6 in [Lentan](https://rnd.neocities.org/tokipona/)._
+>_The grammar in this lesson is covered in chapter 15 in [pu](https://www.amazon.com/dp/B012M1RLXS), lesson 7 in [Pije](https://en.wikibooks.org/wiki/Updated_jan_Pije%27s_lessons), and page 6 in [Lentan](https://devurandom.xyz/tokipona/)._
 >
 > Not prepositions in themselves, there are several words that describe location. They can be used frequently with _tawa_, _lon_, and _tan_  to describe going to, existing in or coming from a location relative to the speaker.
 >

@@ -19,7 +19,7 @@ vocabulary:
 {:.grammar}
 >### grammar review
 >
->_The grammar in this lesson is covered in chapter 7 in [pu](https://www.amazon.com/dp/B012M1RLXS), lesson 10 in [Pije](http://tokipona.net/tp/janpije/okamasona.php), and page 7 in [Lentan](https://rnd.neocities.org/tokipona/)._
+>_The grammar in this lesson is covered in chapter 7 in [pu](https://www.amazon.com/dp/B012M1RLXS), lesson 10 in [Pije](https://en.wikibooks.org/wiki/Updated_jan_Pije%27s_lessons), and page 7 in [Lentan](https://devurandom.xyz/tokipona/)._
 >
 >Questions using seme follow a simple pattern. Imagine the question as a statement with one possibly answer, and replace the information you want to know with _seme_.
 >

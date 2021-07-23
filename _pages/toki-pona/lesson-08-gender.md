@@ -75,7 +75,7 @@ english_tests:
 
 {:.grammar}
 >### grammar review
->_The grammar in this lesson is covered in chapters 2, 4 and 6 in [pu](https://www.amazon.com/dp/B012M1RLXS), lessons 9 in [Pije](http://tokipona.net/tp/janpije/okamasona.php), and page 2 [Lentan](https://rnd.neocities.org/tokipona/)._
+>_The grammar in this lesson is covered in chapters 2, 4 and 6 in [pu](https://www.amazon.com/dp/B012M1RLXS), lessons 9 in [Pije](https://en.wikibooks.org/wiki/Updated_jan_Pije%27s_lessons), and page 2 [Lentan](https://devurandom.xyz/tokipona/)._
 >
 > Besides _jan_ and _ona_, there are several words that can work as head nouns and be readily understood as referring to an individual, or a general or specific or group of people. The most common of these is: _meli_, _mije_, and the unofficial word _tonsi_. _kulupu_ works in this capacity as well, but always implies plurality.
 

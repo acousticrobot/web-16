@@ -76,7 +76,7 @@ english_tests_2:
 
 {:.grammar}
 >### grammar review
->_The grammar in this lesson is covered in chapter 5 in [pu](https://www.amazon.com/dp/B012M1RLXS), lesson 3 in [Pije](http://tokipona.net/tp/janpije/okamasona.php), and pages 3-4 in [Lentan](https://rnd.neocities.org/tokipona/)._
+>_The grammar in this lesson is covered in chapter 5 in [pu](https://www.amazon.com/dp/B012M1RLXS), lesson 3 in [Pije](https://en.wikibooks.org/wiki/Updated_jan_Pije%27s_lessons), and pages 3-4 in [Lentan](https://devurandom.xyz/tokipona/)._
 >
 >In the last lesson we saw a single word operating as the predicate.  In this lesson we examine two ways that the predicate can expand. It can offer an object to receive the action, or it can include more than one action.
 >

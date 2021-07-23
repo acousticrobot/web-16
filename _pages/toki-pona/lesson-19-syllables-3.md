@@ -6,7 +6,7 @@ permalink: /toki-pona/syllables-3/
 
 url_previous: /toki-pona/pi/
 #url_previous: /toki-pona/la/
-# url_next: /toki-pona/conjunctions/
+# url_next: /toki-pona/colors/
 
 syllable_names:
 - image: /images/t47_tokipona/kamasona/syllables/sonja.jpg

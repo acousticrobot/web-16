@@ -249,7 +249,7 @@ syllabary_definitions:
 {:.grammar}
 > ### grammar review
 >
->_Syllables are covered in chapter 1 in [pu](https://www.amazon.com/dp/B012M1RLXS), lesson 2 in [Pije](http://tokipona.net/tp/janpije/okamasona.php), and page 0 in [Lentan](https://rnd.neocities.org/tokipona/)._
+>_Syllables are covered in chapter 1 in [pu](https://www.amazon.com/dp/B012M1RLXS), lesson 2 in [Pije](https://en.wikibooks.org/wiki/Updated_jan_Pije%27s_lessons), and page 0 in [Lentan](https://devurandom.xyz/tokipona/)._
 >
 
 ### glyphs can represent whole words, or individual syllables

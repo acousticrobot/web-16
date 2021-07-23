@@ -1,32 +1,24 @@
 ---
 layout: page
-title: Conjunctions and Colors
+title: Colors
 sitelen_lessons_index: 20
 index: false
-permalink: /toki-pona/conjunctions/
+permalink: /toki-pona/colors/
 
 url_previous: /toki-pona/syllables-3/
-url_next: /toki-pona/art/
+url_next: /toki-pona/conjunctions/
 
 vocabulary:
-- image: "/images/t47_tokipona/nimi/t47_nimi_anu.jpg"
-  text: anu
-- image: "/images/t47_tokipona/nimi/t47_nimi_en.jpg"
-  text: en
 - image: "/images/t47_tokipona/nimi/t47_nimi_jelo.jpg"
   text: jelo
-- image: "/images/t47_tokipona/nimi/t47_nimi_kin.jpg"
-  text: kin
 - image: "/images/t47_tokipona/nimi/t47_nimi_kule.jpg"
   text: kule
-- image: "/images/t47_tokipona/nimi/t47_nimi_loje.jpg"
+- image: "/images/t47_tokipona/nimi/t47_nimi_laso.jpg"
   text: laso
 - image: "/images/t47_tokipona/nimi/t47_nimi_loje.jpg"
   text: loje
 - image: "/images/t47_tokipona/nimi/t47_nimi_pimeja.jpg"
   text: pimeja
-- image: "/images/t47_tokipona/nimi/t47_nimi_taso.jpg"
-  text: taso
 - image: "/images/t47_tokipona/nimi/t47_nimi_walo.jpg"
   text: walo
 ---
@@ -37,7 +29,7 @@ vocabulary:
 {:.grammar}
 >### grammar review
 >
->_The grammar in this lesson is covered in chapter 7 in [pu](https://www.amazon.com/dp/B012M1RLXS), lesson 10 in [Pije](http://tokipona.net/tp/janpije/okamasona.php), and page 7 in [Lentan](https://rnd.neocities.org/tokipona/)._
+>_The grammar in this lesson is covered in chapter 7 in [pu](https://www.amazon.com/dp/B012M1RLXS), lesson 10 in [Pije](https://en.wikibooks.org/wiki/Updated_jan_Pije%27s_lessons), and page 7 in [Lentan](https://devurandom.xyz/tokipona/)._
 >
 > If you are asking a question to confirm what you think is true, add _anu seme_ to the end of the sentence.
 >

@@ -40,7 +40,7 @@ The problem with this is that so many of the toki pona words are legitimate modi
 
 ### topics of conversation with e
 
-I really like the [section of jan Lentan's lessons](https://rnd.neocities.org/tokipona/4.html) that introduces this convention so I want to include an example here. He describes using _toki e_ as a way presenting what is being talked about as a direct object.
+I really like the [section of jan Lentan's lessons](https://devurandom.xyz/tokipona/4.html) that introduces this convention so I want to include an example here. He describes using _toki e_ as a way presenting what is being talked about as a direct object.
 
 {% include image_and_caption.html image="/images/t47_tokipona/kamasona/direct_objects/onalitokesi.jpg" caption="ona li toki e sitelen." %}
 

@@ -101,7 +101,7 @@ toki_pona_tests:
 {:.grammar}
 > ### grammar review
 >
->_Proper names are covered in chapter 9 in [pu](https://www.amazon.com/dp/B012M1RLXS), lesson 9 in [Pije](http://tokipona.net/tp/janpije/okamasona.php), and pages 7 and 7a in [Lentan](https://rnd.neocities.org/tokipona/)._
+>_Proper names are covered in chapter 9 in [pu](https://www.amazon.com/dp/B012M1RLXS), lesson 9 in [Pije](https://en.wikibooks.org/wiki/Updated_jan_Pije%27s_lessons), and pages 7 and 7a in [Lentan](https://devurandom.xyz/tokipona/)._
 >
 > To form proper names for people and things in toki pona, a capitalized word in used as a modifier to a head noun.  The capitalized loan word can resemble it's root as much as possible, but should be limited to the syllables we covered in the last lesson.
 >

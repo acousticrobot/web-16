@@ -85,7 +85,7 @@ english_tests_2:
 
 {:.grammar}
 >### grammar review
->_The words in this lesson are covered in the following chapters in [pu](https://www.amazon.com/dp/B012M1RLXS), [Pije](http://tokipona.net/tp/janpije/okamasona.php), and [Lentan](https://rnd.neocities.org/tokipona/)._
+>_The words in this lesson are covered in the following chapters in [pu](https://www.amazon.com/dp/B012M1RLXS), [Pije](https://en.wikibooks.org/wiki/Updated_jan_Pije%27s_lessons), and [Lentan](https://devurandom.xyz/tokipona/)._
 >
 >|  | pu | pi | len  |
 >| ------ | ------ | -----: |

@@ -58,7 +58,7 @@ english_tests:
 {:.grammar}
 > ### grammar review
 >
->_The grammar in this lesson is covered in chapters 2-5 in [pu](https://www.amazon.com/dp/B012M1RLXS), lesson 3 in [Pije](http://tokipona.net/tp/janpije/okamasona.php), and pages 1-3 in [Lentan](https://rnd.neocities.org/tokipona/)._
+>_The grammar in this lesson is covered in chapters 2-5 in [pu](https://www.amazon.com/dp/B012M1RLXS), lesson 3 in [Pije](https://en.wikibooks.org/wiki/Updated_jan_Pije%27s_lessons), and pages 1-3 in [Lentan](https://devurandom.xyz/tokipona/)._
 >
 >Basic sentences about you or me in toki pona consist of two words. The first word is the subject _mi_ or _sina_. The second word is the entire predicate. It describes something about the subject, and can function as a verb, adjective, or noun.
 >

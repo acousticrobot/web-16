@@ -29,8 +29,28 @@ vocabulary:
 {:.grammar}
 >### grammar review
 >
->_The grammar in this lesson is covered in chapter 7 in [pu](https://www.amazon.com/dp/B012M1RLXS), lesson 10 in [Pije](https://en.wikibooks.org/wiki/Updated_jan_Pije%27s_lessons), and page 7 in [Lentan](https://devurandom.xyz/tokipona/)._
+>_The grammar in this lesson is covered in chapter 14 in [pu](https://www.amazon.com/dp/B012M1RLXS), lesson 13 in [Pije](https://en.wikibooks.org/wiki/Updated_jan_Pije%27s_lessons), and page 8 in [Lentan](https://devurandom.xyz/tokipona/)._
 >
-> If you are asking a question to confirm what you think is true, add _anu seme_ to the end of the sentence.
+> the range of singular colors in toki pona is reduced to red, yellow, blue/green, white/light and black/dark
 >
-> __sina moku e kili anu seme?__ - Are you eating a fruit?
+> colors work like any other adjective used to modify a noun:
+>
+> * __mun laso__ -  blue moon
+> * __kon pimeja__ -  dark cloud
+> * __ko walo__ -  white powder, snow
+>
+> They can also be combined with other adjectives, or each other to form other colors or more complicated descriptions
+>
+> * __kili jelo loje__ -  orange fruit
+> * __telo pimeja jaki__ -  filthy dark water
+> * __len laso loje__ -  purple shirt
+>
+> kule can also be used effectively with a modifier to describe other colors:
+>
+> * __kule kasi__ -  grassy green
+> * __oko pi kule ma__ -  brown eyes
+>
+> Ask a toki pona speaker how they would say something is two colors, for example '.' Depending on when and how they learned toki pona, they will give you some very different solutions none of which seem to satisfy everyone. Here is how I might try to say it in a way that doesn't offend anyone's grammar sensitivities:
+>
+> * __walo en pimeja la, len li kule ni.__ - _lit._ black and white, the shirt is these colors.
+

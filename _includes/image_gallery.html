@@ -1,0 +1,21 @@
+{% comment %}
+Output: image gallery
+Parameters:
+- definitions (array):
+    - image: image url
+{% endcomment %}
+
+{% assign definitions = include.definitions %}
+
+<section class="image-gallery">
+  {% for def in definitions %}
+  <div class="image-gallery__image">
+    <div class="image-gallery__hover-text">
+    <img src="{{ def.image }}" alt="{{ def.text }}">
+    <p class="-hover-text">
+      {{ def.text }}
+    </p>
+    </div>
+  </div>
+   {% endfor %}
+</section>

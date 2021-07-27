@@ -121,3 +121,20 @@
     max-width: 120px;
   }
 }
+
+.image-gallery {
+  display: flex;
+  flex-flow: row wrap;
+  .image-gallery__image {
+    max-width: 32%;
+  }
+  .image-gallery__hover-text {
+    .-hover-text {
+      opacity: 0;
+    }
+    &:hover .-hover-text {
+      opacity: 1;
+      transition: opacity 1s;
+    }
+  }
+}

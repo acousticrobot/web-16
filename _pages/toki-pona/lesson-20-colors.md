@@ -2,25 +2,141 @@
 layout: page
 title: Colors
 sitelen_lessons_index: 20
-index: false
+index: true
 permalink: /toki-pona/colors/
 
 url_previous: /toki-pona/syllables-3/
-url_next: /toki-pona/conjunctions/
+# url_next: /toki-pona/conjunctions/
 
 vocabulary:
-- image: "/images/t47_tokipona/nimi/t47_nimi_jelo.jpg"
+- image: '/images/t47_tokipona/nimi/t47_nimi_jelo.jpg'
   text: jelo
-- image: "/images/t47_tokipona/nimi/t47_nimi_kule.jpg"
+- image: '/images/t47_tokipona/nimi/t47_nimi_kule.jpg'
   text: kule
-- image: "/images/t47_tokipona/nimi/t47_nimi_laso.jpg"
+- image: '/images/t47_tokipona/nimi/t47_nimi_laso.jpg'
   text: laso
-- image: "/images/t47_tokipona/nimi/t47_nimi_loje.jpg"
+- image: '/images/t47_tokipona/nimi/t47_nimi_loje.jpg'
   text: loje
-- image: "/images/t47_tokipona/nimi/t47_nimi_pimeja.jpg"
+- image: '/images/t47_tokipona/nimi/t47_nimi_pimeja.jpg'
   text: pimeja
-- image: "/images/t47_tokipona/nimi/t47_nimi_walo.jpg"
+- image: '/images/t47_tokipona/nimi/t47_nimi_walo.jpg'
   text: walo
+sitelen_pi_jan_ante:
+- image: '/images/t47_tokipona/jan_ante/inkepa.aaaalilikamapona.jpg'
+  text: 'jan Inkepa'
+- image: '/images/t47_tokipona/jan_ante/asuta.a.jpg'
+  text: 'jan Asuta'
+- image: '/images/t47_tokipona/jan_ante/asuta.mijoeilosin.jpg'
+  text: 'jan Asuta'
+- image: '/images/t47_tokipona/jan_ante/asuta.nilipona.jpg'
+  text: 'jan Asuta'
+- image: '/images/t47_tokipona/jan_ante/asuta.nimisuliliponamute.jpg'
+  text: 'jan Asuta'
+- image: '/images/t47_tokipona/jan_ante/asuta.sinapalielipu.jpg'
+  text: 'jan Asuta'
+- image: '/images/t47_tokipona/jan_ante/asuta.sinasiteleneni.jpg'
+  text: 'jan Asuta'
+- image: '/images/t47_tokipona/jan_ante/atuli.jan_atuli.jpg'
+  text: 'jan Atuli'
+- image: '/images/t47_tokipona/jan_ante/lilia.sitelensina.jpg'
+  text: 'jan Lilia'
+- image: '/images/t47_tokipona/jan_ante/inkepa.aaa.jpg'
+  text: 'jan Inkepa'
+- image: '/images/t47_tokipona/jan_ante/inkepa.akasipona.jpg'
+  text: 'jan Inkepa'
+- image: '/images/t47_tokipona/jan_ante/inkepa.milukinsitelen.jpg'
+  text: 'jan Inkepa'
+- image: '/images/t47_tokipona/jan_ante/inkepa.awentomo.jpg'
+  text: 'jan Inkepa'
+- image: '/images/t47_tokipona/jan_ante/inkepa.ikea.jpg'
+  text: 'jan Inkepa'
+- image: '/images/t47_tokipona/jan_ante/inkepa.janmute.jpg'
+  text: 'jan Inkepa'
+- image: '/images/t47_tokipona/jan_ante/inkepa.lon.jpg'
+  text: 'jan Inkepa'
+- image: '/images/t47_tokipona/jan_ante/inkepa.lon1.jpg'
+  text: 'jan Inkepa'
+- image: '/images/t47_tokipona/jan_ante/inkepa.alelipona.jpg'
+  text: 'jan Inkepa'
+- image: '/images/t47_tokipona/jan_ante/inkepa.matomopelin.jpg'
+  text: 'jan Inkepa'
+- image: '/images/t47_tokipona/jan_ante/inkepa.mienjanponalimusi.jpg'
+  text: 'jan Inkepa'
+- image: '/images/t47_tokipona/jan_ante/inkepa.milukinelipu.jpg'
+  text: 'jan Inkepa'
+- image: '/images/t47_tokipona/jan_ante/inkepa.mipaliesitelen.jpg'
+  text: 'jan Inkepa'
+- image: '/images/t47_tokipona/jan_ante/inkepa.mipilinike.jpg'
+  text: 'jan Inkepa'
+- image: '/images/t47_tokipona/jan_ante/inkepa.mipilinike2.jpg'
+  text: 'jan Inkepa'
+- image: '/images/t47_tokipona/jan_ante/inkepa.mumumu.jpg'
+  text: 'jan Inkepa'
+- image: '/images/t47_tokipona/jan_ante/inkepa.nilimusitaso.jpg'
+  text: 'jan Inkepa'
+- image: '/images/t47_tokipona/jan_ante/inkepa.pipililililon.jpg'
+  text: 'jan Inkepa'
+- image: '/images/t47_tokipona/jan_ante/inkepa.oawen.jpg'
+  text: 'jan Inkepa'
+- image: '/images/t47_tokipona/jan_ante/inkepa.omamapisitelen.jpg'
+  text: 'jan Inkepa'
+- image: '/images/t47_tokipona/jan_ante/inkepa.omusi.jpg'
+  text: 'jan Inkepa'
+- image: '/images/t47_tokipona/jan_ante/inkepa.nilipona.jpg'
+  text: 'jan Inkepa'
+- image: '/images/t47_tokipona/jan_ante/inkepa.ositelen.jpg'
+  text: 'jan Inkepa'
+- image: '/images/t47_tokipona/jan_ante/inkepa.pilinpona.jpg'
+  text: 'jan Inkepa'
+- image: '/images/t47_tokipona/jan_ante/inkepa.ponatawasina.jpg'
+  text: 'jan Inkepa'
+- image: '/images/t47_tokipona/jan_ante/inkepa.semelisin.jpg'
+  text: 'jan Inkepa'
+- image: '/images/t47_tokipona/jan_ante/inkepa.sememusi.jpg'
+  text: 'jan Inkepa'
+- image: '/images/t47_tokipona/jan_ante/inkepa.sinapilinseme.jpg'
+  text: 'jan Inkepa'
+- image: '/images/t47_tokipona/jan_ante/inkepa.onawilemoku.jpg'
+  text: 'jan Inkepa'
+- image: '/images/t47_tokipona/jan_ante/inkepa.sinapona.jpg'
+  text: 'jan Inkepa'
+- image: '/images/t47_tokipona/jan_ante/inkepa.sinapona2.jpg'
+  text: 'jan Inkepa'
+- image: '/images/t47_tokipona/jan_ante/inkepa.sinaike.jpg'
+  text: 'jan Inkepa'
+- image: '/images/t47_tokipona/jan_ante/inkepa.tasonilipalimute.jpg'
+  text: 'jan Inkepa'
+- image: '/images/t47_tokipona/jan_ante/inkepa.tenponila.jpg'
+  text: 'jan Inkepa'
+- image: '/images/t47_tokipona/jan_ante/inkepa.tenpopimejapinila.jpg'
+  text: 'jan Inkepa'
+- image: '/images/t47_tokipona/jan_ante/inkepa.iloniliponatawakule.jpg'
+  text: 'jan Inkepa'
+- image: '/images/t47_tokipona/jan_ante/morisset.tenposuno.jpg'
+  text: 'jan Morisset'
+- image: '/images/t47_tokipona/jan_ante/nundrum.aaa.jpg'
+  text: 'jan Nundrum'
+- image: '/images/t47_tokipona/jan_ante/nundrum.mijannundrum.jpg'
+  text: 'jan Nundrum'
+- image: '/images/t47_tokipona/jan_ante/nundrum.mikepeken.jpg'
+  text: 'jan Nundrum'
+- image: '/images/t47_tokipona/jan_ante/nundrum.mipona.jpg'
+  text: 'jan Nundrum'
+- image: '/images/t47_tokipona/jan_ante/parcal.aaa.jpg'
+  text: 'jan Parcal'
+- image: '/images/t47_tokipona/jan_ante/saki.tawa_kama.png'
+  text: 'jan Saki'
+- image: '/images/t47_tokipona/jan_ante/saki.janKomalin.png'
+  text: 'jan Saki'
+- image: '/images/t47_tokipona/jan_ante/skymandr.tenposunoni.jpg'
+  text: 'jan Skymandr'
+- image: '/images/t47_tokipona/jan_ante/skymandr.waso.jpg'
+  text: 'jan Skymandr'
+- image: '/images/t47_tokipona/jan_ante/ysmayel.miakesi.jpg'
+  text: 'jan Ysmayel'
+- image: '/images/t47_tokipona/jan_ante/ysmayel.mu.jpg'
+  text: 'jan Ysmayel'
+
 ---
 
 {% include image_dictionary.html definitions=page.vocabulary %}
@@ -50,7 +166,26 @@ vocabulary:
 > * __kule kasi__ -  grassy green
 > * __oko pi kule ma__ -  brown eyes
 >
-> Ask a toki pona speaker how they would say something is two colors, for example '.' Depending on when and how they learned toki pona, they will give you some very different solutions none of which seem to satisfy everyone. Here is how I might try to say it in a way that doesn't offend anyone's grammar sensitivities:
+> Ask a toki pona speaker how they would say something is two colors, and they will give you some very different solutions depending on when and how they learned toki pona. Here is how I might try to say it in a way that doesn't offend anyone's grammar sensitivities:
 >
 > * __walo en pimeja la, len li kule ni.__ - _lit._ black and white, the shirt is these colors.
 
+Having spent the better part of my life studying color, I am tempted to try and write some elaborate color theory lesson here, but I don't think that would be very pona. Instead I want to point out something that has not been mentioned up until now.
+
+I have tried to design these lessons with simple drawings and clean lines. But this focus on readability comes at the sacrifice of artistic expression. There is a whole world of color and creativity left to explore, and this is something that the sitelen suwi community has pushed way beyond my own personal style.  I'm going to give you a couple practice sentences, and then use the rest of this lesson to showcase some of the vibrant sitelen that others have made.
+
+## practice sentences
+
+tenpo pimaja la, seli suno li weka. mun laso li kama lon.
+
+anpa kasi laso la, soweli pimeja li alasa e pipi loje.
+
+waso walo li lon kasi suli. ona li mama. waso lili li kule ma.
+
+oko sina li jelo. taso tenpo ni la ona li pini. lape pona waso lili
+
+## sitelen kule pi jan ante
+
+Most of the following pieces I collected off of the Telegram group, and a few from Discord.  Artists include: jan Asuta, jan Atuli, jan Inkepa, jan Lilia, jan Morisset, jan Nundrum, jan Parcal, jan Saki, jan Skymandr, and jan Ysmayel. If I've miscredited you, or didn't have nimi sina pi toki pona please let me know so I can update this list.
+
+{% include image_gallery.html definitions=page.sitelen_pi_jan_ante %}

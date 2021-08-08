@@ -8,6 +8,8 @@ permalink: /toki-pona/colors/
 url_previous: /toki-pona/syllables-3/
 # url_next: /toki-pona/conjunctions/
 
+toki_pona_tests:
+- image: /images/t47_tokipona/kamasona/colors/wasowalo.jpg
 vocabulary:
 - image: '/images/t47_tokipona/nimi/t47_nimi_jelo.jpg'
   text: jelo
@@ -36,10 +38,14 @@ sitelen_pi_jan_ante:
   text: 'jan Asuta'
 - image: '/images/t47_tokipona/jan_ante/asuta.sinasiteleneni.jpg'
   text: 'jan Asuta'
+- image: '/images/t47_tokipona/jan_ante/asuta.sinaale.jpg'
+  text: 'jan Asuta'
+- image: '/images/t47_tokipona/jan_ante/asuta.sinaantealaante.jpg'
+  text: 'jan Asuta'
+- image: '/images/t47_tokipona/jan_ante/dnq-ink.sitelen.png'
+  text: 'jan Dnq'
 - image: '/images/t47_tokipona/jan_ante/atuli.jan_atuli.jpg'
   text: 'jan Atuli'
-- image: '/images/t47_tokipona/jan_ante/lilia.sitelensina.jpg'
-  text: 'jan Lilia'
 - image: '/images/t47_tokipona/jan_ante/inkepa.aaa.jpg'
   text: 'jan Inkepa'
 - image: '/images/t47_tokipona/jan_ante/inkepa.akasipona.jpg'
@@ -112,18 +118,60 @@ sitelen_pi_jan_ante:
   text: 'jan Inkepa'
 - image: '/images/t47_tokipona/jan_ante/inkepa.iloniliponatawakule.jpg'
   text: 'jan Inkepa'
+- image: '/images/t47_tokipona/jan_ante/inkepa.linjauta.jpg'
+  text: 'jan Inkepa'
+- image: '/images/t47_tokipona/jan_ante/inkepa.kulemutea.jpg'
+  text: 'jan Inkepa'
+- image: '/images/t47_tokipona/jan_ante/inkepa.milape.jpg'
+  text: 'jan Inkepa'
+- image: '/images/t47_tokipona/jan_ante/inkepa.milonlipu.jpg'
+  text: 'jan Inkepa'
+- image: '/images/t47_tokipona/jan_ante/inkepa.milonmusi.jpg'
+  text: 'jan Inkepa'
+- image: '/images/t47_tokipona/jan_ante/inkepa.milontomo.jpg'
+  text: 'jan Inkepa'
+- image: '/images/t47_tokipona/jan_ante/inkepa.mitawanena.jpg'
+  text: 'jan Inkepa'
+- image: '/images/t47_tokipona/jan_ante/inkepa.samaseme.jpg'
+  text: 'jan Inkepa'
+- image: '/images/t47_tokipona/jan_ante/inkepa.sinawilemoku.jpg'
+  text: 'jan Inkepa'
+- image: '/images/t47_tokipona/jan_ante/inkepa.sitelenmute.jpg'
+  text: 'jan Inkepa'
+- image: '/images/t47_tokipona/jan_ante/inkepa.tenposunoni.jpg'
+  text: 'jan Inkepa'
+- image: '/images/t47_tokipona/jan_ante/irina.akesilinja.jpg'
+  text: 'jan Irina'
+- image: '/images/t47_tokipona/jan_ante/irina.janalio.jpg'
+  text: 'jan Irina'
+- image: '/images/t47_tokipona/jan_ante/lilia.sitelensina.jpg'
+  text: 'jan Lilia'
 - image: '/images/t47_tokipona/jan_ante/morisset.tenposuno.jpg'
   text: 'jan Morisset'
 - image: '/images/t47_tokipona/jan_ante/nundrum.aaa.jpg'
-  text: 'jan Nundrum'
+  text: 'jan Nuntun'
 - image: '/images/t47_tokipona/jan_ante/nundrum.mijannundrum.jpg'
-  text: 'jan Nundrum'
+  text: 'jan Nuntun'
 - image: '/images/t47_tokipona/jan_ante/nundrum.mikepeken.jpg'
-  text: 'jan Nundrum'
+  text: 'jan Nuntun'
 - image: '/images/t47_tokipona/jan_ante/nundrum.mipona.jpg'
-  text: 'jan Nundrum'
+  text: 'jan Nuntun'
+- image: '/images/t47_tokipona/jan_ante/nundrum.musimi.jpg'
+  text: 'jan Nuntun'
+- image: '/images/t47_tokipona/jan_ante/nundrum.pilinmi.jpg'
+  text: 'jan Nuntun'
 - image: '/images/t47_tokipona/jan_ante/parcal.aaa.jpg'
   text: 'jan Parcal'
+- image: '/images/t47_tokipona/jan_ante/rolivx.tannilinasa.jpg'
+  text: 'jan Rolivx'
+- image: '/images/t47_tokipona/jan_ante/sam.janaliotoki.jpg'
+  text: 'jan Sam'
+- image: '/images/t47_tokipona/jan_ante/sam.kililoje.jpg'
+  text: 'jan Sam'
+- image: '/images/t47_tokipona/jan_ante/sam.miwilelontomo.jpg'
+  text: 'jan Sam'
+- image: '/images/t47_tokipona/jan_ante/sam.sinapalieseme.jpg'
+  text: 'jan Sam'
 - image: '/images/t47_tokipona/jan_ante/saki.tawa_kama.png'
   text: 'jan Saki'
 - image: '/images/t47_tokipona/jan_ante/saki.janKomalin.png'
@@ -132,11 +180,24 @@ sitelen_pi_jan_ante:
   text: 'jan Skymandr'
 - image: '/images/t47_tokipona/jan_ante/skymandr.waso.jpg'
   text: 'jan Skymandr'
+- image: '/images/t47_tokipona/jan_ante/skymandr.sitelensitelen.jpg'
+  text: 'jan Skymandr'
 - image: '/images/t47_tokipona/jan_ante/ysmayel.miakesi.jpg'
   text: 'jan Ysmayel'
 - image: '/images/t47_tokipona/jan_ante/ysmayel.mu.jpg'
   text: 'jan Ysmayel'
-
+- image: '/images/t47_tokipona/jan_ante/ysmayel.minasa.jpg'
+  text: 'jan Ysmayel'
+- image: '/images/t47_tokipona/jan_ante/ysmayel.mu2.jpg'
+  text: 'jan Ysmayel'
+- image: '/images/t47_tokipona/jan_ante/ysmayel.musilimusaala.jpg'
+  text: 'jan Ysmayel'
+- image: '/images/t47_tokipona/jan_ante/ysmayel.sinalimusi.jpg'
+  text: 'jan Ysmayel'
+- image: '/images/t47_tokipona/jan_ante/ysmayel.tenponila.jpg'
+  text: 'jan Ysmayel'
+- image: '/images/t47_tokipona/jan_ante/lilia.janPuta.jpg'
+  text: 'jan Lilia'
 ---
 
 {% include image_dictionary.html definitions=page.vocabulary %}
@@ -147,15 +208,15 @@ sitelen_pi_jan_ante:
 >
 >_The grammar in this lesson is covered in chapter 14 in [pu](https://www.amazon.com/dp/B012M1RLXS), lesson 13 in [Pije](https://en.wikibooks.org/wiki/Updated_jan_Pije%27s_lessons), and page 8 in [Lentan](https://devurandom.xyz/tokipona/)._
 >
-> the range of singular colors in toki pona is reduced to red, yellow, blue/green, white/light and black/dark
+> The range of singular colors in toki pona is reduced to red, yellow, blue/green, white/light and black/dark.
 >
-> colors work like any other adjective used to modify a noun:
+> Colors work like any other adjective used to modify a noun:
 >
 > * __mun laso__ -  blue moon
 > * __kon pimeja__ -  dark cloud
 > * __ko walo__ -  white powder, snow
 >
-> They can also be combined with other adjectives, or each other to form other colors or more complicated descriptions
+> They can also be combined with other adjectives, or each other to form other colors or more complicated descriptions:
 >
 > * __kili jelo loje__ -  orange fruit
 > * __telo pimeja jaki__ -  filthy dark water
@@ -176,16 +237,12 @@ I have tried to design these lessons with simple drawings and clean lines. But t
 
 ## practice sentences
 
-tenpo pimaja la, seli suno li weka. mun laso li kama lon.
+{% include image_dictionary.html definitions=page.toki_pona_tests %}
 
-anpa kasi laso la, soweli pimeja li alasa e pipi loje.
-
-waso walo li lon kasi suli. ona li mama. waso lili li kule ma.
-
-oko sina li jelo. taso tenpo ni la ona li pini. lape pona waso lili
+_tenpo pimeja la seli suno li weka. mun laso li kama lon. anpa kasi jelo la soweli pimeja li alasa e pipi loje. waso walo li lon kasi suli. oko jelo ona li lukin e waso lili. waso lili li kule ma. oko ona li pini. waso lili o lape pona._
 
 ## sitelen kule pi jan ante
 
-Most of the following pieces I collected off of the Telegram group, and a few from Discord.  Artists include: jan Asuta, jan Atuli, jan Inkepa, jan Lilia, jan Morisset, jan Nundrum, jan Parcal, jan Saki, jan Skymandr, and jan Ysmayel. If I've miscredited you, or didn't have nimi sina pi toki pona please let me know so I can update this list.
+Most of the following pieces I collected off of the Telegram group, and a few from Discord and Reddit.  Artists include: jan Asuta, jan Atuli, Dnq, jan Inkepa, jan Irina, jan Lilia, Morisset, jan Nundrum, Rolivx, Sam, Parcal, jan Saki, Skymandr, and Ysmayel. If I've mis-credited you, or didn't have nimi sina pi toki pona please let me know so I can update this list.
 
 {% include image_gallery.html definitions=page.sitelen_pi_jan_ante %}

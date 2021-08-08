@@ -51,7 +51,7 @@ pi_ala:
 >
 >_The grammar in this lesson is covered in chapter 11 in [pu](https://www.amazon.com/dp/B012M1RLXS), lesson 11 in [Pije](https://en.wikibooks.org/wiki/Updated_jan_Pije%27s_lessons), and page 9 in [Lentan](https://devurandom.xyz/tokipona/)._
 >
->the particle _pi_ is used to regroup modifiers.  It requires a minimum of one head noun and two modifiers.
+>The particle _pi_ is used to regroup modifiers.  It requires a minimum of one head noun and two modifiers.
 >
 >_pi_ is inserted between the head noun and the two modifiers.  This indicates that the second modifier modifies the first modifier before the meaning is used to modify the head noun. It is particularly useful when the head noun and first modifier have a meaning unto themselves:
 >

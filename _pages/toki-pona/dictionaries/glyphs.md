@@ -29,6 +29,8 @@ definitions:
   text: e
 - image: "/images/t47_tokipona/nimi/t47_nimi_en.jpg"
   text: en
+- image: "/images/t47_tokipona/nimi/t47_nimi_epiku.jpg"
+  text: epiku
 - image: "/images/t47_tokipona/nimi/t47_nimi_esun.jpg"
   text: esun
 - image: "/images/t47_tokipona/nimi/t47_nimi_ijo.jpg"
@@ -45,6 +47,8 @@ definitions:
   text: jan
 - image: "/images/t47_tokipona/nimi/t47_nimi_jelo.jpg"
   text: jelo
+- image: "/images/t47_tokipona/nimi/t47_nimi_jasima.jpg"
+  text: jasima
 - image: "/images/t47_tokipona/nimi/t47_nimi_jo.jpg"
   text: jo
 - image: "/images/t47_tokipona/nimi/t47_nimi_kala.jpg"
@@ -59,6 +63,8 @@ definitions:
   text: ken
 - image: "/images/t47_tokipona/nimi/t47_nimi_kepeken.jpg"
   text: kepeken
+- image: "/images/t47_tokipona/nimi/t47_nimi_kijetesantakalu.jpg"
+  text: kijetesantakalu
 - image: "/images/t47_tokipona/nimi/t47_nimi_kili.jpg"
   text: kili
 - image: "/images/t47_tokipona/nimi/t47_nimi_kin.jpg"
@@ -69,6 +75,8 @@ definitions:
   text: kiwen
 - image: "/images/t47_tokipona/nimi/t47_nimi_ko.jpg"
   text: ko
+- image: "/images/t47_tokipona/nimi/t47_nimi_kokosila.jpg"
+  text: kokosila
 - image: "/images/t47_tokipona/nimi/t47_nimi_kon.jpg"
   text: kon
 - image: "/images/t47_tokipona/nimi/t47_nimi_kule.jpg"
@@ -79,6 +87,8 @@ definitions:
   text: kute
 - image: "/images/t47_tokipona/nimi/t47_nimi_la.jpg"
   text: la
+- image: "/images/t47_tokipona/nimi/t47_nimi_lanpan.jpg"
+  text: lanpan
 - image: "/images/t47_tokipona/nimi/t47_nimi_lape.jpg"
   text: lape
 - image: "/images/t47_tokipona/nimi/t47_nimi_laso.jpg"
@@ -87,6 +97,8 @@ definitions:
   text: lawa
 - image: "/images/t47_tokipona/nimi/t47_nimi_len.jpg"
   text: len
+- image: "/images/t47_tokipona/nimi/t47_nimi_leko.jpg"
+  text: leko
 - image: "/images/t47_tokipona/nimi/t47_nimi_lete.jpg"
   text: lete
 - image: "/images/t47_tokipona/nimi/t47_nimi_li.jpg"
@@ -115,18 +127,24 @@ definitions:
   text: mama (alt)
 - image: "/images/t47_tokipona/nimi/t47_nimi_mani.jpg"
   text: mani
+- image: "/images/t47_tokipona/nimi/t47_nimi_meso.jpg"
+  text: meso
 - image: "/images/t47_tokipona/nimi/t47_nimi_meli.jpg"
   text: meli
 - image: "/images/t47_tokipona/nimi/t47_nimi_mi.jpg"
   text: mi
 - image: "/images/t47_tokipona/nimi/t47_nimi_mije.jpg"
   text: mije
+- image: "/images/t47_tokipona/nimi/t47_nimi_misekeke.jpg"
+  text: misekeke
 - image: "/images/t47_tokipona/nimi/t47_nimi_moku.jpg"
   text: moku
 - image: "/images/t47_tokipona/nimi/t47_nimi_moli.jpg"
   text: moli
 - image: "/images/t47_tokipona/nimi/t47_nimi_monsi.jpg"
   text: monsi
+- image: "/images/t47_tokipona/nimi/t47_nimi_monsuta.jpg"
+  text: monsuta
 - image: "/images/t47_tokipona/nimi/t47_nimi_mu.jpg"
   text: mu
 - image: "/images/t47_tokipona/nimi/t47_nimi_mun.jpg"
@@ -135,6 +153,8 @@ definitions:
   text: musi
 - image: "/images/t47_tokipona/nimi/t47_nimi_mute.jpg"
   text: mute
+- image: "/images/t47_tokipona/nimi/t47_nimi_n.jpg"
+  text: n
 - image: "/images/t47_tokipona/nimi/t47_nimi_namako.jpg"
   text: namako
 - image: "/images/t47_tokipona/nimi/t47_nimi_nanpa.jpg"
@@ -209,6 +229,8 @@ definitions:
   text: sinpin
 - image: "/images/t47_tokipona/nimi/t47_nimi_sitelen.jpg"
   text: sitelen
+- image: "/images/t47_tokipona/nimi/t47_nimi_soko.jpg"
+  text: soko
 - image: "/images/t47_tokipona/nimi/t47_nimi_sona.jpg"
   text: sona
 - image: "/images/t47_tokipona/nimi/t47_nimi_soweli.jpg"
@@ -257,5 +279,19 @@ definitions:
   text: weka
 - image: "/images/t47_tokipona/nimi/t47_nimi_wile.jpg"
   text: wile
+second_definitions:
+- image: "/images/t47_tokipona/nimi/t47_nmpi_period.jpg"
+  text: '[.]'
+- image: "/images/t47_tokipona/nimi/t47_nmpi_comma.jpg"
+  text: '[,]'
+- image: "/images/t47_tokipona/nimi/t47_nmpi_exclamation.jpg"
+  text: '[!]'
+- image: "/images/t47_tokipona/nimi/t47_nmpi_question.jpg"
+  text: '[?]'
+- image: "/images/t47_tokipona/nimi/t47_nmpi_colon.jpg"
+  text: '[:]'
+- image: "/images/t47_tokipona/nimi/t47_nmpi_cartouche.jpg"
+  text: '[cartouche]'
+- image: "/images/t47_tokipona/nimi/t47_nmpi_capsule.jpg"
+  text: '[capsule]'
 ---
-

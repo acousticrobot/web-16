@@ -30,9 +30,9 @@ vocabulary:
   text: telo
 - image: "/images/t47_tokipona/nimi/t47_nimi_toki.jpg"
   text: toki
-- image: "/images/t47_tokipona/nimi/t47_nmpi_period2.jpg"
+- image: "/images/t47_tokipona/nimi/t47_nmpi_period.jpg"
   text: period
-- image: "/images/t47_tokipona/nimi/t47_nmpi_exclamation2.jpg"
+- image: "/images/t47_tokipona/nimi/t47_nmpi_exclamation.jpg"
   text: exclamation
 toki_pona_tests:
 - image: /images/t47_tokipona/kamasona/basic/onalipona.jpg

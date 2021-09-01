@@ -11,7 +11,7 @@ url_next: /toki-pona/syllables-1/
 
 ### toki pona
 
-The language toki pona has been around since 2001, and the official toki pona book was published in 2014. I have started a [resource page](/toki-pona/about/) for additional information and links to all things toki pona. If you are new to toki pona, you can find lessons and dictionaries to use along side these lessons.
+The language toki pona has been around since 2001, and the official toki pona book was published in 2014. I have started a [resource page](/toki-pona/about/) for additional information and links to all things toki pona. If you are new to toki pona, you can find lessons and dictionaries to use alongside these lessons.
 
 ### sitelen sitelen, or sitelen suwi
 
@@ -45,7 +45,7 @@ If you have known about the first half of these lessons for some time, and are j
 
 Since then, I have continuously received heartfelt emails where you have taken the time not only to study these lessons but also decipher from the few examples available what has been left unsaid. You have often also requested that I finish the lessons, and as toki pona has maintained and grown a community of people so positive in nature, I can't help but want to give back to it. So it is my pleasure to add again to these lessons and contribute in the best way that I can.
 
-These lessons were origiallny laid out to mirror jan Pije's, but as I began to revise these lessons I realized that freeing myself from that constraint could really help present the material in the best way possible. I have also made an attempt to talk more about the use and grammar of toki pona itself. In part because there are many more texts and alternative lessons to draw from now, and in part because I have more experience and more opinions that I did at the start.
+These lessons were originally laid out to mirror jan Pije's, but as I began to revise these lessons I realized that freeing myself from that constraint could really help present the material in the best way possible. I have also made an attempt to talk more about the use and grammar of toki pona itself. In part because there are many more texts and alternative lessons to draw from now, and in part because I have more experience and more opinions that I did at the start.
 
 I still present new vocabulary incrementally, but if you have a grasp of toki pona you should feel free to skip around and focus on the lessons that fit your learning path.  I have listed my favorite toki pona lessons on the [resource page](/toki-pona/about/), and have tried to blend information from my current three favorite sources: jan Sonja's, jan Pije's, and jan Lentan's, in an order that makes sense for sitelen.
 

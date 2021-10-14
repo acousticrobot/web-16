@@ -4,7 +4,6 @@ title: Bohemian Rhapsody
 excerpt: Jan Iliana li pali e kulupu sitelen sitelen lili pi kalama musi Bohemian Rhapsody
 thumb: /images/t47_tokipona/jan_ante/t47.janIlina.bohemian_s.jpg
 tags:
-- featured
 - toki pona
 - sitelen pi jan ante
 ---

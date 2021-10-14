@@ -5,7 +5,6 @@ excerpt:
   historical use of directional nouns in toki pona and sitelen sitelen
 thumb: /images/t47/t47.120004.jpg
 tags:
-- featured
 - sitelen sitelen
 - toki pona
 ---

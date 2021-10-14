@@ -9,10 +9,13 @@ permalink: /recipes/kraut/
 
 ## brine
 
-  * 1 cup filtered water room temp
-  * 1 1/4 t sea salt
+  * 1 cup of 2% brine solution 
 
 ## base kraut proportions
+
+ * .5% salt per cabbage by weight
+
+original recipe by volume:
 
   * 1 head cabbage (~2 lbs)
   * 1T sea salt

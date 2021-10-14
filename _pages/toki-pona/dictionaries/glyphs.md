@@ -1,6 +1,6 @@
 ---
 layout: dictionary
-title: sitelen suwi ale - the glyphs
+title: sitelen nimi ale - word glyphs
 sitelen_dict_index: 0
 slug: t47_lessons_dict_00
 permalink: /toki-pona/dictionaries/glyphs/

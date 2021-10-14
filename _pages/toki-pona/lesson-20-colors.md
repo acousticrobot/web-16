@@ -7,6 +7,7 @@ permalink: /toki-pona/colors/
 
 url_previous: /toki-pona/syllables-3/
 # url_next: /toki-pona/conjunctions/
+url_next: /toki-pona/acknowledgments/
 
 toki_pona_tests:
 - image: /images/t47_tokipona/kamasona/colors/wasowalo.jpg

@@ -9,17 +9,17 @@ t_tags:
 - sequel
 ---
 
+## sitelen sitelen: acknowledgments and etymology
+
 ### Language is the Legacy of Humanity
 
 When trying to determine just what it is that makes humanity unique, the topic of language never fails to come up. It is the bond that holds societies together, the skill that allows us to share ideas; it is even the code on which our technologies run. When looking to understand the past, language is the remainder that brings the most reward, for nothing can bring the past back to life as vividly as language.
-
 
 #### Hieroglyphics
 
 Although spoken language is in our nature, it is written language that acts as its best preservative. I have always been particularly drawn to written languages where visual symbols represent morphemes, or concrete units of meaning.
 
 I had long wanted to work out a system of drawing that lent itself to language, where composition was determined not by visual principals, but by literary content. The problem that I ran into was always the immense amount of work that would be required in translating an entire language into visual components.
-
 
 #### toki pona
 
@@ -34,7 +34,6 @@ This allowed me to concentrate on unique ways to work on the grammar of the draw
 so with a week or two of practice, anyone with the interest can also learn to write and speak in toki pona.
 
   3. There is already an international community of people who understand toki pona, and the syntax and grammar that these drawings follow.
-
 
 #### Non-linear writing
 

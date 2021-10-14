@@ -3,7 +3,6 @@ title: sitelen sitelen renderer by Olaf Janssen
 excerpt: type in toki pona, and this will translate it into sitelen sitelen for you to download
 thumb: /images/t47_tokipona/jan_ante/t47.janssen_s.png
 tags:
-- featured
 - toki pona
 - sitelen resources
 toki:

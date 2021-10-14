@@ -3,7 +3,6 @@ title: meli pi sitelen sitelen
 excerpt: soweli Luwi li pana e sitelen mute. ona li sitelen meli li lukin sama sitelen sitelen
 thumb: /images/t47_tokipona/jan_ante/soweliLuwi/pona_s.png
 tags:
-- featured
 - toki pona
 - sitelen pi jan ante
 images:

@@ -3,7 +3,6 @@ title: Vectorized sitelen sitelen by jan Sulijen
 excerpt: a set of vectorized sitelen sitelen by jan Sulijen
 thumb: /images/t47_tokipona/jan_ante/t47.janSulijen.proverb_00_s.svg
 tags:
-- featured
 - toki pona
 - sitelen resources
 proverbs:

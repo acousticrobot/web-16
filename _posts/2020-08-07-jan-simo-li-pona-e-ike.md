@@ -3,7 +3,6 @@ title: jan Simo li pona e ike mi
 excerpt: 'jan Simo li pana e pona tawa ike mi. ike li lon lipu pi kama sona e sitelen sitelen. a taso pona ni li pona lukin kin!'
 thumb: /images/t47_tokipona/jan_ante/t47.janSimo.ponaeike_s.png
 tags:
-- featured
 - toki pona
 - sitelen pi jan ante
 toki_ike:

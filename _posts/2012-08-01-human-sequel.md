@@ -23,7 +23,7 @@ I had long wanted to work out a system of drawing that lent itself to language, 
 
 #### toki pona
 
-The solution to this problem came through [toki pona](http://en.tokipona.org), a language invented by Sonja Elen Kisa. As she describes it, “Toki Pona is a simple language designed to express the most, using the least. The entire language has only 123 words and 14 sounds. The grammar, although different from English, is very regular and easy to learn.”
+The solution to this problem came through [toki pona](http://en.tokipona.org), a language invented by Sonja Lang. As she describes it, “Toki Pona is a simple language designed to express the most, using the least. The entire language has only 123 words and 14 sounds. The grammar, although different from English, is very regular and easy to learn.”
 
 toki pona offered me the opportunity to work out a language based drawing for several reasons:
 

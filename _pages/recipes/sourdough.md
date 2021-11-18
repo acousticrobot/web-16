@@ -9,9 +9,15 @@ permalink: /recipes/sourdough/
 
 Makes two smaller or one large loaf.
 
-Basic sourdough aiming for a well kneaded stiffer dough. The dry starter from day one makes for a more sour bread. Substitute wheat or any other flours for up to 10% of the flour on the second day.
+Basic sourdough aiming for a well kneaded stiffer dough. The dry starter from day one makes for a more sour bread. Substitute wheat or any other flours for up to 10% (76g) of the flour on the second day.
 
 Adapted from Peter Reinhart's Basic Sourdough.
+
+#### Bakers percentages
+
+  * flour: 100
+  * water: 57
+  * salt: 2
 
 ### Starter
 
@@ -19,15 +25,15 @@ Adapted from Peter Reinhart's Basic Sourdough.
   * 128g bread flour
   * 30-35g water
 
-Bring starter to room temp ~1 hour before mixing. Add just enough water to for a stiff dough. Allow to ferment 4 hours until double, then refrigerate overnight.
+Bring starter to room temp \~1 hour before mixing. Add just enough water to for a stiff dough. Allow to ferment 4 hours until double, then refrigerate overnight.
 
 ### Dough
 
   * Starter from above
   * 575g bread flour
-  * ~340g water at 90-100F
+  * \~340g water at 90-100F
 
-Bring starter to room temp ~1 hour before mixing, and cut into pieces. Mix with additional flour and water. Rest 20 min. Add:
+Bring starter to room temp \~1 hour before mixing, and cut into pieces. Mix with additional flour and water. Rest 20 min. Add:
 
   * 2t (15g) salt
 
@@ -46,3 +52,4 @@ Rise a second time 2-3 hours.
 Standard steam treatment and immediately lower oven to 450F.
 
 Aim for 190 internal, check at 25-30 minutes for smaller loaves, 30-40 minutes for larger
+

@@ -62,7 +62,7 @@ In 2007 I finally had the pieces I needed to move forward with this project, and
 
 #### toki pona
 
-The initial solution came through [toki pona](http://tokipona.org), a language invented by Sonja Elen Kisa. As she described it at the time:
+The initial solution came through [toki pona](http://tokipona.org), a language invented by Sonja Lang. As she described it at the time:
 
 >Toki Pona is a simple language designed to express the most, using the least. The entire language has only 123 words and 14 sounds. The grammar, although different from English, is very regular and easy to learn.
 

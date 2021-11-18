@@ -25,11 +25,37 @@ vocabulary:
 - image: '/images/t47_tokipona/nimi/t47_nimi_walo.jpg'
   text: walo
 sitelen_pi_jan_ante:
+- image: '/images/t47_tokipona/jan_ante/lipamanka.alilipona.png'
+  text: 'lipamanka'
+- image: '/images/t47_tokipona/jan_ante/lipamanka.miwilemoku.png'
+  text: 'lipamanka'
+- image: '/images/t47_tokipona/jan_ante/lipamanka.olonmaona.png'
+  text: 'lipamanka'
+- image: '/images/t47_tokipona/jan_ante/lipamanka.kuluputaso.png'
+  text: 'lipamanka'
+- image: '/images/t47_tokipona/jan_ante/lipamanka.osonaeni.png'
+  text: 'lipamanka'
+- image: '/images/t47_tokipona/jan_ante/lipamanka.sinaike.png'
+  text: 'lipamanka'
+- image: '/images/t47_tokipona/jan_ante/lipamanka.janlipilin.png'
+  text: 'lipamanka'
+- image: '/images/t47_tokipona/jan_ante/lipamanka.miwileelape.png'
+  text: 'lipamanka'
+- image: '/images/t47_tokipona/jan_ante/lipamanka.pakalalipana.png  '
+  text: 'lipamanka'
+- image: '/images/t47_tokipona/jan_ante/lipamanka.mikenalatokipona.png'
+  text: 'lipamanka'
+- image: '/images/t47_tokipona/jan_ante/lipamanka.soowelilape.png'
+  text: 'lipamanka'
+- image: '/images/t47_tokipona/jan_ante/lipamanka.omokueona.png'
+  text: 'lipamanka'
+- image: '/images/t47_tokipona/jan_ante/lipamanka.niliijopona.png'
+  text: 'lipamanka'
 - image: '/images/t47_tokipona/jan_ante/inkepa.aaaalilikamapona.jpg'
   text: 'jan Inkepa'
-- image: '/images/t47_tokipona/jan_ante/asuta.a.jpg'
-  text: 'jan Asuta'
 - image: '/images/t47_tokipona/jan_ante/asuta.mijoeilosin.jpg'
+  text: 'jan Asuta'
+- image: '/images/t47_tokipona/jan_ante/asuta.a.jpg'
   text: 'jan Asuta'
 - image: '/images/t47_tokipona/jan_ante/asuta.nilipona.jpg'
   text: 'jan Asuta'
@@ -244,6 +270,6 @@ _tenpo pimeja la seli suno li weka. mun laso li kama lon. anpa kasi jelo la sowe
 
 ## sitelen kule pi jan ante
 
-Most of the following pieces I collected off of the Telegram group, and a few from Discord and Reddit.  Artists include: jan Asuta, jan Atuli, Dnq, jan Inkepa, jan Irina, jan Lilia, Morisset, jan Nundrum, Rolivx, Sam, Parcal, jan Saki, Skymandr, and Ysmayel. If I've mis-credited you, or didn't have nimi sina pi toki pona please let me know so I can update this list.
+Most of the following pieces I collected off of the Telegram group, and a few from Discord and Reddit.  Artists include: jan Asuta, jan Atuli, Dnq, jan Inkepa, jan Irina, jan Lilia, lipamanka, Morisset, jan Nundrum, Rolivx, Sam, Parcal, jan Saki, Skymandr, and Ysmayel. If I've mis-credited you, or didn't have nimi sina pi toki pona please let me know so I can update this list.
 
 {% include image_gallery.html definitions=page.sitelen_pi_jan_ante %}

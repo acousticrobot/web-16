@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Prepositions Part 1
-sitelen_lessons_index: 12
+sitelen_lessons_index: 11
 permalink: /toki-pona/prepositions-1/
 
 # url_previous: /toki-pona/preverbs/
-url_previous: /toki-pona/commands/
+url_previous: /toki-pona/modifiers-2/
 url_next: /toki-pona/prepositions-2/
 
 vocabulary:

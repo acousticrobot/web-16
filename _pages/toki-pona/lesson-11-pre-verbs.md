@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pre-verbs
-sitelen_lessons_index: 11
+sitelen_lessons_index: 10
 index: false
 permalink: /toki-pona/preverbs/
 

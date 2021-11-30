@@ -4,7 +4,7 @@ title: Yes/No Questions
 sitelen_lessons_index: 14
 permalink: /toki-pona/questions-1/
 
-url_previous: /toki-pona/prepositions-2/
+url_previous: /toki-pona/commands/
 url_next: /toki-pona/questions-2/
 
 vocabulary:

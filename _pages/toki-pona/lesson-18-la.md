@@ -24,3 +24,5 @@ vocabulary:
 ---
 
 {% include image_dictionary.html definitions=page.vocabulary %}
+
+I don't use this comma glyph as often as I might use a comma when writing, since much of the infixing we are doing serves to group the language just as a comma might.  Also without clauses, toki pona has relatively few uses for commas in general.  Feel free however to use this glyph in the middle of your sentence block structures if you need to break the glyphs up to create a pause or emphasize the block order.

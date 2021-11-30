@@ -6,7 +6,7 @@ permalink: /toki-pona/modifiers-2/
 
 url_previous: /toki-pona/gender/
 # url_next: /toki-pona/nature/
-url_next: /toki-pona/commands/
+url_next: /toki-pona/prepositions-1/
 
 vocabulary:
 - image: /images/t47_tokipona/nimi/t47_nimi_ala.jpg
@@ -54,11 +54,11 @@ ante_examples_2:
 - image: /images/t47_tokipona/kamasona/modifiers-2/kulupusinaliantemute.jpg
   text: kulupu sina li ante mute.
 sin_versions:
-- image: "/images/t47_tokipona/kalalili/t47_kalalili_si.jpg"
+- image: /images/t47_tokipona/kalalili/t47_kalalili_si.jpg
   text: si
-- image: "/images/t47_tokipona/kalalili/t47_kalalili_sin.jpg"
+- image: /images/t47_tokipona/kalalili/t47_kalalili_sin.jpg
   text: sin
-- image: "/images/t47_tokipona/nimi/t47_nimi_sin.jpg"
+- image: /images/t47_tokipona/nimi/t47_nimi_sin.jpg
   text: sin
 toki_pona_tests:
 - image: /images/t47_tokipona/kamasona/modifiers-2/misonaalaesina.jpg
@@ -87,14 +87,14 @@ english_tests_2:
 >### grammar review
 >_The words in this lesson are covered in the following chapters in [pu](https://www.amazon.com/dp/B012M1RLXS), [Pije](https://en.wikibooks.org/wiki/Updated_jan_Pije%27s_lessons), and [Lentan](https://devurandom.xyz/tokipona/)._
 >
->|  | pu | pi | len  |
->| ------ | ------ | -----: |
->| __ala__ |   6|   8|  2  |
->| __ale__ |  12|   8|  2  |
->| __ante__|  16|  12|  5  |
->| __ni__  |   2|   4|  5  |
->| __sin__ |   4|  10|  11 |
->| __taso__|  16|  12|  12 |
+>|         | pu    | pj | len |
+>| ------  | ------| ---:     |
+>| __ala__ |   6   |   8|  2  |
+>| __ale__ |  12   |   8|  2  |
+>| __ante__|  16   |  12|  5  |
+>| __ni__  |   2   |   4|  5  |
+>| __sin__ |   4   |  10|  11 |
+>| __taso__|  16   |  12|  12 |
 
 ### Inclusion and Exclusion
 

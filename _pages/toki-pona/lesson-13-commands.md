@@ -94,6 +94,7 @@ _a_ and _mu_ function as normal blocks, but their special grammatical usage mean
 IMAGE_TODO: interjection_examples: 
   * aaa
   * mu!
+  * pakala a
 {% include image_dictionary.html definitions=page.interjection_examples %}
 
 ### using o
@@ -106,47 +107,57 @@ To use _o_ with commands, the most simple option is to use the glyph with normal
 
 IMAGE_TODO: inline_o_examples: 
   * o toki!
-  * o moku!
+  * o pakala!
+  * o awen!
 {% include image_dictionary.html definitions=page.inline_o_examples %}
 
 In this way _o_ works similar to the first sentences we learned to draw with _mi_ or _sina_ as the subject and without _li_ before the verb. In this case _o_ operates in place of the subject.
+
+#### o as a predicate container
+
+Another option is to use _o_ as a container for the predicate, similar to _li_:
+
+IMAGE_TODO
+* o toki!
+* o pakala!
+* o awen!
 
 #### o as a subject container
 
 When addressing someone, _o_ can function as a container. The subject glyph, including a cartouche if present, all go within the _o_.
 
-It is somewhat different from the containers we have see so far since linearly the name comes before the _o_. This is an exception to the block order rules we have seen so far.
-
-IMAGE_TODO: subject_o_examples: 
-  * jan ami o
+IMAGE_TODO subject_o_examples
+* jan ami o
+* jan sisu o
+* jan lani o
 {% include image_dictionary.html definitions=page.subject_o_examples %}
+
+It is somewhat different from the containers we have see so far since linearly the name comes before the _o_. This is an exception to the block order rules we have seen so far.
 
 <!-- Later on we will see one one other container, _la_, that reverses the block order rules in this way. These exceptions shouldn't be too hard to get used to.  Just remember that the _o_ refers to this subject so the subject rests inside the _o_, just as prepositions refer to the direct objects they contain.
  -->
 
-##### addressing people
+#### addressing people
 
-When we are addressing others, but not giving direct orders, _o_ as a subject container also works well.
+When we are addressing others, but not giving direct orders, _o_ as a subject container works well.
 
 The _o_ is still connected to the person who is being address, so this is what we infix in the _o_. then a comma is added between the o container and the rest of the sentence to make the separation more apparent. Everything that comes after the _o_ is a complete sentence with its own subject, and can follow the normal block order rules.
 
 IMAGE_TODO: 
-  * jan ami o, mi awen e sina
+  * jan sisu o, ilo li pakala.
 
 Just as this comma isn't strictly necessary when writing out the toki pona, you can leave it out here too if you choose.
 
 IMAGE_TODO: 
-  * jan ami o ilo li pakala.
+  * jan lani o mi awen.
 
-#### o as a predicate container
+##### adressing and giving commands
 
-A third option is to use _o_ as a container for the predicate, similar to _li_:
-
-When both addressing someone by name while giving a command, _o_ fulfills two roles, and often this feels like the more natural choice
+When both addressing someone by name while giving a command, _o_ fulfills two roles, and the predicate container often feels like the more natural choice
 
 IMAGE_TODO: predicate_o_examples: 
-  * jan ami o awen e mi 
-  *  soweli o mu!
+  * jan lani o awen e mi.
+  * jan sisu o pakala ala e ilo.
 {% include image_dictionary.html definitions=page.subject_o_examples %}
 
 ### no strict container rules

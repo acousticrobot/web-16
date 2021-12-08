@@ -21,6 +21,8 @@ vocabulary:
   text: open
 - image: "/images/t47_tokipona/nimi/t47_nimi_pini.jpg"
   text: pini
+- image: "/images/t47_tokipona/nimi/t47_nimi_weka.jpg"
+  text: weka
 ---
 
 {% include image_dictionary.html definitions=page.vocabulary %}

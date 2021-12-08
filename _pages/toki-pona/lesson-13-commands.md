@@ -16,47 +16,80 @@ vocabulary:
   text: awen
 - image: "/images/t47_tokipona/nimi/t47_nimi_mu.jpg"
   text: mu
-- image: "/images/t47_tokipona/nimi/t47_nimi_weka.jpg"
-  text: weka
 - image: "/images/t47_tokipona/nimi/t47_nimi_pakala.jpg"
   text: pakala
+
 interjection_examples:
-- image: "/images/t47_tokipona/nimi/t47_nimi_a.jpg"
+- image: "/images/t47_tokipona/kamasona/commands/aaa.png"
   text: "aaa!"
-- image: "/images/t47_tokipona/nimi/t47_nimi_mu.jpg"
+- image: "/images/t47_tokipona/kamasona/commands/mu.png"
   text: "mu!"
-inline_o_examples:
-
-command_examples:
-- image: /images/t47_tokipona/kamasona/t47_kaso09_25.jpg
-  text: 'o toki!'
-- image: /images/t47_tokipona/kamasona/t47_kaso09_25.jpg
-  text: 'o moku!'
-
-subject_o_examples:
-
+- image: "/images/t47_tokipona/kamasona/commands/pakala_a.png"
+  text: "pakala a"
+inline_block_examples:
+- image: "/images/t47_tokipona/kamasona/commands/o_awen.png"
+  text: "o awen"
+- image: "/images/t47_tokipona/kamasona/commands/o_toki.png"
+  text: "o toki"
+- image: "/images/t47_tokipona/kamasona/commands/o_pakalaala.png"
+  text: "o pakala ala"
+o_as_predicate_container_examples:
+- image: "/images/t47_tokipona/kamasona/commands/oawen.png"
+  text: "o awen"
+- image: "/images/t47_tokipona/kamasona/commands/otoki.png"
+  text: "o toki"
+- image: "/images/t47_tokipona/kamasona/commands/opakalaala.png"
+  text: "o pakala ala"
+o_as_subject_container_examples:
+- image: /images/t47_tokipona/kamasona/commands/janomeo.png
+  text: "jan Ome o"
+- image: /images/t47_tokipona/kamasona/commands/janlanio.png
+  text: "jan Lani o"
+- image: /images/t47_tokipona/kamasona/commands/jansukio.png
+  text: "jan Suki o"
+addressing_subject_examples:
+- image: /images/t47_tokipona/kamasona/commands/janlanio_miawen.png
+  text: "jan Lani o, mi awen"
+- image: /images/t47_tokipona/kamasona/commands/jansukio_ilolipakala.png
+  text: "jan Suki o, ilo li pakala"
+addressing_and_giving_commands_examples:
+- image: /images/t47_tokipona/kamasona/commands/jansuki_opakalaalaeilo.png
+  text: "jan Suki o pakala ala e ilo"
+- image: /images/t47_tokipona/kamasona/commands/janlani_oawenemi.png
+  text: "jan Lani o awen e mi"
+o_toki_examples:
+- image: /images/t47_tokipona/kamasona/commands/janome_otoki.png
+  text: "jan Ome o toki!"
+- image: /images/t47_tokipona/kamasona/commands/janomeo_toki.png
+  text: "jan Ome o toki!"
 toki_pona_tests:
-- image: /images/t47_tokipona/kamasona/t47_kaso09_31.jpg 
-  text: "jan Niki o, mama meli li awen e sina."
-- image: /images/t47_tokipona/kamasona/t47_kaso03_07.jpg
-  text: mu a.
-- image: /images/t47_tokipona/kamasona/t47_kaso09_26.jpg
-  text: 'o awen e mama!'
-- image: /images/t47_tokipona/kamasona/t47_kaso09_27.jpg
-  text: 'o kama tawa ma tomo Uluku.'
-- image: /images/t47_tokipona/kamasona/t47_kaso09_28.jpg
-  text: 'jan Epi o a!'
+- image: /images/t47_tokipona/kamasona/commands/omoku.png
+  text: 'o moku!'
+- image: /images/t47_tokipona/kamasona/commands/mua.png
+  text: 'mu a'
 - image: /images/t47_tokipona/kamasona/t47_kaso09_29.jpg
   text: 'soweli Kuti o mu!'
-- image: /images/t47_tokipona/kamasona/commands/janenkituo.jpg
-  text: "jan Enkitu o moku e moku ni. o moku e telo ni."
+- image: /images/t47_tokipona/kamasona/t47_kaso09_28.jpg
+  text: 'jan Epi o a!'
+toki_pona_tests_2:
+- image: /images/t47_tokipona/kamasona/commands/mulitansoweli.jpg
+  text: "mu li tan soweli ni."
+- image: /images/t47_tokipona/kamasona/commands/jannikiomamameli.png
+  text: "jan Niki o, mama meli li awen e sina."
+- image: /images/t47_tokipona/kamasona/commands/oawenemama.png
+  text: 'o awen e mama!'
+toki_pona_tests_kikamesi:
+- image: /images/t47_tokipona/kamasona/t47_kaso09_27.jpg
+  text: 'o kama tawa ma tomo Uluku.'
 - image: /images/t47_tokipona/kamasona/t47_kaso09_32.jpg 
   text: "jan lili mi o, jan Kikamesi li lon ma tomo Uluku."
+- image: /images/t47_tokipona/kamasona/commands/janenkituo_s.jpg
+  text: "jan Enkitu o moku e moku ni. o moku e telo ni."
 english_tests:
-- image: /images/t47_tokipona/kamasona/modifiers/wawasunoliseli.jpg
-  text: Hi Ami!
-- image: /images/t47_tokipona/kamasona/modifiers/milukinesitelensina.jpg
-  text: Talk Ami!
+- image: /images/t47_tokipona/kamasona/commands/janomeo_toki.png
+  text: Hi Ome!
+- image: /images/t47_tokipona/kamasona/commands/janome_otoki.png
+  text: Talk Ome!
 ---
 
 {% include image_dictionary.html definitions=page.vocabulary %}
@@ -89,12 +122,8 @@ english_tests:
 
 ### interjections o and mu
 
-_a_ and _mu_ function as normal blocks, but their special grammatical usage means they can appear in interesting places throughout the sentence blocks.  They are both quite recognizable logograms, so don't be afraid to extend their creative grammatical possibilities to the way you use them.
+_a_ and _mu_ function as normal blocks, but their special grammatical usage means they can appear in interesting places throughout the sentence blocks.  They are both quite recognizable logograms and their meaning is quite interpretive, so don't be afraid to be creative in the way you use them.
 
-IMAGE_TODO: interjection_examples: 
-  * aaa
-  * mu!
-  * pakala a
 {% include image_dictionary.html definitions=page.interjection_examples %}
 
 ### using o
@@ -103,80 +132,65 @@ The different uses of _o_ in toki pona are clear cases on their own, but when co
 
 #### inline block
 
-To use _o_ with commands, the most simple option is to use the glyph with normal block structure rules.
+The most simple option is to use the _o_ glyph with normal block structure rules. Just remember this is always an option for any glyph in any context, to simply revert to inline block rules.
 
-IMAGE_TODO: inline_o_examples: 
-  * o toki!
-  * o pakala!
-  * o awen!
-{% include image_dictionary.html definitions=page.inline_o_examples %}
+{% include image_dictionary.html definitions=page.inline_block_examples %}
 
-In this way _o_ works similar to the first sentences we learned to draw with _mi_ or _sina_ as the subject and without _li_ before the verb. In this case _o_ operates in place of the subject.
+When giving a command an inline _o_ works similar to the first sentences we learned to draw with _mi_ or _sina_ as the subject. Think of _o_ as operating in place of the subject.
 
 #### o as a predicate container
 
-Another option is to use _o_ as a container for the predicate, similar to _li_:
+Another option is to use _o_ as a container for the predicate.
 
-IMAGE_TODO
-* o toki!
-* o pakala!
-* o awen!
+{% include image_dictionary.html definitions=page.o_as_predicate_container_examples %}
+
+When operating as a container for the predicate, you can think of _o_ as following the same block order rules as _li_.
 
 #### o as a subject container
 
-When addressing someone, _o_ can function as a container. The subject glyph, including a cartouche if present, all go within the _o_.
+The third option, when addressing someone, is to use _o_ as a container for the subject. The subject glyph, including a cartouche if present, all go within the _o_.
 
-IMAGE_TODO subject_o_examples
-* jan ami o
-* jan sisu o
-* jan lani o
-{% include image_dictionary.html definitions=page.subject_o_examples %}
+It is different from the containers we have see so far since _o_ is containing the glyphs that come before it.
 
-It is somewhat different from the containers we have see so far since linearly the name comes before the _o_. This is an exception to the block order rules we have seen so far.
+{% include image_dictionary.html definitions=page.o_as_subject_container_examples %}
 
 <!-- Later on we will see one one other container, _la_, that reverses the block order rules in this way. These exceptions shouldn't be too hard to get used to.  Just remember that the _o_ refers to this subject so the subject rests inside the _o_, just as prepositions refer to the direct objects they contain.
  -->
 
-#### addressing people
+### choosing how to use o
+
+#### addressing the subject
 
 When we are addressing others, but not giving direct orders, _o_ as a subject container works well.
 
-The _o_ is still connected to the person who is being address, so this is what we infix in the _o_. then a comma is added between the o container and the rest of the sentence to make the separation more apparent. Everything that comes after the _o_ is a complete sentence with its own subject, and can follow the normal block order rules.
+The _o_ is still connected to the person who is being address, so this is what we infix in the _o_. Everything that comes after the _o_ is a complete sentence with its own subject, and can follow the normal block order rules.
 
-IMAGE_TODO: 
-  * jan sisu o, ilo li pakala.
+When used this way, it is often not necessary to include a comma.
 
-Just as this comma isn't strictly necessary when writing out the toki pona, you can leave it out here too if you choose.
+{% include image_dictionary.html definitions=page.addressing_subject_examples %} 
 
-IMAGE_TODO: 
-  * jan lani o mi awen.
-
-##### adressing and giving commands
+#### addressing and giving commands
 
 When both addressing someone by name while giving a command, _o_ fulfills two roles, and the predicate container often feels like the more natural choice
 
-IMAGE_TODO: predicate_o_examples: 
-  * jan lani o awen e mi.
-  * jan sisu o pakala ala e ilo.
-{% include image_dictionary.html definitions=page.subject_o_examples %}
+{% include image_dictionary.html definitions=page.addressing_and_giving_commands_examples %}
 
 ### no strict container rules
 
 With the many roles that _o_ can play, I have found that absolute rules about when to choose which option don't always work well. Just like so many things in toki pona, context matters, and should be your ultimate guide.  
 
-For instance, look at these two examples. They both translate to _jan Ami o toki!_ but which one would you use for "Hi Ami!" and which for "Talk Ami!"? My choices are in the practice examples below.
- 
-IMAGE_TODO: o_toki_examples: 
-  * jan ami o toki
-  * jan ami o toki
+For instance, look at these two examples. They both translate to _jan Ome o toki!_ but which one would you use for "Hi Ome!" and which for "Talk Ome!"? My choices are in the practice examples below.
+
 {% include image_dictionary.html definitions=page.o_toki_examples %}
 
 #### translate into toki pona (hover or tab through to reveal the answer):
 
-Some of the examples below were taken directly from jan Ote's [jan Kikamesi](http://tokipl.wikidot.com/tptext:jan-kikamesi-1)
-
 {% include image_dictionary.html definitions=page.toki_pona_tests reveal_text='true' %}
 {% include image_dictionary.html definitions=page.toki_pona_tests_2 reveal_text='true' %}
+
+These examples were taken directly from jan Ote's [jan Kikamesi](http://tokipl.wikidot.com/tptext:jan-kikamesi-1):
+
+{% include image_dictionary.html definitions=page.toki_pona_tests_kikamesi reveal_text='true' %}
 
 #### now compare your English translations to mine:
 

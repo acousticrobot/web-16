@@ -25,21 +25,21 @@ interjection_examples:
 - image: "/images/t47_tokipona/kamasona/commands/mu.png"
   text: "mu!"
 - image: "/images/t47_tokipona/kamasona/commands/pakala_a.png"
-  text: "pakala a"
+  text: "pakala a!"
 inline_block_examples:
 - image: "/images/t47_tokipona/kamasona/commands/o_awen.png"
-  text: "o awen"
+  text: "o awen."
 - image: "/images/t47_tokipona/kamasona/commands/o_toki.png"
-  text: "o toki"
+  text: "o toki."
 - image: "/images/t47_tokipona/kamasona/commands/o_pakalaala.png"
-  text: "o pakala ala"
+  text: "o pakala ala."
 o_as_predicate_container_examples:
 - image: "/images/t47_tokipona/kamasona/commands/oawen.png"
-  text: "o awen"
+  text: "o awen."
 - image: "/images/t47_tokipona/kamasona/commands/otoki.png"
-  text: "o toki"
+  text: "o toki."
 - image: "/images/t47_tokipona/kamasona/commands/opakalaala.png"
-  text: "o pakala ala"
+  text: "o pakala ala."
 o_as_subject_container_examples:
 - image: /images/t47_tokipona/kamasona/commands/janomeo.png
   text: "jan Ome o"
@@ -49,14 +49,14 @@ o_as_subject_container_examples:
   text: "jan Suki o"
 addressing_subject_examples:
 - image: /images/t47_tokipona/kamasona/commands/janlanio_miawen.png
-  text: "jan Lani o, mi awen"
+  text: "jan Lani o, mi awen."
 - image: /images/t47_tokipona/kamasona/commands/jansukio_ilolipakala.png
-  text: "jan Suki o, ilo li pakala"
+  text: "jan Suki o, ilo li pakala."
 addressing_and_giving_commands_examples:
 - image: /images/t47_tokipona/kamasona/commands/jansuki_opakalaalaeilo.png
-  text: "jan Suki o pakala ala e ilo"
+  text: "jan Suki o pakala ala e ilo. "
 - image: /images/t47_tokipona/kamasona/commands/janlani_oawenemi.png
-  text: "jan Lani o awen e mi"
+  text: "\tjan Lani o awen e mi."
 o_toki_examples:
 - image: /images/t47_tokipona/kamasona/commands/janome_otoki.png
   text: "jan Ome o toki!"
@@ -64,11 +64,11 @@ o_toki_examples:
   text: "jan Ome o toki!"
 toki_pona_tests:
 - image: /images/t47_tokipona/kamasona/commands/omoku.png
-  text: 'o moku!'
+  text: 'o moku.'
 - image: /images/t47_tokipona/kamasona/commands/mua.png
   text: 'mu a'
-- image: /images/t47_tokipona/kamasona/t47_kaso09_29.jpg
-  text: 'soweli Kuti o mu!'
+- image: /images/t47_tokipona/kamasona/commands/soweliatulo.png
+  text: 'soweli Atulo o mu!'
 - image: /images/t47_tokipona/kamasona/t47_kaso09_28.jpg
   text: 'jan Epi o a!'
 toki_pona_tests_2:
@@ -77,7 +77,7 @@ toki_pona_tests_2:
 - image: /images/t47_tokipona/kamasona/commands/jannikiomamameli.png
   text: "jan Niki o, mama meli li awen e sina."
 - image: /images/t47_tokipona/kamasona/commands/oawenemama.png
-  text: 'o awen e mama!'
+  text: 'o awen e mama.'
 toki_pona_tests_kikamesi:
 - image: /images/t47_tokipona/kamasona/t47_kaso09_27.jpg
   text: 'o kama tawa ma tomo Uluku.'

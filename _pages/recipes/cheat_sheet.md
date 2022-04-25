@@ -46,8 +46,17 @@ add 1/4c olive oil after rubbing chicken
 
 _ref:6SJF_
 
-## Refrigerator Pickles
+## Pizza dough
 
+  * 360g flour
+  * 230g water
+  * 16g salt
+  * 0.66g yeast
+
+24 hours at room temperature, ~36 additional hours fridge, ~5 hours before baking shape and rest at room temp 
+
+
+## Refrigerator Pickles
 
   * 1/3c rice vinegar
   * 1T white wine
@@ -57,6 +66,19 @@ _ref:6SJF_
 
 _ref:6SJF_
 
+## Waffle Cones
+
+  * 1 whole egg
+  * 1 egg white
+  * 1⁄4 teaspoon salt
+  * 1⁄4 cup granulated sugar
+  * 2⁄3 cup sifted all-purpose flour
+  * 2 tablespoons butter melted and cooled slightly
+  
+  * beat eggs and salt
+  * add sugar 1 minute
+  * incorporate flour and remove lumps
+  * Spoon 3 tablespoons (1 1⁄2 ounces) of batter per waffle
 
 ### References
 

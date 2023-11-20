@@ -1,9 +1,10 @@
 archive/**/images/**
+_site/**/images/**
+_site/images
 .DS_Store
 .jekyll-cache/
 .sass-cache
 _drafts
-_site
 documents/*
 sftp-config.json
 utilities/inbox/*

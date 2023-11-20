@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>New Site Launching for 2016</title>
+  <meta name="description" content="I'm completely rebuilding this site from the ground up. I've simplified a lot of things, but added a bunch of features in the process. Read about the changes...">
+
+  <link rel="shortcut icon" href="/images/favicon.png">
+  <link rel="stylesheet" href="/css/main_200814.css">
+  <link rel="canonical" href="http://0.0.0.0:4000/2015/new-site-launching/">
+  <link rel="alternate" type="application/rss+xml" title="Jonathan Gabel" href="http://0.0.0.0:4000/feed.xml" />
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-L4QDZ7LV13"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-L4QDZ7LV13');
+</script>
+
+</head>
+
+
+  <body >
+
+
+    <section class="wrapper__page ">
+
+      <header id="site-header">
+    <h1 class="site-header__title"><a href="/">Jonathan Gabel</a></h1>
+    <nav id="site-header__nav">
+      <ul>
+        
+        <li><a href="/archive/">Archive</a></li>
+        
+        <li><a href="/about/">About</a></li>
+        
+        <li><a href="/artworks/">artworks</a></li>
+        
+        <li><a href="/sitemap/">sitemap</a></li>
+        
+        <li><a href="/tags/">tags</a></li>
+        
+      </ul>
+    </nav>
+</header>
+
+      
+
+
+      <div class="wrapper__content ">
+      <header>
+  <h1 class="content__title">New Site Launching for 2016</h1>
+  <p class="content__sub-title">Dec 4, 2015</p>
+</header>
+
+<article>
+  <h2 id="why-im-changing-this-site">Why I’m changing this site</h2>
+
+<p>I’m rebuilding this site using <a href="http://jekyllrb.com/">Jekyll</a>, in the hope that I’ll be actively updating it. For years now I’ve had my site running as a self hosted WordPress site.  I learned a lot building in back in 2012, but there were aspects of the site that kept me from using it on a regular basis.</p>
+
+<p>Back when I build the Wordpress version, I spend a great deal of time customizing the behavior, and really enjoyed how far I could push my own theme beyond the default blogging platform at its base. Besides the active support community, the really impressive thing about Wordpress is how far something that was originally meant for blogging can be extended into a customized content management system.</p>
+
+<p>This is where it also breaks down for me though. It’s one thing to build a CMS for someone else, so they can go on to fill in the content without needing to touch the code. When I’m building it for myself though, why not cut to the chase and create the content along with the site itself? By having the content right in the codebase I can manage all aspects of the site from one place. Rather than having to log in to a remote site, and then remain confined to a WYSIWYG content editor, I can do it all in a text editor on my laptop. Rather than manage a SQL database and rely on database backups for transferring content, I can store everything on <a href="https://github.com/acousticRobot/web-16">Github</a>.</p>
+
+<h3 id="simplify-simplify-simplify">Simplify, Simplify, Simplify</h3>
+
+<p>Streamlining the development is part of a more general goal to simplify all aspects of the site. The layout I developed the last time was great when elements had custom styling, but this meant any time I posted something, I had to work on the layout as well. This time I tried to design for mobile first, and let the desktop version remain as simple as possible. My goal is to be able to concentrate on the content, and refine a style for all elements that won’t require custom overrides. This means making certain concessions, but having some new possibilities as well.</p>
+
+<h4 id="simple-styles">Simple Styles</h4>
+
+<p>In the sitelen sitelen lessons, for instance, I’m removing the text floating around the images. Take a look at lesson 3 <a href="/archive/2012/learn_t47_lesson-3.html">before</a>, and <a href="/toki-pona/lesson-3/">after</a>. In the previous version, I spent a lot of time moving the images within a grid system before I was satisfied with how they flowed with the text. The thing is, facing this kind of layout on top of writing the lesson kept me from ever getting them finished. I’m hoping to have a chance to work on the remaining lessons once I’ve launched the new site.</p>
+
+<p>The new style may involve more scrolling, but it’s content independent, and actually looks better on phones and laptops.</p>
+
+<h4 id="files-not-a-database">Files, not a database</h4>
+
+<p>The <a href="/archive/2007/">2007-2012 version of my site</a> was build with completely static files. I rebuilt over eight hundred pages, manually typing HTML and replacing the pertinent details from page to page. So moving on to PHP and all Wordpress offered felt incredibly powerful for my next attempt.</p>
+
+<p>It occurred to me though, how many times the same files were being processed anew on the backend, and always with the same result. Sure, this can be sped up with cashing, but nothing about the pages on my site needs to be so elaborate. So far, Jekyll is proving to be the best of both worlds – the ability to process repeatable content and updates like a dynamic site, but the simplicity and portability of a static one.</p>
+
+<h3 id="ruby">Ruby!</h3>
+
+<p>I’m not here to bash PHP, but at the end of a workday, it’s not a language I’d look forward to using on my own site.  There are other enticing languages out there, and part of me would like to chose one I don’t know and see how far I could go with it. But this site isn’t about me improving my programming skills, it’s about creating the site I want with the highest quality and as efficiently as I can. Taking something I’m practiced in and applying it here seems like the best approach, so I can move beyond the technical and get to the content itself.</p>
+
+<p>I’m usually either using Ruby or Javascript for work. Running a Rails, Sinatra or Node app never seemed like a good fit for my own site though; I just don’t need that kind of power, or to pay for that kind of support.  And as much as I appreciate the design of Rails, it’s Ruby itself that I have any emotional attachment to. So far, transferring my old content over and revamping the site using Jekyll has given me everything I need. And I have the confidence that if I have a need it for down the line, I’ll be able to let the Ruby or Javascript shine through.</p>
+
+<h2 id="new-features">New Features</h2>
+
+<p>I may be forcing a simplification of the site, but it’s all in the service of getting some things out that I’ve wanted for a long time. I’ve added an archives section, which preserves a lot of the old content, an artworks collection, which has been incomplete for a long time, indices for navigation, and some new content for the sitelen sitelen section.</p>
+
+<h3 id="the-archives">The Archives</h3>
+
+<p>I’ve transfered most of the content from before into the new site, but for the sake of preservation, I’ve also done my best to store static copies of all the old content. I’ve also added the older <em>(pre 2009)</em> content back in. All of this is available in <a href="/archives">the Archives</a>.</p>
+
+<h3 id="artworks">Artworks</h3>
+
+<p>My original versions of the site had pages and pages of artworks in them, but this was one thing I never found an easy way to transfer into the Wordpress site. With the <a href="http://jekyllrb.com/docs/frontmatter/">YAML front matter</a> in Jekyll, this has become easier than it ever was before. I’m looking forward to adding the old work back in and adding new work as well. Once I launch, this will be some of the first content that I add.</p>
+
+<h3 id="indices">Indices</h3>
+
+<p>Being able to navigate a site is something I cherish highly, and in this regard I find sitemaps and indexing tools very useful.  One of the spots I will continue to concentrate on is creating indices when appropriate, (beyond the typical collections of categories and tags). The rudimentary beginnings of this are:</p>
+
+<ul>
+  <li><a href="/archive/">the archive page</a> – where I hope to add other things as I dig them up</li>
+  <li><a href="/sitemap/">the sitemap</a> - where I will list all posts and pages</li>
+  <li><a href="/artworks/">the artworks page</a> – which should soon have sub-menus as well</li>
+  <li><a href="/toki-pona">toki pona</a> – all things sitelen sitelen</li>
+</ul>
+
+<h3 id="sitelen-sitelen">Sitelen Sitelen</h3>
+
+<p>Fans of toki pona have been making their way here for years, and will be filling this site with more content soon. Beyond the sitelen sitelen lessons that still need to be written, I’ve had several artworks sent to me that hadn’t made it onto my site. Check the <a href="/toki-pona/#sitelen-pi-jan-ante">sitelen pi jan ante</a> section for the latest!</p>
+
+</article>
+
+      </div>
+
+      
+
+<div id="disqus_thread"></div>
+<script>
+    /**
+     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+     */
+
+    var disqus_config = function () {
+        //this.disqus_developer = 1;
+        this.page.url = "http://0.0.0.0:4000/2015/new-site-launching/";  // Replace PAGE_URL with your page's canonical URL variable
+        this.page.identifier = "/2015/new-site-launching/"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+
+    (function() {  // DON'T EDIT BELOW THIS LINE
+        var d = document, s = d.createElement('script');
+
+        s.src = '//jonathangabel.disqus.com/embed.js';
+
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+
+
+
+
+      
+
+
+      
+
+      <footer class="site-footer">
+
+  <div class="wrapper__footer">
+
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col  footer-col-1">
+        <ul class="contact-list">
+          <li>Jonathan Gabel</li>
+          <li class="rss-subscribe">subscribe <a href="/feed.xml">via RSS</a></li>
+          <li><a href="mailto:hello-@-jonathangabel.com?subject=change the email address to hello@jo...!">hello @ jonathangabel.com</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col  footer-col-2">
+        <ul class="social-media-list">
+          
+          <li>
+            <a href="https://github.com/acousticRobot">
+              <span class="icon  icon--github">
+                <svg viewBox="0 0 16 16">
+                  <path fill="#828282" d="M7.999,0.431c-4.285,0-7.76,3.474-7.76,7.761 c0,3.428,2.223,6.337,5.307,7.363c0.388,0.071,0.53-0.168,0.53-0.374c0-0.184-0.007-0.672-0.01-1.32 c-2.159,0.469-2.614-1.04-2.614-1.04c-0.353-0.896-0.862-1.135-0.862-1.135c-0.705-0.481,0.053-0.472,0.053-0.472 c0.779,0.055,1.189,0.8,1.189,0.8c0.692,1.186,1.816,0.843,2.258,0.645c0.071-0.502,0.271-0.843,0.493-1.037 C4.86,11.425,3.049,10.76,3.049,7.786c0-0.847,0.302-1.54,0.799-2.082C3.768,5.507,3.501,4.718,3.924,3.65 c0,0,0.652-0.209,2.134,0.796C6.677,4.273,7.34,4.187,8,4.184c0.659,0.003,1.323,0.089,1.943,0.261 c1.482-1.004,2.132-0.796,2.132-0.796c0.423,1.068,0.157,1.857,0.077,2.054c0.497,0.542,0.798,1.235,0.798,2.082 c0,2.981-1.814,3.637-3.543,3.829c0.279,0.24,0.527,0.713,0.527,1.437c0,1.037-0.01,1.874-0.01,2.129 c0,0.208,0.14,0.449,0.534,0.373c3.081-1.028,5.302-3.935,5.302-7.362C15.76,3.906,12.285,0.431,7.999,0.431z"/>
+                </svg>
+              </span>
+
+              <span class="username">acousticRobot</span>
+            </a>
+          </li>
+          
+
+          
+          <li>
+            <a href="https://twitter.com/acousticRobot">
+              <span class="icon  icon--twitter">
+                <svg viewBox="0 0 16 16">
+                  <path fill="#828282" d="M15.969,3.058c-0.586,0.26-1.217,0.436-1.878,0.515c0.675-0.405,1.194-1.045,1.438-1.809
+                  c-0.632,0.375-1.332,0.647-2.076,0.793c-0.596-0.636-1.446-1.033-2.387-1.033c-1.806,0-3.27,1.464-3.27,3.27 c0,0.256,0.029,0.506,0.085,0.745C5.163,5.404,2.753,4.102,1.14,2.124C0.859,2.607,0.698,3.168,0.698,3.767 c0,1.134,0.577,2.135,1.455,2.722C1.616,6.472,1.112,6.325,0.671,6.08c0,0.014,0,0.027,0,0.041c0,1.584,1.127,2.906,2.623,3.206 C3.02,9.402,2.731,9.442,2.433,9.442c-0.211,0-0.416-0.021-0.615-0.059c0.416,1.299,1.624,2.245,3.055,2.271 c-1.119,0.877-2.529,1.4-4.061,1.4c-0.264,0-0.524-0.015-0.78-0.046c1.447,0.928,3.166,1.469,5.013,1.469 c6.015,0,9.304-4.983,9.304-9.304c0-0.142-0.003-0.283-0.009-0.423C14.976,4.29,15.531,3.714,15.969,3.058z"/>
+                </svg>
+              </span>
+
+              <span class="username">acousticRobot</span>
+            </a>
+          </li>
+          
+        </ul>
+      </div>
+
+      <div class="footer-col  footer-col-3">
+        <p class="text">The website of Jonathan Gabel. Catalogues of projects, musings, and arcane thoughts.
+ <a href="/license">&copy; 2021</a></p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+
+
+    </section>
+  </body>
+</html>

@@ -1,0 +1,1089 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jonathan Gabel</title>
+    <description>The website of Jonathan Gabel. Catalogues of projects, musings, and arcane thoughts.
+</description>
+    <link>http://0.0.0.0:4000/</link>
+    <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 11 Aug 2023 10:40:11 -0400</pubDate>
+    <lastBuildDate>Fri, 11 Aug 2023 10:40:11 -0400</lastBuildDate>
+    <generator>Jekyll v4.3.1</generator>
+    
+      <item>
+        <title>Designing glyphs - sitelen suwi pi nimi ku suli</title>
+        <description>&lt;blockquote class=&quot;grammar&quot;&gt;
+  &lt;p&gt;&lt;strong&gt;I don’t know toki pona, what is this about?&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;p&gt;toki pona is a philosophically minimalist constructed language, created by Sonja Lang in 2001, you can read more about it &lt;a href=&quot;/toki-pona/about/&quot;&gt;here&lt;/a&gt;. The number of words hovers around 130, but is always in flux, and recently Sonja published a dictionary that highlights a number of words either left out of her first book in 2014, or that had been coined in the community since then. This is the story of designing &lt;a href=&quot;/toki-pona/kama-pona/&quot;&gt;sitelen suwi&lt;/a&gt; hieroglyphics for these words.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;With the publication of ku, and the elevation of nimi ku suli, there was an interest in new sitelen suwi to celebrate their place in the lexicon. Some of these were pre-pu, and already had glyphs: namako, kin, oko, and kipisi. And &lt;a href=&quot;/toki-pona/gender/&quot;&gt;tonsi&lt;/a&gt; was added last year.&lt;/p&gt;
+
+&lt;p&gt;That left 11 more glyphs to design: leko, monsuta, jasima, kijetesantakalu, soko, meso, epiku, kokosila, lanpan, n, and misekeke.&lt;/p&gt;
+
+&lt;p&gt;Just as so many of the nimi sin came from the community, several toki pona speakers reached out to me to say they had already started playing around with some ideas. This presented a fantastic opportunity to do something I hadn’t tried before, to see if we couldn’t pool our ideas and design the glyphs together.&lt;/p&gt;
+
+&lt;p&gt;The experience was really awesome, so much creativity and enthusiasm, and a surprisingly common consensus in the end as to the final versions.&lt;/p&gt;
+
+&lt;p class=&quot;wrapper__center-image&quot;&gt;&lt;img src=&quot;/images/t47_tokipona/nimi_ku_suli/kulupu.210805.josan_s.jpg&quot; alt=&quot;kulupu 210805 josan&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The drawings you see below were made by lon Jawin, jan Pensa, jan Saki and myself. Additionally Nundrum, Skymandr, and jan Temili provided a lot of useful feedback along the way that helped guide the process.&lt;/p&gt;
+
+&lt;h2 id=&quot;open-la&quot;&gt;open la&lt;/h2&gt;
+
+&lt;p&gt;We started with a group of glyphs present by lon Jawin, and the two versions of kijetesantakalu below.&lt;/p&gt;
+
+&lt;p class=&quot;wrapper__center-image&quot;&gt;&lt;img src=&quot;/images/t47_tokipona/nimi_ku_suli/kulupu.210724.jawin_s.jpg&quot; alt=&quot;kulupu 210724 jawin&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;kijetesantakalu&quot;&gt;kijetesantakalu&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/images/t47_tokipona/nimi_ku_suli/kijetesantakalu.210707.pensa_s.png&quot; alt=&quot;kijetesantakalu 210707 pensa&quot; /&gt;
+&lt;img src=&quot;/images/t47_tokipona/nimi_ku_suli/kijetesantakalu.210707.pensa.saki_s.jpg&quot; alt=&quot;kijetesantakalu 210707 pensa&quot; /&gt;
+&lt;img src=&quot;/images/t47_tokipona/nimi_ku_suli/kijetesantakalu.210707.saki_s.jpg&quot; alt=&quot;kijetesantakalu 210707 saki&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;For kijetesantakalu, jan Saki came up with a glyph similar to the current soweli, and jan Pensa had a full body version based off of the sitelen pona glyph, which was further simplified by palisa jelo Natan. Both felt pretty good as they were and didn’t need any refinement.  We decided to go with the close up, but if you are partial to the other one, no one will stop you from using it, ears or no ears.&lt;/p&gt;
+
+&lt;h2 id=&quot;monsuta&quot;&gt;monsuta&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/images/t47_tokipona/nimi_ku_suli/monsuta.210721.josan_s.jpg&quot; alt=&quot;monsuta 210721 josan&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I dug up an old notebook that had some sketches for monsuta in it, and taking that and the other versions from lon Jawin, jan Saki iterated on the glyph.&lt;/p&gt;
+
+&lt;p&gt;This is a pattern that we used fairly often, and something I find particularly useful.  On the top row you see the main selections from any previous versions.  On the left any glyphs that are either related in concept, from which to draw inspiration, or related in shape, so we could make sure they were distinct enough from each other.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/t47_tokipona/nimi_ku_suli/monsuta.210725.saki_s.png&quot; alt=&quot;monsuta 210725 saki&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;You can see at the end of this they came up with one they liked particularly well, and this ultimately became the final version. One thing you will notice in this one and many of the other versions was an attempt to incorporate all of the vowels (o, u and a) into the glyph. jan Saki went further and also added the cross-bar from the t syllable container into the u.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/t47_tokipona/nimi_ku_suli/monsuta.210725.saki2_s.jpg&quot; alt=&quot;monsuta 210725 saki2&quot; /&gt;
+&lt;img src=&quot;/images/t47_tokipona/nimi_ku_suli/monsuta.210728.saki2_s.jpg&quot; alt=&quot;monsuta 210728 saki2&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;kokosila&quot;&gt;kokosila&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/t47_tokipona/nimi_ku_suli/kokosila.210721.temili_s.jpg&quot; alt=&quot;kokosila 210721 temili&quot; /&gt;
+&lt;img src=&quot;/images/t47_tokipona/nimi_ku_suli/kokosila.210721.temili2_s.jpg&quot; alt=&quot;kokosila 210721 temili2&quot; /&gt;
+&lt;img src=&quot;/images/t47_tokipona/nimi_ku_suli/kokosila.210725.jawin_s.jpg&quot; alt=&quot;kokosila 210725 jawin&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Starting with two versions by jan Temili, and one by lon Jawin, jan Saki again iterated, combining elements of each. If you take a good look at the first version by jan Temili, you will notice it is the toki glyph with the mouth on the wrong side.  This tongue-in-cheek take on kokosila remained with us through the process.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/t47_tokipona/nimi_ku_suli/kokosila.210726.saki_s.jpg&quot; alt=&quot;kokosila 210726 saki&quot; /&gt;
+&lt;img src=&quot;/images/t47_tokipona/nimi_ku_suli/kokosila.210726.josan_s.jpg&quot; alt=&quot;kokosila 210726 josan&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We liked a lot of the variations, and also came up with a fun rule for kokosila, that you can &lt;em&gt;(should?)&lt;/em&gt; add or alter something about the original glyph, so that it’s always out of place and not following the rules.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/t47_tokipona/nimi_ku_suli/kokosila_alt1.210815.josan_s.jpg&quot; alt=&quot;kokosila 210726 josan&quot; /&gt;
+&lt;img src=&quot;/images/t47_tokipona/nimi_ku_suli/kokosila_alt2.210815.josan_s.jpg&quot; alt=&quot;kokosila 210726 josan&quot; /&gt;
+&lt;img src=&quot;/images/t47_tokipona/nimi_ku_suli/kokosila_alt3.210815.josan_s.jpg&quot; alt=&quot;kokosila 210726 josan&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;jasima&quot;&gt;jasima&lt;/h2&gt;
+
+&lt;p class=&quot;wrapper__center-image&quot;&gt;&lt;img src=&quot;/images/t47_tokipona/nimi_ku_suli/jasima.210727.jawin_s.jpg&quot; alt=&quot;jasima 210727 jawin&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;lon Jawin again came up with a version of jasima and the final glyph stayed pretty true to the original. After I field tested it, we decided we preferred the versions where the line separating the two halves was less distinct.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/t47_tokipona/nimi_ku_suli/jasima.210730.josan_s.jpg&quot; alt=&quot;jasima 210730 josan&quot; /&gt;
+&lt;img src=&quot;/images/t47_tokipona/nimi_ku_suli/jasima.210730.josan2_s.jpg&quot; alt=&quot;jasima 210730 josan2&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;meso&quot;&gt;meso&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/images/t47_tokipona/nimi_ku_suli/meso.210724.jawin_s.jpg&quot; alt=&quot;meso 210724 jawin&quot; /&gt;
+&lt;img src=&quot;/images/t47_tokipona/nimi_ku_suli/meso.210725.jawin2_s.jpg&quot; alt=&quot;meso 210725 jawin2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Taking lon Jawin’s sketches for meso, jan Saki and I both iterated on it, arriving at the final version.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/t47_tokipona/nimi_ku_suli/meso.210724.josan_s.jpg&quot; alt=&quot;meso 210724 josan&quot; /&gt;
+&lt;img src=&quot;/images/t47_tokipona/nimi_ku_suli/meso.210725.saki_s.jpg&quot; alt=&quot;meso 210725 saki&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;When drawing the glyphs to put into the dictionary, I ended up reducing the eyes further, and dropping the middle leg so that it sits more easily on top of another glyph block.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/t47_tokipona/nimi_ku_suli/meso.210725.saki2_s.jpg&quot; alt=&quot;meso 210725 saki2&quot; /&gt;
+&lt;img src=&quot;/images/t47_tokipona/nimi_ku_suli/meso.210815.josan_s.jpg&quot; alt=&quot;meso 210725 saki2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Just like musi, the expression on meso can vary from a smile to a frown, giving an additional emotional queue to your glyph block’s meaning.&lt;/p&gt;
+
+&lt;h2 id=&quot;n&quot;&gt;n&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/images/t47_tokipona/nimi_ku_suli/n.200726.josan_s.jpg&quot; alt=&quot;n 200726 josan&quot; /&gt;
+&lt;img src=&quot;/images/t47_tokipona/nimi_ku_suli/n.200726.josan2_s.jpg&quot; alt=&quot;n 200726 josan2&quot; /&gt;
+&lt;img src=&quot;/images/t47_tokipona/nimi_ku_suli/n.200726.pensa2_s.jpg&quot; alt=&quot;n 200726 pensa2&quot; /&gt;
+&lt;img src=&quot;/images/t47_tokipona/nimi_ku_suli/n.200726.pensa_s.jpg&quot; alt=&quot;n 200726 pensa&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The glyph for n came pretty quickly. Starting with the n container from the syllabary, we were looking for something else to fill it in so it didn’t feel so empty.  The uta (mouth) radical, which had already made it into kokosila seemed like a perfect choice. This allows n to tie back to the other interjection, a, which also shares this radical.&lt;/p&gt;
+
+&lt;h2 id=&quot;lanpan&quot;&gt;lanpan&lt;/h2&gt;
+
+&lt;p&gt;Taking the basic form of lanpan from lon Jawin original, jan Pensa and jan Saki moved the forms around to find a more settled arrangement.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/t47_tokipona/nimi_ku_suli/lanpan.210626.pensa_s.jpg&quot; alt=&quot;lanpan 210626 panko&quot; /&gt;
+&lt;img src=&quot;/images/t47_tokipona/nimi_ku_suli/lanpan.210626.saki2_s.jpg&quot; alt=&quot;lanpan 210626 saki&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;lanpan was one glyph where we were able to reference some existing source material, and pay a little debt to two real written languages that exist outside of the Latin alphabet: &lt;a href=&quot;http://research.famsi.org/montgomery_dictionary/mt_entry_list.php?search=CH%27AM&amp;amp;tnum=&amp;amp;edit.x=31&amp;amp;edit.y=11&quot;&gt;Mayan&lt;/a&gt; and &lt;a href=&quot;https://www.goodreads.com/book/show/612794.Mikmaq_Hieroglyph_Prayers&quot;&gt;Mi’kmaq&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/t47_tokipona/nimi_ku_suli/lanpan.ref.mayan_s.jpg&quot; alt=&quot;lanpan ref mayan&quot; /&gt;
+&lt;img src=&quot;/images/t47_tokipona/nimi_ku_suli/lanpan.ref.miq_s.jpg&quot; alt=&quot;lanpan ref miq&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;jan Saki again used our standard format to refine and combine the versions&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/t47_tokipona/nimi_ku_suli/lanpan.210626.saki_s.jpg&quot; alt=&quot;lanpan 210626 saki&quot; /&gt;
+&lt;img src=&quot;/images/t47_tokipona/nimi_ku_suli/lanpan.210626.saki3_s.jpg&quot; alt=&quot;lanpan 210626 saki&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;o lanpan ala e ni!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/t47_tokipona/nimi_ku_suli/lanpan.210805.saki_s.jpg&quot; alt=&quot;lanpan 210805 saki&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;misekeke&quot;&gt;misekeke&lt;/h2&gt;
+
+&lt;p&gt;misekeke was one that presented a lot of options before we arrived at the final form.  The main themes that we kept bringing back were references to kasi, and a mortar and pestle, for which we eventually turned back to the existing poki glyph.&lt;/p&gt;
+
+&lt;p&gt;lon Jawin started us off:&lt;/p&gt;
+
+&lt;p class=&quot;wrapper__center-image&quot;&gt;&lt;img src=&quot;/images/t47_tokipona/nimi_ku_suli/misekeke.210728.jawin_s.jpg&quot; alt=&quot;misekeke 210728 jawin&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;jan Saki refined the options:&lt;/p&gt;
+
+&lt;p class=&quot;wrapper__center-image&quot;&gt;&lt;img src=&quot;/images/t47_tokipona/nimi_ku_suli/misekeke.210728.saki_s.jpg&quot; alt=&quot;misekeke 210728 saki&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;jan Pensa pulled out the main elements and began looking for an option that was more distinct from the current meso:&lt;/p&gt;
+
+&lt;p class=&quot;wrapper__center-image&quot;&gt;&lt;img src=&quot;/images/t47_tokipona/nimi_ku_suli/misekeke.210728.pensa_s.jpg&quot; alt=&quot;misekeke 210728 pensa&quot; /&gt;
+&lt;img src=&quot;/images/t47_tokipona/nimi_ku_suli/misekeke.210728.pensa2_s.jpg&quot; alt=&quot;misekeke 210728 pensa&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;lon Jawin took a turn iterating:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/t47_tokipona/nimi_ku_suli/misekeke.210728.jawin2_s.jpg&quot; alt=&quot;misekeke 210728 jawin&quot; /&gt;
+&lt;img src=&quot;/images/t47_tokipona/nimi_ku_suli/misekeke.210728.jawin3_s.jpg&quot; alt=&quot;misekeke 210728 jawin&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;jan Saki again refined and tested in a sentence next to kasi&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/t47_tokipona/nimi_ku_suli/misekeke.210728.saki2_s.jpg&quot; alt=&quot;misekeke 210728 saki2&quot; /&gt;
+&lt;img src=&quot;/images/t47_tokipona/nimi_ku_suli/misekeke.210728.saki3_s.jpg&quot; alt=&quot;misekeke 210728 saki3&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I tried out some new things:&lt;/p&gt;
+
+&lt;p class=&quot;wrapper__center-image&quot;&gt;&lt;img src=&quot;/images/t47_tokipona/nimi_ku_suli/misekeke.210728.josan_s.jpg&quot; alt=&quot;misekeke 210728 josan&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;jan Saki took a turn:&lt;/p&gt;
+
+&lt;p class=&quot;wrapper__center-image&quot;&gt;&lt;img src=&quot;/images/t47_tokipona/nimi_ku_suli/misekeke.210728.saki4_s.jpg&quot; alt=&quot;misekeke 210728 saki4&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And this led jan Pensa to the final glyph:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/t47_tokipona/nimi_ku_suli/misekeke.210728.pensa6_s.jpg&quot; alt=&quot;misekeke 210728 pensa&quot; /&gt;
+&lt;img src=&quot;/images/t47_tokipona/nimi_ku_suli/misekeke.210728.pensa4_s.jpg&quot; alt=&quot;misekeke 210728 pensa&quot; /&gt;
+&lt;img src=&quot;/images/t47_tokipona/nimi_ku_suli/misekeke.210728.pensa5_s.jpg&quot; alt=&quot;misekeke 210728 pensa&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;leko&quot;&gt;leko&lt;/h2&gt;
+
+&lt;p&gt;The glyph for leko also stayed pretty true to lon Jawin’s original, jan Pensa ended up finding the final touch, adding the e phonetic radical inside.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/t47_tokipona/nimi_ku_suli/leko.210728.josan_s.jpg&quot; alt=&quot;leko 210728 josan&quot; /&gt;
+&lt;img src=&quot;/images/t47_tokipona/nimi_ku_suli/leko.210728.pensa_s.jpg&quot; alt=&quot;leko 210728 pensa&quot; /&gt;
+&lt;img src=&quot;/images/t47_tokipona/nimi_ku_suli/leko.210728.pensa2_s.jpg&quot; alt=&quot;leko 210728 pensa&quot; /&gt;
+&lt;img src=&quot;/images/t47_tokipona/nimi_ku_suli/leko.210728.pensa3_s.jpg&quot; alt=&quot;leko 210728 pensa&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;taking-stock&quot;&gt;taking stock&lt;/h2&gt;
+
+&lt;p&gt;At this point we took a look at where we were and felt pretty happy.  the last one to tackle was going to be epiku.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/t47_tokipona/nimi_ku_suli/kulupu.210726.jawin2_s.jpg&quot; alt=&quot;kulupu 210726 jawin2&quot; /&gt;
+&lt;img src=&quot;/images/t47_tokipona/nimi_ku_suli/kulupu.210728.saki_s.jpg&quot; alt=&quot;kulupu 210728 saki&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;epiku&quot;&gt;epiku&lt;/h2&gt;
+
+&lt;p&gt;jan Pensa and jan Saki talked about making a new glyph with influences from wawa and pona. lon Jawin iterated on the previous version, and added a little personality.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/t47_tokipona/nimi_ku_suli/epiku.210729.jawin_s.jpg&quot; alt=&quot;epiku 210729 jawin&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;jan Saki brought in the lightening from wawa:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/t47_tokipona/nimi_ku_suli/epiku.210729.saki_s.jpg&quot; alt=&quot;epiku 210729 saki&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;and jan Pensa brought it to it’s conclusion:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/t47_tokipona/nimi_ku_suli/epiku.210729.pensa_s.jpg&quot; alt=&quot;epiku 210729 pensa&quot; /&gt;
+&lt;img src=&quot;/images/t47_tokipona/nimi_ku_suli/epiku.210729.pensa2_s.jpg&quot; alt=&quot;epiku 210729 pensa&quot; /&gt;
+&lt;img src=&quot;/images/t47_tokipona/nimi_ku_suli/epiku.210729.pensa3_s.jpg&quot; alt=&quot;epiku 210729 pensa&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I put it though it’s paces, but couldn’t improve the design, although I do like the one that is ‘upside-down’. Others found this one too similar to pona.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/t47_tokipona/nimi_ku_suli/epiku.210730.josan_s.jpg&quot; alt=&quot;epiku 210730 josan&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;as jan Saki said to jan Pensa:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/t47_tokipona/nimi_ku_suli/epiku.210729.saki2_s.jpg&quot; alt=&quot;epiku 210729 saki&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;pini-la&quot;&gt;pini la&lt;/h2&gt;
+
+&lt;p&gt;Finally, we had our new nimi ku suli. lon Jawin collected the results and tested them out in some sentences:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/t47_tokipona/nimi_ku_suli/kulupu.210730.jawin_s.jpg&quot; alt=&quot;kulupu 210730 jawin&quot; /&gt;
+&lt;img src=&quot;/images/t47_tokipona/nimi_ku_suli/kulupu.210730.jawin2_s.jpg&quot; alt=&quot;kulupu 210730 jawin2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;and jan Saki did this as well:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/t47_tokipona/nimi_ku_suli/kulupu.210805.saki_s.jpg&quot; alt=&quot;kulupu 210805 saki&quot; /&gt;
+&lt;img src=&quot;/images/t47_tokipona/nimi_ku_suli/kulupu.210730.saki_s.jpg&quot; alt=&quot;kulupu 210730 saki&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The very first images above for kijetesantakalu were posted the Telegram on July 7. The very first collection by lon Jawin above was shared with the group on July 24th, and the completed collections by lon Jawin and jan Saki directly above are from July 30th. The final versions were made on August 5th, in time to share them for suno pi toki pona. It’s amazing to me to realize the bulk of the collaboration was completed in a single week.&lt;/p&gt;
+
+&lt;p&gt;It has often occurred to me that visual artists don’t encounter opportunities to collaborate as often as musicians, dancers and artists in other media do. If this fits your artistic experience, I highly encourage you to seek out a chance to see just how powerful a creative force collaboration can be.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 05 Sep 2021 00:00:00 -0400</pubDate>
+        <link>http://0.0.0.0:4000/2021/nimi-sin/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2021/nimi-sin/</guid>
+        
+        <category>featured</category>
+        
+        <category>toki pona</category>
+        
+        <category>sitelen sitelen</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>nimi ale kepeken toki pona</title>
+        <description>&lt;p&gt;tenpo suno pini la mi wile pali e lipu sona pi nimi ale kepeken toki pona. mi wile sona e ni: ona li ken ala ken pana e sona tawa nimi pi toki pona kepeken toki pona taso? ona li ken pana e sona tawa nimi ale kepeken nasin ni anu seme?&lt;/p&gt;
+
+&lt;p&gt;ni li pali open. tenpo kama la mi ante mute lon lipu ni. sina ken pana e sona kin.&lt;/p&gt;
+
+&lt;dl&gt;
+  &lt;dt&gt;a&lt;/dt&gt;
+  &lt;dd&gt;a li nimi kute li nimi pilin. nimi a li pana e sona ni: ona li pilin pona la, ona li ken pana e kute a  !&lt;/dd&gt;
+  &lt;dt&gt;akesi&lt;/dt&gt;
+  &lt;dd&gt;akesi en kala en pipi en soweli en waso la, akesi li lon kulupu ni. akesi li lon seli suno la, ona li kama wawa. akesi pi sijelo linja li lon. akesi ni li jo e noka ala.&lt;/dd&gt;
+  &lt;dt&gt;ala&lt;/dt&gt;
+  &lt;dd&gt;sina jo e kili wan. sina moku ale e kili. kili ala li lon.&lt;/dd&gt;
+  &lt;dt&gt;alasa&lt;/dt&gt;
+  &lt;dd&gt;ona li lukin li wile kama jo la, ona li alasa.&lt;/dd&gt;
+  &lt;dt&gt;ale&lt;/dt&gt;
+  &lt;dd&gt;kili tu li lon la, sina jo e kili tu la, sina jo e kili ale.&lt;/dd&gt;
+  &lt;dt&gt;anpa&lt;/dt&gt;
+  &lt;dd&gt;ijo anpa li ma li telo li supa. kon li anpa ala. sewi la, anpa ale li ante.&lt;/dd&gt;
+  &lt;dt&gt;ante&lt;/dt&gt;
+  &lt;dd&gt;ijo tu li sama ala la, ijo wan en ijo tu li ante.&lt;/dd&gt;
+  &lt;dt&gt;anu&lt;/dt&gt;
+  &lt;dd&gt;nimi anu li nimi taso. nimi anu li pana e sona ni: mi pana e ijo tu. mi toki e ni: ijo wan anu ijo ante? sina pilin e ijo wan taso.&lt;/dd&gt;
+  &lt;dt&gt;awen&lt;/dt&gt;
+  &lt;dd&gt;ona li tawa ala li weka ala la, ona li awen.&lt;/dd&gt;
+  &lt;dt&gt;e&lt;/dt&gt;
+  &lt;dd&gt;nimi e li nimi taso. nimi e li pana e sona ni: nimi lawa en nimi pali en nimi ijo la, kulupu nimi li ken jo e kulupu tu wan ni. kulupu pali en kulupu ijo la, nimi e li tu e kulupu tu ni. (ona li kipisi e kulupu tu.)&lt;/dd&gt;
+  &lt;dt&gt;en&lt;/dt&gt;
+  &lt;dd&gt;nimi en li nimi taso. nimi en li pana e sona ni: mi pana e ijo tu. mi toki e ni: ijo wan en ijo ante. sina pilin e ijo ale.&lt;/dd&gt;
+  &lt;dt&gt;esun&lt;/dt&gt;
+  &lt;dd&gt;esun li tomo. ijo li lon tomo. ona li kama lon tomo la, ona li ken pana e mani li ken kama jo e ijo.&lt;/dd&gt;
+  &lt;dt&gt;ijo&lt;/dt&gt;
+  &lt;dd&gt;ijo li ken moli li ken moli ala. kepeken luka la, sina ken pilin e ijo mute. ijo ante li tawa lukin taso anu tawa kute taso. sina ken pana e nimi ni tawa ona la, ona li ijo.&lt;/dd&gt;
+  &lt;dt&gt;ike&lt;/dt&gt;
+  &lt;dd&gt;ijo jaki en ijo utala li ike.  ona li pilin pona ala la, ona li pilin ike.&lt;/dd&gt;
+  &lt;dt&gt;ilo&lt;/dt&gt;
+  &lt;dd&gt;ilo li ijo. kepeken ijo lon luka la, ona li ken pali. jan li kepeken ilo. soweli pi sona mute li ken kepeken ilo kin.&lt;/dd&gt;
+  &lt;dt&gt;insa&lt;/dt&gt;
+  &lt;dd&gt;sijelo ijo li len e insa. ona li tu e ijo la, ona li lukin e insa. ona li pana e ijo lon poki la, ijo li lon insa poki.&lt;/dd&gt;
+  &lt;dt&gt;jaki&lt;/dt&gt;
+  &lt;dd&gt;moku anu ko li lon len sina la, ni li jaki. moku li lukin ike la, ni li jaki.&lt;/dd&gt;
+  &lt;dt&gt;jan&lt;/dt&gt;
+  &lt;dd&gt;jan li soweli pi sona mute. mi en sina li jan.&lt;/dd&gt;
+  &lt;dt&gt;jelo&lt;/dt&gt;
+  &lt;dd&gt;jelo li lon kulupu kule. suno en kasi kule li kule laso.&lt;/dd&gt;
+  &lt;dt&gt;jo&lt;/dt&gt;
+  &lt;dd&gt;ijo li lon luka ona la, ona li jo e ijo.&lt;/dd&gt;
+  &lt;dt&gt;kala&lt;/dt&gt;
+  &lt;dd&gt;akesi en kala en pipi en soweli en waso la, kala li lon kulupu ni. kala ale li lon telo.&lt;/dd&gt;
+  &lt;dt&gt;kalama&lt;/dt&gt;
+  &lt;dd&gt;ona li kute e ijo la, ni li kalama.&lt;/dd&gt;
+  &lt;dt&gt;kama&lt;/dt&gt;
+  &lt;dd&gt;ona li lon ala la, ona li lon la, ona li kama.&lt;/dd&gt;
+  &lt;dt&gt;kasi&lt;/dt&gt;
+  &lt;dd&gt;kasi li tan ma. soweli li moku e kasi. ma li jo ala e kasi la, ma li moli.&lt;/dd&gt;
+  &lt;dt&gt;ken&lt;/dt&gt;
+  &lt;dd&gt;ijo lon en ijo kama li ijo ken. kon pi nimi ken li ni: ona li wile e ijo. ona li kama jo e ijo. ona li ken kama jo e ijo.&lt;/dd&gt;
+  &lt;dt&gt;kepeken&lt;/dt&gt;
+  &lt;dd&gt;kama jo e ijo li wile e ijo ante la, ona li kepeken e ijo ante tawa kama jo.&lt;/dd&gt;
+  &lt;dt&gt;kili&lt;/dt&gt;
+  &lt;dd&gt;kasi li pana e kili tan ni: kasi sin li kama. kili li moku tawa soweli.&lt;/dd&gt;
+  &lt;dt&gt;kin&lt;/dt&gt;
+  &lt;dd&gt;kin li lon ala pu. nimi kin li nimi taso. kon pi nimi kin li ni: ona li toki e ijo kin la, ona li ken suli e pilin tawa ijo.&lt;/dd&gt;
+  &lt;dt&gt;kipisi&lt;/dt&gt;
+  &lt;dd&gt;kipisi li lon ala pu. nimi tu la, ona li sama lili. ona li kipisi e ijo la, ona li kama jo e ijo tu.&lt;/dd&gt;
+  &lt;dt&gt;kiwen&lt;/dt&gt;
+  &lt;dd&gt;ijo mute lon insa ma li kiwen. kon la, kiwen ale li ante.&lt;/dd&gt;
+  &lt;dt&gt;ko&lt;/dt&gt;
+  &lt;dd&gt;sina sike e telo e ma la, ona li kama ko.  ijo telo la, ijo ko li kiwen. ijo kiwen la, ijo ko li telo.&lt;/dd&gt;
+  &lt;dt&gt;kon&lt;/dt&gt;
+  &lt;dd&gt;kon li lon sewi ma. nena en uta la, jan li ken pana e kon tawa insa tan lupa ni. sin la, kon ijo li sona ale pi ijo ni.&lt;/dd&gt;
+  &lt;dt&gt;kule&lt;/dt&gt;
+  &lt;dd&gt;laso en loje en walo en pimeja en jelo la, ona ale li kulupu kule.&lt;/dd&gt;
+  &lt;dt&gt;kulupu&lt;/dt&gt;
+  &lt;dd&gt;ijo tu anu mute li lon poka la, ijo li kulupu.&lt;/dd&gt;
+  &lt;dt&gt;kute&lt;/dt&gt;
+  &lt;dd&gt;jan lawa li jo e lupa kute tu. jan li sona e kalama kepeken kute. jan li kute e kalama.&lt;/dd&gt;
+  &lt;dt&gt;la&lt;/dt&gt;
+  &lt;dd&gt;nimi la li nimi taso. nimi la li pana e sona ni: ijo tu li kama tan ijo wan. ona ken toki e ni: ijo wan la, ijo tu li lon.&lt;/dd&gt;
+  &lt;dt&gt;lape&lt;/dt&gt;
+  &lt;dd&gt;ona li pini e oko la ona li ken lape.  ona li sona ala e ijo lon la, ona li lape.&lt;/dd&gt;
+  &lt;dt&gt;laso&lt;/dt&gt;
+  &lt;dd&gt;laso li lon kulupu kule. kasi en telo li kule laso.&lt;/dd&gt;
+  &lt;dt&gt;lawa&lt;/dt&gt;
+  &lt;dd&gt;lawa pi sijelo jan li lon sewi. oko en kute en uta en nena ala li lon lawa. ona li lawa e ijo la, ona li kepeken e ijo sama sijelo ona.&lt;/dd&gt;
+  &lt;dt&gt;leko&lt;/dt&gt;
+  &lt;dd&gt;leko li lon ala pu.  ona li sike pi sinpin tu tu anu sijelo pi sinpin luka wan.&lt;/dd&gt;
+  &lt;dt&gt;len&lt;/dt&gt;
+  &lt;dd&gt;len li lipu jan. jan li pana e len lon selo la, ona ken toki e ni: jan li len. jan li len la, jan li pilin seli ike ala li pilin lete ike ala.&lt;/dd&gt;
+  &lt;dt&gt;lete&lt;/dt&gt;
+  &lt;dd&gt;suno li weka la, ma li kama lete. telo li lete la, ona li kiwen. seli la, lete ale li ante.&lt;/dd&gt;
+  &lt;dt&gt;li&lt;/dt&gt;
+  &lt;dd&gt;nimi li li nimi taso. nimi li li pana e sona ni: nimi lawa en nimi pali la, kulupu nimi li ken jo e kulupu tu ni. nimi li li tu e kulupu tu ni. (ona li kipisi e kulupu tu.)&lt;/dd&gt;
+  &lt;dt&gt;lili&lt;/dt&gt;
+  &lt;dd&gt;soweli la, pipi li lili. kulupu pipi la, kulupu soweli li lili. suli la, lili ale li ante. mute la, lili ale li ante.&lt;/dd&gt;
+  &lt;dt&gt;linja&lt;/dt&gt;
+  &lt;dd&gt;sitelen la, ona li pana e linja lon lipu. tawa la, ona li pana e linja lon ma.&lt;/dd&gt;
+  &lt;dt&gt;lipu&lt;/dt&gt;
+  &lt;dd&gt;selo ijo li insa ala la, ona li lipu.&lt;/dd&gt;
+  &lt;dt&gt;loje&lt;/dt&gt;
+  &lt;dd&gt;loje li lon kulupu kule. seli en kili li kule loje.&lt;/dd&gt;
+  &lt;dt&gt;lon&lt;/dt&gt;
+  &lt;dd&gt;ona li pana e ijo wan tawa ijo tu la, ijo wan li lon ijo tu. weka la, lon ale li ante.&lt;/dd&gt;
+  &lt;dt&gt;luka&lt;/dt&gt;
+  &lt;dd&gt;noka sewi tu pi soweli sama jan li luka.  kepeken ilo la, jan li kepeken luka. nanpa luka li sama nanpa pi palisa lili lon luka jan.&lt;/dd&gt;
+  &lt;dt&gt;lukin&lt;/dt&gt;
+  &lt;dd&gt;pu la oko en lukin li sama ale. toki jan la, ona li lukin kepeken oko.&lt;/dd&gt;
+  &lt;dt&gt;lupa&lt;/dt&gt;
+  &lt;dd&gt;lupa li sike weka tan sinpin. sinpin tomo li jo e lupa. kepeken lupa suli la, ona li ken tawa insa. kepeken lupa lili la, ona li ken lukin lon insa tomo.&lt;/dd&gt;
+  &lt;dt&gt;ma&lt;/dt&gt;
+  &lt;dd&gt;ma li supa lon anpa kon. jan ale li kama tan ma. jan li tawa lon ma. ma li pakala la, jan ale li moli.&lt;/dd&gt;
+  &lt;dt&gt;mama&lt;/dt&gt;
+  &lt;dd&gt;ona li pana e ijo pona la, ona li mama.&lt;/dd&gt;
+  &lt;dt&gt;mani&lt;/dt&gt;
+  &lt;dd&gt;mani li ijo tawa kama jo e ijo ante. jan li pilin mani li ale la, sona jan li pakala. mani li ken ala pana e pilin pona.&lt;/dd&gt;
+  &lt;dt&gt;meli&lt;/dt&gt;
+  &lt;dd&gt;meli en mije en tonsi la, meli li lon kulupu ni. jan ante li pilin ante tawa kon meli.&lt;/dd&gt;
+  &lt;dt&gt;mi&lt;/dt&gt;
+  &lt;dd&gt;tawa mi la, mi ale li lon insa mi. tawa sina la, sina ale li nimi mi. ni li nasin jan.&lt;/dd&gt;
+  &lt;dt&gt;mije&lt;/dt&gt;
+  &lt;dd&gt;meli en mije en tonsi la, mije li lon kulupu ni. jan ante li pilin ante tawa kon mije.&lt;/dd&gt;
+  &lt;dt&gt;moku&lt;/dt&gt;
+  &lt;dd&gt;soweli li pana e moku lon insa ona la, ona li kama jo e wawa.  soweli li moku ala la, ona li moli.&lt;/dd&gt;
+  &lt;dt&gt;moli&lt;/dt&gt;
+  &lt;dd&gt;tenpo ni la ona li lon. tenpo kama la ona li lon ala. ni li moli.&lt;/dd&gt;
+  &lt;dt&gt;monsi&lt;/dt&gt;
+  &lt;dd&gt;sijelo selo jan li jo e poka tu. monsi li ni wan. sina ken ala lukin e monsi sina.&lt;/dd&gt;
+  &lt;dt&gt;monsuta&lt;/dt&gt;
+  &lt;dd&gt;monsuta li lon ala pu. akesi en kala en pipi en soweli en waso la, monsuta li sama lili kulupu ni. taso monsuta li lon ala, li ijo utala pi sona jan.&lt;/dd&gt;
+  &lt;dt&gt;mu&lt;/dt&gt;
+  &lt;dd&gt;soweli li pana e kalama la, ni li mu.&lt;/dd&gt;
+  &lt;dt&gt;mun&lt;/dt&gt;
+  &lt;dd&gt;mun li lon sewi. tenpo pimeja la, mun li sike suli lon kon sewi. ona li sike e ma ale.&lt;/dd&gt;
+  &lt;dt&gt;musi&lt;/dt&gt;
+  &lt;dd&gt;jan li jo ala e ijo musi la ona li moli ala. taso musi li lon ala la, nasin lon li ike. sin la, jan en soweli li musi tan ni: musi li pana e sona.&lt;/dd&gt;
+  &lt;dt&gt;mute&lt;/dt&gt;
+  &lt;dd&gt;ijo mute li ijo pi nanpa suli.  pali mute li pali pi tenpo suli.&lt;/dd&gt;
+  &lt;dt&gt;namako&lt;/dt&gt;
+  &lt;dd&gt;pu la, namako en sin li sama ale. toki jan la, namako li ko moku kin.&lt;/dd&gt;
+  &lt;dt&gt;nanpa&lt;/dt&gt;
+  &lt;dd&gt;nimi nanpa li nimi jan. kon nanpa li ni: kulupu ijo li lili anu mute.&lt;/dd&gt;
+  &lt;dt&gt;nasa&lt;/dt&gt;
+  &lt;dd&gt;ijo pi sona musi li nasa. ijo pi sona pakala li nasa. ijo pi sona lili li nasa.&lt;/dd&gt;
+  &lt;dt&gt;nasin&lt;/dt&gt;
+  &lt;dd&gt;ona li tawa kepeken nasin. ona li kama sona kepeken nasin. ona li lon kepeken nasin.&lt;/dd&gt;
+  &lt;dt&gt;nena&lt;/dt&gt;
+  &lt;dd&gt;nena jan li lon lawa li ken pilin kon. ijo lukin sama nena jan li nena kin.&lt;/dd&gt;
+  &lt;dt&gt;ni&lt;/dt&gt;
+  &lt;dd&gt;ona li wile toki e ijo la, ona li nimi e ijo kepeken nimi ni.&lt;/dd&gt;
+  &lt;dt&gt;nimi&lt;/dt&gt;
+  &lt;dd&gt;toki la, nimi li ijo lili wan. kulupu nimi li pana e sona tawa ale.&lt;/dd&gt;
+  &lt;dt&gt;noka&lt;/dt&gt;
+  &lt;dd&gt;jan li tawa kepeken noka tu. soweli li jo e noka tu tu.&lt;/dd&gt;
+  &lt;dt&gt;o&lt;/dt&gt;
+  &lt;dd&gt;o li nimi taso. kon o li ni: jan li lon ala la, ona li wile jan li kama lon la, ona li toki e ni: jan o! ona li wile jan li pali e ijo la, ona li toki e ni: o pali e ijo!&lt;/dd&gt;
+  &lt;dt&gt;oko&lt;/dt&gt;
+  &lt;dd&gt;pu la oko en lukin li sama ale. toki jan la, oko li sike tu lon insa lawa jan.&lt;/dd&gt;
+  &lt;dt&gt;olin&lt;/dt&gt;
+  &lt;dd&gt;soweli li lukin e oko pi soweli ante la, pilin suli li ken kama lon. pilin ni li olin.&lt;/dd&gt;
+  &lt;dt&gt;ona&lt;/dt&gt;
+  &lt;dd&gt;mi en sina li toki e ijo. mi en sina li pana e nimi ona tawa ijo.&lt;/dd&gt;
+  &lt;dt&gt;open&lt;/dt&gt;
+  &lt;dd&gt;ijo li open la, ona li ken lukin insa, li ken tawa insa. pini la, open ale li ante.&lt;/dd&gt;
+  &lt;dt&gt;pakala&lt;/dt&gt;
+  &lt;dd&gt;ona li lawa pona e ijo li ken ala kepeken e ijo la, ijo ni li pakala.&lt;/dd&gt;
+  &lt;dt&gt;pali&lt;/dt&gt;
+  &lt;dd&gt;ona li pana e wawa ona tawa ijo la ijo li kama pona. ni li pali.&lt;/dd&gt;
+  &lt;dt&gt;palisa&lt;/dt&gt;
+  &lt;dd&gt;palisa li linja kiwen. ilo en kasi li ken jo e selo palisa.&lt;/dd&gt;
+  &lt;dt&gt;pan&lt;/dt&gt;
+  &lt;dd&gt;pan li lon kulupu pi moku jan.  kasi en kon en seli la, pan li kama tan ni.&lt;/dd&gt;
+  &lt;dt&gt;pana&lt;/dt&gt;
+  &lt;dd&gt;pana li pali pi tawa ijo. mi jo e ijo la sina kama jo e ijo tan ni: mi pana e ijo.&lt;/dd&gt;
+  &lt;dt&gt;pi&lt;/dt&gt;
+  &lt;dd&gt;pi li nimi taso. nimi pi li pana e sona ni: kulupu nimi tu li ante e kulupu nimi wan.  nimi pi li tu kulupu tu ni. (ona li kipisi e kulupu tu.)&lt;/dd&gt;
+  &lt;dt&gt;pilin&lt;/dt&gt;
+  &lt;dd&gt;sona la, pilin li sama lili. sona olin li pilin. ona li ken pilin kepeken lawa. ona li ken pilin kepeken luka.&lt;/dd&gt;
+  &lt;dt&gt;pimeja&lt;/dt&gt;
+  &lt;dd&gt;pimeja li lon kulupu kule. suno li lon ala la, ni li kule pimeja.&lt;/dd&gt;
+  &lt;dt&gt;pini&lt;/dt&gt;
+  &lt;dd&gt;ijo li pini la, ona li ken ala tawa insa, li ken ala ante e ijo ni. open la pini ale li ante.&lt;/dd&gt;
+  &lt;dt&gt;pipi&lt;/dt&gt;
+  &lt;dd&gt;akesi en kala en pipi en soweli en waso la, pipi li lon kulupu ni. pipi li jo e noka mute. pipi li ken lon kulupu mute. pipi lili li ken kama lon lukin ante mute e pipi suli.&lt;/dd&gt;
+  &lt;dt&gt;poka&lt;/dt&gt;
+  &lt;dd&gt;ijo tu li lon poki la, ona li lon poka.  ijo li lon tomo la, ijo ante li lon tomo ala la, ona tu li lon poka ala.&lt;/dd&gt;
+  &lt;dt&gt;poki&lt;/dt&gt;
+  &lt;dd&gt;jan li ken kepeken ijo lon insa poki.&lt;/dd&gt;
+  &lt;dt&gt;pona&lt;/dt&gt;
+  &lt;dd&gt;ike la, pona ale li ante.&lt;/dd&gt;
+  &lt;dt&gt;pu&lt;/dt&gt;
+  &lt;dd&gt;jan Sonja li pana e lipu pi kama sona e toki pona. ona li lukin e lipu ni la, ona li pu.&lt;/dd&gt;
+  &lt;dt&gt;sama&lt;/dt&gt;
+  &lt;dd&gt;jan lili tu li kama tan mama wan la, ona li sama. kili tu li kama tan kasi wan la, ona li sama. ante la sama ale li ante.&lt;/dd&gt;
+  &lt;dt&gt;seli&lt;/dt&gt;
+  &lt;dd&gt;suno li pana e wawa seli. soweli ale la, jan taso li kepeken e ilo seli. lete la, sewi ale li ante.&lt;/dd&gt;
+  &lt;dt&gt;selo&lt;/dt&gt;
+  &lt;dd&gt;sijelo ijo li jo e insa la, sijelo insa ala li selo. ona li pilin e ijo kepeken luka la, ona li pilin e selo.&lt;/dd&gt;
+  &lt;dt&gt;seme&lt;/dt&gt;
+  &lt;dd&gt;seme li nimi taso. nimi seme li pana e sona ni: one li wile sona e ijo la, ona li kepeken e seme lon kulupu nimi.  kulupu nimi la, nimi pi sona ala li kama seme.&lt;/dd&gt;
+  &lt;dt&gt;sewi&lt;/dt&gt;
+  &lt;dd&gt;ijo sewi li kon li mun li suno li ma ala. anpa la, sewi ale li ante.&lt;/dd&gt;
+  &lt;dt&gt;sijelo&lt;/dt&gt;
+  &lt;dd&gt;ona ken pilin e ijo la, ijo li jo e sijelo. kon la, sijelo ale li ante.&lt;/dd&gt;
+  &lt;dt&gt;sike&lt;/dt&gt;
+  &lt;dd&gt;one li tawa sike la, ona li kama sin.  sijelo sike la, sinpin ale li sama.&lt;/dd&gt;
+  &lt;dt&gt;sin&lt;/dt&gt;
+  &lt;dd&gt;ona li jo e ijo wan. tenpo kama la one li jo e ijo tu. ijo tu li sin.&lt;/dd&gt;
+  &lt;dt&gt;sina&lt;/dt&gt;
+  &lt;dd&gt;tawa mi la, sina ale li lon insa sina. tawa sina la, ale mi li nimi sina. ni li nasin jan.&lt;/dd&gt;
+  &lt;dt&gt;sinpin&lt;/dt&gt;
+  &lt;dd&gt;oko en uta li lon sinpin jan. lupa li lon sinpin tomo. supa la, sinpin ale li ante.&lt;/dd&gt;
+  &lt;dt&gt;sitelen&lt;/dt&gt;
+  &lt;dd&gt;toki lon lipu li sitelen. musi lon lipu li sitelen.&lt;/dd&gt;
+  &lt;dt&gt;sona&lt;/dt&gt;
+  &lt;dd&gt;pilin la, sona li sama lili. ona li pilin mute tawa ijo la, ona li kama sona e ijo.  ona li lawa e ijo la, ona li sona e ijo.&lt;/dd&gt;
+  &lt;dt&gt;soweli&lt;/dt&gt;
+  &lt;dd&gt;akesi en kala en pipi en soweli en waso la, soweli li lon kulupu ni. soweli li jo e sijelo linja. soweli lili li kama lon lukin sama soweli suli. jan li lon kulupu soweli.&lt;/dd&gt;
+  &lt;dt&gt;suli&lt;/dt&gt;
+  &lt;dd&gt;jan lili li moku mute la, ona li ken kama suli. sona li lawa e jan la, sona ni li suli. lili la, suli ale li ante.&lt;/dd&gt;
+  &lt;dt&gt;suno&lt;/dt&gt;
+  &lt;dd&gt;ma li sike e suno. suno li lon sewi. suno li weka e pimeja lon ma.&lt;/dd&gt;
+  &lt;dt&gt;supa&lt;/dt&gt;
+  &lt;dd&gt;sina li pali ala la, sina ken lon supa.  sinpin la, supa ale li ante.&lt;/dd&gt;
+  &lt;dt&gt;suwi&lt;/dt&gt;
+  &lt;dd&gt;moku li pona la, ona li suwi. jan lili li pona la, ona li suwi.&lt;/dd&gt;
+  &lt;dt&gt;tan&lt;/dt&gt;
+  &lt;dd&gt;ona li lon tomo wan la, ona li tawa tomo tu la, ona li tan tomo wan.&lt;/dd&gt;
+  &lt;dt&gt;taso&lt;/dt&gt;
+  &lt;dd&gt;sona pi nimi taso li ni: ona li jo e ijo wan li jo ala e ijo ante la, ona li jo e ijo wan taso.&lt;/dd&gt;
+  &lt;dt&gt;tawa&lt;/dt&gt;
+  &lt;dd&gt;mi lon ma wan la mi tawa ma tu la, mi tan ma wan.  ijo la, mi wile pali la, mi wile pali tan ijo ni.&lt;/dd&gt;
+  &lt;dt&gt;telo&lt;/dt&gt;
+  &lt;dd&gt;tenpo soweli open la, soweli ale li lon telo.  telo ala la, ale li moli.&lt;/dd&gt;
+  &lt;dt&gt;tenpo&lt;/dt&gt;
+  &lt;dd&gt;ijo li lon li tawa ala. taso mi sona e ni: ona li ante. ni li tenpo.&lt;/dd&gt;
+  &lt;dt&gt;toki&lt;/dt&gt;
+  &lt;dd&gt;jan li pana e sona kepeken kalama la, ni li toki.&lt;/dd&gt;
+  &lt;dt&gt;tomo&lt;/dt&gt;
+  &lt;dd&gt;ona li lon insa e ijo la, ni li tomo.&lt;/dd&gt;
+  &lt;dt&gt;tonsi&lt;/dt&gt;
+  &lt;dd&gt;meli en mije en tonsi la, tonsi li lon kulupu ni. jan ante li pilin ante tawa kon tonsi.&lt;/dd&gt;
+  &lt;dt&gt;tu&lt;/dt&gt;
+  &lt;dd&gt;wan en wan li tu.  ona li tu e ijo la, ona li kama jo e ijo tu.&lt;/dd&gt;
+  &lt;dt&gt;unpa&lt;/dt&gt;
+  &lt;dd&gt;jan lili li kama tan ni.&lt;/dd&gt;
+  &lt;dt&gt;uta&lt;/dt&gt;
+  &lt;dd&gt;lawa jan li jo e lupa uta. kepeken uta la, ona li ken moku.&lt;/dd&gt;
+  &lt;dt&gt;utala&lt;/dt&gt;
+  &lt;dd&gt;kulupu soweli tu li wile e ijo wan la, ona li utala. kulupu jan tu li wile e ijo wan li tu e ijo tawa ijo sama tu la, ni li utala ala.&lt;/dd&gt;
+  &lt;dt&gt;walo&lt;/dt&gt;
+  &lt;dd&gt;walo li lon kulupu kule. telo lete en kon li kule walo.&lt;/dd&gt;
+  &lt;dt&gt;wan&lt;/dt&gt;
+  &lt;dd&gt;ijo tu li kulupu la, ona li wan.&lt;/dd&gt;
+  &lt;dt&gt;waso&lt;/dt&gt;
+  &lt;dd&gt;akesi en kala en pipi en soweli en waso la, waso li lon kulupu ni. waso li jo e noka tu. ona li ken tawa sewi. waso lili li kama lon tan sike waso.&lt;/dd&gt;
+  &lt;dt&gt;wawa&lt;/dt&gt;
+  &lt;dd&gt;wawa li tawa e ijo li seli e ijo.&lt;/dd&gt;
+  &lt;dt&gt;weka&lt;/dt&gt;
+  &lt;dd&gt;ona li moku e kili ale la, ona li weka e kili. ijo li lon la, ijo li ken weka.&lt;/dd&gt;
+  &lt;dt&gt;wile&lt;/dt&gt;
+  &lt;dd&gt;ona li alasa e ijo la, ona li wile e ijo. jo ala e ijo la, ona li moli la, ona li wile e ijo ni.&lt;/dd&gt;
+&lt;/dl&gt;
+</description>
+        <pubDate>Thu, 20 Aug 2020 00:00:00 -0400</pubDate>
+        <link>http://0.0.0.0:4000/2020/nimi-ale/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2020/nimi-ale/</guid>
+        
+        <category>toki pona</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>sitelen ante tawa nimi mama</title>
+        <description>&lt;p&gt;tenpo pini mute la mi open kama sona e toki pona. tenpo sama la mi open pali e sitelen suwi. mi kama sona e nimi la, mi pali e sitelen tawa nimi sin.  ni li lipu mi lon tenpo ni:&lt;/p&gt;
+
+&lt;p class=&quot;wrapper__center-image&quot;&gt;&lt;img src=&quot;/images/t47/t47.070901_l.jpg&quot; alt=&quot;journal_vi&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;lipu ni la sina ken lukin e sitelen nanpa wan tawa nimi ni: &lt;em&gt;a, awen, mama, meli, mije, nasa, nimi, toki&lt;/em&gt;. tenpo ni la mi wile toki e sitelen tawa nimi mama.&lt;/p&gt;
+
+&lt;h2 id=&quot;mama&quot;&gt;mama&lt;/h2&gt;
+
+&lt;p class=&quot;wrapper__center-image&quot;&gt;&lt;img src=&quot;/images/t47_tokipona/nimi/t47_nimi_mama_old.jpg&quot; alt=&quot;mama&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;tenpo open la, mi sona ale ala e kon mama. tenpo sama la mi kama sona e kon mama li lukin tawa musi tu. musi wan li &lt;a href=&quot;https://en.wikipedia.org/wiki/Venus_of_Willendorf&quot;&gt;kiwen meli tan ma tomo Wilento&lt;/a&gt;. musi tu li &lt;a href=&quot;https://fr.wikipedia.org/wiki/Nana_(Niki_de_Saint_Phalle)&quot;&gt;kiwen musi Nanas pi meli Nikitesapa&lt;/a&gt;. ken la musi ni li toki e kon mama. taso ona li toki mute e kon meli.&lt;/p&gt;
+
+&lt;p&gt;mama li pana e ijo pona tawa jan lili anu jan ante. ijo ni li moku li sona li wawa li sewi. jan ale li ken mama e musi e soweli e kasi e tomo e ma. ona ale li mama sama.&lt;/p&gt;
+
+&lt;p&gt;jan ante li toki tawa mi kin. ona li pilin e ni: sitelen sitelen tawa mama li nasa. jan Ne li toki e ni: ona li nasa tawa mi tan ni: mama ale ala li meli. mama pona li wile ala pilin sama meli.&lt;/p&gt;
+
+&lt;p&gt;mi pilin sama. sitelen ni li kon mama wan. kon mama li mute. tenpo li ante. mi wile pana e sona ante li wile e sitelen ante.&lt;/p&gt;
+
+&lt;p class=&quot;wrapper__center-image&quot;&gt;&lt;img src=&quot;/images/t47_tokipona/nimi/t47_nimi_mama.jpg&quot; alt=&quot;mama&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;tenpo ni la mi kepeken e sitelen ni tawa nimi mama. sitelen ni li tan sitelen pona. ona li noka sama sitelen tawa meli en mije en tonsi. mi wile e ni: ona li tawa mama ale.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 14 Aug 2020 00:00:00 -0400</pubDate>
+        <link>http://0.0.0.0:4000/2020/mi-ante-e-sitelen-tawa-nimi-mama/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2020/mi-ante-e-sitelen-tawa-nimi-mama/</guid>
+        
+        <category>featured</category>
+        
+        <category>toki pona</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>jan Simo li pona e ike mi</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;This beautiful drawing from jan Simo describes a couple of errors in the sitelen sitelen lessons that he found.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;sitlen ni li pali pi jan Simo. o lukin e sitelen pona ni!&lt;/p&gt;
+
+&lt;p class=&quot;wrapper__center-image&quot;&gt;&lt;img src=&quot;/images/t47_tokipona/jan_ante/t47.janSimo.ponaeike.png&quot; alt=&quot;jan_simo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;sina ken ala ken sona e ni? ona li toki e ike tu wan lon lipu mi. tenpo ni la mi pona e ike lon lipu sona. taso mi awen e ike lon anpa. sina ken ala ken alasa e ike lon sitelen mi?&lt;/p&gt;
+
+&lt;h3 id=&quot;ike-mi&quot;&gt;ike mi:&lt;/h3&gt;
+
+&lt;section class=&quot;image-dictionary&quot;&gt;
+  &lt;div class=&quot;image-dictionary__centering-wrapper&quot;&gt;
+
+    
+    &lt;div class=&quot;image-dictionary__definition-block&quot;&gt;
+      &lt;div class=&quot;image-dictionary__image&quot;&gt;
+        &lt;img src=&quot;/images/t47_tokipona/kamasona/x_jantina.jpg&quot; alt=&quot;kalama &apos;ti&apos; li lon ala&quot; /&gt;
+      &lt;/div&gt;
+
+      
+
+      
+        &lt;div class=&quot;image-dictionary__text -reveal&quot; tabindex=&quot;1&quot;&gt;
+          kalama &apos;ti&apos; li lon ala
+        &lt;/div&gt;
+      
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;image-dictionary__definition-block&quot;&gt;
+      &lt;div class=&quot;image-dictionary__image&quot;&gt;
+        &lt;img src=&quot;/images/t47_tokipona/kamasona/x_janenkiu.jpg&quot; alt=&quot;nimi Enki-u li ike&quot; /&gt;
+      &lt;/div&gt;
+
+      
+
+      
+        &lt;div class=&quot;image-dictionary__text -reveal&quot; tabindex=&quot;1&quot;&gt;
+          nimi Enki-u li ike
+        &lt;/div&gt;
+      
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;image-dictionary__definition-block&quot;&gt;
+      &lt;div class=&quot;image-dictionary__image&quot;&gt;
+        &lt;img src=&quot;/images/t47_tokipona/kamasona/pi/t47_kaso11_12.jpg&quot; alt=&quot;kulupu jan ulala / kulupu utala&quot; /&gt;
+      &lt;/div&gt;
+
+      
+
+      
+        &lt;div class=&quot;image-dictionary__text -reveal&quot; tabindex=&quot;1&quot;&gt;
+          kulupu jan ulala / kulupu utala
+        &lt;/div&gt;
+      
+    &lt;/div&gt;
+    
+  &lt;/div&gt;
+
+&lt;/section&gt;
+
+</description>
+        <pubDate>Fri, 07 Aug 2020 00:00:00 -0400</pubDate>
+        <link>http://0.0.0.0:4000/2020/jan-simo-li-pona-e-ike/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2020/jan-simo-li-pona-e-ike/</guid>
+        
+        <category>toki pona</category>
+        
+        <category>sitelen pi jan ante</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>meli pi sitelen sitelen</title>
+        <description>&lt;p&gt;soweli Luwi (Loey) li pana e sitelen musi mute.  ona li tan sitelen sitelen, li lukin sama meli. mi awen e sitelen lon lipu ni. soweli Lewi li pana sin la, mi pana kin.&lt;/p&gt;
+
+&lt;p&gt;(I have a spoiler box for text reveal on another git branch of my website. When it’s merged in, I’ll include the text under each one. For now though, try and guess which glyph each one is. If you know sitelen pona, there are some hints in there for you too).&lt;/p&gt;
+
+&lt;p&gt;o lukin:&lt;/p&gt;
+
+&lt;section class=&quot;image-dictionary&quot;&gt;
+  &lt;div class=&quot;image-dictionary__centering-wrapper&quot;&gt;
+
+    
+    &lt;div class=&quot;image-dictionary__definition-block&quot;&gt;
+      &lt;div class=&quot;image-dictionary__image&quot;&gt;
+        &lt;img src=&quot;/images/t47_tokipona/jan_ante/soweliLuwi/tawa.png&quot; alt=&quot;&quot; /&gt;
+      &lt;/div&gt;
+
+      
+
+      
+        &lt;div class=&quot;image-dictionary__text&quot;&gt;
+          
+        &lt;/div&gt;
+      
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;image-dictionary__definition-block&quot;&gt;
+      &lt;div class=&quot;image-dictionary__image&quot;&gt;
+        &lt;img src=&quot;/images/t47_tokipona/jan_ante/soweliLuwi/akesi.png&quot; alt=&quot;&quot; /&gt;
+      &lt;/div&gt;
+
+      
+
+      
+        &lt;div class=&quot;image-dictionary__text&quot;&gt;
+          
+        &lt;/div&gt;
+      
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;image-dictionary__definition-block&quot;&gt;
+      &lt;div class=&quot;image-dictionary__image&quot;&gt;
+        &lt;img src=&quot;/images/t47_tokipona/jan_ante/soweliLuwi/ken.png&quot; alt=&quot;&quot; /&gt;
+      &lt;/div&gt;
+
+      
+
+      
+        &lt;div class=&quot;image-dictionary__text&quot;&gt;
+          
+        &lt;/div&gt;
+      
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;image-dictionary__definition-block&quot;&gt;
+      &lt;div class=&quot;image-dictionary__image&quot;&gt;
+        &lt;img src=&quot;/images/t47_tokipona/jan_ante/soweliLuwi/musi.png&quot; alt=&quot;&quot; /&gt;
+      &lt;/div&gt;
+
+      
+
+      
+        &lt;div class=&quot;image-dictionary__text&quot;&gt;
+          
+        &lt;/div&gt;
+      
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;image-dictionary__definition-block&quot;&gt;
+      &lt;div class=&quot;image-dictionary__image&quot;&gt;
+        &lt;img src=&quot;/images/t47_tokipona/jan_ante/soweliLuwi/pona.png&quot; alt=&quot;&quot; /&gt;
+      &lt;/div&gt;
+
+      
+
+      
+        &lt;div class=&quot;image-dictionary__text&quot;&gt;
+          
+        &lt;/div&gt;
+      
+    &lt;/div&gt;
+    
+  &lt;/div&gt;
+
+&lt;/section&gt;
+
+</description>
+        <pubDate>Wed, 05 Aug 2020 00:00:00 -0400</pubDate>
+        <link>http://0.0.0.0:4000/2020/meli_pi_sitelen_sitelen/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2020/meli_pi_sitelen_sitelen/</guid>
+        
+        <category>toki pona</category>
+        
+        <category>sitelen pi jan ante</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>sitelen sitelen renderer by Olaf Janssen</title>
+        <description>&lt;p&gt;Try out this &lt;a href=&quot;http://livingtokipona.smoishele.com/examples/liveinput/liveinput.html&quot;&gt;Live Toki Pona Sitelen Sitelen Renderer&lt;/a&gt; by Olaf Janssen, or view the source code with additional examples and installation notes in the &lt;a href=&quot;https://github.com/olafjanssen/sitelen-sitelen-renderer&quot;&gt;Github repo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Even though I advocate for learning to draw sitelen sitelen with your hands, I always wanted to see something like this that could convert text into the glyph blocks.  And if you learn best by interacting, this could really aid in teaching you glyph block structures.  It is fairly feature complete, and it’s open source so you could always offer some improvements if you felt they were needed.&lt;/p&gt;
+
+&lt;p&gt;It handles glyph block sizing surprisingly well, but one of the better features I overlooked at first is that you can use the slider to control the proportions of your final output.  It will alternate from a full vertical stack to a horizontal one. I could see this really coming in handy if you want to quickly iterate over the options for a longer sentence.&lt;/p&gt;
+
+&lt;section class=&quot;image-dictionary&quot;&gt;
+  &lt;div class=&quot;image-dictionary__centering-wrapper&quot;&gt;
+
+    
+    &lt;div class=&quot;image-dictionary__definition-block&quot;&gt;
+      &lt;div class=&quot;image-dictionary__image&quot;&gt;
+        &lt;img src=&quot;/images/t47_tokipona/jan_ante/t47.janssen-example_2.svg&quot; alt=&quot;sina ken kepeken ilo ni.&quot; /&gt;
+      &lt;/div&gt;
+
+      
+
+      
+        &lt;div class=&quot;image-dictionary__text&quot;&gt;
+          sina ken kepeken ilo ni.
+        &lt;/div&gt;
+      
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;image-dictionary__definition-block&quot;&gt;
+      &lt;div class=&quot;image-dictionary__image&quot;&gt;
+        &lt;img src=&quot;/images/t47_tokipona/jan_ante/t47.janssen-example_3.svg&quot; alt=&quot;o kama jo e sitelen sitelen.&quot; /&gt;
+      &lt;/div&gt;
+
+      
+
+      
+        &lt;div class=&quot;image-dictionary__text&quot;&gt;
+          o kama jo e sitelen sitelen.
+        &lt;/div&gt;
+      
+    &lt;/div&gt;
+    
+  &lt;/div&gt;
+
+&lt;/section&gt;
+
+</description>
+        <pubDate>Wed, 29 Jul 2020 00:00:00 -0400</pubDate>
+        <link>http://0.0.0.0:4000/2020/olaf-janssen-toki-pona-to-sitelen/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2020/olaf-janssen-toki-pona-to-sitelen/</guid>
+        
+        <category>toki pona</category>
+        
+        <category>sitelen resources</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Vectorized sitelen sitelen by jan Sulijen</title>
+        <description>&lt;h3 id=&quot;artwork-by-jan-sulijen-and-another-fully-vectorized-collection-of-the-sitelen-sitelen&quot;&gt;artwork by jan Sulijen, and another fully vectorized collection of the sitelen sitelen&lt;/h3&gt;
+
+&lt;p&gt;jan Silujen sent me these back in 2016, but I am only now getting them up for others to view.  They are another full set of vectorized sitelen sitelen, and an alternative to the other set by &lt;a href=&quot;/2015/jan-same-vectorized-sitelen/&quot;&gt;jan Same&lt;/a&gt;. They include the syllables, the glyphs, and jan Sonja’s proverbs as vector images.&lt;/p&gt;
+
+&lt;section class=&quot;image-dictionary&quot;&gt;
+  &lt;div class=&quot;image-dictionary__centering-wrapper&quot;&gt;
+
+    
+    &lt;div class=&quot;image-dictionary__definition-block&quot;&gt;
+      &lt;div class=&quot;image-dictionary__image&quot;&gt;
+        &lt;img src=&quot;/images/t47_tokipona/jan_ante/t47.janSulijen.proverb_11.svg&quot; alt=&quot;&quot; /&gt;
+      &lt;/div&gt;
+
+      
+
+      
+        &lt;div class=&quot;image-dictionary__text&quot;&gt;
+          
+        &lt;/div&gt;
+      
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;image-dictionary__definition-block&quot;&gt;
+      &lt;div class=&quot;image-dictionary__image&quot;&gt;
+        &lt;img src=&quot;/images/t47_tokipona/jan_ante/t47.janSulijen.proverb_01.svg&quot; alt=&quot;&quot; /&gt;
+      &lt;/div&gt;
+
+      
+
+      
+        &lt;div class=&quot;image-dictionary__text&quot;&gt;
+          
+        &lt;/div&gt;
+      
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;image-dictionary__definition-block&quot;&gt;
+      &lt;div class=&quot;image-dictionary__image&quot;&gt;
+        &lt;img src=&quot;/images/t47_tokipona/jan_ante/t47.janSulijen.proverb_10.svg&quot; alt=&quot;&quot; /&gt;
+      &lt;/div&gt;
+
+      
+
+      
+        &lt;div class=&quot;image-dictionary__text&quot;&gt;
+          
+        &lt;/div&gt;
+      
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;image-dictionary__definition-block&quot;&gt;
+      &lt;div class=&quot;image-dictionary__image&quot;&gt;
+        &lt;img src=&quot;/images/t47_tokipona/jan_ante/t47.janSulijen.proverb_23.svg&quot; alt=&quot;&quot; /&gt;
+      &lt;/div&gt;
+
+      
+
+      
+        &lt;div class=&quot;image-dictionary__text&quot;&gt;
+          
+        &lt;/div&gt;
+      
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;image-dictionary__definition-block&quot;&gt;
+      &lt;div class=&quot;image-dictionary__image&quot;&gt;
+        &lt;img src=&quot;/images/t47_tokipona/jan_ante/t47.janSulijen.proverb_19.svg&quot; alt=&quot;&quot; /&gt;
+      &lt;/div&gt;
+
+      
+
+      
+        &lt;div class=&quot;image-dictionary__text&quot;&gt;
+          
+        &lt;/div&gt;
+      
+    &lt;/div&gt;
+    
+  &lt;/div&gt;
+
+&lt;/section&gt;
+
+&lt;p&gt;You can download a &lt;a href=&quot;/images/t47_tokipona/jan_ante/t47.janSulijen.tar&quot;&gt;tar file here&lt;/a&gt; of all the images and individual glyphs.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 28 Jul 2020 00:00:00 -0400</pubDate>
+        <link>http://0.0.0.0:4000/2020/jan-silujen-vectorized/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2020/jan-silujen-vectorized/</guid>
+        
+        <category>toki pona</category>
+        
+        <category>sitelen resources</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>poka anu lon poka?</title>
+        <description>&lt;p&gt;Recently while I was adding &lt;a href=&quot;/toki-pona/lesson-10/&quot;&gt;lesson 10&lt;/a&gt; to the sitelen sitelen lessons, jan Inkepa noted that this image used &lt;em&gt;poka&lt;/em&gt; without &lt;em&gt;lon&lt;/em&gt;, counter to the examples in both jan Pije’s and jan Sonja’s texts:&lt;/p&gt;
+
+&lt;div class=&quot;image-with-caption__centering-wrapper&quot;&gt;
+  &lt;div class=&quot;image-with-caption&quot;&gt;
+    &lt;div class=&quot;image-with-caption__image-block&quot;&gt;
+      
+      &lt;img src=&quot;/images/t47/t47.200001.jpg&quot; alt=&quot;tomo moku li poka seme?&quot; /&gt;
+      
+    &lt;/div&gt;
+
+    
+      &lt;div class=&quot;image-with-caption__caption-block&quot;&gt;
+        tomo moku li poka seme?
+      &lt;/div&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Indeed, in jan Pije’s lessons and in pu, the use of what Sonja calls ‘directional nouns’ are all the same: &lt;em&gt;poka, anpa, sewi, insa, monsi&lt;/em&gt;, (and also &lt;em&gt;noka&lt;/em&gt; in pu) come after prepositions &lt;em&gt;lon, tawa, and tan&lt;/em&gt;. I added in a &lt;em&gt;lon&lt;/em&gt;, but something still didn’t feel right to me:&lt;/p&gt;
+
+&lt;div class=&quot;image-with-caption__centering-wrapper&quot;&gt;
+  &lt;div class=&quot;image-with-caption&quot;&gt;
+    &lt;div class=&quot;image-with-caption__image-block&quot;&gt;
+      
+      &lt;img src=&quot;/images/t47/t47.200002.jpg&quot; alt=&quot;tomo moku li lon poka seme?&quot; /&gt;
+      
+    &lt;/div&gt;
+
+    
+      &lt;div class=&quot;image-with-caption__caption-block&quot;&gt;
+        tomo moku li lon poka seme?
+      &lt;/div&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Why had I decided to use &lt;em&gt;poka&lt;/em&gt; as a container, unlike the other directional nouns?  Going back to look at &lt;a href=&quot;/toki-pona/lesson-7/&quot;&gt;lesson 7&lt;/a&gt;, I found the examples I gave even more troubling:&lt;/p&gt;
+
+&lt;div class=&quot;image-with-caption__centering-wrapper&quot;&gt;
+  &lt;div class=&quot;image-with-caption&quot;&gt;
+    &lt;div class=&quot;image-with-caption__image-block&quot;&gt;
+      
+      &lt;img src=&quot;/images/t47/t47.120001.jpg&quot; alt=&quot;mi poka sina.&quot; /&gt;
+      
+    &lt;/div&gt;
+
+    
+      &lt;div class=&quot;image-with-caption__caption-block&quot;&gt;
+        mi poka sina.
+      &lt;/div&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;image-with-caption__centering-wrapper&quot;&gt;
+  &lt;div class=&quot;image-with-caption&quot;&gt;
+    &lt;div class=&quot;image-with-caption__image-block&quot;&gt;
+      
+      &lt;img src=&quot;/images/t47/t47.120002.jpg&quot; alt=&quot;mi moku lon poka sina.&quot; /&gt;
+      
+    &lt;/div&gt;
+
+    
+      &lt;div class=&quot;image-with-caption__caption-block&quot;&gt;
+        mi moku lon poka sina.
+      &lt;/div&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;image-with-caption__centering-wrapper&quot;&gt;
+  &lt;div class=&quot;image-with-caption&quot;&gt;
+    &lt;div class=&quot;image-with-caption__image-block&quot;&gt;
+      
+      &lt;img src=&quot;/images/t47/t47.120003.jpg&quot; alt=&quot;ma suli li poka ma lili.&quot; /&gt;
+      
+    &lt;/div&gt;
+
+    
+      &lt;div class=&quot;image-with-caption__caption-block&quot;&gt;
+        ma suli li poka ma lili.
+      &lt;/div&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Had I always been using &lt;em&gt;poka&lt;/em&gt; both inconsistently &lt;em&gt;and&lt;/em&gt; wrong?  I looked through the now mostly defunct toki pona forums for discussions I vaguely remembered about this, I found some hints, but a lot of the information is just no longer there.  Then last night it occurred to me, I had the URL for jan Pije’s old website in the archives of my lessons.  &lt;a href=&quot;https://web.archive.org/web/20141009053259/http://tokipona.net/tp/janpije/lesson/lesson7.html&quot;&gt;Looking at it in the Wayback Machine&lt;/a&gt; I finally found my answer.  Here is an excerpt from jan Pije’s lessons from before they were updated in 2015:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;h4 id=&quot;poka&quot;&gt;poka&lt;/h4&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;poka is rather unique in that it can act both as a noun/adjective and also as a preposition. Let’s look at each of these uses separately.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;h5 id=&quot;poka-as-a-nounadjective&quot;&gt;poka as a noun/adjective&lt;/h5&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;This use is the same as you saw earlier in anpa, insa, monsi, and sewi. Here are some examples:&lt;/p&gt;
+  &lt;ul&gt;
+    &lt;li&gt;ona li lon poka mi. – He is at my side. He is beside me.&lt;/li&gt;
+    &lt;li&gt;jan poka – neighbor; someone who is beside you&lt;/li&gt;
+    &lt;li&gt;poka telo – “water side”; in other words, the beach&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;h5 id=&quot;poka-as-a-preposition&quot;&gt;poka as a preposition&lt;/h5&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Unlike anpa and the rest, poka can also be used directly as a preposition. These two sentences below have the same meaning, but you go about them in a different way:&lt;/p&gt;
+  &lt;ul&gt;
+    &lt;li&gt;mi moku poka jan pona mi. – I ate beside my friend.&lt;/li&gt;
+    &lt;li&gt;mi moku lon poka pi jan pona mi. – I ate at side of my friend.&lt;/li&gt;
+    &lt;li&gt;(Note: This sentence uses pi, which isn’t taught until a later lesson. I wanted to present this usage of poka here, but don’t worry if the sentence confuses you due to its use of pi.)&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;So, you see, you can treat poka either as a noun/adjective or as a preposition. It’s up to you, but whichever way you choose you can still express your thought. Here is another example:&lt;/p&gt;
+  &lt;ul&gt;
+    &lt;li&gt;mi utala e jan ike poka jan nasa. – I fought an enemy with a drunk guy.&lt;/li&gt;
+    &lt;li&gt;mi utala e jan ike lon poka pi jan nasa. – I fought an enemy at the side of a drunk guy.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;That’s not so bad, now is it?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I remember now how these examples caused me endless confusion when first learning toki pona.  I’m really happy that it’s use is now much simpler and consistent with other patterns.&lt;/p&gt;
+
+&lt;h3 id=&quot;poka-li-sitelen-poki-anu-seme&quot;&gt;poka li sitelen poki anu seme?&lt;/h3&gt;
+
+&lt;p&gt;I do, however, have the pesky problem of examples using &lt;em&gt;poka&lt;/em&gt; as a container. I’ve never really been that happy with the way it fills this role. The top part of &lt;em&gt;poka&lt;/em&gt; naturally wants to take up half the glyph, leaving little room for anything else inside. For now as I clean up the examples in lesson 7 to align better with current toki pona, I have also removed any infixes within &lt;em&gt;poka&lt;/em&gt; and present it the same as the other directional nouns.&lt;/p&gt;
+
+&lt;p&gt;There is however, an amusing alternative.  I could go the other direction and make all of these related glyphs containers as well. For visual clarity, I think they would also have to combine with the leading preposition, similar to how &lt;em&gt;seme&lt;/em&gt; operates in the examples in lesson 10. Here are some examples I tried out recently:&lt;/p&gt;
+
+&lt;p class=&quot;wrapper__center-image&quot;&gt;&lt;img src=&quot;/images/t47/t47.200722.jpg&quot; alt=&quot;location containers&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;tawa monsi&lt;/em&gt; and &lt;em&gt;tawa anpa&lt;/em&gt; with an infix really make me smile when I see them like this. The other’s, not so much.  Go ahead some time and give this a try, and let me know if you like something about it. For now though, I’m just happy to simplify both the grammar and the drawings at the same time.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 25 Jul 2020 00:00:00 -0400</pubDate>
+        <link>http://0.0.0.0:4000/2020/historical-experimental-directions/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2020/historical-experimental-directions/</guid>
+        
+        <category>sitelen sitelen</category>
+        
+        <category>toki pona</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>sitelen sitelen taso</title>
+        <description>&lt;p&gt;Do you all already know about &lt;a href=&quot;https://t.me/sitelensitelentaso&quot;&gt;sitelen sitelen taso&lt;/a&gt; on Telegram? I’ve been wanting to do a post about this for a while now, but I couldn’t figure out how to present a good selection of the artworks because there are so many. I’m just going to throw one screen shot below and encourage you to go on and see for yourself.  Telegram holds past posts in history so you should be able to scroll back up and see them all.&lt;/p&gt;
+
+&lt;p&gt;sina sona ala sona e lipu &lt;a href=&quot;https://t.me/sitelensitelentaso&quot;&gt;sitelen sitelen taso&lt;/a&gt; lon ilo Telekan? mi wile toki e ni. taso ona li jo e sitelen mute. mi ken ala pana e ale. mi pana e wan taso. ni li ike ala. ilo Telekan li awen e sitelen pi tenpo pini. o kama tawa lipu. o lukin e sitelen ale. o sitelen tawa mi mute!&lt;/p&gt;
+
+&lt;p class=&quot;wrapper__center-image&quot;&gt;&lt;img src=&quot;/images/t47_tokipona/jan_ante/janInweka/sitelen_sitelen_taso_l.png&quot; alt=&quot;mi toki ala kon&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I also want to add a special thanks for jan Inweka for getting this channel rolling, and for all the innovative sitelen sitelen he’s shared there. OK, here’s one more you need to see (“I can’t breathe”):&lt;/p&gt;
+
+&lt;p&gt;mi wile pana e namako. o toki pona tawa jan Inweka. ona li open e lipu ni. ona li sitelen pona kin. o lukin e sitelen wawa ni (mi ken ala kon):&lt;/p&gt;
+
+&lt;p class=&quot;wrapper__center-image&quot;&gt;&lt;img src=&quot;/images/t47_tokipona/jan_ante/janInweka/mi_ken_ala_kon_l.png&quot; alt=&quot;mi ken ala kon&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 15 Jul 2020 00:00:00 -0400</pubDate>
+        <link>http://0.0.0.0:4000/2020/sitelen-sitelen-taso/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2020/sitelen-sitelen-taso/</guid>
+        
+        <category>featured</category>
+        
+        <category>toki pona</category>
+        
+        <category>sitelen pi jan ante</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>nasin nasa nanpa luka - meli ante</title>
+        <description>&lt;p&gt;It’s been exactly a year since I &lt;a href=&quot;/2019/sike-noka/&quot;&gt;wrote about&lt;/a&gt; Vacon Sartirani’s web comic nasin nasa, written entirely in sitelen sitelen, so I thought I really should post an update.  Episode 5 just made it to my house about a week ago, and what can I say? Every episode since the first has been just as strong, just as weird and just as enjoyable.&lt;/p&gt;
+
+&lt;p&gt;You can still &lt;a href=&quot;https://www.patreon.com/bePatron?utm_source=webtoons&amp;amp;utm_medium=link&amp;amp;utm_campaign=vaconsartirani&amp;amp;u=21118728&amp;amp;redirect_uri=http%3A%2F%2Fm.webtoons.com%2Fchallenge%2FpatreonCallback&quot;&gt;Subscribe&lt;/a&gt; to get your own, and catch up on all the previous issues on &lt;a href=&quot;https://tapas.io/series/Nasin-Nasa&quot;&gt;tapas&lt;/a&gt; or &lt;a href=&quot;https://www.webtoons.com/en/challenge/nasin-nasa/list?title_no=303628&quot;&gt;webtoons&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;tenpo sike suno la mi &lt;a href=&quot;/2019/sike-noka/&quot;&gt;toki&lt;/a&gt; e sitelen pi jan Wacon.  ona li toki kepeken sitelen sitelen taso. tenpo ni la mi wile toki e ni: ona li lon awen! lipu nanpa luka li kama tawa tomo mi. sitelen li wawa. ona li jo e jan suli en monsuta nasa. lipu ale li pona mute.&lt;/p&gt;
+
+&lt;p&gt;o kama jo e &lt;a href=&quot;https://www.patreon.com/bePatron?utm_source=webtoons&amp;amp;utm_medium=link&amp;amp;utm_campaign=vaconsartirani&amp;amp;u=21118728&amp;amp;redirect_uri=http%3A%2F%2Fm.webtoons.com%2Fchallenge%2FpatreonCallback&quot;&gt;lipu&lt;/a&gt;. o lukin e sitelen lon lipu &lt;a href=&quot;https://tapas.io/series/Nasin-Nasa&quot;&gt;Tapa&lt;/a&gt; anu lipu &lt;a href=&quot;https://www.webtoons.com/en/challenge/nasin-nasa/list?title_no=303628&quot;&gt;Wepaton&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p class=&quot;wrapper__center-image&quot;&gt;&lt;img src=&quot;/images/t47_tokipona/jan_ante/t47.janWakon.meli_ante_l.png&quot; alt=&quot;mi toki ala kon&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 15 Jul 2020 00:00:00 -0400</pubDate>
+        <link>http://0.0.0.0:4000/2020/meli-ante/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2020/meli-ante/</guid>
+        
+        <category>toki pona</category>
+        
+        <category>sitelen pi jan ante</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

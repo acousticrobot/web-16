@@ -1,0 +1,47 @@
+RewriteEngine on
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+
+Redirect 301 /toki-pona/lesson-1/ https://www.jonathangabel.com/toki-pona/kama-pona/
+
+Redirect 301 /toki-pona/lesson-2/ https://www.jonathangabel.com/toki-pona/syllables-1/
+
+Redirect 301 /toki-pona/lesson-3/ https://www.jonathangabel.com/toki-pona/basic-sentences/
+
+Redirect 301 /toki-pona/lesson-4/ https://www.jonathangabel.com/toki-pona/direct-objects/
+
+Redirect 301 /toki-pona/lesson-4b/ https://www.jonathangabel.com/toki-pona/block-order/
+
+Redirect 301 /toki-pona/lesson-5/ https://www.jonathangabel.com/toki-pona/modifiers/
+
+Redirect 301 /toki-pona/lesson-6/ https://www.jonathangabel.com/toki-pona/prepositions-1/
+
+Redirect 301 /toki-pona/lesson-7/ https://www.jonathangabel.com/toki-pona/prepositions-2/
+
+Redirect 301 /toki-pona/lesson-8/ https://www.jonathangabel.com/toki-pona/questions-1/
+
+Redirect 301 /toki-pona/lesson-9/ https://www.jonathangabel.com/toki-pona/commands/
+
+Redirect 301 /toki-pona/lesson-10/ https://www.jonathangabel.com/toki-pona/questions-2/
+
+Redirect 301 /toki-pona/lesson-11/ https://www.jonathangabel.com/toki-pona/pi/
+
+Redirect 301 /projects/t47/index.html https://www.jonathangabel.com/toki-pona/
+
+Redirect 301 /archive/2012/artworks_laughton-mccry-gilgamesh-page-one.html https://www.jonathangabel.com/2012/laughton-mccry-gilgamesh-page-one/
+
+Redirect 301 /archive/2012/artworks_lipu-lawa-pi-esun-kama.html https://www.jonathangabel.com/2012/lipu-lawa-pi-esun-kama/
+
+Redirect 301 /archive/2012/learn_t47.html https://www.jonathangabel.com/toki-pona/
+
+Redirect 301 /archive/2012/learn_t47_dictionaries.html https://www.jonathangabel.com/toki-pona/
+
+Redirect 301 /archive/2012/learn_t47_dictionaries_glyphs.html https://www.jonathangabel.com/toki-pona/
+
+Redirect 301 /archive/2012/learn_t47_dictionaries_syllabary.html https://www.jonathangabel.com/toki-pona
+
+Redirect 301 /archive/2012/learn_t47_gallery.html https://www.jonathangabel.com/toki-pona/dictionaries/gallery/
+
+
+RedirectMatch 301 ^/learn/t47/.*$ https://www.jonathangabel.com/toki-pona/

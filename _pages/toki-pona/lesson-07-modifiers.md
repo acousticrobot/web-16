@@ -111,7 +111,7 @@ english_tests:
 >
 >* __jan mute li telo e kili jaki.__ - many people wash the dirty vegetables.
 >* __jan li telo mute e kili jaki.__ - the people thoroughly wash the dirty vegetables.
->* __jan li telo e kili jaki mute.__ - the people wash may dirty vegetables.
+>* __jan li telo e kili jaki mute.__ - the people wash many dirty vegetables.
 >
 
 ### compound nouns

@@ -4,8 +4,8 @@
 .wrapper__page, .wrapper__content, .wrapper__footer {
 	margin-right: auto;
 	margin-left: auto;
-	padding-right: $spacing-unit / 4;
-	padding-left: $spacing-unit / 4;
+	padding-right: calc($spacing-unit / 4);
+	padding-left: calc($spacing-unit / 4);
 	@extend %clearfix;
 
 	@include media-query($tablet-breakpoint) {
@@ -33,7 +33,7 @@
 .wrapper__footer-col {
 	font-size: 15px;
 	color: $color-grey-8;
-	margin-left: -$spacing-unit / 2;
+	margin-left: calc(($spacing-unit / 2) * -1);
 	@extend %clearfix;
 }
 
@@ -45,7 +45,7 @@
 	border-bottom: 1px solid $color-grey-E;
 	min-height: 56px;
 	background-color: $color-background-content;
-	padding-left: $spacing-unit / 2;
+	padding-left: calc($spacing-unit / 2);
 	@include media-query-smaller-than($tablet-breakpoint) {
 		@include inverse;
 		border: none;
@@ -160,8 +160,8 @@ h1.site-header__title {
 
 .footer-col {
 	float: left;
-	margin-bottom: $spacing-unit / 2;
-	padding-left: $spacing-unit / 2;
+	margin-bottom: calc($spacing-unit / 2);
+	padding-left: calc($spacing-unit / 2);
 }
 
 .footer-col-1 {

@@ -1,6 +1,6 @@
 
 .image-index__article {
-  margin-bottom: $spacing-unit/4;
+  margin-bottom: calc($spacing-unit / 4);
   border-bottom: 1px solid $color-gris-C;
 }
 

@@ -12,7 +12,7 @@ github_username:  acousticRobot
 # Build settings
 markdown: kramdown
 
-exclude: [utilities, lib]
+exclude: [utilities, lib, README.md, sftp-config.json]
 
 kramdown:
   input: GFM

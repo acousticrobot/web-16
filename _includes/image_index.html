@@ -6,6 +6,7 @@ Parameters:
     - thumb: square thumbnail image (150 x 150)
     - title: page title
     - excerpt: used for description
+    - date: defaults to now, we ignore this and look for a year
     - content: used if no page excerpt truncated to 240 lines
 
   TODO: If used with posts, could check for excerpt
@@ -33,8 +34,10 @@ Parameters:
       <a href="{{ page.url }}">{{page.title}}</a>
     </h2>
     <div class="image-index__description-date">
-      {% if page.date != nil %}
-        {{ page.date | date: "%B %-d, %Y" }}
+      {% assign default_date = 'now' | date: "%B %-d, %Y" %}
+      {% assign page_date = page.date | date: "%B %-d, %Y" %}
+      {% if page_date != default_date %}
+        {{ page_date }}
       {% else if page.year_made != nil %}
         {{ page.year_made }}
       {% endif %}

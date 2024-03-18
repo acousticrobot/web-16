@@ -7,6 +7,17 @@ title: homepage
 <h1 class="content-title">Featured Pages:</h1>
 </header>
 
+<section id="artworks">
+  {% for page in site.pages %}
+    {% if page.art_index == true %}
+      {% assign tags= page.tags | join %}
+      {% if tags contains 'featured' %}
+        {% include image_index.html page=page %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+</section>
+
 <section id="sitelen-sitelen">
   {% for page in site.data.all_tags['sitelen-index'] %}
   {% include image_index.html page=page %}

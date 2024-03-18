@@ -285,7 +285,7 @@ Finally, if there is an n, it is drawn as a subfix below:
 
 {% include image_dictionary.html definitions=page.subfix_definitions %}
 
-The terminal 'n' is the same as the 'n' used as a main sign, rotated on it's side, and "tucked under" the main consonant. Similarly, the vowels 'i' and 'u' rotate freely within the consonant main sign, and rest at the point where they are most legible.
+The terminal 'n' is the same as the 'n' used as a main sign, rotated on its side, and "tucked under" the main consonant. Similarly, the vowels 'i' and 'u' rotate freely within the consonant main sign, and rest at the point where they are most legible.
 
 ## Syllabary
 

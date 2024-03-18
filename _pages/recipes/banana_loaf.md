@@ -56,7 +56,7 @@ Let rest for about 2 hours, shape and transfer to a standard (8 1/2 x 4 1/2) loa
 
 1 hour before baking preheat oven to 475F.
 
-After 5 minutes lower temperature to 375, and bake for 15 minutes.  Lower temperature to 350 and bake for an additional 20-25 minutes. Final internal temperature should be 190. Aim for a light brown crust, tent with foil if the top starts to brown too early.
+After 5 minutes lower temperature to 375, and bake for 10 minutes.  Lower temperature to 350 and bake for an additional 25 minutes. Final internal temperature should be 190. Aim for a light brown crust, tent with foil if the top starts to brown too early.
 
 
 Amounts for a single loaf:

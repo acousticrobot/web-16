@@ -13,7 +13,7 @@ adjusting this recipe to make 2 full size waffles in our iron:
 
 Mix the night before
 
-  * 2400g flour
+  * 240g flour
   * 225g sourdough starter (100% hydration)
   * 180g yogurt
 

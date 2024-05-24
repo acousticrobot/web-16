@@ -2,6 +2,13 @@
 layout: default
 ---
 
+{% for image in page.images %}
+  <div class="wrapper__center-image">
+    <img src="{{ image }}" alt="{{ page.title }}">
+  </div>
+{% endfor %}
+
+
 <header>
   <h1 class="content__title">{{ page.title }}</h1>
 </header>
@@ -11,13 +18,6 @@ layout: default
   <div class="artwork__description">
     {{ content }}
   </div>
-
-
-  {% for image in page.images %}
-    <div class="wrapper__center-image">
-      <img src="{{ image }}" alt="{{ page.title }}">
-    </div>
-  {% endfor %}
 
   <div class="artwork__meta">
     {% if page.artist != 'self' %}

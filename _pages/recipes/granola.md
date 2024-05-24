@@ -15,7 +15,7 @@ permalink: /recipes/granola/
   * 100g coconut
   * 50g flax
   * 50g sesame seeds
-  * 1/2c oil
+  * 1/2c (100g) oil
   * 100g brown sugar
   * 1T vanilla or other flavor (optional)
   * 50g amaranth

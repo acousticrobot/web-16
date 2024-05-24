@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   The website of Jonathan Gabel. Catalogues of projects, musings, and arcane thoughts.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://jonathangabel.com" # the base hostname & protocol for your site
-twitter_username: acousticRobot
+#twitter_username: acousticRobot
 github_username:  acousticRobot
 
 # Build settings

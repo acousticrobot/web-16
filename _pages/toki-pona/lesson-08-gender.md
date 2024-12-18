@@ -22,6 +22,8 @@ vocabulary:
   text: pilin
 - image: /images/t47_tokipona/nimi/t47_nimi_tonsi.jpg
   text: tonsi
+- image: /images/t47_tokipona/nimi/t47_nimi_wan.jpg
+  text: wan
 ona_examples:
 - image: /images/t47_tokipona/kamasona/basic/onalipona.jpg
   text: 'he is good!'
@@ -98,6 +100,10 @@ Besides _meli_ and _mije_ for man and woman, many in the toki pona community als
 To express more than one of anything we have already seen we can use mute as a modifier. This works with _mi_, _sina_ and _ona_ as well, to make _us_, _you-plural_, and _they_ explicit:
 
 {% include image_dictionary.html definitions=page.mute_examples %}
+
+Use _wan_ if you want to be explicit about singularity:
+
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/gender/miwanlipali.jpg" caption="mi wan li pali." %}
 
 Additionally _kulupu_ is used regularly to talk about a community or group of people:
 

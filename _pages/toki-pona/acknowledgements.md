@@ -56,7 +56,7 @@ Although spoken language is in our nature, it is written language that acts as i
 
 ### project t47 (human sequel)
 
-I had long wanted to work out a system of drawing that lent itself to language, where composition was determined not by visual principals, but by literary content. The problem that I ran into was always the immense amount of work that would be required in translating an entire language into visual components.
+I had long wanted to work out a system of drawing that lent itself to language, where composition was determined not by visual principles, but by literary content. The problem that I ran into was always the immense amount of work that would be required in translating an entire language into visual components.
 
 In 2007 I finally had the pieces I needed to move forward with this project, and added it to the registrar under the tag t47, now more commonly known as _sitelen suwi_ or _sitelen sitelen_. The following is the list of resources without which I could not have accomplished this.
 
@@ -107,7 +107,7 @@ One of the first lexical sources I went to was a book I've had on my shelf since
 
 ##### monograms
 
-Another principal that I drew from was Koch's description of monograms:
+Another principle that I drew from was Koch's description of monograms:
 
 >It is sometimes difficult to interpret monograms, as their letters are often very much disguised, or turned back to front, or only partially drawn, so that it frequently requires great skill to discover the names concealed in them.
 
@@ -121,7 +121,7 @@ This same strategy of transformative aesthetic free play ultimately came to work
 
 #### Egyptian hieroglyphics
 
-One of my first logical steps in understanding the principals of existing logographic writing sytems was of course to learn more about Egyptian hieroglyphs. The figurative nature of this system also helped my break out of the purely symbolic aesthetic and closer to the graphic style describe above.  
+One of my first logical steps in understanding the principles of existing logographic writing sytems was of course to learn more about Egyptian hieroglyphs. The figurative nature of this system also helped my break out of the purely symbolic aesthetic and closer to the graphic style describe above.  
 
 While the very linear nature of Egyptian hieroglyphics did not help my quest for non-linear writing, one exception that I came away with was the cartouche, where a royal name was encapsulated inside of a glyph.  As a method of indicating the capitalization of formal names in toki pona, this was something that stayed with me and made it into sitelen sitelen early on.
 
@@ -149,7 +149,7 @@ Also, I'm very fond of the website [Chinese Etymology (字源)](https://hanziyua
 
 #### Maya
 
-The book _How to Read Maya Hieroglyphs, John Montgomery, 2002, Hippocrene Books_ was instrumental in my understanding the basic principals of Maya glyph block formation, particularly pages 43-45 which introduce the terms _superfix, subfix, infix, prefix, postfix_. I have used these terms throughout the lessons.
+The book _How to Read Maya Hieroglyphs, John Montgomery, 2002, Hippocrene Books_ was instrumental in my understanding the basic principles of Maya glyph block formation, particularly pages 43-45 which introduce the terms _superfix, subfix, infix, prefix, postfix_. I have used these terms throughout the lessons.
 
 I am also indebted to the work of the [Foundation for the Advancement of Mesoamarican Studies Inc. (FAMSI)](http://www.famsi.org/index.html, for it's work in illuminating and preserving Maya and related (Zapotec, Olmec, among others) languages and cultures.
 
@@ -172,7 +172,7 @@ The Maya culture is a contemporary culture, and Maya people continue to fight fo
 
 Mi'kmaq logograms, or ideograms as I have seen them referred to, were in use, as far as I can tell, from the 17th century or earlier, up through the 19th century. There is one published collection of this written language that I was able to find, _Mi'Kmaq Hieroglyphic Prayers,  David Schmidt ed. 1995, Nimbus Publishing_, which presents a number of Christian prayers written in Mi'kmaq. 
 
-The text does not elaborate on principals or rules for the written language, but I found one repeating element, similar in shape to a backwards 'S' in the following passages: _how am I going to be, how did they turn from, how do we want, how does he act, how does he react, how does he say it, how does one revive, how great is it, how is it, how many are there, how will he prepare them, is it like?, what are they named, what happens to them?, what is it, what is, what things, what will happen, what,_ and _why._ 
+The text does not elaborate on principles or rules for the written language, but I found one repeating element, similar in shape to a backwards 'S' in the following passages: _how am I going to be, how did they turn from, how do we want, how does he act, how does he react, how does he say it, how does one revive, how great is it, how is it, how many are there, how will he prepare them, is it like?, what are they named, what happens to them?, what is it, what is, what things, what will happen, what,_ and _why._ 
 
 {% include image_dictionary.html definitions=page.seme_sources %} 
 
@@ -195,6 +195,6 @@ The Naxi culture is a contemporary culture and their written language continues 
 
 This project, and sitelen sitelen, continue to evolve, just as all living languages do. Even languages we refer to as 'dead' change with our understanding and perception of them. The act of studying a language can enhance it, invigorate it, even bring it back to life.
 
-The influences and principals mentioned above also continue to be a guide for this project. You can see this explicitly in more detail with the [newer glyphs for nimi ku suli]({% post_url 2021-09-05-nimi-sin %}) which were created in a collaborative effort within the toki pona community.
+The influences and principles mentioned above also continue to be a guide for this project. You can see this explicitly in more detail with the [newer glyphs for nimi ku suli]({% post_url 2021-09-05-nimi-sin %}) which were created in a collaborative effort within the toki pona community.
 
 _original acknowledgements written in 2012, updated 2021_

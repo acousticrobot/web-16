@@ -68,7 +68,7 @@ english_tests_2:
 - image: /images/t47_tokipona/kamasona/direct_objects/telolisulilipona.jpg
   text: Water is important and good.
 - image: /images/t47_tokipona/kamasona/direct_objects/sewilipanaesona.jpg
-  text: The gods gives knowledge.
+  text: The gods give knowledge.
 ---
 
 {% include image_dictionary.html definitions=page.vocabulary_row_1 %}

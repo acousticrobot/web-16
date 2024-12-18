@@ -12,6 +12,13 @@ vocabulary:
   text: seme
 - image: "/images/t47_tokipona/nimi/t47_nmpi_question.jpg"
   text: question mark
+seme_tests:
+- image: "/images/t47_tokipona/kamasona/t47_kaso10_03.jpg"
+  text: seme li sin?
+- image: "/images/t47_tokipona/kamasona/t47_kaso10_19.jpg"
+  text: seme li lon insa poki sin?
+- image: "/images/t47_tokipona/kamasona/t47_kaso10_20.jpg"
+  text: jan sin li seme  
 ---
 
 {% include image_dictionary.html definitions=page.vocabulary %}
@@ -81,7 +88,7 @@ This simplification carries over to our other prepositions as well. To be sure t
 
 Here are two further examples with _lon_, _kepeken_, and _sama_:
 
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso10_16.jpg" caption="sina li lon seme?" %}
+{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso10_16.jpg" caption="sina lon seme?" %}
 
 {% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso10_17.jpg" caption="mi pakala kepeken seme?" %}
 
@@ -93,8 +100,5 @@ When _seme_ is modifying something else within a preposition, we follow normal b
 
 ### test your comprehension
 
-
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso10_03.jpg" caption="seme li sin?" %}
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso10_19.jpg" caption="seme li lon insa poki sin?" %}
-{% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso10_20.jpg" caption="jan sin li seme?" %}
+{% include image_dictionary.html definitions=page.seme_tests reveal_text='true' %}
 

@@ -91,7 +91,7 @@ When reading linear text written with one character for each consonant and vowel
 
 Breaking toki pona into syllables is much more linear in nature than working with containers and infixes. Since the syllable glyphs are pretty regular in form, when it comes time to organize them it is best to break them into regular columns. Also be aware that the _n_ and the _l_ containers are thinner than the others. Sometimes this can work to one's advantage and sometimes it requires a little stretching or squishing.
 
-See above how nicely the _na_ and _la_ glyphs fill in the last column of _Intenasijonale_? But the other _na_ is a little thin in the fleft column, and this space needs to be taken up by the _jo_ in the second column. I can't give you a clear set of rules that will work in all situations, so let me show you by example how I might solve fitting an unofficial word into a cartouche.
+See above how nicely the _na_ and _la_ glyphs fill in the last column of _Intenasijonale_? But the other _na_ is a little thin in the fleft column, and this space needs to be taken up by the _jo_ in the second column. I can't give you a clear set of rules that will work in all situations, so let me show you by example how I might solve fitting an syllables into a cartouche.
 
 #### soweli Kijetesantakalu
 
@@ -104,7 +104,7 @@ Seven is a prime number so we know right away we won't have a nice regular grid 
 {% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso09_18.jpg" caption="kijete / santakalu" %}
 {% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso09_19.jpg" caption="kijetesan / takalu" %}
 
-OK, they're both passable, but you know what bothers me?  Either way the _san_ glyph is going to be squeezed into the column with the extra glyph, and with the _n_ on the bottom it's already a little taller than the others.  Also the _lu_ is on the bottom right side, and its too thin to fill in the space. Either way, the whole block looks like it would fall over to the right.
+OK, they're both passable, but you know what bothers me?  Either way the _san_ glyph is going to be squeezed into the column with the extra glyph, and with the _n_ on the bottom it's already a little taller than the others.  Also the _lu_ is on the bottom right side, and its too thin to fill in the space. In both versions, the whole block looks like it would fall over to the right.
 
 Let's try three columns next.  We have three choices now, because one of the three columns will have three glyps.
 
@@ -116,7 +116,7 @@ Let's try three columns next.  We have three choices now, because one of the thr
 
 If three glyphs run down in the middle the taller _san_ block is crowded again, so that means the column of three is best on the left or right. I like the version with three glyphs on the left best because that also gives _li_ space to stretch up on the bottom right.
 
-Next I'm going to start stretching the _san_ in the middle out even more and push the _ta_ below it into a rounder shape.  If this really was an official word, we'd be done now, but I'm going to add a cartouche and head glyph.
+Next I'm going to start stretching the _san_ in the middle out even more and push the _ta_ below it into a rounder shape.  We could put it into the capsule if we wanted it to read as _kijetesantakalu_, but I'm going to add a cartouche and head glyph to make _soweli Kijetesantakalu_.
 
 {% include image_and_caption.html image="/images/t47_tokipona/kamasona/t47_kaso09_23.jpg" caption="soweli Kijetesantakalu sketch" %}
 

@@ -135,7 +135,7 @@ Since this is a non-linear writing, we can't just rely on space between syllable
 
 {% include image_and_caption.html image="/images/t47_tokipona/kamasona/syllables/tokipona.jpg" caption="toki pona" %}
 
-It comes in most handy if you ever want to use a toki pona words outside of pu, one that doesn't have a unique glyph block
+It comes in most handy if you ever want to use a toki pona words outside of pu, one that doesn't have a unique glyph block. For example, before we added [glyphs for nimi ku suli]({% post_url 2021-09-05-nimi-sin %}) we could still use the words _leko_ and _monsuta_ like this:
 
 {% include image_dictionary.html definitions=page.unofficial_words %}
 

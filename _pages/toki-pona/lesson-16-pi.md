@@ -58,7 +58,7 @@ pi_ala:
 >* __ma tomo mi__ - [ma tomo][mi] -> my city
 >* ma pi tomo mi - [ma]pi[tomo mi] -> the land (of/around/associated with) my house
 >
-> When you see a noun group with _pi_, do not think of li as meaning _of_. Think of it as a marker that indicates the end of the head noun, and the beginning of a modifier applied to the head. Figure out the meaning of each half first, and then combine these into a one.
+> When you see a noun group with _pi_, do not think of _pi_ as meaning _of_. Think of it as a marker that indicates the end of the head noun, and the beginning of a modifier applied to the head. Figure out the meaning of each half first, and then combine these into a one.
 >
 > Note that jan Pije also describes _pi_ as a possessive. This is generally not an accepted use case, especially with a single word after pi. You can avoid this pattern by repeating the head noun, or replacing the subject with _ni_:
 >

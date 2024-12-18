@@ -152,9 +152,6 @@ _taso_ as a modifier means "only", so it limits the scope down to just what it i
 
 {% include image_dictionary.html definitions=page.taso_examples %}
 
-mama li lawa e mi taso.
-jan sin taso li toki.
-
 You will see _taso_ used in a lot of toki pona groups to indicate that that group or channel is for interacting only in toki pona.  The _taso_ glyph rotates pretty freely, so if used as a modifier in this way it often sites comfortable on the bottom of the arrangement.
 
 {% include image_and_caption.html image="/images/t47_tokipona/kamasona/modifiers-2/tokiponataso.jpg" caption="toki pona taso" %}
